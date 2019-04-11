@@ -1,0 +1,110 @@
+{
+    "title": "Benefit x Desi Perkin Bomb Ass Brow",
+    "description": null,
+    "referenceId": "6d770658bd6216425220ea5f5756af9b",
+    "date_created": "1544136716",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": null,
+    "id": "185514821",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "benefit-x-desi-perkin-bomb-ass-brow",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/185514821\/825ec\/thumb-6d770658bd6216425220ea5f5756af9b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/thumb-6d770658bd6216425220ea5f5756af9b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/thumb-6d770658bd6216425220ea5f5756af9b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/thumb-6d770658bd6216425220ea5f5756af9b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/thumb-6d770658bd6216425220ea5f5756af9b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185514821\/thumbnail\/image-thumbnail-256-1cc9933d0356a54ea91aa73ed62c7693.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185514821\/thumbnail\/image-thumbnail-480-aa53e5fcad458424e50e4bf6f8860535.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185514821\/thumbnail\/image-thumbnail-640-1dbe7206860a9378ad0997a652617ae4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/thumb-6d770658bd6216425220ea5f5756af9b-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185514821\/thumbnail\/image-thumbnail-640-1dbe7206860a9378ad0997a652617ae4.jpg",
+        "type": "mp4",
+        "assetId": 185514821,
+        "assetTitle": "Video_2018_12_06_04_49_35_PM",
+        "assetTitleTextEncoded": "video-2018-12-06-04-49-35-pm",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185514821,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185514821\/825ec\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

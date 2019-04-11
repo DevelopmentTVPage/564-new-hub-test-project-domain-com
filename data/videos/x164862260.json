@@ -1,0 +1,112 @@
+{
+    "title": "EMILY CURRAN | MACY'S STYLE CREW | EP. 5 - FATHER'S DAY GIFT GUIDE",
+    "description": "Emily walks you through some Father's Day Gifts that every guy should have in their routine. Get them something they'll ACTUALLY use!",
+    "referenceId": "5ca8408eb5c6f4745c37067e69ddd6a9",
+    "date_created": "1528841536",
+    "date_modified": "1546466803",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "164862260",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "emily-curran-macys-style-crew-ep-5-fathers-day-gift-guide",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "621",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "621",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "621",
+        "prettyDuration": "00:10:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164862260\/thumbnail\/image-thumbnail-640-9705d5ae7ad29f479b877a6e8b44dfac.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164862260\/18087\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164862260\/18087\/media.m3u8",
+        "assetId": "164862260",
+        "assetTitle": "EMILY CURRAN | MACY'S STYLE CREW | EP. 5 - FATHER'S DAY GIFT GUIDE",
+        "assetTitleTextEncoded": "ep-5-father-s-day-gift-guide",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164862260",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164862260\/18087\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164862260\/18087\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164862260\/18087\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164862260\/18087\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164862260\/18087\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164862260\/18087\/thumb-5ca8408eb5c6f4745c37067e69ddd6a9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164862260\/user-images\/image-1920-1e3fd44cbcb31d026f1c8d790c5fd36f.jpg",
+            "\/\/v.tvpage.com\/1759121\/164862260\/18087\/thumb-5ca8408eb5c6f4745c37067e69ddd6a9-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164862260\/user-images\/image-1920-1e3fd44cbcb31d026f1c8d790c5fd36f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164862260\/thumbnail\/image-thumbnail-256-6fa79925c54f06aad1609b703458a029.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164862260\/thumbnail\/image-thumbnail-480-1bb5e05a1637345054aee149e676bdf1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164862260\/thumbnail\/image-thumbnail-640-9705d5ae7ad29f479b877a6e8b44dfac.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164862260\/thumbnail\/image-thumbnail-1280-11bf09df5973bb790e985bad31bdd070.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164862260\/thumbnail\/image-thumbnail-1920-0b4f896550bd67f30148c1ea08101338.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

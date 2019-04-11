@@ -1,0 +1,113 @@
+{
+    "title": "Welcome Friends and Family",
+    "description": "Amazing friend and family sale starts today. Also the Michael Kors sale started! Do you see the gorgeous #michaelkors Whitney bag and the matching shoes.",
+    "referenceId": "01cb293823e57f36df9dc5d692361679",
+    "date_created": "1543532079",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "women",
+    "id": "184564329",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "welcome-friends-and-family",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 41,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 41,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 41,
+        "prettyDuration": "00:00:41",
+        "automaticThumbnailsPattern": "1759121\/184564329\/bcd28\/thumb-01cb293823e57f36df9dc5d692361679-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/thumb-01cb293823e57f36df9dc5d692361679-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/thumb-01cb293823e57f36df9dc5d692361679-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/thumb-01cb293823e57f36df9dc5d692361679-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/thumb-01cb293823e57f36df9dc5d692361679-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/thumb-01cb293823e57f36df9dc5d692361679-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/thumb-01cb293823e57f36df9dc5d692361679-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184564329\/thumbnail\/image-thumbnail-256-bb0536bebc0b960916ca6692fc52713b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184564329\/thumbnail\/image-thumbnail-480-84b565bb6c7680476f4c626cb8339dd8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184564329\/thumbnail\/image-thumbnail-640-9ee8bd69abbfe8c2edb4021c5ad8df66.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184564329\/thumbnail\/image-thumbnail-1280-fd6fe19e395277829007dbec3fa7be8d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/thumb-01cb293823e57f36df9dc5d692361679-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184564329\/thumbnail\/image-thumbnail-640-9ee8bd69abbfe8c2edb4021c5ad8df66.jpg",
+        "type": "mp4",
+        "assetId": 184564329,
+        "assetTitle": "6365017B-8F61-4809-8F11-6B3FB14ABB46",
+        "assetTitleTextEncoded": "6365017b-8f61-4809-8f11-6b3fb14abb46",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184564329,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184564329\/bcd28\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

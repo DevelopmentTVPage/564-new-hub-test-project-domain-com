@@ -1,0 +1,113 @@
+{
+    "title": "Style Crew Nikky\/Garden Party Inspiration for Thanksgiving",
+    "description": "I had the opportunity to watch a charity fashion event sponsored by my local store Macy’s Los Cerritos in partnership with Jewish Family and Children Services. It was a night of fashion and glamour! I was so inspired by the fashion that I decided to throw a garden party themed for Thanksgiving! I’m grabbing one of the looks off the runway as my outfit for Thanksgiving. Find your fashion inspiration for Thanksgiving and shop now!",
+    "referenceId": "a73ba56f0a6d83ebb2711cfa070656dd",
+    "date_created": "1542068588",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213182",
+    "product_category": "women",
+    "id": "183293994",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-crew-nikky-garden-party-inspiration-for-thanksgiving",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/183293994\/38fe1\/thumb-a73ba56f0a6d83ebb2711cfa070656dd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/thumb-a73ba56f0a6d83ebb2711cfa070656dd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/thumb-a73ba56f0a6d83ebb2711cfa070656dd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/thumb-a73ba56f0a6d83ebb2711cfa070656dd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/thumb-a73ba56f0a6d83ebb2711cfa070656dd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/thumb-a73ba56f0a6d83ebb2711cfa070656dd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/thumb-a73ba56f0a6d83ebb2711cfa070656dd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183293994\/thumbnail\/image-thumbnail-256-3f9a13f34f6c5aa021cc407f620eeb1b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183293994\/thumbnail\/image-thumbnail-480-e30c6f2378b2c9cce618a56cfc05aa8a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/thumb-a73ba56f0a6d83ebb2711cfa070656dd-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293994\/thumbnail\/image-thumbnail-480-e30c6f2378b2c9cce618a56cfc05aa8a.jpg",
+        "type": "mp4",
+        "assetId": 183293994,
+        "assetTitle": "30893033-FCE5-4B0E-BC7D-899FAFCFE92B",
+        "assetTitleTextEncoded": "30893033-fce5-4b0e-bc7d-899fafcfe92b",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183293994,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/183293994\/38fe1\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

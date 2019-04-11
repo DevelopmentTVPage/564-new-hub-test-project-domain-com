@@ -1,0 +1,127 @@
+{
+    "title": "Live in Levi’s all year long",
+    "description": "Did you know Levis sold more than just jeans in plus size?\nTheir hoodies, tees and coats are so much fun and give me all the 90s vibes\nCheck out a few of my favorite pieces including the wedgie jean, the perfect hoodie and this novelty puffer coat, all available at Macys in the plus size department and on Macys.com\n\nThis kind of look is certainly a weekend go-to for me during the colder months. I like to layer up so that when I go inside I can take off my coat but still maintain the vibe of my outfit.",
+    "referenceId": null,
+    "date_created": "1543514083",
+    "date_modified": "1546466794",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213300",
+    "id": "184563597",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "live-in-levis-all-year-long",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2400,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--1920.jpeg?v=1543514138063"
+            },
+            {
+                "width": 1280,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--1280.jpeg?v=1543514138093"
+            },
+            {
+                "width": 1200,
+                "height": 1500,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--1200.jpeg?v=1543514138132"
+            },
+            {
+                "width": 1024,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--1024.jpeg?v=1543514138960"
+            },
+            {
+                "width": 1080,
+                "height": 1350,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--1080.jpeg?v=1543514138074"
+            },
+            {
+                "width": 960,
+                "height": 1200,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--960.jpeg?v=1543514138826"
+            },
+            {
+                "width": 640,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--640.jpeg?v=1543514138921"
+            },
+            {
+                "width": 600,
+                "height": 750,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--600.jpeg?v=1543514139268"
+            },
+            {
+                "width": 256,
+                "height": 320,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-media--256.jpeg?v=1543514139452"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-thumbnail-1920.jpeg?v=1543514139859"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-thumbnail-1280.jpeg?v=1543514139740"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-thumbnail-640.jpeg?v=1543514139972"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-thumbnail-480.jpeg?v=1543514139669"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-thumbnail-256.jpeg?v=1543514139655"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-thumbnail-64.jpeg?v=1543514139824"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563597\/image-thumbnail-640.jpeg?v=1543514139972",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

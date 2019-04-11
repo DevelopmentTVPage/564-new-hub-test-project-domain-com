@@ -1,0 +1,117 @@
+{
+    "title": "Fall trends @Macy's Fashion Stylist  Andrea Warner Macys Style Crew preview.",
+    "description": "Macy’s Fall Fashion, Check out  Macy’s Style Crew Andrea Warner Fashion Stylist     “Must Haves “ Click on my link below to shop now. \nwww.macys.com\/style-crew\/a\/Andrea-warner\/213345\/",
+    "referenceId": "e126a44ba75f46e4138f7fceab00d1dc",
+    "date_created": "1541625407",
+    "date_modified": "1546466825",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "women",
+    "id": "182745774",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-trends-macys-fashion-stylist-andrea-warner-macys-style-crew-preview",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 153,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 153,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 153,
+        "prettyDuration": "00:02:33",
+        "automaticThumbnailsPattern": "1759121\/182745774\/d3a54\/thumb-e126a44ba75f46e4138f7fceab00d1dc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/thumb-e126a44ba75f46e4138f7fceab00d1dc-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/thumb-e126a44ba75f46e4138f7fceab00d1dc-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/thumb-e126a44ba75f46e4138f7fceab00d1dc-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/thumb-e126a44ba75f46e4138f7fceab00d1dc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/thumb-e126a44ba75f46e4138f7fceab00d1dc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/thumb-e126a44ba75f46e4138f7fceab00d1dc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182745774\/thumbnail\/image-thumbnail-256-429ab4c3d7a1c968a51b5984ea790558.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182745774\/thumbnail\/image-thumbnail-480-fd57ef79e4b39413714359b07297343b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182745774\/thumbnail\/image-thumbnail-640-318d11db0c8aac0ad215a22716df35b8.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182745774\/thumbnail\/image-thumbnail-1280-b75419c380adbdc21ef1ffe2a8927f53.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/182745774\/thumbnail\/image-thumbnail-1920-5ba9eaf0f3acfda1c34c8295bb1047bf.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/thumb-e126a44ba75f46e4138f7fceab00d1dc-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182745774\/thumbnail\/image-thumbnail-640-318d11db0c8aac0ad215a22716df35b8.jpg",
+        "type": "mp4",
+        "assetId": 182745774,
+        "assetTitle": "Fall trends @Macy's Fashion Stylist  Andrea Warner Macys Style Crew preview.",
+        "assetTitleTextEncoded": "andrea-haul-2-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182745774,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745774\/d3a54\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-27"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Self-Care Sunday",
+    "description": "If you’re looking for a great mask to help with minimizing your pores, you need to try this out! It takes just a few minutes and it really does leave my skin not just feeling clean but also so smooth!",
+    "referenceId": null,
+    "date_created": "1548091182",
+    "date_modified": "1548094616",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213779",
+    "id": "199088206",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "self-care-sunday",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2379,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--1920.jpeg?v=1548091185380"
+            },
+            {
+                "width": 1280,
+                "height": 1586,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--1280.jpeg?v=1548091185177"
+            },
+            {
+                "width": 1200,
+                "height": 1486,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--1200.jpeg?v=1548091185207"
+            },
+            {
+                "width": 1024,
+                "height": 1268,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--1024.jpeg?v=1548091186297"
+            },
+            {
+                "width": 1080,
+                "height": 1338,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--1080.jpeg?v=1548091185161"
+            },
+            {
+                "width": 960,
+                "height": 1189,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--960.jpeg?v=1548091185714"
+            },
+            {
+                "width": 640,
+                "height": 793,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--640.jpeg?v=1548091186260"
+            },
+            {
+                "width": 600,
+                "height": 743,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--600.jpeg?v=1548091186502"
+            },
+            {
+                "width": 256,
+                "height": 317,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-media--256.jpeg?v=1548091186479"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-thumbnail-1920.jpeg?v=1548091186993"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-thumbnail-1280.jpeg?v=1548091186946"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-thumbnail-640.jpeg?v=1548091186902"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-thumbnail-480.jpeg?v=1548091186892"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-thumbnail-256.jpeg?v=1548091187020"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-thumbnail-64.jpeg?v=1548091187128"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199088206\/image-thumbnail-640.jpeg?v=1548091186902",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

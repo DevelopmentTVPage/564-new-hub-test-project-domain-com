@@ -1,0 +1,111 @@
+{
+    "title": "Work your Magic",
+    "description": "Showcasing what Macy's has to offer!!!",
+    "referenceId": "5c642e32d71a32cbf18ada1ae2f8e3d6",
+    "date_created": "1526144454",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213269",
+    "product_category": null,
+    "id": "163902219",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "work-your-magic",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "55",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163902219\/thumbnail\/image-thumbnail-640-c0c3c4478b7bfe6d01a761a4217dbbb3.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163902219\/aceae\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163902219\/aceae\/media.m3u8",
+        "uploadAsset": false,
+        "assetId": "163902219",
+        "assetTitle": "Work your Magic",
+        "assetTitleTextEncoded": "98482667-5fab-495e-9ecc-fad97ec4c438",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163902219",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163902219\/aceae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163902219\/aceae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163902219\/aceae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163902219\/aceae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163902219\/aceae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/163902219\/user-images\/image-1920-e1b9958df02f07ba65906329dbebb1c2.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/163902219\/user-images\/image-1920-e1b9958df02f07ba65906329dbebb1c2.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/163902219\/thumbnail\/image-thumbnail-256-cc841f69b9c4c2bbdb394f07f5b83e05.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/163902219\/thumbnail\/image-thumbnail-480-02beb744a5f4eea44b8ef3acc987c4ac.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/163902219\/thumbnail\/image-thumbnail-640-c0c3c4478b7bfe6d01a761a4217dbbb3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/163902219\/thumbnail\/image-thumbnail-1280-9dc373f41151bfdafbad549d1e5a2803.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/163902219\/thumbnail\/image-thumbnail-1920-b7248934d897c9ea81541251c573a4db.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

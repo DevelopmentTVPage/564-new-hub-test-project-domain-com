@@ -1,0 +1,111 @@
+{
+    "title": "Letter to Santa!",
+    "description": "Just finished writing my letter to Santa! For every letter received, Macy's will donate $1 up to 1 million dollars!! Yes, you read that right!\n\nIf you're at any Macy's store, look for the red mailbox and write Santa a letter. And, if you're shopping from the comfort of your home, head on over to macys.com\/believe to submit your letter to Santa! Yes, that counts too! \n\nWith your help, we can help Make-A -Wish give children the strength they need to fight a critical illness! In the spirit of giving, let's do this together!",
+    "referenceId": "b2c9cc9edb613a9cf0b458edfbb79a30",
+    "date_created": "1544115905",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "65",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213406",
+    "product_category": "women",
+    "id": "185511901",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "letter-to-santa",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 26,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 26,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 26,
+        "prettyDuration": "00:00:26",
+        "automaticThumbnailsPattern": "1759121\/185511901\/a0ba9\/thumb-b2c9cc9edb613a9cf0b458edfbb79a30-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/thumb-b2c9cc9edb613a9cf0b458edfbb79a30-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/thumb-b2c9cc9edb613a9cf0b458edfbb79a30-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/thumb-b2c9cc9edb613a9cf0b458edfbb79a30-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/thumb-b2c9cc9edb613a9cf0b458edfbb79a30-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/thumb-b2c9cc9edb613a9cf0b458edfbb79a30-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/thumb-b2c9cc9edb613a9cf0b458edfbb79a30-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185511901\/thumbnail\/image-thumbnail-256-ea40b0fa8a665780c6a97b85908090ab.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185511901\/thumbnail\/image-thumbnail-480-de14ccab77db03d78807203c09954d2a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/thumb-b2c9cc9edb613a9cf0b458edfbb79a30-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185511901\/thumbnail\/image-thumbnail-480-de14ccab77db03d78807203c09954d2a.jpg",
+        "type": "mp4",
+        "assetId": 185511901,
+        "assetTitle": "Letter to Santa!",
+        "assetTitleTextEncoded": "2018-12-6-11-53-46",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185511901,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511901\/a0ba9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

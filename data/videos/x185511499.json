@@ -1,0 +1,117 @@
+{
+    "title": "SOUL CHRISTMAS PT.1 | FT. CALVIN KLEIN x VICTROLA",
+    "description": "This season is all about the soulful throwbacks and this Victrola really competes with the best of the best-- I would argue better than the standard Crosley and half the price. Versatile & classic pieces like a basic mock-neck and houndstooth (anything) will balance out these new modern cap\/chelsea boots.",
+    "referenceId": "270765d05409ac5566be3e6bf883b261",
+    "date_created": "1544072488",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "90",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213831",
+    "product_category": "men",
+    "id": "185511499",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "soul-christmas-pt-1-ft-calvin-klein-x-victrola",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 87,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 87,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 87,
+        "prettyDuration": "00:01:27",
+        "automaticThumbnailsPattern": "1759121\/185511499\/868b0\/thumb-270765d05409ac5566be3e6bf883b261-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185511499\/user-images\/image-1280-03fe913ca98e16bf94e1958d67f2d883.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/thumb-270765d05409ac5566be3e6bf883b261-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/thumb-270765d05409ac5566be3e6bf883b261-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/thumb-270765d05409ac5566be3e6bf883b261-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/thumb-270765d05409ac5566be3e6bf883b261-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/thumb-270765d05409ac5566be3e6bf883b261-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/thumb-270765d05409ac5566be3e6bf883b261-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185511499\/thumbnail\/image-thumbnail-256-3fb60e36f042547ebc058aae4b633f33.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185511499\/thumbnail\/image-thumbnail-480-7b1a6249b262d103b3f474bb48dda9a7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185511499\/thumbnail\/image-thumbnail-640-40d3bbd7792b47c0b3db775e1b077f90.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/185511499\/thumbnail\/image-thumbnail-1280-6f56f6d71fd33a9820227862df231f3b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185511499\/user-images\/image-1280-03fe913ca98e16bf94e1958d67f2d883.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185511499\/thumbnail\/image-thumbnail-640-40d3bbd7792b47c0b3db775e1b077f90.jpg",
+        "type": "mp4",
+        "assetId": 185511499,
+        "assetTitle": "SOUL CHRISTMAS PT.1 | FT. CALVIN KLEIN X VICTROLA",
+        "assetTitleTextEncoded": "a8324cd6-da82-4788-96b4-8844e33805b9",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185511499,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511499\/868b0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

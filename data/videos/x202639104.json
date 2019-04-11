@@ -1,0 +1,103 @@
+{
+    "title": "Perfect gift for my Valentine’s",
+    "description": "Armani Fragances ",
+    "referenceId": "06fe9e282522fa9e3b1f4d2df4fdcbe4",
+    "date_created": "1549985483",
+    "date_modified": "1549986026",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213115",
+    "product_category": null,
+    "id": "202639104",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "perfect-gift-for-my-valentines",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "21",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 810,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "21",
+            "width": 810,
+            "height": 1080
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "automaticThumbnailsPattern": "1759121\/202639104\/e8211\/thumb-06fe9e282522fa9e3b1f4d2df4fdcbe4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/thumb-06fe9e282522fa9e3b1f4d2df4fdcbe4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/thumb-06fe9e282522fa9e3b1f4d2df4fdcbe4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/thumb-06fe9e282522fa9e3b1f4d2df4fdcbe4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/thumb-06fe9e282522fa9e3b1f4d2df4fdcbe4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/thumb-06fe9e282522fa9e3b1f4d2df4fdcbe4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/thumb-06fe9e282522fa9e3b1f4d2df4fdcbe4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202639104\/thumbnail\/image-thumbnail-256-e9063d65462d5188a527666730c7d8f8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202639104\/thumbnail\/image-thumbnail-480-61c0627a55e74bb60db0e5b7e215595c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202639104\/thumbnail\/image-thumbnail-640-30402085059dc22d2ce96a406a309b65.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639104\/e8211\/thumb-06fe9e282522fa9e3b1f4d2df4fdcbe4-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639104\/thumbnail\/image-thumbnail-640-30402085059dc22d2ce96a406a309b65.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

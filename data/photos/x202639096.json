@@ -1,0 +1,127 @@
+{
+    "title": "Adidas S H I N E",
+    "description": "Raise your hand if you love glitter! Ya’ll know by now that I do! Can’t wair to get this Adidas shine hoodie to go with my leggings. It runs really small so I’d size up two sizes if you want a loose, comfy fit. ",
+    "referenceId": null,
+    "date_created": "1549975871",
+    "date_modified": "1549976062",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "202639096",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "adidas-s-h-i-n-e",
+    "linkUrl": null,
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1775,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--1920.jpeg?v=1549975877123"
+            },
+            {
+                "width": 1280,
+                "height": 1183,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--1280.jpeg?v=1549975877005"
+            },
+            {
+                "width": 1200,
+                "height": 1109,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--1200.jpeg?v=1549975876967"
+            },
+            {
+                "width": 1024,
+                "height": 946,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--1024.jpeg?v=1549975877543"
+            },
+            {
+                "width": 1080,
+                "height": 998,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--1080.jpeg?v=1549975876982"
+            },
+            {
+                "width": 960,
+                "height": 887,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--960.jpeg?v=1549975877585"
+            },
+            {
+                "width": 640,
+                "height": 591,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--640.jpeg?v=1549975877524"
+            },
+            {
+                "width": 600,
+                "height": 554,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--600.jpeg?v=1549975877797"
+            },
+            {
+                "width": 256,
+                "height": 236,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-media--256.jpeg?v=1549975877991"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-thumbnail-1920.jpeg?v=1549975878299"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-thumbnail-1280.jpeg?v=1549975878265"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-thumbnail-640.jpeg?v=1549975878400"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-thumbnail-480.jpeg?v=1549975878174"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-thumbnail-256.jpeg?v=1549975878160"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-thumbnail-64.jpeg?v=1549975878265"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639096\/image-thumbnail-640.jpeg?v=1549975878400",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

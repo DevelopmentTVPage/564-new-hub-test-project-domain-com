@@ -1,0 +1,104 @@
+{
+    "title": "Winter Hydration Essentials",
+    "description": "Get hydrated with these amazing winter essentials! Serums, creams, masks, oh my!",
+    "referenceId": "aa42e1da25522ee00b28dcfaf8df6b05",
+    "date_created": "1550081124",
+    "date_modified": "1550081279",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": null,
+    "id": "202735993",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "winter-hydration-essentials",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "119",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "119",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "119",
+        "prettyDuration": "00:01:59",
+        "automaticThumbnailsPattern": "1759121\/202735993\/f8a2a\/thumb-aa42e1da25522ee00b28dcfaf8df6b05-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/thumb-aa42e1da25522ee00b28dcfaf8df6b05-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/thumb-aa42e1da25522ee00b28dcfaf8df6b05-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/thumb-aa42e1da25522ee00b28dcfaf8df6b05-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/thumb-aa42e1da25522ee00b28dcfaf8df6b05-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/thumb-aa42e1da25522ee00b28dcfaf8df6b05-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/thumb-aa42e1da25522ee00b28dcfaf8df6b05-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202735993\/thumbnail\/image-thumbnail-256-4f727df7859f25d74d7a57caaffb16dc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202735993\/thumbnail\/image-thumbnail-480-0175cdac94ca558dac18f80260dccab0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202735993\/thumbnail\/image-thumbnail-640-c9ab4ac7223babc2c2f5203fc75ce6f1.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/202735993\/thumbnail\/image-thumbnail-1280-9cdc72d0f3352bf6c3e3299b11f16a57.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202735993\/f8a2a\/thumb-aa42e1da25522ee00b28dcfaf8df6b05-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202735993\/thumbnail\/image-thumbnail-640-c9ab4ac7223babc2c2f5203fc75ce6f1.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

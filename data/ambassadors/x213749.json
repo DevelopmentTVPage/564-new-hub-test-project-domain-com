@@ -1,0 +1,21 @@
+{
+    "id": "213749",
+    "first_name": "Rene",
+    "last_name": "Zevallos",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/453622217-0.4677409846335.jpg",
+        "job_title": "Sales lead floor "
+    },
+    "last_login_timestamp": "1541867496",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-04 22:27:55",
+    "login_id": "1759121",
+    "user_id": "213749",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Rene Zevallos",
+    "profile_picture": "\/api\/canvas\/logo\/453622217-0.4677409846335.jpg",
+    "titleTextEncoded": "rene-zevallos",
+    "title": "Rene Zevallos",
+    "videos_count": "0"
+}

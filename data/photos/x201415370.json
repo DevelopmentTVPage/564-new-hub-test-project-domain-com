@@ -1,0 +1,127 @@
+{
+    "title": "Fresh pressed- De-aging for the impatient",
+    "description": "Ever wanted more out of your skin care regimen?\nI also always wanted more .a more even skin tone, even texture , help soften lines and wrinkles . By adding a powder cleanser and a pure 10% vit c booster will give you just that ! ",
+    "referenceId": null,
+    "date_created": "1549245544",
+    "date_modified": "1549829838",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213871",
+    "id": "201415370",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "fresh-pressed-de-aging-for-the-impatient",
+    "linkUrl": null,
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2427,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--1920.jpeg?v=1549245546976"
+            },
+            {
+                "width": 1280,
+                "height": 1618,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--1280.jpeg?v=1549245546747"
+            },
+            {
+                "width": 1200,
+                "height": 1516,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--1200.jpeg?v=1549245546713"
+            },
+            {
+                "width": 1024,
+                "height": 1294,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--1024.jpeg?v=1549245547584"
+            },
+            {
+                "width": 1080,
+                "height": 1365,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--1080.jpeg?v=1549245546679"
+            },
+            {
+                "width": 960,
+                "height": 1213,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--960.jpeg?v=1549245547280"
+            },
+            {
+                "width": 640,
+                "height": 809,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--640.jpeg?v=1549245547472"
+            },
+            {
+                "width": 600,
+                "height": 758,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--600.jpeg?v=1549245547669"
+            },
+            {
+                "width": 256,
+                "height": 323,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-media--256.jpeg?v=1549245547699"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-thumbnail-1920.jpeg?v=1549245548302"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-thumbnail-1280.jpeg?v=1549245548225"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-thumbnail-640.jpeg?v=1549245548185"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-thumbnail-480.jpeg?v=1549245548168"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-thumbnail-256.jpeg?v=1549245548245"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-thumbnail-64.jpeg?v=1549245548340"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201415370\/image-thumbnail-640.jpeg?v=1549245548185",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

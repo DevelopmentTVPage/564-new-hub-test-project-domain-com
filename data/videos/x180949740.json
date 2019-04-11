@@ -1,0 +1,116 @@
+{
+    "title": "BAR III",
+    "description": "This fun outfit is by BAR III. The top and pants are sold separately and can be worn together or separately with a lot of different things. The Fall colors are striking with gold, burgundy whit and black stripes for the top and the pants match with the color blocking on the sides. Great for a fun weekend look!",
+    "referenceId": "cb38be9ca680eef14d06ab9c59451f7c",
+    "date_created": "1540211315",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "180949740",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "bar-iii",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 47,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 47,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 47,
+        "prettyDuration": "00:00:47",
+        "automaticThumbnailsPattern": "1759121\/180949740\/c62d7\/thumb-cb38be9ca680eef14d06ab9c59451f7c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/thumb-cb38be9ca680eef14d06ab9c59451f7c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/thumb-cb38be9ca680eef14d06ab9c59451f7c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/thumb-cb38be9ca680eef14d06ab9c59451f7c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/thumb-cb38be9ca680eef14d06ab9c59451f7c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/thumb-cb38be9ca680eef14d06ab9c59451f7c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/thumb-cb38be9ca680eef14d06ab9c59451f7c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180949740\/thumbnail\/image-thumbnail-256-b052265774ae238112b0d3c630cdb72f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180949740\/thumbnail\/image-thumbnail-480-e5cdba0275bd3400e10e7a7c286ee87e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180949740\/thumbnail\/image-thumbnail-640-20d7e634b779f9542dbfbf453127f52a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180949740\/thumbnail\/image-thumbnail-1280-981617e9a64cff786897a1155e5f9377.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/thumb-cb38be9ca680eef14d06ab9c59451f7c-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180949740\/thumbnail\/image-thumbnail-640-20d7e634b779f9542dbfbf453127f52a.jpg",
+        "type": "mp4",
+        "assetId": 180949740,
+        "assetTitle": "9EFE3E88-4218-4E11-802C-133508956797",
+        "assetTitleTextEncoded": "9efe3e88-4218-4e11-802c-133508956797",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180949740,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180949740\/c62d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

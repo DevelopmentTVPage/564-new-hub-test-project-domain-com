@@ -1,0 +1,113 @@
+{
+    "title": "Varsity stripes on repeat!",
+    "description": "#varsitystripes #collegiate #stripes #ootd #fallfashion #itlist #fallmusthave #booties\n#jumper #jumpsuit #glossy #patent #blazer #moto #menswear #macysstylecrew #macysmystylist",
+    "referenceId": "cc4c1294e0ed31292b7478ddb3c24741",
+    "date_created": "1539041333",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "45",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213111",
+    "product_category": "women",
+    "id": "179587089",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "varsity-stripes-on-repeat",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "110",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "110",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "automaticThumbnailsPattern": "1759121\/179587089\/d3e25\/thumb-cc4c1294e0ed31292b7478ddb3c24741-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/thumb-cc4c1294e0ed31292b7478ddb3c24741-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/thumb-cc4c1294e0ed31292b7478ddb3c24741-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/thumb-cc4c1294e0ed31292b7478ddb3c24741-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/thumb-cc4c1294e0ed31292b7478ddb3c24741-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/thumb-cc4c1294e0ed31292b7478ddb3c24741-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/thumb-cc4c1294e0ed31292b7478ddb3c24741-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179587089\/thumbnail\/image-thumbnail-256-3850e229eb0ed5724d7d1c3cda09a95a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179587089\/thumbnail\/image-thumbnail-480-32abcb44b5afecd8003a08b719b45c78.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179587089\/thumbnail\/image-thumbnail-640-9056890842e552b28babe4b1be078716.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179587089\/thumbnail\/image-thumbnail-1280-9c02e562a240d3f3f38957f8141c47f3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/thumb-cc4c1294e0ed31292b7478ddb3c24741-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179587089\/thumbnail\/image-thumbnail-640-9056890842e552b28babe4b1be078716.jpg",
+        "type": "mp4",
+        "assetId": "179587089",
+        "assetTitle": "Varsity stripes on repeat!",
+        "assetTitleTextEncoded": "lkirsch-varsitystripes-v1-0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179587089",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179587089\/d3e25\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

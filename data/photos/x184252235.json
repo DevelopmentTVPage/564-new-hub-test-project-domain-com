@@ -1,0 +1,103 @@
+{
+    "title": "Lancôme Black Friday Doorbuster",
+    "description": "Color Design 3-piece Lipstick Set",
+    "referenceId": null,
+    "date_created": "1543078451",
+    "date_modified": "1546466794",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213750",
+    "id": "184252235",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "lancome-black-friday-doorbuster",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1432,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-media--1200.jpeg?v=1543078455389"
+            },
+            {
+                "width": 1024,
+                "height": 1222,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-media--1024.jpeg?v=1543078455324"
+            },
+            {
+                "width": 1080,
+                "height": 1289,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-media--1080.jpeg?v=1543078455804"
+            },
+            {
+                "width": 960,
+                "height": 1146,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-media--960.jpeg?v=1543078455304"
+            },
+            {
+                "width": 640,
+                "height": 764,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-media--640.jpeg?v=1543078455601"
+            },
+            {
+                "width": 600,
+                "height": 716,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-media--600.jpeg?v=1543078455251"
+            },
+            {
+                "width": 256,
+                "height": 305,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-media--256.jpeg?v=1543078455490"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-thumbnail-640.jpeg?v=1543078456085"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-thumbnail-480.jpeg?v=1543078456070"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-thumbnail-256.jpeg?v=1543078456062"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-thumbnail-64.jpeg?v=1543078456056"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252235\/image-thumbnail-640.jpeg?v=1543078456085",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

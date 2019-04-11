@@ -1,0 +1,116 @@
+{
+    "title": "All About The Eyes: Too Faced Chocolate Gold",
+    "description": "The leaves are changing and glittering the ground with divine colors! Be inspired by the season! The Too Faced Chocolate Gold Eye Shadow Palette is full of dynamic matte and metallic colors that are perfect for creating bold, gorgeous Fall looks. IG: @o_donna_v",
+    "referenceId": "1d737680672f42ae104db2721bbd47ab",
+    "date_created": "1540000235",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "220",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": "beauty",
+    "id": "180630110",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "all-about-the-eyes-too-faced-chocolate-gold",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/180630110\/c7662\/thumb-1d737680672f42ae104db2721bbd47ab-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/thumb-1d737680672f42ae104db2721bbd47ab-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/thumb-1d737680672f42ae104db2721bbd47ab-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/thumb-1d737680672f42ae104db2721bbd47ab-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/thumb-1d737680672f42ae104db2721bbd47ab-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/thumb-1d737680672f42ae104db2721bbd47ab-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/thumb-1d737680672f42ae104db2721bbd47ab-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180630110\/thumbnail\/image-thumbnail-256-85f1bfb7f070b3f68945e78127617128.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180630110\/thumbnail\/image-thumbnail-480-5241a66e189ef7f271eb40d222ed4102.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180630110\/thumbnail\/image-thumbnail-640-779835da48b7af0f1607d5244f58be00.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180630110\/thumbnail\/image-thumbnail-1280-2776637a2cbb50a2913efffe2af7c6a4.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/180630110\/thumbnail\/image-thumbnail-1920-b700e64c9497676ca4408a660a1b2ce4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/thumb-1d737680672f42ae104db2721bbd47ab-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180630110\/thumbnail\/image-thumbnail-640-779835da48b7af0f1607d5244f58be00.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/media.m3u8",
+        "assetId": 180630110,
+        "assetTitle": "All About The Eyes: Too Faced Chocolate Gold",
+        "assetTitleTextEncoded": "all-about-the-eyes-too-faced-chocolate-gold",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180630110,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180630110\/c7662\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

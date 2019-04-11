@@ -1,0 +1,127 @@
+{
+    "title": "Maternity Fitting Room Chronicles Part 1",
+    "description": "So... I’ve been looking at this hoodie from Motherhood Maternity since before I was pregnant. I love it so much that I’m sure I’ll wear it post pregnancy! It’s so warm and comfy and the layered bottom makes it anything but basic! My new favorite hoodie, for sure. ",
+    "referenceId": null,
+    "date_created": "1548952902",
+    "date_modified": "1548953838",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213205",
+    "id": "200690568",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "maternity-fitting-room-chronicles-part-1",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2560,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--1920.jpeg?v=1548952934347"
+            },
+            {
+                "width": 1280,
+                "height": 1706,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--1280.jpeg?v=1548952936062"
+            },
+            {
+                "width": 1200,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--1200.jpeg?v=1548952933952"
+            },
+            {
+                "width": 1024,
+                "height": 1365,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--1024.jpeg?v=1548952935263"
+            },
+            {
+                "width": 1080,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--1080.jpeg?v=1548952933796"
+            },
+            {
+                "width": 960,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--960.jpeg?v=1548952935121"
+            },
+            {
+                "width": 640,
+                "height": 853,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--640.jpeg?v=1548952933619"
+            },
+            {
+                "width": 600,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--600.jpeg?v=1548952934575"
+            },
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-media--256.jpeg?v=1548952935227"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-thumbnail-1920.jpeg?v=1548952937235"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-thumbnail-1280.jpeg?v=1548952937096"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-thumbnail-640.jpeg?v=1548952937698"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-thumbnail-480.jpeg?v=1548952936983"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-thumbnail-256.jpeg?v=1548952936954"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-thumbnail-64.jpeg?v=1548952937413"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200690568\/image-thumbnail-640.jpeg?v=1548952937698",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

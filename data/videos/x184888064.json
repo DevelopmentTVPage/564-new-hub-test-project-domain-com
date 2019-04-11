@@ -1,0 +1,117 @@
+{
+    "title": "@Mr_TJay Adids x Timberland",
+    "description": "It's winter out and time for hoodies and oversized scarfs. This season get you a go to hoodie (5745605) that can be layered with multiple coats and defeat the winter.  This Steve Madden oversized scarf is the goto accessory this winter (6709428). Winter is in full swing don't be stuck in the house, layer up and live it up! Be sure to follow @Mr_TJay.",
+    "referenceId": "6cee2f2527cf91a56b1e4b9f911654a8",
+    "date_created": "1543759524",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "59",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "184888064",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-adids-x-timberland",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 19,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 19,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 19,
+        "prettyDuration": "00:00:19",
+        "automaticThumbnailsPattern": "1759121\/184888064\/b0ca2\/thumb-6cee2f2527cf91a56b1e4b9f911654a8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/thumb-6cee2f2527cf91a56b1e4b9f911654a8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/thumb-6cee2f2527cf91a56b1e4b9f911654a8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/thumb-6cee2f2527cf91a56b1e4b9f911654a8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/thumb-6cee2f2527cf91a56b1e4b9f911654a8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/thumb-6cee2f2527cf91a56b1e4b9f911654a8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/thumb-6cee2f2527cf91a56b1e4b9f911654a8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184888064\/thumbnail\/image-thumbnail-256-f4628de0a73363e9f940612176d943f4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184888064\/thumbnail\/image-thumbnail-480-9a21b7f7b8f50647d97f2ae25f0e00d0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184888064\/thumbnail\/image-thumbnail-640-a19730048191d44db5d3748d9bcd2f24.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184888064\/thumbnail\/image-thumbnail-1280-2d9230040f2e95903c86649277cec9b6.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184888064\/thumbnail\/image-thumbnail-1920-4644530e0c0063ad51f77dfa7f3d0f33.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/thumb-6cee2f2527cf91a56b1e4b9f911654a8-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184888064\/thumbnail\/image-thumbnail-640-a19730048191d44db5d3748d9bcd2f24.jpg",
+        "type": "mp4",
+        "assetId": 184888064,
+        "assetTitle": "@Mr_TJay Adids x Timberland",
+        "assetTitleTextEncoded": "tjay-modeling-2-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184888064,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184888064\/b0ca2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

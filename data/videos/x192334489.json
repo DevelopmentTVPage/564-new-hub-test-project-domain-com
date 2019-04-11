@@ -1,0 +1,104 @@
+{
+    "title": "New Clinique Id ",
+    "description": "Clinique id custom blend hydrators. Hydrate based on your concerns. ",
+    "referenceId": "eff1bf209b59afb4079d0de536ad79e8",
+    "date_created": "1546402691",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": null,
+    "id": "192334489",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "new-clinique-id",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 32,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 32,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 32,
+        "prettyDuration": "00:00:32",
+        "automaticThumbnailsPattern": "1759121\/192334489\/c263a\/thumb-eff1bf209b59afb4079d0de536ad79e8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/thumb-eff1bf209b59afb4079d0de536ad79e8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/thumb-eff1bf209b59afb4079d0de536ad79e8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/thumb-eff1bf209b59afb4079d0de536ad79e8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/thumb-eff1bf209b59afb4079d0de536ad79e8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/thumb-eff1bf209b59afb4079d0de536ad79e8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/thumb-eff1bf209b59afb4079d0de536ad79e8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192334489\/thumbnail\/image-thumbnail-256-4c684a0900a47c9fe92693c4fb6b6fbf.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192334489\/thumbnail\/image-thumbnail-480-936ee8a5e0801edfe75bd283560faec4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/thumb-eff1bf209b59afb4079d0de536ad79e8-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192334489\/thumbnail\/image-thumbnail-480-936ee8a5e0801edfe75bd283560faec4.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192334489\/c263a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

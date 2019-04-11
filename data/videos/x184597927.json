@@ -1,0 +1,117 @@
+{
+    "title": "A RALPH LAUREN BUCKET BAG AND CK LOOK",
+    "description": null,
+    "referenceId": "34ff230f20a06e1e3a349d4a4a0e24e3",
+    "date_created": "1543541915",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "handbags",
+    "id": "184597927",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a-ralph-lauren-bucket-bag-and-ck-look",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/184597927\/891fc\/thumb-34ff230f20a06e1e3a349d4a4a0e24e3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/thumb-34ff230f20a06e1e3a349d4a4a0e24e3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/thumb-34ff230f20a06e1e3a349d4a4a0e24e3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/thumb-34ff230f20a06e1e3a349d4a4a0e24e3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/thumb-34ff230f20a06e1e3a349d4a4a0e24e3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/thumb-34ff230f20a06e1e3a349d4a4a0e24e3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/thumb-34ff230f20a06e1e3a349d4a4a0e24e3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184597927\/thumbnail\/image-thumbnail-256-b1113a81427d502d8073a1bdd6aabda9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184597927\/thumbnail\/image-thumbnail-480-af3356903fdb8c3077068992429d3bfc.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184597927\/thumbnail\/image-thumbnail-640-c69c376b4af6f68641253f2727535c97.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184597927\/thumbnail\/image-thumbnail-1280-e050f2afc4ecee4efbd459141112da49.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184597927\/thumbnail\/image-thumbnail-1920-3ad1478f3a112bfc00d5d9a4879a4bb2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/thumb-34ff230f20a06e1e3a349d4a4a0e24e3-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184597927\/thumbnail\/image-thumbnail-640-c69c376b4af6f68641253f2727535c97.jpg",
+        "type": "mp4",
+        "assetId": 184597927,
+        "assetTitle": "A RALPH LAUREN BUCKET BAG",
+        "assetTitleTextEncoded": "layla-modeling-ck-park-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184597927,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597927\/891fc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

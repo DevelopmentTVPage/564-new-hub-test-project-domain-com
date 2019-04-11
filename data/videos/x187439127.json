@@ -1,0 +1,117 @@
+{
+    "title": "Fashion office hottest looks: holiday party dress",
+    "description": "Bring out your shine all night long in this mirrorball dress from INC this holiday season",
+    "referenceId": "4938c3ad0fc66dbf29b8fce94baa2c34",
+    "date_created": "1544367073",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "165",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "37",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "187439127",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-looks-holiday-party-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/187439127\/7a661\/thumb-4938c3ad0fc66dbf29b8fce94baa2c34-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/thumb-4938c3ad0fc66dbf29b8fce94baa2c34-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/thumb-4938c3ad0fc66dbf29b8fce94baa2c34-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/thumb-4938c3ad0fc66dbf29b8fce94baa2c34-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/thumb-4938c3ad0fc66dbf29b8fce94baa2c34-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/thumb-4938c3ad0fc66dbf29b8fce94baa2c34-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/thumb-4938c3ad0fc66dbf29b8fce94baa2c34-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187439127\/thumbnail\/image-thumbnail-256-ca359603e0ada2481cc6fc8be9ef417b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187439127\/thumbnail\/image-thumbnail-480-d538e6ad0be72818900b0d62943de057.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/187439127\/thumbnail\/image-thumbnail-640-2355ef1a813e3876b14d26d8db9f99b2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/187439127\/thumbnail\/image-thumbnail-1280-5e7188fe70a4bcc8e59724fca403255e.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/187439127\/thumbnail\/image-thumbnail-1920-e14bcde230dfbf1c6060435b41d4a0fe.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/thumb-4938c3ad0fc66dbf29b8fce94baa2c34-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187439127\/thumbnail\/image-thumbnail-640-2355ef1a813e3876b14d26d8db9f99b2.jpg",
+        "type": "mp4",
+        "assetId": 187439127,
+        "assetTitle": "Jill - Modeling 5 - Fashion office hottest looks: holiday party dress",
+        "assetTitleTextEncoded": "jill-modeling-5-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187439127,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439127\/7a661\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

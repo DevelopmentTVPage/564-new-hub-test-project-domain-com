@@ -1,0 +1,21 @@
+{
+    "id": "213748",
+    "first_name": "Veronica",
+    "last_name": "Akers",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/403580802-0.4927721319720.jpg",
+        "job_title": "Sales associate"
+    },
+    "last_login_timestamp": "1542847063",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-04 21:47:58",
+    "login_id": "1759121",
+    "user_id": "213748",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Veronica Akers",
+    "profile_picture": "\/api\/canvas\/logo\/403580802-0.4927721319720.jpg",
+    "titleTextEncoded": "veronica-akers",
+    "title": "Veronica Akers",
+    "videos_count": "2"
+}

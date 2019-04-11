@@ -1,0 +1,109 @@
+{
+    "title": "BCBGeneration",
+    "description": "Fall look from BCBGeneration",
+    "referenceId": "4fcce7bc2d668d98fc3e00b544299425",
+    "date_created": "1537841159",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213294",
+    "product_category": "juniors",
+    "id": "178269100",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "bcbgeneration",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/178269100\/d858c\/thumb-4fcce7bc2d668d98fc3e00b544299425-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/thumb-4fcce7bc2d668d98fc3e00b544299425-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/thumb-4fcce7bc2d668d98fc3e00b544299425-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178269100\/thumbnail\/image-thumbnail-256-69acca91cf6750ac5df7cdf29b89a6a6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178269100\/thumbnail\/image-thumbnail-480-823e86e7a895e702d813866ef444355d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/thumb-4fcce7bc2d668d98fc3e00b544299425-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178269100\/thumbnail\/image-thumbnail-480-823e86e7a895e702d813866ef444355d.jpg",
+        "type": "mp4",
+        "assetId": "178269100",
+        "assetTitle": "9D9A1BA4-4213-4039-886E-4A5537787437",
+        "assetTitleTextEncoded": "9d9a1ba4-4213-4039-886e-4a5537787437",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178269100",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178269100\/d858c\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

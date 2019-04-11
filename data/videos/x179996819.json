@@ -1,0 +1,111 @@
+{
+    "title": "INC fringe hem jeans",
+    "description": "Loving my new INC jeans with the fringe hem paired back to a fun varsity tank and jacket",
+    "referenceId": "adcd07558bce4a796f349b73e47255a1",
+    "date_created": "1539388358",
+    "date_modified": "1546466814",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213251",
+    "product_category": "women",
+    "id": "179996819",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc-fringe-hem-jeans",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 17,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 17,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 17,
+        "prettyDuration": "00:00:17",
+        "automaticThumbnailsPattern": "1759121\/179996819\/f502e\/thumb-adcd07558bce4a796f349b73e47255a1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/thumb-adcd07558bce4a796f349b73e47255a1-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/thumb-adcd07558bce4a796f349b73e47255a1-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/thumb-adcd07558bce4a796f349b73e47255a1-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/thumb-adcd07558bce4a796f349b73e47255a1-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/thumb-adcd07558bce4a796f349b73e47255a1-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/thumb-adcd07558bce4a796f349b73e47255a1-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179996819\/thumbnail\/image-thumbnail-256-30c274fc5df04ee821a02a5bd024d4ce.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179996819\/thumbnail\/image-thumbnail-480-f6f6d3195f08628a17d1bbb5af3c12d1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/thumb-adcd07558bce4a796f349b73e47255a1-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179996819\/thumbnail\/image-thumbnail-480-f6f6d3195f08628a17d1bbb5af3c12d1.jpg",
+        "type": "mp4",
+        "assetId": 179996819,
+        "assetTitle": "INC fringe hem jeans",
+        "assetTitleTextEncoded": "a986c362-6236-4325-9dee-3d798b29a0e2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 179996819,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996819\/f502e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

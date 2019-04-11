@@ -1,0 +1,127 @@
+{
+    "title": "I AM IN LOVE! PERFECT slouchy tunic from 1.STATE!",
+    "description": "HAPPY Monday!! I ordered this 1.STATE tunic and I love it!! I am happy it's a perfect causal\/dressy piece for work and weekend!! The cowl neck is wide enough to wear one shoulder (my preference) or off both shoulders for a little more drama!! I paired it with my fav Jeans, Free People Bralette, and Booties to brighten up this rainy Monday morning!!",
+    "referenceId": null,
+    "date_created": "1549890507",
+    "date_modified": "1549890925",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213936",
+    "id": "202521830",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "i-am-in-love-perfect-slouchy-tunic-from-1-state",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1920,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--1920.jpeg?v=1549890516307"
+            },
+            {
+                "width": 1280,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--1280.jpeg?v=1549890517305"
+            },
+            {
+                "width": 1200,
+                "height": 1200,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--1200.jpeg?v=1549890516360"
+            },
+            {
+                "width": 1024,
+                "height": 1024,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--1024.jpeg?v=1549890517066"
+            },
+            {
+                "width": 1080,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--1080.jpeg?v=1549890516296"
+            },
+            {
+                "width": 960,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--960.jpeg?v=1549890516952"
+            },
+            {
+                "width": 640,
+                "height": 640,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--640.jpeg?v=1549890516150"
+            },
+            {
+                "width": 600,
+                "height": 600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--600.jpeg?v=1549890516633"
+            },
+            {
+                "width": 256,
+                "height": 256,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-media--256.jpeg?v=1549890516925"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-thumbnail-1920.jpeg?v=1549890517987"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-thumbnail-1280.jpeg?v=1549890517878"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-thumbnail-640.jpeg?v=1549890518067"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-thumbnail-480.jpeg?v=1549890517799"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-thumbnail-256.jpeg?v=1549890517777"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-thumbnail-64.jpeg?v=1549890517935"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521830\/image-thumbnail-640.jpeg?v=1549890518067",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

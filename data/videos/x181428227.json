@@ -1,0 +1,114 @@
+{
+    "title": "Macy's Style Crew - INC striped wrap dress",
+    "description": "INC striped wrap dress at the Williamsburg bridge in Brooklyn, NY",
+    "referenceId": "c3c86398ba0cff6729086197a5b07ff8",
+    "date_created": "1540765712",
+    "date_modified": "1546466794",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213295",
+    "product_category": "women",
+    "id": "181428227",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-inc-striped-wrap-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 60,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 60,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 60,
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/181428227\/bb5f9\/thumb-c3c86398ba0cff6729086197a5b07ff8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/thumb-c3c86398ba0cff6729086197a5b07ff8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/thumb-c3c86398ba0cff6729086197a5b07ff8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/thumb-c3c86398ba0cff6729086197a5b07ff8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/thumb-c3c86398ba0cff6729086197a5b07ff8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/thumb-c3c86398ba0cff6729086197a5b07ff8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/thumb-c3c86398ba0cff6729086197a5b07ff8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181428227\/thumbnail\/image-thumbnail-256-9f6734ade90a955efa4d08af00a4108d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181428227\/thumbnail\/image-thumbnail-480-56b2ea943c9f0c15c52031af9ed1a63e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181428227\/thumbnail\/image-thumbnail-640-ecaea0cf945f1b0aace2465dd74bfb63.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181428227\/thumbnail\/image-thumbnail-1280-303025fa12f024bfe6a227a4d0c31e8a.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181428227\/thumbnail\/image-thumbnail-1920-d49f8c7e68672308698fa6378eebbb83.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/thumb-c3c86398ba0cff6729086197a5b07ff8-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181428227\/thumbnail\/image-thumbnail-640-ecaea0cf945f1b0aace2465dd74bfb63.jpg",
+        "type": "mp4",
+        "assetId": 181428227,
+        "assetTitle": "Green and Leather full width - Jamilia Jones",
+        "assetTitleTextEncoded": "green-and-leather-full-width-jamilia-jones",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181428227,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181428227\/bb5f9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

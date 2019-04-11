@@ -1,0 +1,113 @@
+{
+    "title": "WithinUrMeans - Starter Streetwear",
+    "description": "Obsessed with my Starter co-ord set. It is super comfortable and versatile. You will see me wearing this at the gym and with my friends on the weekends.",
+    "referenceId": "5ee8db98a8c788f8700b10b80ab44429",
+    "date_created": "1541019923",
+    "date_modified": "1546466788",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213101",
+    "product_category": "women",
+    "id": "181574257",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "withinurmeans-starter-streetwear",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/181574257\/0b3bf\/thumb-5ee8db98a8c788f8700b10b80ab44429-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181574257\/user-images\/image-3024-ebfe953d86d745444f6391c277cc2cc3.jpg",
+            "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/thumb-5ee8db98a8c788f8700b10b80ab44429-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/thumb-5ee8db98a8c788f8700b10b80ab44429-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/thumb-5ee8db98a8c788f8700b10b80ab44429-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/thumb-5ee8db98a8c788f8700b10b80ab44429-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181574257\/thumbnail\/image-thumbnail-256-1285f7dadd3d712bd20a57c53711ca60.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181574257\/thumbnail\/image-thumbnail-480-b120a19d53e733acea9d7d205a7be2a9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181574257\/thumbnail\/image-thumbnail-640-c25ced55b20b99c548cd68a8781018a4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181574257\/thumbnail\/image-thumbnail-1280-c57d8d4c3312e7bfee1e4a09e22fab9b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181574257\/thumbnail\/image-thumbnail-1920-134a630307a8064e5fe97684d96dd152.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181574257\/user-images\/image-3024-ebfe953d86d745444f6391c277cc2cc3.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181574257\/thumbnail\/image-thumbnail-640-c25ced55b20b99c548cd68a8781018a4.jpg",
+        "type": "mp4",
+        "assetId": 181574257,
+        "assetTitle": "WithinUrMeans - Starter Streetwear",
+        "assetTitleTextEncoded": "webo3038",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181574257,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181574257\/0b3bf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

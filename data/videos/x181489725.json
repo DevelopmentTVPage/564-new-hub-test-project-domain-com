@@ -1,0 +1,111 @@
+{
+    "title": "Cashmere is here!",
+    "description": "Cashmere sweaters, covers, and wraps!",
+    "referenceId": "2597dba04104882c3fe915e508865c7f",
+    "date_created": "1540872224",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213303",
+    "product_category": "women",
+    "id": "181489725",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cashmere-is-here",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/181489725\/70d7d\/thumb-2597dba04104882c3fe915e508865c7f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/thumb-2597dba04104882c3fe915e508865c7f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/thumb-2597dba04104882c3fe915e508865c7f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/thumb-2597dba04104882c3fe915e508865c7f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/thumb-2597dba04104882c3fe915e508865c7f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/thumb-2597dba04104882c3fe915e508865c7f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/thumb-2597dba04104882c3fe915e508865c7f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181489725\/thumbnail\/image-thumbnail-256-a8f55eb252e6246886a056872e1d0675.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181489725\/thumbnail\/image-thumbnail-480-8d259b5cacb2cf9e3b8d16b9d5891555.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/thumb-2597dba04104882c3fe915e508865c7f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181489725\/thumbnail\/image-thumbnail-480-8d259b5cacb2cf9e3b8d16b9d5891555.jpg",
+        "type": "mp4",
+        "assetId": 181489725,
+        "assetTitle": "Cashmere is here!",
+        "assetTitleTextEncoded": "234b9e12-a830-4dde-80e3-079b357bb5ed",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181489725,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181489725\/70d7d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

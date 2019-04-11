@@ -1,0 +1,107 @@
+{
+    "title": "Renew. Refresh. Reset.",
+    "description": "Look fashionable in Nike Sportswear while fulfilling that New Year's Resolution.",
+    "referenceId": "427e8ddb22fb37005fcca65b452c8f66",
+    "date_created": "1546903905",
+    "date_modified": "1546905809",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "244",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": null,
+    "id": "194566045",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-refresh-reset",
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/194566045\/76d71\/thumb-427e8ddb22fb37005fcca65b452c8f66-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/194566045\/user-images\/image-262-a811de4990f6c2f8bcd2d91989c77116.jpg",
+            "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/thumb-427e8ddb22fb37005fcca65b452c8f66-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/thumb-427e8ddb22fb37005fcca65b452c8f66-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/thumb-427e8ddb22fb37005fcca65b452c8f66-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/thumb-427e8ddb22fb37005fcca65b452c8f66-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/thumb-427e8ddb22fb37005fcca65b452c8f66-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/thumb-427e8ddb22fb37005fcca65b452c8f66-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/194566045\/thumbnail\/image-thumbnail-256-d2b6a5d52c67fa3557ea7980c610ce31.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/194566045\/user-images\/image-262-a811de4990f6c2f8bcd2d91989c77116.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/194566045\/thumbnail\/image-thumbnail-256-d2b6a5d52c67fa3557ea7980c610ce31.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194566045\/76d71\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

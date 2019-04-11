@@ -1,0 +1,115 @@
+{
+    "title": "Halloween Decorations Closeout",
+    "description": "WARNING: Don't let this nightmare happen to you!",
+    "referenceId": "048e790c775ca4739f75a109ae927990",
+    "date_created": "1540339248",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "83",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "home",
+    "id": "181029462",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "halloween-decorations-closeout",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 96,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 96,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 96,
+        "prettyDuration": "00:01:36",
+        "automaticThumbnailsPattern": "1759121\/181029462\/734ab\/thumb-048e790c775ca4739f75a109ae927990-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/thumb-048e790c775ca4739f75a109ae927990-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/thumb-048e790c775ca4739f75a109ae927990-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/thumb-048e790c775ca4739f75a109ae927990-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/thumb-048e790c775ca4739f75a109ae927990-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/thumb-048e790c775ca4739f75a109ae927990-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/thumb-048e790c775ca4739f75a109ae927990-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181029462\/thumbnail\/image-thumbnail-256-1da2c7819a7dc53cd67ca10016dc4783.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181029462\/thumbnail\/image-thumbnail-480-6660e5630fce7fe9772803b2770226ab.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181029462\/thumbnail\/image-thumbnail-640-41916266ed87e375c33687e670321088.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/thumb-048e790c775ca4739f75a109ae927990-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181029462\/thumbnail\/image-thumbnail-640-41916266ed87e375c33687e670321088.jpg",
+        "type": "mp4",
+        "assetId": 181029462,
+        "assetTitle": "Halloween Decorations Closeout",
+        "assetTitleTextEncoded": "halloween-decorations-closeout",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181029462,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029462\/734ab\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

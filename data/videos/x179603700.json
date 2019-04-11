@@ -1,0 +1,113 @@
+{
+    "title": "Red carpet style",
+    "description": "Lancôme is having a special event on October 17th and October 18th with a premier makeup artist. Ask any Lancôme associate to get a beauty box. Don’t forget about the great shoe sale for that red carpet look.",
+    "referenceId": "9dda0fc08fc1cf7077b7034dd8580533",
+    "date_created": "1539126516",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "beauty",
+    "id": "179603700",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "red-carpet-style",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "54",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "54",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "automaticThumbnailsPattern": "1759121\/179603700\/06570\/thumb-9dda0fc08fc1cf7077b7034dd8580533-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179603700\/user-images\/image-2448-5ee63f0108042942ff80c69080c3ad8d.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603700\/user-images\/image-2448-28636e86b4129818ec5c7f403b664646.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603700\/06570\/thumb-9dda0fc08fc1cf7077b7034dd8580533-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603700\/06570\/thumb-9dda0fc08fc1cf7077b7034dd8580533-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603700\/06570\/thumb-9dda0fc08fc1cf7077b7034dd8580533-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603700\/06570\/thumb-9dda0fc08fc1cf7077b7034dd8580533-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603700\/06570\/thumb-9dda0fc08fc1cf7077b7034dd8580533-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603700\/06570\/thumb-9dda0fc08fc1cf7077b7034dd8580533-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179603700\/thumbnail\/image-thumbnail-256-74340ce062d371fdd8bd97611fdce9b9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179603700\/thumbnail\/image-thumbnail-480-44d5d5331b18568847aaf9e009ce068d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179603700\/06570\/thumb-9dda0fc08fc1cf7077b7034dd8580533-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179603700\/thumbnail\/image-thumbnail-480-44d5d5331b18568847aaf9e009ce068d.jpg",
+        "type": "mp4",
+        "assetId": "179603700",
+        "assetTitle": "E7947955-60AB-4480-8887-07F87F1927E3",
+        "assetTitleTextEncoded": "e7947955-60ab-4480-8887-07f87f1927e3",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179603700",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603700\/06570\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603700\/06570\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603700\/06570\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603700\/06570\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603700\/06570\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

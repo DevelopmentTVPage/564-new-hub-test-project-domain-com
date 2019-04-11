@@ -1,0 +1,61 @@
+{
+    "title": "Cyber Monday Special - Sperry Duck Boots under $100!",
+    "description": "Cyber Monday Special - Sperry Duck Boots under $100!  Love these boots, lightweight and perfect for this rainy & chilly day!  Wearing color: Black Quilted, run TTS!",
+    "referenceId": null,
+    "date_created": "1543251821",
+    "date_modified": "1546466796",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "184294359",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "cyber-monday-special-sperry-duck-boots-under-100",
+    "linkUrl": null,
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294359\/image-media--256.jpeg?v=1543251822953"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294359\/image-thumbnail-480.jpeg?v=1543251823069"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294359\/image-thumbnail-256.jpeg?v=1543251823065"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294359\/image-thumbnail-64.jpeg?v=1543251823062"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294359\/image-thumbnail-480.jpeg?v=1543251823069",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

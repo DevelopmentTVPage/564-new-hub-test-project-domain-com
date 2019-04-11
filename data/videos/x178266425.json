@@ -1,0 +1,111 @@
+{
+    "title": "Concert Freestyle Looks",
+    "description": "Free People and RACHEL Rachel Roy freestyle looks",
+    "referenceId": "0feb07f9538a187197c34db212671456",
+    "date_created": "1537832524",
+    "date_modified": "1546466789",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "women",
+    "id": "178266425",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "concert-freestyle-looks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "automaticThumbnailsPattern": "1759121\/178266425\/22219\/thumb-0feb07f9538a187197c34db212671456-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178266425\/22219\/thumb-0feb07f9538a187197c34db212671456-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266425\/22219\/thumb-0feb07f9538a187197c34db212671456-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266425\/22219\/thumb-0feb07f9538a187197c34db212671456-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266425\/22219\/thumb-0feb07f9538a187197c34db212671456-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266425\/22219\/thumb-0feb07f9538a187197c34db212671456-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266425\/22219\/thumb-0feb07f9538a187197c34db212671456-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178266425\/thumbnail\/image-thumbnail-256-1b8aab4cb260b09ef326529703b352cd.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178266425\/thumbnail\/image-thumbnail-480-e8f6101e1e1a911e7a776d3bf533794c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266425\/22219\/thumb-0feb07f9538a187197c34db212671456-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266425\/thumbnail\/image-thumbnail-480-e8f6101e1e1a911e7a776d3bf533794c.jpg",
+        "type": "mp4",
+        "assetId": "178266425",
+        "assetTitle": "F02FE9F4-CF0B-4613-998C-CACB31B90293",
+        "assetTitleTextEncoded": "f02fe9f4-cf0b-4613-998c-cacb31b90293",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178266425",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266425\/22219\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266425\/22219\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266425\/22219\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266425\/22219\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266425\/22219\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

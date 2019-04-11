@@ -1,0 +1,108 @@
+{
+    "title": "My Holiday Journey with a Blue Yeti 5",
+    "description": "FunnyBread is in danger of having an unhappy holiday!",
+    "referenceId": "15a2e4a9d10bd1a24acb5187af573874",
+    "date_created": "1545836350",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": null,
+    "id": "191457165",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-with-a-blue-yeti-5",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 215,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 215,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 215,
+        "prettyDuration": "00:03:35",
+        "automaticThumbnailsPattern": "1759121\/191457165\/da4fd\/thumb-15a2e4a9d10bd1a24acb5187af573874-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/thumb-15a2e4a9d10bd1a24acb5187af573874-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/thumb-15a2e4a9d10bd1a24acb5187af573874-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/thumb-15a2e4a9d10bd1a24acb5187af573874-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/thumb-15a2e4a9d10bd1a24acb5187af573874-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/thumb-15a2e4a9d10bd1a24acb5187af573874-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/thumb-15a2e4a9d10bd1a24acb5187af573874-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191457165\/thumbnail\/image-thumbnail-256-468322e9b00b342a48109170f8485092.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191457165\/thumbnail\/image-thumbnail-480-86d6bd5dcd34b7b8285b17fe1e600970.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191457165\/thumbnail\/image-thumbnail-640-a06a86623d61a9d95b13e698f4313589.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/thumb-15a2e4a9d10bd1a24acb5187af573874-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191457165\/thumbnail\/image-thumbnail-640-a06a86623d61a9d95b13e698f4313589.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457165\/da4fd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "BLACK FRIDAY MADNESS||Coach ",
+    "description": "Coach is on sale!",
+    "referenceId": null,
+    "date_created": "1543027095",
+    "date_modified": "1546466795",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213274",
+    "id": "184241432",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "black-friday-madness-coach",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2560,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--1920.jpeg?v=1543027149660"
+            },
+            {
+                "width": 1280,
+                "height": 1706,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--1280.jpeg?v=1543027151381"
+            },
+            {
+                "width": 1200,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--1200.jpeg?v=1543027149273"
+            },
+            {
+                "width": 1024,
+                "height": 1365,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--1024.jpeg?v=1543027150403"
+            },
+            {
+                "width": 1080,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--1080.jpeg?v=1543027149107"
+            },
+            {
+                "width": 960,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--960.jpeg?v=1543027150170"
+            },
+            {
+                "width": 640,
+                "height": 853,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--640.jpeg?v=1543027148964"
+            },
+            {
+                "width": 600,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--600.jpeg?v=1543027149843"
+            },
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-media--256.jpeg?v=1543027150385"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-thumbnail-1920.jpeg?v=1543027152427"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-thumbnail-1280.jpeg?v=1543027152325"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-thumbnail-640.jpeg?v=1543027152217"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-thumbnail-480.jpeg?v=1543027152197"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-thumbnail-256.jpeg?v=1543027152632"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-thumbnail-64.jpeg?v=1543027153017"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241432\/image-thumbnail-640.jpeg?v=1543027152217",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

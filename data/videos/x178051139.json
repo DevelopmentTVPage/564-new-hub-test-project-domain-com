@@ -1,0 +1,105 @@
+{
+    "title": "Michael Kors Collection",
+    "description": "Get your Michael Kors item at 25 percent off.",
+    "referenceId": "72c09d41227422a099069ec8a8cef233",
+    "date_created": "1537488660",
+    "date_modified": "1546466812",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "178051139",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-kors-collection",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "61",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "61",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "automaticThumbnailsPattern": "1759121\/178051139\/5c10a\/thumb-72c09d41227422a099069ec8a8cef233-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/thumb-72c09d41227422a099069ec8a8cef233-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/thumb-72c09d41227422a099069ec8a8cef233-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/thumb-72c09d41227422a099069ec8a8cef233-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/thumb-72c09d41227422a099069ec8a8cef233-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/thumb-72c09d41227422a099069ec8a8cef233-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/thumb-72c09d41227422a099069ec8a8cef233-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178051139\/thumbnail\/image-thumbnail-256-31a9ee34d7c32d30c78662cb9346135a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178051139\/thumbnail\/image-thumbnail-480-87a94385e209c9d28cf8311bd5bf6793.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/thumb-72c09d41227422a099069ec8a8cef233-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178051139\/thumbnail\/image-thumbnail-480-87a94385e209c9d28cf8311bd5bf6793.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178051139\/5c10a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

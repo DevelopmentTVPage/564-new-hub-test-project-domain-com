@@ -1,0 +1,21 @@
+{
+    "id": "213714",
+    "first_name": "Natalie",
+    "last_name": "McNeill",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/588535996-0.2582620682194.jpg",
+        "job_title": "Product Integrity Coordinator "
+    },
+    "last_login_timestamp": "1542118802",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 13:29:54",
+    "login_id": "1759121",
+    "user_id": "213714",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Natalie McNeill",
+    "profile_picture": "\/api\/canvas\/logo\/588535996-0.2582620682194.jpg",
+    "titleTextEncoded": "natalie-mcneill",
+    "title": "Natalie McNeill",
+    "videos_count": "2"
+}

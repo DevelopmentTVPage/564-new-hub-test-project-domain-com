@@ -1,0 +1,114 @@
+{
+    "title": "Floral and Ruffles.. best combo ever...  @foreign_curves",
+    "description": "Check out the latest it list item from Macy's plus size collection. Maxi's all for the fall. Pair it up with boots and a leather jacket or a pair of black heels. Both feminine and chic. Playful floral and ruffles. Perfect for any occasion.",
+    "referenceId": "cee295eb5b7b1d7d732ccf8b8205249d",
+    "date_created": "1540441188",
+    "date_modified": "1546466787",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "104",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213142",
+    "product_category": "women",
+    "id": "181172745",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "floral-and-ruffles-best-combo-ever-foreign-curves",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 60,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 60,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 60,
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/181172745\/d0785\/thumb-cee295eb5b7b1d7d732ccf8b8205249d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181172745\/user-images\/image-1919-bdb64e5714552ddd4e18adac87570f09.jpg",
+            "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/thumb-cee295eb5b7b1d7d732ccf8b8205249d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/thumb-cee295eb5b7b1d7d732ccf8b8205249d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/thumb-cee295eb5b7b1d7d732ccf8b8205249d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/thumb-cee295eb5b7b1d7d732ccf8b8205249d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/thumb-cee295eb5b7b1d7d732ccf8b8205249d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/thumb-cee295eb5b7b1d7d732ccf8b8205249d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181172745\/thumbnail\/image-thumbnail-256-b933a8db39168a105d69d9f369a98e5f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181172745\/thumbnail\/image-thumbnail-480-aa612f1301bd10b4f1821f05477eae1f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181172745\/thumbnail\/image-thumbnail-640-a85549a843d852309ab8194e9daef065.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181172745\/thumbnail\/image-thumbnail-1280-04d2451d7ad71c8469d2fdfd105c9dc2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181172745\/user-images\/image-1919-bdb64e5714552ddd4e18adac87570f09.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181172745\/thumbnail\/image-thumbnail-640-a85549a843d852309ab8194e9daef065.jpg",
+        "type": "mp4",
+        "assetId": 181172745,
+        "assetTitle": "Floral and Ruffles.. best combo ever...  @foreign_curves",
+        "assetTitleTextEncoded": "floral-and-leather-with-anita-full-width-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181172745,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181172745\/d0785\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

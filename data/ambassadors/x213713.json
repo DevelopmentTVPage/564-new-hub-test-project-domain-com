@@ -1,0 +1,21 @@
+{
+    "id": "213713",
+    "first_name": "Julie",
+    "last_name": "Anders",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "AST"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 13:11:34",
+    "login_id": "1759121",
+    "user_id": "213713",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Julie Anders",
+    "profile_picture": null,
+    "titleTextEncoded": "julie-anders",
+    "title": "Julie Anders",
+    "videos_count": "0"
+}

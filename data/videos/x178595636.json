@@ -1,0 +1,111 @@
+{
+    "title": "Macys Style Crew Clinique Gift until October 9 or while supplies last",
+    "description": "Clinique",
+    "referenceId": "4ae586e1e484f1da343815d5c3da2639",
+    "date_created": "1538259949",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": null,
+    "id": "178595636",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-clinique-gift-until-october-9-or-while-supplies-last",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/178595636\/28983\/thumb-4ae586e1e484f1da343815d5c3da2639-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178595636\/28983\/thumb-4ae586e1e484f1da343815d5c3da2639-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595636\/28983\/thumb-4ae586e1e484f1da343815d5c3da2639-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595636\/28983\/thumb-4ae586e1e484f1da343815d5c3da2639-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595636\/28983\/thumb-4ae586e1e484f1da343815d5c3da2639-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595636\/28983\/thumb-4ae586e1e484f1da343815d5c3da2639-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595636\/28983\/thumb-4ae586e1e484f1da343815d5c3da2639-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178595636\/thumbnail\/image-thumbnail-256-476ee938b9ca757995eb1724542c1215.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178595636\/thumbnail\/image-thumbnail-480-3c042ea24f5116540fa624d04bb6fce5.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178595636\/28983\/thumb-4ae586e1e484f1da343815d5c3da2639-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178595636\/thumbnail\/image-thumbnail-480-3c042ea24f5116540fa624d04bb6fce5.jpg",
+        "type": "mp4",
+        "assetId": "178595636",
+        "assetTitle": "1517B1B7-778F-4097-B949-9943FEC0E500",
+        "assetTitleTextEncoded": "1517b1b7-778f-4097-b949-9943fec0e500",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178595636",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595636\/28983\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595636\/28983\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595636\/28983\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595636\/28983\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595636\/28983\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

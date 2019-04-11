@@ -1,0 +1,116 @@
+{
+    "title": "My Thanksgiving Outfit",
+    "description": "I get to spend Thanksgiving in sunny South Florida this year. Usually it's a little chilly but not too bad. We might be in the low 70's this year! This Alfani Sweater (web id 6745668)  is perfect paired with high waisted denim. It's cozy and perfect to stay busy in because I'm always in the kitchen on Thanksgiving day! I love this sweater so much because the faux fur cuff detailing makes it a little festive for the season without over doing it!",
+    "referenceId": "d1d3db96d7c017644c8325e0c7a975d1",
+    "date_created": "1542129003",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "183347192",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-thanksgiving-outfit",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/183347192\/3c424\/thumb-d1d3db96d7c017644c8325e0c7a975d1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183347192\/user-images\/image-2728-5a56e95d270e4dde67e94637662cc538.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/thumb-d1d3db96d7c017644c8325e0c7a975d1-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/thumb-d1d3db96d7c017644c8325e0c7a975d1-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/thumb-d1d3db96d7c017644c8325e0c7a975d1-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/thumb-d1d3db96d7c017644c8325e0c7a975d1-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/thumb-d1d3db96d7c017644c8325e0c7a975d1-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/thumb-d1d3db96d7c017644c8325e0c7a975d1-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183347192\/thumbnail\/image-thumbnail-256-64a32e3b31e677867422d5440c88456e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183347192\/thumbnail\/image-thumbnail-480-ccd1d67d2fdbb4dea934e78cb38493a0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183347192\/thumbnail\/image-thumbnail-640-76f81e5eca36031f4ab371de8c070290.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183347192\/thumbnail\/image-thumbnail-1280-5f27d8d37a14f02b21a2862146671732.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183347192\/thumbnail\/image-thumbnail-1920-19e7158d032cc590769926f7de0c5ba9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183347192\/user-images\/image-2728-5a56e95d270e4dde67e94637662cc538.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183347192\/thumbnail\/image-thumbnail-640-76f81e5eca36031f4ab371de8c070290.jpg",
+        "type": "mp4",
+        "assetId": 183347192,
+        "assetTitle": "My Thanksgiving Outfit",
+        "assetTitleTextEncoded": "my-thanksgiving-outfit",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183347192,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347192\/3c424\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

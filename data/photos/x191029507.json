@@ -1,0 +1,127 @@
+{
+    "title": "My Holiday Journey - Last Minute Gifts!",
+    "description": "Philosophy bubble bath is the perfect stocking stuffer!  So many scents to choose from....",
+    "referenceId": null,
+    "date_created": "1545579499",
+    "date_modified": "1546466827",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213119",
+    "id": "191029507",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-holiday-journey-last-minute-gifts",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2098,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--1920.jpeg?v=1545579521945"
+            },
+            {
+                "width": 1280,
+                "height": 1399,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--1280.jpeg?v=1545579523112"
+            },
+            {
+                "width": 1200,
+                "height": 1311,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--1200.jpeg?v=1545579521639"
+            },
+            {
+                "width": 1024,
+                "height": 1119,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--1024.jpeg?v=1545579522621"
+            },
+            {
+                "width": 1080,
+                "height": 1180,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--1080.jpeg?v=1545579521667"
+            },
+            {
+                "width": 960,
+                "height": 1049,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--960.jpeg?v=1545579522562"
+            },
+            {
+                "width": 640,
+                "height": 699,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--640.jpeg?v=1545579521483"
+            },
+            {
+                "width": 600,
+                "height": 655,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--600.jpeg?v=1545579522086"
+            },
+            {
+                "width": 256,
+                "height": 279,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-media--256.jpeg?v=1545579522527"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-thumbnail-1920.jpeg?v=1545579523923"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-thumbnail-1280.jpeg?v=1545579523872"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-thumbnail-640.jpeg?v=1545579523771"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-thumbnail-480.jpeg?v=1545579523748"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-thumbnail-256.jpeg?v=1545579524083"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-thumbnail-64.jpeg?v=1545579524384"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191029507\/image-thumbnail-640.jpeg?v=1545579523771",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

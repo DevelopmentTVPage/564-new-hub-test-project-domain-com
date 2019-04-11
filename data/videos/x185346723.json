@@ -1,0 +1,113 @@
+{
+    "title": "Mac travel set | holiday gift",
+    "description": "Watch my Instagram story \n#perfectforagift",
+    "referenceId": "2b3fc926211e4bbb6c998463e9d7400a",
+    "date_created": "1544059316",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213700",
+    "product_category": "beauty",
+    "id": "185346723",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mac-travel-set-holiday-gift",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 96,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 96,
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": 96,
+        "prettyDuration": "00:01:36",
+        "automaticThumbnailsPattern": "1759121\/185346723\/dcd0e\/thumb-2b3fc926211e4bbb6c998463e9d7400a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185346723\/user-images\/image-1225-0678d47b438b265fd2c620c06e5c9e83.jpg",
+            "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/thumb-2b3fc926211e4bbb6c998463e9d7400a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/thumb-2b3fc926211e4bbb6c998463e9d7400a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/thumb-2b3fc926211e4bbb6c998463e9d7400a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/thumb-2b3fc926211e4bbb6c998463e9d7400a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/thumb-2b3fc926211e4bbb6c998463e9d7400a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/thumb-2b3fc926211e4bbb6c998463e9d7400a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185346723\/thumbnail\/image-thumbnail-256-8b42b7732b09c3c0570c6e3dabeb4337.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185346723\/thumbnail\/image-thumbnail-480-d21afd81d07cc40a848d33c6dbb9c0c9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185346723\/thumbnail\/image-thumbnail-640-e7e5635d0517979527feee44b4ed79e9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185346723\/user-images\/image-1225-0678d47b438b265fd2c620c06e5c9e83.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185346723\/thumbnail\/image-thumbnail-640-e7e5635d0517979527feee44b4ed79e9.jpg",
+        "type": "mp4",
+        "assetId": 185346723,
+        "assetTitle": "B57797B6-482B-4609-BD70-08C30B505919",
+        "assetTitleTextEncoded": "b57797b6-482b-4609-bd70-08c30b505919",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185346723,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185346723\/dcd0e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

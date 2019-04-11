@@ -1,0 +1,113 @@
+{
+    "title": "Clinique ID",
+    "description": "Moisturizer + fatigue",
+    "referenceId": "3760f66508dc7fe36ec94fe7bad27838",
+    "date_created": "1545082813",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "45",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213319",
+    "product_category": "beauty",
+    "id": "188582763",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "clinique-id",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 79,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 79,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 79,
+        "prettyDuration": "00:01:19",
+        "automaticThumbnailsPattern": "1759121\/188582763\/dcf0c\/thumb-3760f66508dc7fe36ec94fe7bad27838-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/thumb-3760f66508dc7fe36ec94fe7bad27838-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/thumb-3760f66508dc7fe36ec94fe7bad27838-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/thumb-3760f66508dc7fe36ec94fe7bad27838-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/thumb-3760f66508dc7fe36ec94fe7bad27838-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/thumb-3760f66508dc7fe36ec94fe7bad27838-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/thumb-3760f66508dc7fe36ec94fe7bad27838-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188582763\/thumbnail\/image-thumbnail-256-ceb29b06caa463a213a7ca97dceb49ce.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188582763\/thumbnail\/image-thumbnail-480-1427213e6c42bbcf796be6615a3b6142.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188582763\/thumbnail\/image-thumbnail-640-2c2e9a14a8727f5135286d3a51d47aa3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188582763\/thumbnail\/image-thumbnail-1280-dfe5d9e6dc8a7089a5e993ba64902476.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/thumb-3760f66508dc7fe36ec94fe7bad27838-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188582763\/thumbnail\/image-thumbnail-640-2c2e9a14a8727f5135286d3a51d47aa3.jpg",
+        "type": "mp4",
+        "assetId": 188582763,
+        "assetTitle": "0414B740-47A5-4B42-B8F7-04F3BC2F1B73",
+        "assetTitleTextEncoded": "0414b740-47a5-4b42-b8f7-04f3bc2f1b73",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188582763,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582763\/dcf0c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

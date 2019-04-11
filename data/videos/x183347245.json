@@ -1,0 +1,113 @@
+{
+    "title": "Caesar loves Martha Stewart!!",
+    "description": "Velvet flourish damask quilt in luxe colors. Beautiful feel luxe look!!",
+    "referenceId": "522ec977ce5ca51d59c2b1bb1347c76b",
+    "date_created": "1542140183",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213111",
+    "product_category": "home",
+    "id": "183347245",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "caesar-loves-martha-stewart",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 70,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 70,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 70,
+        "prettyDuration": "00:01:10",
+        "automaticThumbnailsPattern": "1759121\/183347245\/e52fb\/thumb-522ec977ce5ca51d59c2b1bb1347c76b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/thumb-522ec977ce5ca51d59c2b1bb1347c76b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/thumb-522ec977ce5ca51d59c2b1bb1347c76b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/thumb-522ec977ce5ca51d59c2b1bb1347c76b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/thumb-522ec977ce5ca51d59c2b1bb1347c76b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/thumb-522ec977ce5ca51d59c2b1bb1347c76b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/thumb-522ec977ce5ca51d59c2b1bb1347c76b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183347245\/thumbnail\/image-thumbnail-256-3365154d1d0f1760618001e510a606db.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183347245\/thumbnail\/image-thumbnail-480-6193883d26cad524da627ba6185c96c0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183347245\/thumbnail\/image-thumbnail-640-1e2a8a138211f16c8bc3a01af5bcf80b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183347245\/thumbnail\/image-thumbnail-1280-c8bf4d29ce4970b1f2e8073d06b4ee1e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/thumb-522ec977ce5ca51d59c2b1bb1347c76b-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183347245\/thumbnail\/image-thumbnail-640-1e2a8a138211f16c8bc3a01af5bcf80b.jpg",
+        "type": "mp4",
+        "assetId": 183347245,
+        "assetTitle": "Caesar ",
+        "assetTitleTextEncoded": "lkirsch-lydias-boudoir-0",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183347245,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347245\/e52fb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

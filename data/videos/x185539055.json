@@ -1,0 +1,112 @@
+{
+    "title": "tech watch Fitbit versa",
+    "description": "Fitbit versa",
+    "referenceId": "e19dfe7855d065fabeb4917eb9c6542a",
+    "date_created": "1544144529",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213744",
+    "product_category": "watches",
+    "id": "185539055",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "tech-watch-fitbit-versa",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 125,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 125,
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": 125,
+        "prettyDuration": "00:02:05",
+        "automaticThumbnailsPattern": "1759121\/185539055\/9547e\/thumb-e19dfe7855d065fabeb4917eb9c6542a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/thumb-e19dfe7855d065fabeb4917eb9c6542a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/thumb-e19dfe7855d065fabeb4917eb9c6542a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/thumb-e19dfe7855d065fabeb4917eb9c6542a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/thumb-e19dfe7855d065fabeb4917eb9c6542a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/thumb-e19dfe7855d065fabeb4917eb9c6542a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/thumb-e19dfe7855d065fabeb4917eb9c6542a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185539055\/thumbnail\/image-thumbnail-256-be52c6eedb54f20ab8d8575bdac99e79.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/thumb-e19dfe7855d065fabeb4917eb9c6542a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185539055\/thumbnail\/image-thumbnail-256-be52c6eedb54f20ab8d8575bdac99e79.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/media.m3u8",
+        "assetId": 185539055,
+        "assetTitle": "56583705295__95200562-0CBF-47DC-A7C0-06926D1C6341",
+        "assetTitleTextEncoded": "56583705295-95200562-0cbf-47dc-a7c0-06926d1c6341",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185539055,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185539055\/9547e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213888",
+    "first_name": "Julie",
+    "last_name": "Strider",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "VP, Media Relations"
+    },
+    "last_login_timestamp": "1548804517",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-07 21:46:21",
+    "login_id": "1759121",
+    "user_id": "213888",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Julie Strider",
+    "profile_picture": null,
+    "titleTextEncoded": "julie-strider",
+    "title": "Julie Strider",
+    "videos_count": "0"
+}

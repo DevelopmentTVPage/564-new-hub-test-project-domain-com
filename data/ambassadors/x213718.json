@@ -1,0 +1,21 @@
+{
+    "id": "213718",
+    "first_name": "Lena",
+    "last_name": "Madison",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "product assistant "
+    },
+    "last_login_timestamp": "1542134765",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 14:59:37",
+    "login_id": "1759121",
+    "user_id": "213718",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lena Madison",
+    "profile_picture": null,
+    "titleTextEncoded": "lena-madison",
+    "title": "Lena Madison",
+    "videos_count": "0"
+}

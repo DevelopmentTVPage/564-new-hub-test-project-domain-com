@@ -1,0 +1,115 @@
+{
+    "title": "Holiday party",
+    "description": "This adorable sweater is perfect for the ugly sweater holiday parties. I matched the sweater with the Calvin Klein pleated skirt and guess boots. The heritage bags give it the perfect holiday look",
+    "referenceId": "96e7568302f30f9f16b4936305a69282",
+    "date_created": "1541698610",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "women",
+    "id": "182949524",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "holiday-party",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 37,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 37,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 37,
+        "prettyDuration": "00:00:37",
+        "automaticThumbnailsPattern": "1759121\/182949524\/c2269\/thumb-96e7568302f30f9f16b4936305a69282-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182949524\/user-images\/image-2448-8203ab1f1c08c267b067646d334107be.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/thumb-96e7568302f30f9f16b4936305a69282-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/thumb-96e7568302f30f9f16b4936305a69282-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/thumb-96e7568302f30f9f16b4936305a69282-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/thumb-96e7568302f30f9f16b4936305a69282-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/thumb-96e7568302f30f9f16b4936305a69282-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/thumb-96e7568302f30f9f16b4936305a69282-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182949524\/thumbnail\/image-thumbnail-256-9884ab9a85868ab14ce7053ec7859cde.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182949524\/thumbnail\/image-thumbnail-480-f650e34deae2cfc9e06a26b26a98eb49.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182949524\/thumbnail\/image-thumbnail-640-b158002b040b70741fe65b807ae0dfb6.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182949524\/thumbnail\/image-thumbnail-1280-ba59a661c4e80cd0bdc38b700e6c8a30.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/182949524\/thumbnail\/image-thumbnail-1920-8f16868da387bf0c746ff25cda406387.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182949524\/user-images\/image-2448-8203ab1f1c08c267b067646d334107be.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182949524\/thumbnail\/image-thumbnail-640-b158002b040b70741fe65b807ae0dfb6.jpg",
+        "type": "mp4",
+        "assetId": 182949524,
+        "assetTitle": "44EF38A0-6FAF-4D0C-8019-FA45586C860C",
+        "assetTitleTextEncoded": "44ef38a0-6faf-4d0c-8019-fa45586c860c",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182949524,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949524\/c2269\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Aviator ",
+    "description": "INC faux shearling Aviator jacket web id 6939268https:\/\/mcys.co\/2SmuH2b",
+    "referenceId": null,
+    "date_created": "1543364865",
+    "date_modified": "1546466794",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213752",
+    "id": "184349419",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "aviator",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1024,
+                "height": 1821,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-media--1024.jpeg?v=1543364882736"
+            },
+            {
+                "width": 1080,
+                "height": 1920,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-media--1080.jpeg?v=1543364882771"
+            },
+            {
+                "width": 960,
+                "height": 1707,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-media--960.jpeg?v=1543364883257"
+            },
+            {
+                "width": 640,
+                "height": 1138,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-media--640.jpeg?v=1543364882607"
+            },
+            {
+                "width": 600,
+                "height": 1067,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-media--600.jpeg?v=1543364882575"
+            },
+            {
+                "width": 256,
+                "height": 455,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-media--256.jpeg?v=1543364882968"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-thumbnail-640.jpeg?v=1543364883696"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-thumbnail-480.jpeg?v=1543364883682"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-thumbnail-256.jpeg?v=1543364883677"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-thumbnail-64.jpeg?v=1543364883669"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349419\/image-thumbnail-640.jpeg?v=1543364883696",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

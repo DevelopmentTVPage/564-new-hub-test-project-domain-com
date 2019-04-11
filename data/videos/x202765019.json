@@ -1,0 +1,108 @@
+{
+    "title": "Find the perfect gift at Macy's Young Love Playground",
+    "description": "Looking for a gift for that special someone? The Young Love Playground at Macy's in Herald Square is the perfect place to find a sweet gift, snap a few pics and even win a gift card! Whether your boo likes something sweet to nibble on, a fragrance that keeps them smelling nice all year long or a customize-able handbag, there is something for everyone!",
+    "referenceId": "4cb7789010c0420ae19884222ca07292",
+    "date_created": "1550113902",
+    "date_modified": "1550234805",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "9",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": null,
+    "id": "202765019",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "find-the-perfect-gift-at-macys-young-love-playground",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 39,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 39,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 39,
+        "prettyDuration": "00:00:39",
+        "automaticThumbnailsPattern": "1759121\/202765019\/19417\/thumb-4cb7789010c0420ae19884222ca07292-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202765019\/user-images\/image-1536-34abb65d8c9928730f48cc25c400e7b9.jpg",
+            "\/\/v.tvpage.com\/1759121\/202765019\/19417\/thumb-4cb7789010c0420ae19884222ca07292-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202765019\/19417\/thumb-4cb7789010c0420ae19884222ca07292-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202765019\/19417\/thumb-4cb7789010c0420ae19884222ca07292-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202765019\/19417\/thumb-4cb7789010c0420ae19884222ca07292-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202765019\/19417\/thumb-4cb7789010c0420ae19884222ca07292-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202765019\/19417\/thumb-4cb7789010c0420ae19884222ca07292-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202765019\/thumbnail\/image-thumbnail-256-27f7e823a687f15e1a5f7b42c84ad325.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202765019\/thumbnail\/image-thumbnail-480-f0b8ddea8c2f218d223af1caacccbcd5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202765019\/thumbnail\/image-thumbnail-640-a6da1cea66d4d005d2c11d49142dd8f8.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/202765019\/thumbnail\/image-thumbnail-1280-88bfc7db9e4a43ea58accfda839042f4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202765019\/user-images\/image-1536-34abb65d8c9928730f48cc25c400e7b9.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202765019\/thumbnail\/image-thumbnail-640-a6da1cea66d4d005d2c11d49142dd8f8.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202765019\/19417\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202765019\/19417\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202765019\/19417\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202765019\/19417\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202765019\/19417\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

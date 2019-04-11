@@ -1,0 +1,113 @@
+{
+    "title": "Holiday Lane",
+    "description": "2018 has been a year of many firsts. First home, first pet and now first Christmas tree. I love the curated lines that fit right in with my farmhouse\/rustic decor; what’s your style? Holiday Lane @macys offers an array of home style decor suited to fit your personal taste! Check out the collections in store or online now. \nmystyle#macys#macysstylecrew#homefortheholidays#homedecor#holidaylane\n.\n.\n.\n\nDecor Collection:\n “Let It Snow” \nServeware display in hutch: \n\nShop the LINK in my bio to get the collections today!",
+    "referenceId": "7868660b4dba1b60ad3ebeebb3fe07c2",
+    "date_created": "1544569421",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "46",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213813",
+    "product_category": "home",
+    "id": "187589082",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "holiday-lane",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 244,
+            "height": 480
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/187589082\/ab139\/thumb-7868660b4dba1b60ad3ebeebb3fe07c2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187589082\/user-images\/image-532-54eef7148305af614518d96c9955914c.jpg",
+            "\/\/v.tvpage.com\/1759121\/187589082\/user-images\/image-558-0d639694d875761d9a3db9178fdf4792.jpg",
+            "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/thumb-7868660b4dba1b60ad3ebeebb3fe07c2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/thumb-7868660b4dba1b60ad3ebeebb3fe07c2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/thumb-7868660b4dba1b60ad3ebeebb3fe07c2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/thumb-7868660b4dba1b60ad3ebeebb3fe07c2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/thumb-7868660b4dba1b60ad3ebeebb3fe07c2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/thumb-7868660b4dba1b60ad3ebeebb3fe07c2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187589082\/thumbnail\/image-thumbnail-256-6f660b643f3c5a85dd1ee35c8d49dd54.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187589082\/thumbnail\/image-thumbnail-480-16ae011a492868a77196a0187ff784c7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187589082\/user-images\/image-532-54eef7148305af614518d96c9955914c.jpg",
+        "type": "mp4",
+        "assetId": 187589082,
+        "assetTitle": "Holiday Lane",
+        "assetTitleTextEncoded": "c2168248-0a1f-4d86-b974-2b178343d9dd",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187589082,
+            "li": 1759121
+        },
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187589082\/thumbnail\/image-thumbnail-480-16ae011a492868a77196a0187ff784c7.jpg",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 182,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187589082\/ab139\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 122,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

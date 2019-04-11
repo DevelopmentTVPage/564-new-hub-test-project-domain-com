@@ -1,0 +1,127 @@
+{
+    "title": "My CAN'T live without ORIGINS Skincare products!",
+    "description": "Origins has been a go-to brand of mine for YEARS! These products will always have a place on my vanity because they are AMAZING! First, the Checks and Balances frothy face wash is by FAR the best I have ever used. It leaves my skin feeling super clean and refreshed! Follow up a clean face with either the Clear Improvements Charcoal mask or the Retexturizing Mask with Rose Clay! Both are perfect and keep your skin FRESH and REVITALIZED! ",
+    "referenceId": null,
+    "date_created": "1549892216",
+    "date_modified": "1549892455",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213936",
+    "id": "202521832",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-cant-live-without-origins-skincare-products",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2560,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--1920.jpeg?v=1549892236486"
+            },
+            {
+                "width": 1280,
+                "height": 1706,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--1280.jpeg?v=1549892237783"
+            },
+            {
+                "width": 1200,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--1200.jpeg?v=1549892236542"
+            },
+            {
+                "width": 1024,
+                "height": 1365,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--1024.jpeg?v=1549892237542"
+            },
+            {
+                "width": 1080,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--1080.jpeg?v=1549892236553"
+            },
+            {
+                "width": 960,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--960.jpeg?v=1549892237441"
+            },
+            {
+                "width": 640,
+                "height": 853,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--640.jpeg?v=1549892236304"
+            },
+            {
+                "width": 600,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--600.jpeg?v=1549892236861"
+            },
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-media--256.jpeg?v=1549892237221"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-thumbnail-1920.jpeg?v=1549892238537"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-thumbnail-1280.jpeg?v=1549892238494"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-thumbnail-640.jpeg?v=1549892238400"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-thumbnail-480.jpeg?v=1549892238389"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-thumbnail-256.jpeg?v=1549892238641"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-thumbnail-64.jpeg?v=1549892238839"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202521832\/image-thumbnail-640.jpeg?v=1549892238400",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

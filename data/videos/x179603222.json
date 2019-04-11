@@ -1,0 +1,107 @@
+{
+    "title": "typical college student",
+    "description": "Levis Shirt",
+    "referenceId": "376342114cd22b923acb9813aa4d79f6",
+    "date_created": "1539103801",
+    "date_modified": "1546466808",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213256",
+    "product_category": "men",
+    "id": "179603222",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "typical-college-student",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/179603222\/5d157\/thumb-376342114cd22b923acb9813aa4d79f6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/thumb-376342114cd22b923acb9813aa4d79f6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/thumb-376342114cd22b923acb9813aa4d79f6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/thumb-376342114cd22b923acb9813aa4d79f6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179603222\/thumbnail\/image-thumbnail-256-b10b807f5c0da553ac692c199c7721a9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/thumb-376342114cd22b923acb9813aa4d79f6-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179603222\/thumbnail\/image-thumbnail-256-b10b807f5c0da553ac692c199c7721a9.jpg",
+        "type": "mp4",
+        "assetId": "179603222",
+        "assetTitle": "B2760425-C9A7-4650-8A08-34CE424CF762",
+        "assetTitleTextEncoded": "b2760425-c9a7-4650-8a08-34ce424cf762",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179603222",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603222\/5d157\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

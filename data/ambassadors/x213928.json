@@ -1,0 +1,21 @@
+{
+    "id": "213928",
+    "first_name": "Linda",
+    "last_name": "D’Aguilar",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "MyStylist"
+    },
+    "last_login_timestamp": "1548361515",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-24 20:04:26",
+    "login_id": "1759121",
+    "user_id": "213928",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Linda D’Aguilar",
+    "profile_picture": null,
+    "titleTextEncoded": "linda-d-aguilar",
+    "title": "Linda D’Aguilar",
+    "videos_count": "0"
+}

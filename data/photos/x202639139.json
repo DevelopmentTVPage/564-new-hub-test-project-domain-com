@@ -1,0 +1,127 @@
+{
+    "title": "Alfani",
+    "description": "I love the Turtleneck Poncho Sweater by Alfani! It’s easy to style and it’s comfortable. Plus they come in so many colors! I’m wearing the Magenta color. Check out the tags for more info...",
+    "referenceId": null,
+    "date_created": "1549997882",
+    "date_modified": "1549998229",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213914",
+    "id": "202639139",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "alfani",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3978,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--1920.jpeg?v=1549997914583"
+            },
+            {
+                "width": 1280,
+                "height": 2652,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--1280.jpeg?v=1549997914113"
+            },
+            {
+                "width": 1200,
+                "height": 2486,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--1200.jpeg?v=1549997914038"
+            },
+            {
+                "width": 1024,
+                "height": 2121,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--1024.jpeg?v=1549997915436"
+            },
+            {
+                "width": 1080,
+                "height": 2237,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--1080.jpeg?v=1549997913971"
+            },
+            {
+                "width": 960,
+                "height": 1989,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--960.jpeg?v=1549997915304"
+            },
+            {
+                "width": 640,
+                "height": 1326,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--640.jpeg?v=1549997915480"
+            },
+            {
+                "width": 600,
+                "height": 1243,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--600.jpeg?v=1549997916029"
+            },
+            {
+                "width": 256,
+                "height": 530,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-media--256.jpeg?v=1549997916363"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-thumbnail-1920.jpeg?v=1549997916952"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-thumbnail-1280.jpeg?v=1549997916844"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-thumbnail-640.jpeg?v=1549997917173"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-thumbnail-480.jpeg?v=1549997916736"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-thumbnail-256.jpeg?v=1549997916735"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-thumbnail-64.jpeg?v=1549997916924"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639139\/image-thumbnail-640.jpeg?v=1549997917173",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

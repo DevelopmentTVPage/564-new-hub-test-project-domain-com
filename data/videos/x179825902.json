@@ -1,0 +1,111 @@
+{
+    "title": "Cashmere Sweaters",
+    "description": "Cashmere’s Created for Macy’s",
+    "referenceId": "537790b699a7fe6acb5d8967b471df73",
+    "date_created": "1539234660",
+    "date_modified": "1546466814",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213265",
+    "product_category": "women",
+    "id": "179825902",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cashmere-sweaters",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "automaticThumbnailsPattern": "1759121\/179825902\/4d4c6\/thumb-537790b699a7fe6acb5d8967b471df73-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/thumb-537790b699a7fe6acb5d8967b471df73-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/thumb-537790b699a7fe6acb5d8967b471df73-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/thumb-537790b699a7fe6acb5d8967b471df73-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/thumb-537790b699a7fe6acb5d8967b471df73-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/thumb-537790b699a7fe6acb5d8967b471df73-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/thumb-537790b699a7fe6acb5d8967b471df73-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179825902\/thumbnail\/image-thumbnail-256-2a3a61ebea9a1fba1259fc5efbfc091b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179825902\/thumbnail\/image-thumbnail-480-715d6df51c5e4880b6bda200d12825fd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/thumb-537790b699a7fe6acb5d8967b471df73-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179825902\/thumbnail\/image-thumbnail-480-715d6df51c5e4880b6bda200d12825fd.jpg",
+        "type": "mp4",
+        "assetId": "179825902",
+        "assetTitle": "5F0607F8-0052-493E-A02F-8A189E6F0A8E",
+        "assetTitleTextEncoded": "5f0607f8-0052-493e-a02f-8a189e6f0a8e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179825902",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179825902\/4d4c6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

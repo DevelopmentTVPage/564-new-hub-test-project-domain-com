@@ -1,0 +1,98 @@
+{
+    "title": "The White Blouse",
+    "description": "White blouse does not have to be boring.",
+    "referenceId": "f4035494515f533a0233e48e8d001508",
+    "date_created": "1523642621",
+    "date_modified": "1546466754",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "159001485",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-white-blouse",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "48",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "48",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/159001485\/thumbnail\/image-thumbnail-480-0f2966695f70ec160708afb942b630f9.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159001485\/1e783\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159001485\/1e783\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001485\/1e783\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001485\/1e783\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001485\/1e783\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001485\/1e783\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001485\/1e783\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/159001485\/1e783\/thumb-f4035494515f533a0233e48e8d001508-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/159001485\/user-images\/image-480-dfd6033aee90cfa4df69ab457df6fd97.jpg",
+            "\/\/v.tvpage.com\/1759121\/159001485\/1e783\/thumb-f4035494515f533a0233e48e8d001508-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/159001485\/user-images\/image-480-dfd6033aee90cfa4df69ab457df6fd97.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/159001485\/thumbnail\/image-thumbnail-256-112336e35c830595ddce872b305bc786.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/159001485\/thumbnail\/image-thumbnail-480-0f2966695f70ec160708afb942b630f9.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

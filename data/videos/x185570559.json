@@ -1,0 +1,113 @@
+{
+    "title": "Crazy for Cards",
+    "description": "Make a list ",
+    "referenceId": "b2162cec81d4ba0f92ba10068d0b5bd6",
+    "date_created": "1544234833",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213813",
+    "product_category": "home",
+    "id": "185570559",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "crazy-for-cards",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 244,
+            "height": 480
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/185570559\/0e8fd\/thumb-b2162cec81d4ba0f92ba10068d0b5bd6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185570559\/user-images\/image-554-5f0ce666d28374fd05501668a2e7c6ff.jpg",
+            "\/\/v.tvpage.com\/1759121\/185570559\/user-images\/image-717-263c2ae1dcd9de00a9b2508e9fbe827e.jpg",
+            "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/thumb-b2162cec81d4ba0f92ba10068d0b5bd6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/thumb-b2162cec81d4ba0f92ba10068d0b5bd6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/thumb-b2162cec81d4ba0f92ba10068d0b5bd6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/thumb-b2162cec81d4ba0f92ba10068d0b5bd6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/thumb-b2162cec81d4ba0f92ba10068d0b5bd6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/thumb-b2162cec81d4ba0f92ba10068d0b5bd6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185570559\/thumbnail\/image-thumbnail-256-ab3839130f8406a312bf836280a44832.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185570559\/thumbnail\/image-thumbnail-480-d1886caed3542dd6e0b1f39c4ae8ffc6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185570559\/user-images\/image-554-5f0ce666d28374fd05501668a2e7c6ff.jpg",
+        "type": "mp4",
+        "assetId": 185570559,
+        "assetTitle": "3D342724-0FA7-4D2D-A15B-7E1491C135C6",
+        "assetTitleTextEncoded": "3d342724-0fa7-4d2d-a15b-7e1491c135c6",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185570559,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 182,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185570559\/0e8fd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 122,
+                "height": 240
+            }
+        ],
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185570559\/thumbnail\/image-thumbnail-480-d1886caed3542dd6e0b1f39c4ae8ffc6.jpg"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Best of Origins Gift Set!",
+    "description": "This awesome gift set by Origins is on sale for only $36! Originally $60 and a $154 value! It includes the 3.4 oz size of my all time favorite face wash \"Checks & Balances Frothy Face Wash\"! If you are looking to vamp up your skin care routine and try some new products, this is a great deal!",
+    "referenceId": null,
+    "date_created": "1550511007",
+    "date_modified": "1550523881",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213932",
+    "id": "203680366",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "best-of-origins-gift-set",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2229,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--1920.jpeg?v=1550511038117"
+            },
+            {
+                "width": 1280,
+                "height": 1486,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--1280.jpeg?v=1550511037697"
+            },
+            {
+                "width": 1200,
+                "height": 1393,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--1200.jpeg?v=1550511037606"
+            },
+            {
+                "width": 1024,
+                "height": 1189,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--1024.jpeg?v=1550511037507"
+            },
+            {
+                "width": 1080,
+                "height": 1254,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--1080.jpeg?v=1550511037497"
+            },
+            {
+                "width": 960,
+                "height": 1114,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--960.jpeg?v=1550511037415"
+            },
+            {
+                "width": 640,
+                "height": 743,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--640.jpeg?v=1550511037310"
+            },
+            {
+                "width": 600,
+                "height": 696,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--600.jpeg?v=1550511037220"
+            },
+            {
+                "width": 256,
+                "height": 297,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-media--256.jpeg?v=1550511037898"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-thumbnail-1920.jpeg?v=1550511039468"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-thumbnail-1280.jpeg?v=1550511039415"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-thumbnail-640.jpeg?v=1550511039329"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-thumbnail-480.jpeg?v=1550511039315"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-thumbnail-256.jpeg?v=1550511039322"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-thumbnail-64.jpeg?v=1550511039317"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680366\/image-thumbnail-640.jpeg?v=1550511039329",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

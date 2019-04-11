@@ -1,0 +1,21 @@
+{
+    "id": "213704",
+    "first_name": "Carlos ",
+    "last_name": "Rodriguez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/490571287-0.8446657615713.jpg",
+        "job_title": "AST"
+    },
+    "last_login_timestamp": "1541728933",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 01:48:30",
+    "login_id": "1759121",
+    "user_id": "213704",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Carlos  Rodriguez",
+    "profile_picture": "\/api\/canvas\/logo\/490571287-0.8446657615713.jpg",
+    "titleTextEncoded": "carlos-rodriguez",
+    "title": "Carlos  Rodriguez",
+    "videos_count": "2"
+}

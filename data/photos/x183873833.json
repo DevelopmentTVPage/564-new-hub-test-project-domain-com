@@ -1,0 +1,127 @@
+{
+    "title": "Beauty Black Friday Doorbusters",
+    "description": "Black Friday Doorbusters in Macy’s Tyrone Square. ",
+    "referenceId": null,
+    "date_created": "1542684785",
+    "date_modified": "1546466825",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213183",
+    "id": "183873833",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "beauty-black-friday-doorbusters",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2030,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--1920.jpeg?v=1542733117637"
+            },
+            {
+                "width": 1280,
+                "height": 1353,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--1280.jpeg?v=1542733118695"
+            },
+            {
+                "width": 1200,
+                "height": 1268,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--1200.jpeg?v=1542733117090"
+            },
+            {
+                "width": 1024,
+                "height": 1082,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--1024.jpeg?v=1542733118142"
+            },
+            {
+                "width": 1080,
+                "height": 1141,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--1080.jpeg?v=1542733117097"
+            },
+            {
+                "width": 960,
+                "height": 1015,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--960.jpeg?v=1542733118045"
+            },
+            {
+                "width": 640,
+                "height": 676,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--640.jpeg?v=1542733116969"
+            },
+            {
+                "width": 600,
+                "height": 634,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--600.jpeg?v=1542733117678"
+            },
+            {
+                "width": 256,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-media--256.jpeg?v=1542733118167"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-thumbnail-1920.jpeg?v=1542733119574"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-thumbnail-1280.jpeg?v=1542733119486"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-thumbnail-640.jpeg?v=1542733119951"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-thumbnail-480.jpeg?v=1542733119346"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-thumbnail-256.jpeg?v=1542733119328"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-thumbnail-64.jpeg?v=1542733119720"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183873833\/image-thumbnail-640.jpeg?v=1542733119951",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

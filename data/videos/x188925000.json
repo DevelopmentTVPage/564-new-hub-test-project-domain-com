@@ -1,0 +1,114 @@
+{
+    "title": "Christmas Dinner Look- Just a Taste of Fashion",
+    "description": "Finding the perfect Christmas dress just got easier!\nMacy's has an amazing selection of festive dresses with pops of sequins, velvets, ruffles and more. Happy Holidays and Merry Christmas!",
+    "referenceId": "c8df31c474f3efe297e4c9725ec469d7",
+    "date_created": "1545256434",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "188925000",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "christmas-dinner-look-just-a-taste-of-fashion",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 29,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 29,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 29,
+        "prettyDuration": "00:00:29",
+        "automaticThumbnailsPattern": "1759121\/188925000\/24d94\/thumb-c8df31c474f3efe297e4c9725ec469d7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/thumb-c8df31c474f3efe297e4c9725ec469d7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/thumb-c8df31c474f3efe297e4c9725ec469d7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/thumb-c8df31c474f3efe297e4c9725ec469d7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/thumb-c8df31c474f3efe297e4c9725ec469d7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/thumb-c8df31c474f3efe297e4c9725ec469d7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/thumb-c8df31c474f3efe297e4c9725ec469d7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188925000\/thumbnail\/image-thumbnail-256-cb94cda69d6bdf45aa4bbbc221ebdefb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188925000\/thumbnail\/image-thumbnail-480-5ee1facbd31093148db2dfd1de8986c8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188925000\/thumbnail\/image-thumbnail-640-ed83751ff56454fc8711860996a33344.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188925000\/thumbnail\/image-thumbnail-1280-d2131cb75a0586ab768d3116207515aa.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188925000\/thumbnail\/image-thumbnail-1920-4ea020a39a965ef62c07a62b6a24da45.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/thumb-c8df31c474f3efe297e4c9725ec469d7-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188925000\/thumbnail\/image-thumbnail-640-ed83751ff56454fc8711860996a33344.jpg",
+        "type": "mp4",
+        "assetId": 188925000,
+        "assetTitle": "Christmas Dinner Look- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "christmas-look-1080p-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188925000,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188925000\/24d94\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

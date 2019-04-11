@@ -1,0 +1,115 @@
+{
+    "title": "AMAZING SWEATER DEALS|| Hippie Rose",
+    "description": "Shop these amazing sweater deals, now through cyber Monday! ",
+    "referenceId": null,
+    "date_created": "1542679581",
+    "date_modified": "1546466794",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213274",
+    "id": "183868225",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "amazing-sweater-deals-hippie-rose",
+    "linkUrl": null,
+    "category": "Juniors",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1280,
+                "height": 2278,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-media--1280.jpeg?v=1542679595853"
+            },
+            {
+                "width": 1200,
+                "height": 2135,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-media--1200.jpeg?v=1542679595796"
+            },
+            {
+                "width": 1024,
+                "height": 1822,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-media--1024.jpeg?v=1542679595780"
+            },
+            {
+                "width": 1080,
+                "height": 1922,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-media--1080.jpeg?v=1542679596701"
+            },
+            {
+                "width": 960,
+                "height": 1708,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-media--960.jpeg?v=1542679595721"
+            },
+            {
+                "width": 640,
+                "height": 1139,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-media--640.jpeg?v=1542679596493"
+            },
+            {
+                "width": 600,
+                "height": 1067,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-media--600.jpeg?v=1542679596678"
+            },
+            {
+                "width": 256,
+                "height": 455,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-media--256.jpeg?v=1542679596839"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-thumbnail-1280.jpeg?v=1542679597246"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-thumbnail-640.jpeg?v=1542679597193"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-thumbnail-480.jpeg?v=1542679597179"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-thumbnail-256.jpeg?v=1542679597163"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-thumbnail-64.jpeg?v=1542679597294"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183868225\/image-thumbnail-640.jpeg?v=1542679597193",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

@@ -1,0 +1,115 @@
+{
+    "title": "''My Holiday Journey'' starts here Merry Christmas from Macy's Style Crew Andrea Warner",
+    "description": "Macy's has all the gifts for you!",
+    "referenceId": "3e255255e38cc8dab6b5767c8d70eb8d",
+    "date_created": "1545255556",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "women",
+    "id": "188924999",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-starts-here-merry-christmas-from-macys-style-crew-andrea-warner",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 23,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 23,
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/188924999\/0db93\/thumb-3e255255e38cc8dab6b5767c8d70eb8d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/thumb-3e255255e38cc8dab6b5767c8d70eb8d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/thumb-3e255255e38cc8dab6b5767c8d70eb8d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/thumb-3e255255e38cc8dab6b5767c8d70eb8d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/thumb-3e255255e38cc8dab6b5767c8d70eb8d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/thumb-3e255255e38cc8dab6b5767c8d70eb8d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/thumb-3e255255e38cc8dab6b5767c8d70eb8d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188924999\/thumbnail\/image-thumbnail-256-a9427f4f11207954b36b3e2e82401d04.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188924999\/thumbnail\/image-thumbnail-480-897b156a69da536b87db4f4bb6768368.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188924999\/thumbnail\/image-thumbnail-640-63e343d491d8608d4ce6a6ab2096bec9.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188924999\/thumbnail\/image-thumbnail-1280-6cf9f377ceac2b82e44e46f2809ae010.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188924999\/thumbnail\/image-thumbnail-1920-b7d0edbb23ebc940b276f6106e4c40e9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/thumb-3e255255e38cc8dab6b5767c8d70eb8d-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188924999\/thumbnail\/image-thumbnail-640-63e343d491d8608d4ce6a6ab2096bec9.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": 188924999,
+        "assetTitle": "''My Holiday Journey'' starts here Merry Christmas from Macy's Style Crew Andrea Warner",
+        "assetTitleTextEncoded": "merry-christmas",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188924999,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924999\/0db93\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

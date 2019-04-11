@@ -1,0 +1,109 @@
+{
+    "title": "Jacqueline Palmer\/renew refresh reset",
+    "description": "Renew, refresh,reset\nBe active, love life and enjoy the small victories in life",
+    "referenceId": "30f2b0e3f5a0a0aa4e9927a1f36e8d64",
+    "date_created": "1547322577",
+    "date_modified": "1547436094",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "197644065",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-renew-refresh-reset",
+    "category": "Jacqueline Palmer\/renew refresh reset",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 39,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 39,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 39,
+        "prettyDuration": "00:00:39",
+        "automaticThumbnailsPattern": "1759121\/197644065\/a1cb6\/thumb-30f2b0e3f5a0a0aa4e9927a1f36e8d64-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/thumb-30f2b0e3f5a0a0aa4e9927a1f36e8d64-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/thumb-30f2b0e3f5a0a0aa4e9927a1f36e8d64-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/thumb-30f2b0e3f5a0a0aa4e9927a1f36e8d64-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/thumb-30f2b0e3f5a0a0aa4e9927a1f36e8d64-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/thumb-30f2b0e3f5a0a0aa4e9927a1f36e8d64-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/thumb-30f2b0e3f5a0a0aa4e9927a1f36e8d64-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197644065\/thumbnail\/image-thumbnail-256-428bb31a81ea05040c93f83856a02bfe.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197644065\/thumbnail\/image-thumbnail-480-68a1412c0dc994806b8a5da8e694c73a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/197644065\/thumbnail\/image-thumbnail-640-5c1ee5a0c32b04ed858c5d867747c620.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/197644065\/thumbnail\/image-thumbnail-1280-76d8c6a64604cc7c81b1394201a5e048.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/thumb-30f2b0e3f5a0a0aa4e9927a1f36e8d64-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197644065\/thumbnail\/image-thumbnail-640-5c1ee5a0c32b04ed858c5d867747c620.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197644065\/a1cb6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

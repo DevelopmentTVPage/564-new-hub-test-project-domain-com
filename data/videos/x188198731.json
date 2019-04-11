@@ -1,0 +1,112 @@
+{
+    "title": "FASHION OFFICE HOTTEST WINTER LOOKS",
+    "description": "Bar 111 New Hot Fashion Suits. ANDREA WARNER MACY'S STYLE CREW..",
+    "referenceId": "d2e01c1120f87daf162be7c6c6d5b011",
+    "date_created": "1544831737",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "women",
+    "id": "188198731",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-winter-looks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 8,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 8,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 8,
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/188198731\/a15be\/thumb-d2e01c1120f87daf162be7c6c6d5b011-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/thumb-d2e01c1120f87daf162be7c6c6d5b011-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/thumb-d2e01c1120f87daf162be7c6c6d5b011-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/thumb-d2e01c1120f87daf162be7c6c6d5b011-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/thumb-d2e01c1120f87daf162be7c6c6d5b011-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188198731\/thumbnail\/image-thumbnail-256-4d2e29a2722f5760105328b1ced24db4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188198731\/thumbnail\/image-thumbnail-480-a4f5584b10d73f7c37d61b276c01b821.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188198731\/thumbnail\/image-thumbnail-640-c64801183179a0ab7b5abbde878fa2c2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188198731\/thumbnail\/image-thumbnail-1280-c0751bd49ba3b011f8d13e627c690570.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188198731\/thumbnail\/image-thumbnail-1920-38daebc5b11c7698b1620d8ae4244e9c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/thumb-d2e01c1120f87daf162be7c6c6d5b011-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188198731\/thumbnail\/image-thumbnail-640-c64801183179a0ab7b5abbde878fa2c2.jpg",
+        "type": "mp4",
+        "assetId": 188198731,
+        "assetTitle": "FASHION OFFICE HOTTEST WINTER LOOKS",
+        "assetTitleTextEncoded": "andrea-modeling-nyc-suit-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188198731,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198731\/a15be\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

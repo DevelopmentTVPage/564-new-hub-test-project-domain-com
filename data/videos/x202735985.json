@@ -1,0 +1,102 @@
+{
+    "title": "Valentine’s Glam",
+    "description": "Highlighting MAC Hyper Real Glow",
+    "referenceId": "c83d896ed2fff702d2b9a7905807893e",
+    "date_created": "1550077360",
+    "date_modified": "1550077630",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213827",
+    "product_category": null,
+    "id": "202735985",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-glam",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "7",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "7",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/202735985\/a8022\/thumb-c83d896ed2fff702d2b9a7905807893e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/thumb-c83d896ed2fff702d2b9a7905807893e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/thumb-c83d896ed2fff702d2b9a7905807893e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/thumb-c83d896ed2fff702d2b9a7905807893e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/thumb-c83d896ed2fff702d2b9a7905807893e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202735985\/thumbnail\/image-thumbnail-256-b0c0173b1ce48b640ed263cd2ae34ec5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202735985\/thumbnail\/image-thumbnail-480-8663f9bdac3fce422823011b1f5ff380.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/thumb-c83d896ed2fff702d2b9a7905807893e-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202735985\/thumbnail\/image-thumbnail-480-8663f9bdac3fce422823011b1f5ff380.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202735985\/a8022\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

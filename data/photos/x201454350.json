@@ -1,0 +1,127 @@
+{
+    "title": "Motivation Monday",
+    "description": "\"Happiness is a choice.\"  I choose happy...so can you!  Floral hoodie is no longer in stock, however I found a very similar cropped hoodie by Bar III and its leopard!  Adding to my wishlist now...#motivationmonday",
+    "referenceId": null,
+    "date_created": "1549305952",
+    "date_modified": "1549306207",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "201454350",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "motivation-monday",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3778,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--1920.jpeg?v=1549305959850"
+            },
+            {
+                "width": 1280,
+                "height": 2518,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--1280.jpeg?v=1549305959452"
+            },
+            {
+                "width": 1200,
+                "height": 2361,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--1200.jpeg?v=1549305959368"
+            },
+            {
+                "width": 1024,
+                "height": 2015,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--1024.jpeg?v=1549305960589"
+            },
+            {
+                "width": 1080,
+                "height": 2125,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--1080.jpeg?v=1549305959387"
+            },
+            {
+                "width": 960,
+                "height": 1889,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--960.jpeg?v=1549305960465"
+            },
+            {
+                "width": 640,
+                "height": 1259,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--640.jpeg?v=1549305960540"
+            },
+            {
+                "width": 600,
+                "height": 1180,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--600.jpeg?v=1549305960990"
+            },
+            {
+                "width": 256,
+                "height": 503,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-media--256.jpeg?v=1549305961255"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-thumbnail-1920.jpeg?v=1549305962074"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-thumbnail-1280.jpeg?v=1549305962003"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-thumbnail-640.jpeg?v=1549305962140"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-thumbnail-480.jpeg?v=1549305961941"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-thumbnail-256.jpeg?v=1549305961928"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-thumbnail-64.jpeg?v=1549305962019"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454350\/image-thumbnail-640.jpeg?v=1549305962140",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

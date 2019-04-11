@@ -1,0 +1,21 @@
+{
+    "id": "214046",
+    "first_name": "Emily",
+    "last_name": "Washam",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-16 02:03:55",
+    "login_id": "1759121",
+    "user_id": "214046",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Emily Washam",
+    "profile_picture": null,
+    "titleTextEncoded": "emily-washam",
+    "title": "Emily Washam",
+    "videos_count": "0"
+}

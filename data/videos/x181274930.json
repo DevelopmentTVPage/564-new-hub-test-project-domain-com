@@ -1,0 +1,108 @@
+{
+    "title": "Red Carpet Look",
+    "description": "This dress was purchased for a wedding, but I loved pairing it with accessories and shoes from Macy’s. It’s always my go to place for the trendiest and most reasonably priced accessories.",
+    "referenceId": "d15f886d67df605b43a1f0771d4954d3",
+    "date_created": "1540578964",
+    "date_modified": "1546466788",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "jewelry",
+    "id": "181274930",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "red-carpet-look",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/181274930\/fc5c9\/thumb-d15f886d67df605b43a1f0771d4954d3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/thumb-d15f886d67df605b43a1f0771d4954d3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/thumb-d15f886d67df605b43a1f0771d4954d3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/thumb-d15f886d67df605b43a1f0771d4954d3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181274930\/thumbnail\/image-thumbnail-256-d43b8b323977443e7ca5984529111fd4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181274930\/thumbnail\/image-thumbnail-480-364d1321716ad1a75df776149a4da28c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/thumb-d15f886d67df605b43a1f0771d4954d3-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181274930\/thumbnail\/image-thumbnail-480-364d1321716ad1a75df776149a4da28c.jpg",
+        "type": "mp4",
+        "assetId": 181274930,
+        "assetTitle": "0EFA8AD7-BA83-4F65-92A9-7CF3C3E8A6D3",
+        "assetTitleTextEncoded": "0efa8ad7-ba83-4f65-92a9-7cf3c3e8a6d3",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181274930,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274930\/fc5c9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Jacqueline Palmer\/wardrobe essentials ",
+    "description": "Renew, Refresh, Reset! Wardrobe essential for every day. #macysstylecrew #dkny #rachelrachelroy #macysmystylist   ",
+    "referenceId": null,
+    "date_created": "1547578715",
+    "date_modified": "1547579355",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213201",
+    "id": "198030817",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "jacqueline-palmer-wardrobe-essentials",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1920,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--1920.jpeg?v=1547578720288"
+            },
+            {
+                "width": 1280,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--1280.jpeg?v=1547578720688"
+            },
+            {
+                "width": 1200,
+                "height": 1200,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--1200.jpeg?v=1547578720386"
+            },
+            {
+                "width": 1024,
+                "height": 1024,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--1024.jpeg?v=1547578720729"
+            },
+            {
+                "width": 1080,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--1080.jpeg?v=1547578720119"
+            },
+            {
+                "width": 960,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--960.jpeg?v=1547578720097"
+            },
+            {
+                "width": 640,
+                "height": 640,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--640.jpeg?v=1547578720050"
+            },
+            {
+                "width": 600,
+                "height": 600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--600.jpeg?v=1547578720316"
+            },
+            {
+                "width": 256,
+                "height": 256,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-media--256.jpeg?v=1547578720502"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-thumbnail-1920.jpeg?v=1547578721361"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-thumbnail-1280.jpeg?v=1547578721303"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-thumbnail-640.jpeg?v=1547578721251"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-thumbnail-480.jpeg?v=1547578721236"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-thumbnail-256.jpeg?v=1547578721341"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-thumbnail-64.jpeg?v=1547578721404"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198030817\/image-thumbnail-640.jpeg?v=1547578721251",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Red Hot Lips for Valentine’s Day",
+    "description": "Jamie at Impulse Beauty Wolfchase gave me this amazing red lip using Anastasia, Tarte and Smashbox products and I’m in LOVE!!!\n\nFirst, she prepped my lips with Tarte Pout Prep Lip Exfoliant, then she used Anastasia Lip Primer and followed with Anastasia Liquid Lipstick in American Doll (bonus! This color does help make your teeth look whiter!). She use Smashbox’s Lip Pencil to finish off the look and make sure my lips were perfectly blended. ",
+    "referenceId": null,
+    "date_created": "1549662277",
+    "date_modified": "1549663091",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213205",
+    "id": "201828969",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "red-hot-lips-for-valentines-day",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2560,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--1920.jpeg?v=1549662286061"
+            },
+            {
+                "width": 1280,
+                "height": 1707,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--1280.jpeg?v=1549662286178"
+            },
+            {
+                "width": 1200,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--1200.jpeg?v=1549662286109"
+            },
+            {
+                "width": 1024,
+                "height": 1365,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--1024.jpeg?v=1549662286873"
+            },
+            {
+                "width": 1080,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--1080.jpeg?v=1549662285781"
+            },
+            {
+                "width": 960,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--960.jpeg?v=1549662286372"
+            },
+            {
+                "width": 640,
+                "height": 853,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--640.jpeg?v=1549662286882"
+            },
+            {
+                "width": 600,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--600.jpeg?v=1549662287166"
+            },
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-media--256.jpeg?v=1549662287366"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-thumbnail-1920.jpeg?v=1549662287648"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-thumbnail-1280.jpeg?v=1549662287589"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-thumbnail-640.jpeg?v=1549662287723"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-thumbnail-480.jpeg?v=1549662287534"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-thumbnail-256.jpeg?v=1549662287523"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-thumbnail-64.jpeg?v=1549662287614"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828969\/image-thumbnail-640.jpeg?v=1549662287723",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

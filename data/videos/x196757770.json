@@ -1,0 +1,104 @@
+{
+    "title": "Renew. Refresh. Reset.",
+    "description": "Starting the new year strong at the gym.",
+    "referenceId": "5de85ea561696dd6de54ad551ca5be5e",
+    "date_created": "1546954570",
+    "date_modified": "1546954688",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213181",
+    "product_category": null,
+    "id": "196757770",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-refresh-reset",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "35",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "35",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "automaticThumbnailsPattern": "1759121\/196757770\/ed451\/thumb-5de85ea561696dd6de54ad551ca5be5e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/196757770\/user-images\/image-274-485612fca47e7acc1c033b487b6a682e.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/thumb-5de85ea561696dd6de54ad551ca5be5e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/thumb-5de85ea561696dd6de54ad551ca5be5e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/thumb-5de85ea561696dd6de54ad551ca5be5e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/thumb-5de85ea561696dd6de54ad551ca5be5e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/thumb-5de85ea561696dd6de54ad551ca5be5e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/thumb-5de85ea561696dd6de54ad551ca5be5e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/196757770\/thumbnail\/image-thumbnail-256-963c0bc885afc3aac1e9d782457ca122.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/196757770\/user-images\/image-274-485612fca47e7acc1c033b487b6a682e.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/196757770\/thumbnail\/image-thumbnail-256-963c0bc885afc3aac1e9d782457ca122.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/196757770\/ed451\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,108 @@
+{
+    "title": "New Year's Resolutions ",
+    "description": "Tommy Active XS-3X",
+    "referenceId": "11ddbaee18603f08d5d35c4cc9df5128",
+    "date_created": "1546541955",
+    "date_modified": "1546550660",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "59",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "192649951",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "new-years-resolutions",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 27,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 27,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 27,
+        "prettyDuration": "00:00:27",
+        "automaticThumbnailsPattern": "1759121\/192649951\/f8663\/thumb-11ddbaee18603f08d5d35c4cc9df5128-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/thumb-11ddbaee18603f08d5d35c4cc9df5128-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/thumb-11ddbaee18603f08d5d35c4cc9df5128-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/thumb-11ddbaee18603f08d5d35c4cc9df5128-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/thumb-11ddbaee18603f08d5d35c4cc9df5128-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/thumb-11ddbaee18603f08d5d35c4cc9df5128-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/thumb-11ddbaee18603f08d5d35c4cc9df5128-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192649951\/thumbnail\/image-thumbnail-256-738b3b8d7d369386a2e5f581459287fa.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192649951\/thumbnail\/image-thumbnail-480-45a7394d566acc705d893c4812797352.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/192649951\/thumbnail\/image-thumbnail-640-44791b52bb88d85633075bbd2727a604.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/thumb-11ddbaee18603f08d5d35c4cc9df5128-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192649951\/thumbnail\/image-thumbnail-640-44791b52bb88d85633075bbd2727a604.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649951\/f8663\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Ocean's 8 Fall Fashion Events",
+    "description": "Learn how to get free swag from Macy's with FunnyBread and the gang from Ocean's 8!",
+    "referenceId": "a6479233e64474c8646c17246d1a2b07",
+    "date_created": "1537496028",
+    "date_modified": "1546466789",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "81",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "5",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "women",
+    "id": "178060461",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "oceans-8-fall-fashion-events",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "146",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "146",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "146",
+        "prettyDuration": "00:02:26",
+        "automaticThumbnailsPattern": "1759121\/178060461\/07b0c\/thumb-a6479233e64474c8646c17246d1a2b07-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/thumb-a6479233e64474c8646c17246d1a2b07-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/thumb-a6479233e64474c8646c17246d1a2b07-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/thumb-a6479233e64474c8646c17246d1a2b07-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/thumb-a6479233e64474c8646c17246d1a2b07-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/thumb-a6479233e64474c8646c17246d1a2b07-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/thumb-a6479233e64474c8646c17246d1a2b07-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178060461\/thumbnail\/image-thumbnail-256-00f73b0c1bd3ea847bcf3e79149e73ae.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178060461\/thumbnail\/image-thumbnail-480-2d081c8b0ea9de47ac3dd87df82ba7ec.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178060461\/thumbnail\/image-thumbnail-640-20e217bd2e879d74af3bd6c00a34ef80.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/thumb-a6479233e64474c8646c17246d1a2b07-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178060461\/thumbnail\/image-thumbnail-640-20e217bd2e879d74af3bd6c00a34ef80.jpg",
+        "type": "mp4",
+        "assetId": 178060461,
+        "assetTitle": "Ocean's 8 Fall Fashion Events",
+        "assetTitleTextEncoded": "ocean-s-8-fall-fashion-event",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178060461,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178060461\/07b0c\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "???? ?????????? Wattpad",
+    "tvp_enhanced_transcript": null
+}

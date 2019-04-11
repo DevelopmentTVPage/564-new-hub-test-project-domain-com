@@ -1,0 +1,21 @@
+{
+    "id": "213897",
+    "first_name": "Nata",
+    "last_name": "Dvir",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/547682741-0.1330431143753.jpg",
+        "job_title": "GBM beauty "
+    },
+    "last_login_timestamp": "1547234734",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-11 19:24:19",
+    "login_id": "1759121",
+    "user_id": "213897",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Nata Dvir",
+    "profile_picture": "\/api\/canvas\/logo\/547682741-0.1330431143753.jpg",
+    "titleTextEncoded": "nata-dvir",
+    "title": "Nata Dvir",
+    "videos_count": "0"
+}

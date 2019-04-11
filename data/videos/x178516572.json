@@ -1,0 +1,114 @@
+{
+    "title": "Macys Backstage",
+    "description": "Best pictures are made backstage",
+    "referenceId": "7ace34147966a4148530af0d6b836dda",
+    "date_created": "1538162390",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213200",
+    "product_category": null,
+    "id": "178516572",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-backstage",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "13",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "13",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/178516572\/4d91c\/thumb-7ace34147966a4148530af0d6b836dda-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178516572\/user-images\/image-825-f37b6919968b6b1c86fafa655f965b05.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/thumb-7ace34147966a4148530af0d6b836dda-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/thumb-7ace34147966a4148530af0d6b836dda-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/thumb-7ace34147966a4148530af0d6b836dda-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/thumb-7ace34147966a4148530af0d6b836dda-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/thumb-7ace34147966a4148530af0d6b836dda-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/thumb-7ace34147966a4148530af0d6b836dda-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178516572\/thumbnail\/image-thumbnail-256-1990c77ed4c430040aae88b6ccc9c392.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178516572\/thumbnail\/image-thumbnail-480-e5c2bd3b167cd3c42a56b946e679aa52.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178516572\/thumbnail\/image-thumbnail-640-d841c0b968421c7fe352a951a2efdf52.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178516572\/user-images\/image-825-f37b6919968b6b1c86fafa655f965b05.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178516572\/thumbnail\/image-thumbnail-640-d841c0b968421c7fe352a951a2efdf52.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": "178516572",
+        "assetTitle": "Macys Backstage",
+        "assetTitleTextEncoded": "macys-backstage",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178516572",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516572\/4d91c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Stonehenge Macy's",
+    "tvp_enhanced_transcript": null
+}

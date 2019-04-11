@@ -1,0 +1,117 @@
+{
+    "title": "Spring Preview - Coastal Cool",
+    "description": "Take a sneak peek at some of what we have coming for the Spring season at Macy's Home.  Maybe I'm just dreaming of a beach vacation, but I'm obsessing over our new Coastal collection.",
+    "referenceId": "afcd8215932f49e1ee387b3e9d6ce589",
+    "date_created": "1543260772",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "99",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213463",
+    "product_category": "home",
+    "id": "184294394",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "spring-preview-coastal-cool",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 133,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 133,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 133,
+        "prettyDuration": "00:02:13",
+        "automaticThumbnailsPattern": "1759121\/184294394\/e28ed\/thumb-afcd8215932f49e1ee387b3e9d6ce589-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/thumb-afcd8215932f49e1ee387b3e9d6ce589-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/thumb-afcd8215932f49e1ee387b3e9d6ce589-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/thumb-afcd8215932f49e1ee387b3e9d6ce589-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/thumb-afcd8215932f49e1ee387b3e9d6ce589-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/thumb-afcd8215932f49e1ee387b3e9d6ce589-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/thumb-afcd8215932f49e1ee387b3e9d6ce589-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184294394\/thumbnail\/image-thumbnail-256-4c8606726c9ea63c18d565fcc9c2b596.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184294394\/thumbnail\/image-thumbnail-480-282500d0a171162b000489bb914342cd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184294394\/thumbnail\/image-thumbnail-640-f795f7233e9c913402bba18c6bd2b6a1.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184294394\/thumbnail\/image-thumbnail-1280-df3bef0c2acd7e1ad8dc1a8d105cdc98.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184294394\/thumbnail\/image-thumbnail-1920-c579d2d4be25548e77ed2c4cca1620cc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/thumb-afcd8215932f49e1ee387b3e9d6ce589-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184294394\/thumbnail\/image-thumbnail-640-f795f7233e9c913402bba18c6bd2b6a1.jpg",
+        "type": "mp4",
+        "assetId": 184294394,
+        "assetTitle": "04 Spring Preview 1",
+        "assetTitleTextEncoded": "04-spring-preview-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184294394,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294394\/e28ed\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

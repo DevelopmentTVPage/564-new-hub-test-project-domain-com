@@ -1,0 +1,21 @@
+{
+    "id": "213962",
+    "first_name": "Alyssa",
+    "last_name": "Like",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/932383201-0.1774888596031.jpg",
+        "job_title": "Digital Assistant"
+    },
+    "last_login_timestamp": "1549998857",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-06 20:47:09",
+    "login_id": "1759121",
+    "user_id": "213962",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Alyssa Like",
+    "profile_picture": "\/api\/canvas\/logo\/932383201-0.1774888596031.jpg",
+    "titleTextEncoded": "alyssa-like",
+    "title": "Alyssa Like",
+    "videos_count": "0"
+}

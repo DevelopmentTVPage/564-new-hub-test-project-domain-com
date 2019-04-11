@@ -1,0 +1,100 @@
+{
+    "title": "Holiday Skirts",
+    "description": "Celebrate the holidays in style with sequins and shine! Shop Macy's for fun skirts and tops. French Connection & Sanctuary are too great brands. ",
+    "referenceId": "ac878aa6acd0cceb45d410ca9219f9d8",
+    "date_created": "1545407307",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "46",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213806",
+    "product_category": null,
+    "id": "190567428",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "holiday-skirts",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/190567428\/7e4df\/thumb-ac878aa6acd0cceb45d410ca9219f9d8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/190567428\/user-images\/image-619-2f08d4c7b40e45543da665be2ca62f89.jpg",
+            "\/\/v.tvpage.com\/1759121\/190567428\/7e4df\/thumb-ac878aa6acd0cceb45d410ca9219f9d8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/190567428\/7e4df\/thumb-ac878aa6acd0cceb45d410ca9219f9d8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/190567428\/7e4df\/thumb-ac878aa6acd0cceb45d410ca9219f9d8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/190567428\/thumbnail\/image-thumbnail-256-f7b4f3f6c1a590f9a1e24da8989d99d2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/190567428\/thumbnail\/image-thumbnail-480-d8aa5b6f1166e7d43867c06edf703eb5.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/190567428\/user-images\/image-619-2f08d4c7b40e45543da665be2ca62f89.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/190567428\/thumbnail\/image-thumbnail-480-d8aa5b6f1166e7d43867c06edf703eb5.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567428\/7e4df\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567428\/7e4df\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567428\/7e4df\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567428\/7e4df\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567428\/7e4df\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

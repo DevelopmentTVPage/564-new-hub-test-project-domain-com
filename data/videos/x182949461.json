@@ -1,0 +1,110 @@
+{
+    "title": "Calvin Klein metallic rhinestone cuff dress",
+    "description": "Calvin Klein   Rhinestone Cuff\nBody con Dress",
+    "referenceId": "03edd48db32d2bd994f50dfbc9a9203e",
+    "date_created": "1541686743",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "182949461",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "calvin-klein-metallic-rhinestone-cuff-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 14,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 14,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 14,
+        "prettyDuration": "00:00:14",
+        "automaticThumbnailsPattern": "1759121\/182949461\/c6d91\/thumb-03edd48db32d2bd994f50dfbc9a9203e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/thumb-03edd48db32d2bd994f50dfbc9a9203e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/thumb-03edd48db32d2bd994f50dfbc9a9203e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/thumb-03edd48db32d2bd994f50dfbc9a9203e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/thumb-03edd48db32d2bd994f50dfbc9a9203e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/thumb-03edd48db32d2bd994f50dfbc9a9203e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/thumb-03edd48db32d2bd994f50dfbc9a9203e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182949461\/thumbnail\/image-thumbnail-256-9e28606555ddb20c5940bf92ac1bf8d0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182949461\/thumbnail\/image-thumbnail-480-286fcf80ad58af1d7834b42fb65c60ea.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/thumb-03edd48db32d2bd994f50dfbc9a9203e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182949461\/thumbnail\/image-thumbnail-480-286fcf80ad58af1d7834b42fb65c60ea.jpg",
+        "type": "mp4",
+        "assetId": 182949461,
+        "assetTitleTextEncoded": "2018-11-8-8-16-4",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182949461,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949461\/c6d91\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

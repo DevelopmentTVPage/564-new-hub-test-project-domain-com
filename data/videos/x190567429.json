@@ -1,0 +1,111 @@
+{
+    "title": "@Mr_TJay COZY & WARM #FLY",
+    "description": "Join me in Fitting room Looks for YOU: Cozy & Warm!  It's all about the cool grey, this winter.  I needed something to match these Grey Timbs, so what better way, then to keep it warm and cozy.  The North Face Hoodie (2699357) is perfect for those lazy days, this American Rag Cardigan (7019280) is also great for walking around the office and it being a bit chilly.  My personal fav is the Levi Serpa Hoodie (6791543), it is to die for. You have to stay warm and keep it cozy all winter and be sure to follow @Mr_TJay",
+    "referenceId": "92992fb674e456e32caa216111133c94",
+    "date_created": "1545407537",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "66",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": null,
+    "id": "190567429",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-cozy-warm-fly",
+    "category": "Men",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 60,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 60,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 60,
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/190567429\/7a977\/thumb-92992fb674e456e32caa216111133c94-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/thumb-92992fb674e456e32caa216111133c94-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/thumb-92992fb674e456e32caa216111133c94-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/thumb-92992fb674e456e32caa216111133c94-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/thumb-92992fb674e456e32caa216111133c94-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/thumb-92992fb674e456e32caa216111133c94-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/thumb-92992fb674e456e32caa216111133c94-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/190567429\/thumbnail\/image-thumbnail-256-862a1369c3f4247e7b623db857ff15c5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/190567429\/thumbnail\/image-thumbnail-480-de482fd1967ed2c6780c7e9e7140f4c9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/190567429\/thumbnail\/image-thumbnail-640-c57e80de6b6d62e722093d382d8bd9f8.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/190567429\/thumbnail\/image-thumbnail-1280-849778aa37688687714fe948766b8828.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/190567429\/thumbnail\/image-thumbnail-1920-5b21a7a81e0564ac2d6ad0e38d8fd302.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/thumb-92992fb674e456e32caa216111133c94-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/190567429\/thumbnail\/image-thumbnail-640-c57e80de6b6d62e722093d382d8bd9f8.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190567429\/7a977\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

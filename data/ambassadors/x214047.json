@@ -1,0 +1,21 @@
+{
+    "id": "214047",
+    "first_name": "Raven",
+    "last_name": "Jackson",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Executive Sales Manager"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-16 18:28:24",
+    "login_id": "1759121",
+    "user_id": "214047",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Raven Jackson",
+    "profile_picture": null,
+    "titleTextEncoded": "raven-jackson",
+    "title": "Raven Jackson",
+    "videos_count": "0"
+}

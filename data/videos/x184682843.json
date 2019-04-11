@@ -1,0 +1,118 @@
+{
+    "title": "Michael Kors Holiday Look- Just a Taste of Fashion",
+    "description": "Michael Kors week is in full swing and I am swooning over all of the sequined styles for the holiday season. I am usually a gold girl but the silver sequined dress caught my eye. To top off my look I added the mini chevron MK purse and my favorite white booties.  \n\nWeb ID Below:\nBag: 6343135",
+    "referenceId": "8e2deae4f96a20e64276273a17c9526b",
+    "date_created": "1543609143",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "184682843",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-kors-holiday-look-just-a-taste-of-fashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 34,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 34,
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": 34,
+        "prettyDuration": "00:00:34",
+        "automaticThumbnailsPattern": "1759121\/184682843\/c6052\/thumb-8e2deae4f96a20e64276273a17c9526b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184682843\/user-images\/image-2448-65037ea4750414a92bd0fb5f9e28006a.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/thumb-8e2deae4f96a20e64276273a17c9526b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/thumb-8e2deae4f96a20e64276273a17c9526b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/thumb-8e2deae4f96a20e64276273a17c9526b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/thumb-8e2deae4f96a20e64276273a17c9526b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/thumb-8e2deae4f96a20e64276273a17c9526b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/thumb-8e2deae4f96a20e64276273a17c9526b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184682843\/thumbnail\/image-thumbnail-256-473c616b9d7f2c9d420aa0b2aebb8439.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184682843\/thumbnail\/image-thumbnail-480-45f9a84d3f469a2a0b2d7b74bbb1e1b9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184682843\/thumbnail\/image-thumbnail-640-bcef5d358c14260602e27cde0a96d6d8.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184682843\/thumbnail\/image-thumbnail-1280-dfffe2e7300bd282b7ecc19140a672c6.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184682843\/thumbnail\/image-thumbnail-1920-86f4432ce8957be149804caa337751ed.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184682843\/user-images\/image-2448-65037ea4750414a92bd0fb5f9e28006a.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184682843\/thumbnail\/image-thumbnail-640-bcef5d358c14260602e27cde0a96d6d8.jpg",
+        "type": "mp4",
+        "assetId": 184682843,
+        "assetTitle": "Michael Kors Holiday Look- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "mk-holiday-look",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184682843,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682843\/c6052\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

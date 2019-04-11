@@ -1,0 +1,111 @@
+{
+    "title": "WithinUrMeans - #RemarkableYou",
+    "description": "I had a blast attending some of the #RemarkableYou events at Herald Square this past month!",
+    "referenceId": "14ec85797628d8fdcfed8d632b43ed12",
+    "date_created": "1538162094",
+    "date_modified": "1546466817",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213101",
+    "product_category": "women",
+    "id": "178516571",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "withinurmeans-remarkableyou",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/178516571\/46e78\/thumb-14ec85797628d8fdcfed8d632b43ed12-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/thumb-14ec85797628d8fdcfed8d632b43ed12-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/thumb-14ec85797628d8fdcfed8d632b43ed12-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/thumb-14ec85797628d8fdcfed8d632b43ed12-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/thumb-14ec85797628d8fdcfed8d632b43ed12-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/thumb-14ec85797628d8fdcfed8d632b43ed12-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/thumb-14ec85797628d8fdcfed8d632b43ed12-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178516571\/thumbnail\/image-thumbnail-256-1bb79c14e019eb83cbf4628d23d29c13.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178516571\/thumbnail\/image-thumbnail-480-64136a166cfe38951500bc8562f2657e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/thumb-14ec85797628d8fdcfed8d632b43ed12-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178516571\/thumbnail\/image-thumbnail-480-64136a166cfe38951500bc8562f2657e.jpg",
+        "type": "mp4",
+        "assetId": 178516571,
+        "assetTitle": "WithinUrMeans - #RemarkableYou",
+        "assetTitleTextEncoded": "fjiv4729",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178516571,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 406,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516571\/46e78\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Elle",
+    "tvp_enhanced_transcript": null
+}

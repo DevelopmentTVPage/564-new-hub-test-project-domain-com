@@ -1,0 +1,127 @@
+{
+    "title": "Jacqueline Palmer\/Lumberjack Glam",
+    "description": "Some days you just have to put your own spin on things??I love my plaid with a boyfriend jean any day of the week but when I add my fav pearls and a sweet little black bootie Wednesday becomes as fun as Friday ??",
+    "referenceId": null,
+    "date_created": "1547659327",
+    "date_modified": "1547665712",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213201",
+    "id": "198357660",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "jacqueline-palmer-lumberjack-glam",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3125,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--1920.jpeg?v=1547659334960"
+            },
+            {
+                "width": 1280,
+                "height": 2083,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--1280.jpeg?v=1547659334730"
+            },
+            {
+                "width": 1200,
+                "height": 1953,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--1200.jpeg?v=1547659334691"
+            },
+            {
+                "width": 1024,
+                "height": 1666,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--1024.jpeg?v=1547659335550"
+            },
+            {
+                "width": 1080,
+                "height": 1757,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--1080.jpeg?v=1547659334641"
+            },
+            {
+                "width": 960,
+                "height": 1562,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--960.jpeg?v=1547659335444"
+            },
+            {
+                "width": 640,
+                "height": 1041,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--640.jpeg?v=1547659335506"
+            },
+            {
+                "width": 600,
+                "height": 976,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--600.jpeg?v=1547659335828"
+            },
+            {
+                "width": 256,
+                "height": 416,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-media--256.jpeg?v=1547659336025"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-thumbnail-1920.jpeg?v=1547659336464"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-thumbnail-1280.jpeg?v=1547659336384"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-thumbnail-640.jpeg?v=1547659336495"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-thumbnail-480.jpeg?v=1547659336341"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-thumbnail-256.jpeg?v=1547659336332"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-thumbnail-64.jpeg?v=1547659336409"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198357660\/image-thumbnail-640.jpeg?v=1547659336495",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

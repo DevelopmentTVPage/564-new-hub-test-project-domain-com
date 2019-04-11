@@ -1,0 +1,111 @@
+{
+    "title": "Power Suit feat. Inspr x Brittany Xavier",
+    "description": "There's nothing quite like a woman in a power suit, and a statement one for that matter. Today I'm sharing with you my favorite look from the Inspr x Brittany Xavier collection, exclusive to Macy's. Enjoy!",
+    "referenceId": "150f4a7241862bb2d8558b9f363546e8",
+    "date_created": "1547399978",
+    "date_modified": "1547400182",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "54",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": null,
+    "id": "197938624",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "power-suit-feat-inspr-x-brittany-xavier",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 52,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 52,
+            "width": 1920,
+            "height": 1012
+        },
+        "mediaDuration": 52,
+        "prettyDuration": "00:00:52",
+        "automaticThumbnailsPattern": "1759121\/197938624\/b874c\/thumb-150f4a7241862bb2d8558b9f363546e8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197938624\/user-images\/image-3840-15a512c97a32a8c0a337b6c34b8aa0ef.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/thumb-150f4a7241862bb2d8558b9f363546e8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/thumb-150f4a7241862bb2d8558b9f363546e8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/thumb-150f4a7241862bb2d8558b9f363546e8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/thumb-150f4a7241862bb2d8558b9f363546e8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/thumb-150f4a7241862bb2d8558b9f363546e8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/thumb-150f4a7241862bb2d8558b9f363546e8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197938624\/thumbnail\/image-thumbnail-256-2c49217960a6c67a3ee10516e44f9ab2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197938624\/thumbnail\/image-thumbnail-480-8d7fcfacfe5446a60a306039e77a88b6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/197938624\/thumbnail\/image-thumbnail-640-465b5eeb7ac6e6bae7a203ca5fd94ead.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/197938624\/thumbnail\/image-thumbnail-1280-3f11f458a9904a5b83ff667ec16a67f2.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/197938624\/thumbnail\/image-thumbnail-1920-50658b9333d19973ff68facec2dd5747.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197938624\/user-images\/image-3840-15a512c97a32a8c0a337b6c34b8aa0ef.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197938624\/thumbnail\/image-thumbnail-640-465b5eeb7ac6e6bae7a203ca5fd94ead.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1012
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 674
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 450
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 338
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938624\/b874c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 168
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-23"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

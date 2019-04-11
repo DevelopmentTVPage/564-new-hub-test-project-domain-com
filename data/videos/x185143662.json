@@ -1,0 +1,113 @@
+{
+    "title": "15% off Beauty\/Fragrance during Macy’s Friends & Family 11\/29-12\/10",
+    "description": "Rest your tired twinkle & let Lancôme take the worry out of your Holiday shopping",
+    "referenceId": "b038105e7c0d865b69f6cb76338f100b",
+    "date_created": "1543921829",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213750",
+    "product_category": "beauty",
+    "id": "185143662",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "15-off-beauty-fragrance-during-macys-friends-family-11-29-12-10",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 85,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 85,
+            "width": 268,
+            "height": 480
+        },
+        "mediaDuration": 85,
+        "prettyDuration": "00:01:25",
+        "automaticThumbnailsPattern": "1759121\/185143662\/7da0a\/thumb-b038105e7c0d865b69f6cb76338f100b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/thumb-b038105e7c0d865b69f6cb76338f100b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/thumb-b038105e7c0d865b69f6cb76338f100b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/thumb-b038105e7c0d865b69f6cb76338f100b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/thumb-b038105e7c0d865b69f6cb76338f100b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/thumb-b038105e7c0d865b69f6cb76338f100b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/thumb-b038105e7c0d865b69f6cb76338f100b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185143662\/thumbnail\/image-thumbnail-256-3876fa7daff1e10a2f1d4881be609aac.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/thumb-b038105e7c0d865b69f6cb76338f100b-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143662\/thumbnail\/image-thumbnail-256-3876fa7daff1e10a2f1d4881be609aac.jpg",
+        "type": "mp4",
+        "assetId": 185143662,
+        "assetTitle": "E191BFC2-0B97-4030-8610-13519E077A0E",
+        "assetTitleTextEncoded": "e191bfc2-0b97-4030-8610-13519e077a0e",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185143662,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 268,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 268,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 268,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 200,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143662\/7da0a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-23"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

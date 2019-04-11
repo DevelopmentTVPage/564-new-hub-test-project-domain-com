@@ -1,0 +1,127 @@
+{
+    "title": "SALE Today: Duck Boots RESTOCKED",
+    "description": "To be honest, at first I thought these boots were not my style.  But then I found the quilted black.  I needed some new waterproof rain\/snow boots so I thought I'd give them a try.  9 times out of 10 when I where them walking into work, I never put my other shoes on.  They are so comfy...and cute!  Now you can get them too.  They are restocked! And on sale through today!!!",
+    "referenceId": null,
+    "date_created": "1546004178",
+    "date_modified": "1547758768",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "191687489",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "sale-today-duck-boots-restocked",
+    "linkUrl": null,
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2560,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--1920.jpeg?v=1546004179754"
+            },
+            {
+                "width": 1280,
+                "height": 1706,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--1280.jpeg?v=1546004180113"
+            },
+            {
+                "width": 1200,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--1200.jpeg?v=1546004179571"
+            },
+            {
+                "width": 1024,
+                "height": 1365,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--1024.jpeg?v=1546004179538"
+            },
+            {
+                "width": 1080,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--1080.jpeg?v=1546004179546"
+            },
+            {
+                "width": 960,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--960.jpeg?v=1546004180111"
+            },
+            {
+                "width": 640,
+                "height": 853,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--640.jpeg?v=1546004180209"
+            },
+            {
+                "width": 600,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--600.jpeg?v=1546004180445"
+            },
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-media--256.jpeg?v=1546004180596"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-thumbnail-1920.jpeg?v=1546004180974"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-thumbnail-1280.jpeg?v=1546004180921"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-thumbnail-640.jpeg?v=1546004180981"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-thumbnail-480.jpeg?v=1546004180889"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-thumbnail-256.jpeg?v=1546004180886"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-thumbnail-64.jpeg?v=1546004180921"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191687489\/image-thumbnail-640.jpeg?v=1546004180981",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

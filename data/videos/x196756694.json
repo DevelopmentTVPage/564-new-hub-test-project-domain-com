@@ -1,0 +1,110 @@
+{
+    "title": "Clinique ID ",
+    "description": "New Consentrate for your Mosterizer  to target your concerns.",
+    "referenceId": "659369b279635f526ac65f26d1d4f990",
+    "date_created": "1546925522",
+    "date_modified": "1546954284",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "62",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "196756694",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "clinique-id",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 86,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 86,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 86,
+        "prettyDuration": "00:01:26",
+        "automaticThumbnailsPattern": "1759121\/196756694\/aec5d\/thumb-659369b279635f526ac65f26d1d4f990-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/196756694\/user-images\/image-1440-3e131af79190745b969f05f36e8a8794.jpg",
+            "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/thumb-659369b279635f526ac65f26d1d4f990-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/thumb-659369b279635f526ac65f26d1d4f990-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/thumb-659369b279635f526ac65f26d1d4f990-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/thumb-659369b279635f526ac65f26d1d4f990-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/thumb-659369b279635f526ac65f26d1d4f990-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/thumb-659369b279635f526ac65f26d1d4f990-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/196756694\/thumbnail\/image-thumbnail-256-7aacceb0f370f04b4e585142616a83aa.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/196756694\/thumbnail\/image-thumbnail-480-9c2be511671d6112c58d28c575de0ba4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/196756694\/thumbnail\/image-thumbnail-640-c41024fa14f9e7cf2cdd3d7d443db4ef.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/196756694\/thumbnail\/image-thumbnail-1280-f0b62d5eb91c0bb69bb36d6678b00b83.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/196756694\/user-images\/image-1440-3e131af79190745b969f05f36e8a8794.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/196756694\/thumbnail\/image-thumbnail-640-c41024fa14f9e7cf2cdd3d7d443db4ef.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196756694\/aec5d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

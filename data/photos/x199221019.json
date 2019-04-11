@@ -1,0 +1,127 @@
+{
+    "title": "Clinique iD Dramatically Different Moisturizer",
+    "description": "It’s been a couple of weeks since I started using the new @clinique ID revolutionary moisturizer and my skin has been looking amazing and feeling so  soft despite this harsh winter weather! I started with the moisturizing lotion and selected the fine lines cartridge to customize the best product for my skin type. The beauty of this #clinique product is that you can mix and match a baseline moisturizer with any of 5 different concentrate cartridges to create the PERFECT addition to your skincare routine. Start with your base for oily, dry, or combo skin and then select a concentrate for fine lines, reduced pores, fatigue correction, brightness and even tone or sensitive skin. Looking to up your skin game this winter? Be sure to check out the link in my bio to shop the Clinique ID Dramatically Different collection at Macy’s. #macysstylecrew #macysbeauty #cliniqueid",
+    "referenceId": null,
+    "date_created": "1548254713",
+    "date_modified": "1548255192",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213720",
+    "id": "199221019",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "clinique-id-dramatically-different-moisturizer",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2392,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--1920.jpeg?v=1548254715938"
+            },
+            {
+                "width": 1280,
+                "height": 1594,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--1280.jpeg?v=1548254716803"
+            },
+            {
+                "width": 1200,
+                "height": 1495,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--1200.jpeg?v=1548254715699"
+            },
+            {
+                "width": 1024,
+                "height": 1275,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--1024.jpeg?v=1548254716705"
+            },
+            {
+                "width": 1080,
+                "height": 1345,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--1080.jpeg?v=1548254715695"
+            },
+            {
+                "width": 960,
+                "height": 1196,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--960.jpeg?v=1548254716609"
+            },
+            {
+                "width": 640,
+                "height": 797,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--640.jpeg?v=1548254715616"
+            },
+            {
+                "width": 600,
+                "height": 747,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--600.jpeg?v=1548254715918"
+            },
+            {
+                "width": 256,
+                "height": 318,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-media--256.jpeg?v=1548254716517"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-thumbnail-1920.jpeg?v=1548254717566"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-thumbnail-1280.jpeg?v=1548254717516"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-thumbnail-640.jpeg?v=1548254717585"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-thumbnail-480.jpeg?v=1548254717462"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-thumbnail-256.jpeg?v=1548254717455"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-thumbnail-64.jpeg?v=1548254717509"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199221019\/image-thumbnail-640.jpeg?v=1548254717585",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

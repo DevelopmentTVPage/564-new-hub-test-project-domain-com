@@ -1,0 +1,21 @@
+{
+    "id": "213837",
+    "first_name": "Yasmine",
+    "last_name": "Schmied",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/915907639-0.4392145740333.jpg",
+        "job_title": "Assistant Merchandise Planner"
+    },
+    "last_login_timestamp": "1544645173",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-05 21:09:15",
+    "login_id": "1759121",
+    "user_id": "213837",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Yasmine Schmied",
+    "profile_picture": "\/api\/canvas\/logo\/915907639-0.4392145740333.jpg",
+    "titleTextEncoded": "yasmine-schmied",
+    "title": "Yasmine Schmied",
+    "videos_count": "0"
+}

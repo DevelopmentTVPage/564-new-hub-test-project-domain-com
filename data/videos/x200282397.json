@@ -1,0 +1,104 @@
+{
+    "title": "self-care Sunday!",
+    "description": "It’s also self-care Sunday! I usually mask at night but decided to mask after my #shouldersunday workout. Live this rose clay mask from @origins & rosewater facial spray from @mariobadescu! ",
+    "referenceId": "81d8c85c243339ed4153ded49d2e724d",
+    "date_created": "1548599782",
+    "date_modified": "1548600360",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": null,
+    "id": "200282397",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "self-care-sunday",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/200282397\/dc388\/thumb-81d8c85c243339ed4153ded49d2e724d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/thumb-81d8c85c243339ed4153ded49d2e724d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/thumb-81d8c85c243339ed4153ded49d2e724d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/thumb-81d8c85c243339ed4153ded49d2e724d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/thumb-81d8c85c243339ed4153ded49d2e724d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/thumb-81d8c85c243339ed4153ded49d2e724d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/thumb-81d8c85c243339ed4153ded49d2e724d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200282397\/thumbnail\/image-thumbnail-256-70e89b42cffc907e152040a6c7b12f79.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200282397\/thumbnail\/image-thumbnail-480-dbd26b376bcbdd20cd970f6b34844d12.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/thumb-81d8c85c243339ed4153ded49d2e724d-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200282397\/thumbnail\/image-thumbnail-480-dbd26b376bcbdd20cd970f6b34844d12.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200282397\/dc388\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

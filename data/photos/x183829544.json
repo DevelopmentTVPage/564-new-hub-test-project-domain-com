@@ -1,0 +1,79 @@
+{
+    "title": "Boot sale ",
+    "description": "American rag",
+    "referenceId": null,
+    "date_created": "1542561322",
+    "date_modified": "1546466790",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213710",
+    "id": "183829544",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "boot-sale",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 640,
+                "height": 1137,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829544\/image-media--640.jpeg?v=1542561326179"
+            },
+            {
+                "width": 600,
+                "height": 1066,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829544\/image-media--600.jpeg?v=1542561326144"
+            },
+            {
+                "width": 256,
+                "height": 455,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829544\/image-media--256.jpeg?v=1542561326110"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829544\/image-thumbnail-640.jpeg?v=1542561326378"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829544\/image-thumbnail-480.jpeg?v=1542561326368"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829544\/image-thumbnail-256.jpeg?v=1542561326358"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829544\/image-thumbnail-64.jpeg?v=1542561326354"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829544\/image-thumbnail-640.jpeg?v=1542561326378",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

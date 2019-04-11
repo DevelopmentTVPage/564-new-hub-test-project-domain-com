@@ -1,0 +1,110 @@
+{
+    "title": "winter office look, web id 6829844 Rachael by Rachael Roy",
+    "description": null,
+    "referenceId": "e5f0369d9c1610c6e050038fe5b085c3",
+    "date_created": "1544841522",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": "women",
+    "id": "188320445",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "winter-office-look-web-id-6829844-rachael-by-rachael-roy",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/188320445\/b08ca\/thumb-e5f0369d9c1610c6e050038fe5b085c3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/thumb-e5f0369d9c1610c6e050038fe5b085c3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/thumb-e5f0369d9c1610c6e050038fe5b085c3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/thumb-e5f0369d9c1610c6e050038fe5b085c3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/thumb-e5f0369d9c1610c6e050038fe5b085c3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188320445\/thumbnail\/image-thumbnail-256-ff3c98b9c92612bff000d32a29d31ccf.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188320445\/thumbnail\/image-thumbnail-480-7b79856256eb1c6cb82d50bb2c696c47.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188320445\/thumbnail\/image-thumbnail-640-ef35f1646e894cd4fefbf8a9af7b0422.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/thumb-e5f0369d9c1610c6e050038fe5b085c3-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188320445\/thumbnail\/image-thumbnail-640-ef35f1646e894cd4fefbf8a9af7b0422.jpg",
+        "type": "mp4",
+        "assetId": 188320445,
+        "assetTitle": "Video_2018_12_14_08_34_17_PM",
+        "assetTitleTextEncoded": "video-2018-12-14-08-34-17-pm",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188320445,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188320445\/b08ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

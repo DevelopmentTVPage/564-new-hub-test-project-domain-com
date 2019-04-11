@@ -1,0 +1,115 @@
+{
+    "title": "Charter Club Pearl Cardigan",
+    "description": "cashmere pearl cardigan",
+    "referenceId": "814a431e39b778a914bb06ca3932c638",
+    "date_created": "1538660276",
+    "date_modified": "1546466813",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "178873916",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "charter-club-pearl-cardigan",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "13",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "13",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/178873916\/764de\/thumb-814a431e39b778a914bb06ca3932c638-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178873916\/user-images\/image-597-8376689558fffa59b6b12fe81af4a23a.jpg",
+            "\/\/v.tvpage.com\/1759121\/178873916\/764de\/thumb-814a431e39b778a914bb06ca3932c638-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178873916\/764de\/thumb-814a431e39b778a914bb06ca3932c638-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178873916\/764de\/thumb-814a431e39b778a914bb06ca3932c638-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178873916\/764de\/thumb-814a431e39b778a914bb06ca3932c638-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178873916\/764de\/thumb-814a431e39b778a914bb06ca3932c638-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178873916\/764de\/thumb-814a431e39b778a914bb06ca3932c638-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178873916\/thumbnail\/image-thumbnail-256-5c59d0e392b7f43691e93f25b3dd6baf.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178873916\/thumbnail\/image-thumbnail-480-cff9da80cf1a72351242bcf0dbc9a84d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178873916\/user-images\/image-597-8376689558fffa59b6b12fe81af4a23a.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178873916\/thumbnail\/image-thumbnail-480-cff9da80cf1a72351242bcf0dbc9a84d.jpg",
+        "type": "mp4",
+        "assetId": "178873916",
+        "assetTitle": "pearl cardigan charter",
+        "assetTitleTextEncoded": "pearl-cardigan-charter",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178873916",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178873916\/764de\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178873916\/764de\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178873916\/764de\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178873916\/764de\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178873916\/764de\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-26"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

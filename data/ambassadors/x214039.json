@@ -1,0 +1,21 @@
+{
+    "id": "214039",
+    "first_name": "Kathy",
+    "last_name": "Woodward",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Visual Stylist"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-15 01:02:03",
+    "login_id": "1759121",
+    "user_id": "214039",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Kathy Woodward",
+    "profile_picture": null,
+    "titleTextEncoded": "kathy-woodward",
+    "title": "Kathy Woodward",
+    "videos_count": "0"
+}

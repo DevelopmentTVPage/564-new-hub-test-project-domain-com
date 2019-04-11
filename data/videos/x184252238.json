@@ -1,0 +1,114 @@
+{
+    "title": "Black Friday 2018",
+    "description": "Ready for Our holiday shoppers",
+    "referenceId": "7d0b6ad37c8e7414af115f3db06e3498",
+    "date_created": "1543078670",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "53",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213750",
+    "product_category": "beauty",
+    "id": "184252238",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-2018",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 50,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 50,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 50,
+        "prettyDuration": "00:00:50",
+        "automaticThumbnailsPattern": "1759121\/184252238\/e091f\/thumb-7d0b6ad37c8e7414af115f3db06e3498-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/thumb-7d0b6ad37c8e7414af115f3db06e3498-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/thumb-7d0b6ad37c8e7414af115f3db06e3498-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/thumb-7d0b6ad37c8e7414af115f3db06e3498-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/thumb-7d0b6ad37c8e7414af115f3db06e3498-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/thumb-7d0b6ad37c8e7414af115f3db06e3498-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/thumb-7d0b6ad37c8e7414af115f3db06e3498-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184252238\/thumbnail\/image-thumbnail-256-a26f640ffe0445ad3e76bcae5ea1e6ca.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184252238\/thumbnail\/image-thumbnail-480-574a0f321f62f0aa8e825f836c37fb40.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/thumb-7d0b6ad37c8e7414af115f3db06e3498-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184252238\/thumbnail\/image-thumbnail-480-574a0f321f62f0aa8e825f836c37fb40.jpg",
+        "type": "mp4",
+        "assetId": 184252238,
+        "assetTitle": "383B2014-91DB-40E3-90AC-1084CB4B0D08",
+        "assetTitleTextEncoded": "383b2014-91db-40e3-90ac-1084cb4b0d08",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184252238,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252238\/e091f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

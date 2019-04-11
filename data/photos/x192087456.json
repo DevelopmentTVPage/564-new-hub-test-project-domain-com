@@ -1,0 +1,127 @@
+{
+    "title": "New bottle for a new year! ",
+    "description": "I just finished my first bottle of Good Genes Lactic Acid Treatment from Sunday Riley & I’m so happy I had my backup ready! This has been my go to product the last 2 months and is what I call a “facial in a bottle!” In just 2 months my skin has become so radiant and even! My scars from my hormonal breakouts on my jaw are nearly gone, my pores are smaller, and I’m glowing like never before! Great for all skin types, including sensitive skin! This is something I think everyone should have in their routine in 2019!",
+    "referenceId": null,
+    "date_created": "1546282713",
+    "date_modified": "1546466800",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213865",
+    "id": "192087456",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "new-bottle-for-a-new-year",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1920,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--1920.jpeg?v=1546282731901"
+            },
+            {
+                "width": 1280,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--1280.jpeg?v=1546282732657"
+            },
+            {
+                "width": 1200,
+                "height": 1200,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--1200.jpeg?v=1546282732665"
+            },
+            {
+                "width": 1024,
+                "height": 1024,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--1024.jpeg?v=1546282733069"
+            },
+            {
+                "width": 1080,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--1080.jpeg?v=1546282731595"
+            },
+            {
+                "width": 960,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--960.jpeg?v=1546282732348"
+            },
+            {
+                "width": 640,
+                "height": 640,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--640.jpeg?v=1546282731482"
+            },
+            {
+                "width": 600,
+                "height": 600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--600.jpeg?v=1546282731497"
+            },
+            {
+                "width": 256,
+                "height": 256,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-media--256.jpeg?v=1546282731987"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-thumbnail-1920.jpeg?v=1546282733816"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-thumbnail-1280.jpeg?v=1546282733766"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-thumbnail-640.jpeg?v=1546282734199"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-thumbnail-480.jpeg?v=1546282733631"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-thumbnail-256.jpeg?v=1546282733595"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-thumbnail-64.jpeg?v=1546282733902"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/192087456\/image-thumbnail-640.jpeg?v=1546282734199",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

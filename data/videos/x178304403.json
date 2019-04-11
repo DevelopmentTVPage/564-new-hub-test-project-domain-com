@@ -1,0 +1,114 @@
+{
+    "title": "Fall Casual ~BCBG Blazer & Carlos Santana Shoe Boots",
+    "description": "The BCBG Blazer can take you into casual and business along with this great shoe boot by Carlos Santana.  I paired the blazer and boots with a great Thalia top that has cold-shoulders and open detail on the sleeves and the boho Vintage America jeans For a great Fall casual look",
+    "referenceId": "aa9e287b09938449d83799ce7e40a262",
+    "date_created": "1537854919",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "27",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "178304403",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-casual-bcbg-blazer-carlos-santana-shoe-boots",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/178304403\/e572c\/thumb-aa9e287b09938449d83799ce7e40a262-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/thumb-aa9e287b09938449d83799ce7e40a262-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/thumb-aa9e287b09938449d83799ce7e40a262-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/thumb-aa9e287b09938449d83799ce7e40a262-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/thumb-aa9e287b09938449d83799ce7e40a262-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/thumb-aa9e287b09938449d83799ce7e40a262-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/thumb-aa9e287b09938449d83799ce7e40a262-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178304403\/thumbnail\/image-thumbnail-256-0b10747f1cd4f1bef9d32b379a545353.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178304403\/thumbnail\/image-thumbnail-480-2de5dfac174a4570e265ad6aa0d277bb.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178304403\/thumbnail\/image-thumbnail-640-c48d4a55515bfc8deddfd8469118c025.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178304403\/thumbnail\/image-thumbnail-1280-14cbf03f210c4dafd4ddb904caaac0c1.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/178304403\/thumbnail\/image-thumbnail-1920-5199f41d59954f33a5dee8004c3bed04.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/thumb-aa9e287b09938449d83799ce7e40a262-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178304403\/thumbnail\/image-thumbnail-640-c48d4a55515bfc8deddfd8469118c025.jpg",
+        "type": "mp4",
+        "assetId": 178304403,
+        "assetTitle": "Fall Casual ~BCBG Blazer & Carlos Santana Shoe Boots",
+        "assetTitleTextEncoded": "fall-casual",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178304403,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304403\/e572c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

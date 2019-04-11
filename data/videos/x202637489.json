@@ -1,0 +1,97 @@
+{
+    "title": "Kiehls Tumeric & Cranberry Mask",
+    "description": "•  Key ingredients include: \n•  Turmeric (known for its antioxidant and anti-inflammatory properties; has been used historically to treat skin imperfections and improve the brightness of skin) \n•  Cranberry (rich in antioxidants; natural source of resveratrol; crushed cranberry seeds exfoliate, leaving skin feeling renewed and looking energized and radiant) \n•  Paraben free \n•  How to use: \n•  This rinse-off formula is to be used after cleansing and toning skin \n•  Allow mask to dry for 5-10 minutes \n•  Recommended for daytime use \n•  Phthalate-Free \n•  Sulfate-Free \n•  Paraben-Free \n",
+    "referenceId": "25e16bf31aa0589c885fa245aaf18506",
+    "date_created": "1549953428",
+    "date_modified": "1549953604",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213650",
+    "product_category": null,
+    "id": "202637489",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "kiehls-tumeric-cranberry-mask",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "8",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/202637489\/0403f\/thumb-25e16bf31aa0589c885fa245aaf18506-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/thumb-25e16bf31aa0589c885fa245aaf18506-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/thumb-25e16bf31aa0589c885fa245aaf18506-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/thumb-25e16bf31aa0589c885fa245aaf18506-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/thumb-25e16bf31aa0589c885fa245aaf18506-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202637489\/thumbnail\/image-thumbnail-256-7d6e83cde77cde3e90b91a0781cab67a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/thumb-25e16bf31aa0589c885fa245aaf18506-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202637489\/thumbnail\/image-thumbnail-256-7d6e83cde77cde3e90b91a0781cab67a.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202637489\/0403f\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

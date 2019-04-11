@@ -1,0 +1,115 @@
+{
+    "title": "INC Dress",
+    "description": "Fall season dress",
+    "referenceId": null,
+    "date_created": "1542300916",
+    "date_modified": "1546466828",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213710",
+    "id": "183455457",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "inc-dress",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1280,
+                "height": 2630,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-media--1280.jpeg?v=1542300940449"
+            },
+            {
+                "width": 1200,
+                "height": 2466,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-media--1200.jpeg?v=1542300941465"
+            },
+            {
+                "width": 1024,
+                "height": 2104,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-media--1024.jpeg?v=1542300940286"
+            },
+            {
+                "width": 1080,
+                "height": 2219,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-media--1080.jpeg?v=1542300940348"
+            },
+            {
+                "width": 960,
+                "height": 1973,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-media--960.jpeg?v=1542300940339"
+            },
+            {
+                "width": 640,
+                "height": 1315,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-media--640.jpeg?v=1542300941158"
+            },
+            {
+                "width": 600,
+                "height": 1233,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-media--600.jpeg?v=1542300941297"
+            },
+            {
+                "width": 256,
+                "height": 526,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-media--256.jpeg?v=1542300941566"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-thumbnail-1280.jpeg?v=1542300942181"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-thumbnail-640.jpeg?v=1542300942132"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-thumbnail-480.jpeg?v=1542300942115"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-thumbnail-256.jpeg?v=1542300942103"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-thumbnail-64.jpeg?v=1542300942228"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455457\/image-thumbnail-640.jpeg?v=1542300942132",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

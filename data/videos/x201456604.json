@@ -1,0 +1,104 @@
+{
+    "title": "My Everyday Winter Makeup Routine!",
+    "description": null,
+    "referenceId": "3953abf95f40da6972587a249a93b107",
+    "date_created": "1549316705",
+    "date_modified": "1549316991",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "77",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": null,
+    "id": "201456604",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-everyday-winter-makeup-routine",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 623,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 623,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 623,
+        "prettyDuration": "00:10:23",
+        "automaticThumbnailsPattern": "1759121\/201456604\/6069d\/thumb-3953abf95f40da6972587a249a93b107-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/thumb-3953abf95f40da6972587a249a93b107-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/thumb-3953abf95f40da6972587a249a93b107-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/thumb-3953abf95f40da6972587a249a93b107-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/thumb-3953abf95f40da6972587a249a93b107-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/thumb-3953abf95f40da6972587a249a93b107-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/thumb-3953abf95f40da6972587a249a93b107-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201456604\/thumbnail\/image-thumbnail-256-3b53ec216d326785e7bffc467aac53d9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/201456604\/thumbnail\/image-thumbnail-480-87a6b4d9ad3d04e2c3ba5229d1d5cce4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/201456604\/thumbnail\/image-thumbnail-640-0ea282b2af7ef0bb320c853da029643c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/201456604\/thumbnail\/image-thumbnail-1280-9ec75f9ca7983c657c0437b1bcd8d72c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/thumb-3953abf95f40da6972587a249a93b107-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201456604\/thumbnail\/image-thumbnail-640-0ea282b2af7ef0bb320c853da029643c.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201456604\/6069d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

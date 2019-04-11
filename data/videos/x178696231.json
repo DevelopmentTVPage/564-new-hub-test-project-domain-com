@@ -1,0 +1,113 @@
+{
+    "title": "Fall Look Book || Olivia Philip || Macy's Style Crew",
+    "description": "Is your closet ready for the Fall season?! Check out my Fall look-book for some inspiration. You can shop my Macy's looks at just a click of a button!\n\nFollow me on\nInstagram: @cantlivwithout_\nBlog: cantlivwithout.com",
+    "referenceId": "07fc163cf4b87c818ff429f22ab4c0a3",
+    "date_created": "1538435564",
+    "date_modified": "1546466813",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "179",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213253",
+    "product_category": "women",
+    "id": "178696231",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-look-book-olivia-philip-macys-style-crew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "97",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "97",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "97",
+        "prettyDuration": "00:01:37",
+        "automaticThumbnailsPattern": "1759121\/178696231\/2e35b\/thumb-07fc163cf4b87c818ff429f22ab4c0a3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/thumb-07fc163cf4b87c818ff429f22ab4c0a3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/thumb-07fc163cf4b87c818ff429f22ab4c0a3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/thumb-07fc163cf4b87c818ff429f22ab4c0a3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/thumb-07fc163cf4b87c818ff429f22ab4c0a3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/thumb-07fc163cf4b87c818ff429f22ab4c0a3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/thumb-07fc163cf4b87c818ff429f22ab4c0a3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178696231\/thumbnail\/image-thumbnail-256-771a1be7dec09b86af74c085a87bbbe3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178696231\/thumbnail\/image-thumbnail-480-8c677d46a65431cdb7f9635e08dd8b0a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178696231\/thumbnail\/image-thumbnail-640-41445a8d1671577564ab4e5a99f2583c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178696231\/thumbnail\/image-thumbnail-1280-3198964a127162481ab759e9e24793dd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/thumb-07fc163cf4b87c818ff429f22ab4c0a3-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178696231\/thumbnail\/image-thumbnail-640-41445a8d1671577564ab4e5a99f2583c.jpg",
+        "type": "mp4",
+        "assetId": 178696231,
+        "assetTitle": "Fall Look Book || Olivia Philip || Macy's Style Crew",
+        "assetTitleTextEncoded": "fall-look-book-macy-s-style-crew",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178696231,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178696231\/2e35b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

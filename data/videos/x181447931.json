@@ -1,0 +1,115 @@
+{
+    "title": "Animal Print - Just a Taste of Fashion",
+    "description": "Rockin my animal print this fall. Leopard and Snakeskin are huge and I cant wait to show you how I style the prints. \n Web ID Below\nMichael Kors Dress: 6620338",
+    "referenceId": "91884af932d2b4941e15abd3c87413fc",
+    "date_created": "1540826553",
+    "date_modified": "1546466794",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "181447931",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "animal-print-just-a-taste-of-fashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 156,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 156,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 156,
+        "prettyDuration": "00:02:36",
+        "automaticThumbnailsPattern": "1759121\/181447931\/76570\/thumb-91884af932d2b4941e15abd3c87413fc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181447931\/user-images\/image-3839-52b5a859567dcc244f8e4f4056298c1c.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447931\/76570\/thumb-91884af932d2b4941e15abd3c87413fc-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447931\/76570\/thumb-91884af932d2b4941e15abd3c87413fc-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447931\/76570\/thumb-91884af932d2b4941e15abd3c87413fc-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447931\/76570\/thumb-91884af932d2b4941e15abd3c87413fc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447931\/76570\/thumb-91884af932d2b4941e15abd3c87413fc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447931\/76570\/thumb-91884af932d2b4941e15abd3c87413fc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181447931\/thumbnail\/image-thumbnail-256-682616faee9ab99ca6e4c8f0320f0004.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181447931\/thumbnail\/image-thumbnail-480-9aa63f05d8f3e8eebb078bfe6f9ab2aa.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181447931\/thumbnail\/image-thumbnail-640-715a237d6868dd58705b026862602e72.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181447931\/thumbnail\/image-thumbnail-1280-03a0306a749b26e72aa73770eb330b9e.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181447931\/thumbnail\/image-thumbnail-1920-d1adae686b94c6d25825651fcda3fa7d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181447931\/user-images\/image-3839-52b5a859567dcc244f8e4f4056298c1c.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181447931\/thumbnail\/image-thumbnail-640-715a237d6868dd58705b026862602e72.jpg",
+        "type": "mp4",
+        "assetId": 181447931,
+        "assetTitle": "Animal Print - Just a Taste of Fashion",
+        "assetTitleTextEncoded": "2-animal-print-2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181447931,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447931\/76570\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447931\/76570\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447931\/76570\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447931\/76570\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447931\/76570\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

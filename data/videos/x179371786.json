@@ -1,0 +1,115 @@
+{
+    "title": "@saystheart : October is here, time to get spooky!",
+    "description": "Living for this pinstriped shirt! Nice and cozy in this Washington weather!",
+    "referenceId": "cf26126888424f1400f760da59a444aa",
+    "date_created": "1538784554",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": "juniors",
+    "id": "179371786",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "saystheart-october-is-here-time-to-get-spooky",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/179371786\/67c84\/thumb-cf26126888424f1400f760da59a444aa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179371786\/user-images\/image-673-98ccdb2718a237ce8faf45d427f04afe.jpg",
+            "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/thumb-cf26126888424f1400f760da59a444aa-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/thumb-cf26126888424f1400f760da59a444aa-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/thumb-cf26126888424f1400f760da59a444aa-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/thumb-cf26126888424f1400f760da59a444aa-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/thumb-cf26126888424f1400f760da59a444aa-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/thumb-cf26126888424f1400f760da59a444aa-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179371786\/thumbnail\/image-thumbnail-256-a76554c97f17b3dff77d4727f58f34c5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179371786\/thumbnail\/image-thumbnail-480-2242f2791bf07e71a97b8c9260fed5e7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179371786\/thumbnail\/image-thumbnail-640-fb4942c0c4f74ca4080805a798232f83.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179371786\/user-images\/image-673-98ccdb2718a237ce8faf45d427f04afe.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179371786\/thumbnail\/image-thumbnail-640-fb4942c0c4f74ca4080805a798232f83.jpg",
+        "type": "mp4",
+        "assetId": "179371786",
+        "assetTitle": "@saystheart : October is here!",
+        "assetTitleTextEncoded": "new-project",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179371786",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179371786\/67c84\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

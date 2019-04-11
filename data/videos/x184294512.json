@@ -1,0 +1,114 @@
+{
+    "title": "City Chic Dress",
+    "description": "City Chic Dress",
+    "referenceId": "c84fe17fe92ac4728b1c916ed0ec1c46",
+    "date_created": "1543266982",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "184294512",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "city-chic-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/184294512\/8b8b8\/thumb-c84fe17fe92ac4728b1c916ed0ec1c46-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184294512\/user-images\/image-935-dfff6ee22a6bc78d8bbaccc2a72c7637.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/thumb-c84fe17fe92ac4728b1c916ed0ec1c46-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/thumb-c84fe17fe92ac4728b1c916ed0ec1c46-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/thumb-c84fe17fe92ac4728b1c916ed0ec1c46-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/thumb-c84fe17fe92ac4728b1c916ed0ec1c46-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184294512\/thumbnail\/image-thumbnail-256-452d35690020c0a079eaa8e72ab0e343.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184294512\/thumbnail\/image-thumbnail-480-e1b2eab1a3683784432a67b7f822f9bd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184294512\/thumbnail\/image-thumbnail-640-df87543c480fd5516a51bef1ee6701b8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184294512\/user-images\/image-935-dfff6ee22a6bc78d8bbaccc2a72c7637.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184294512\/thumbnail\/image-thumbnail-640-df87543c480fd5516a51bef1ee6701b8.jpg",
+        "type": "mp4",
+        "assetId": 184294512,
+        "assetTitle": "2018-11-26-14-53-10",
+        "assetTitleTextEncoded": "2018-11-26-14-53-10",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184294512,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294512\/8b8b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

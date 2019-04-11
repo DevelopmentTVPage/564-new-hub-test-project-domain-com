@@ -1,0 +1,127 @@
+{
+    "title": "Estée Lauder Revitializing Supreme",
+    "description": "Supreme Anti-Aging Moisturizer. Smoothes lines and wrinkles. Brings out your inner glow. ",
+    "referenceId": null,
+    "date_created": "1547922818",
+    "date_modified": "1547946180",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213728",
+    "id": "198712320",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "estee-lauder-revitializing-supreme",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2605,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--1920.jpeg?v=1547922942233"
+            },
+            {
+                "width": 1280,
+                "height": 1736,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--1280.jpeg?v=1547922943824"
+            },
+            {
+                "width": 1200,
+                "height": 1628,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--1200.jpeg?v=1547922941868"
+            },
+            {
+                "width": 1024,
+                "height": 1389,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--1024.jpeg?v=1547922943070"
+            },
+            {
+                "width": 1080,
+                "height": 1465,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--1080.jpeg?v=1547922941841"
+            },
+            {
+                "width": 960,
+                "height": 1302,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--960.jpeg?v=1547922942948"
+            },
+            {
+                "width": 640,
+                "height": 868,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--640.jpeg?v=1547922941676"
+            },
+            {
+                "width": 600,
+                "height": 814,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--600.jpeg?v=1547922942421"
+            },
+            {
+                "width": 256,
+                "height": 347,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-media--256.jpeg?v=1547922943040"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-thumbnail-1920.jpeg?v=1547922944899"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-thumbnail-1280.jpeg?v=1547922944767"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-thumbnail-640.jpeg?v=1547922945271"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-thumbnail-480.jpeg?v=1547922944667"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-thumbnail-256.jpeg?v=1547922944637"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-thumbnail-64.jpeg?v=1547922945052"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/198712320\/image-thumbnail-640.jpeg?v=1547922945271",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

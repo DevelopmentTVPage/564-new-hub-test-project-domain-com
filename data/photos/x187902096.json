@@ -1,0 +1,127 @@
+{
+    "title": "Activewear at Macy's",
+    "description": "I can't believe these Nike's are still on sale and available in a few sizes.  They are seriously so comfortable; trust me I own two pairs.  And this Under Armour top is still available in white in a few sizes as well.",
+    "referenceId": null,
+    "date_created": "1544715655",
+    "date_modified": "1546466797",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "187902096",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "activewear-at-macys",
+    "linkUrl": null,
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1920,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--1920.jpeg?v=1544715657570"
+            },
+            {
+                "width": 1280,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--1280.jpeg?v=1544715657461"
+            },
+            {
+                "width": 1200,
+                "height": 1200,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--1200.jpeg?v=1544715657449"
+            },
+            {
+                "width": 1024,
+                "height": 1024,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--1024.jpeg?v=1544715658001"
+            },
+            {
+                "width": 1080,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--1080.jpeg?v=1544715657430"
+            },
+            {
+                "width": 960,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--960.jpeg?v=1544715657861"
+            },
+            {
+                "width": 640,
+                "height": 640,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--640.jpeg?v=1544715657976"
+            },
+            {
+                "width": 600,
+                "height": 600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--600.jpeg?v=1544715658129"
+            },
+            {
+                "width": 256,
+                "height": 256,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-media--256.jpeg?v=1544715658155"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-thumbnail-1920.jpeg?v=1544715658511"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-thumbnail-1280.jpeg?v=1544715658455"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-thumbnail-640.jpeg?v=1544715658516"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-thumbnail-480.jpeg?v=1544715658416"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-thumbnail-256.jpeg?v=1544715658406"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-thumbnail-64.jpeg?v=1544715658440"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902096\/image-thumbnail-640.jpeg?v=1544715658516",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

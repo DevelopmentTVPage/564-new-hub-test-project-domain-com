@@ -1,0 +1,115 @@
+{
+    "title": "Michael Kors Holiday Look",
+    "description": "Quick! I need a holiday party to go to ASAP! This Sequinced Michael Kors Dress is everything! Not only is it a stand out statement dress perfect for the holiday season but the fit is amazing!!! I'm obsessed. Best of all it's 25% off right now during Michael Kors week!",
+    "referenceId": "0a1b9b3fd2e2e64d940f837fc01f9f3d",
+    "date_created": "1543597287",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "5",
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "184682282",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-kors-holiday-look",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/184682282\/e7f74\/thumb-0a1b9b3fd2e2e64d940f837fc01f9f3d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/thumb-0a1b9b3fd2e2e64d940f837fc01f9f3d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/thumb-0a1b9b3fd2e2e64d940f837fc01f9f3d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/thumb-0a1b9b3fd2e2e64d940f837fc01f9f3d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/thumb-0a1b9b3fd2e2e64d940f837fc01f9f3d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/thumb-0a1b9b3fd2e2e64d940f837fc01f9f3d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/thumb-0a1b9b3fd2e2e64d940f837fc01f9f3d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184682282\/thumbnail\/image-thumbnail-256-229e5cf92a3558c96ba39f00f7453809.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184682282\/thumbnail\/image-thumbnail-480-26b93b0e2802df6af95bd3ad0bd389f0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184682282\/thumbnail\/image-thumbnail-640-ac1607ec1c6d649335262f48cd175319.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/thumb-0a1b9b3fd2e2e64d940f837fc01f9f3d-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184682282\/thumbnail\/image-thumbnail-640-ac1607ec1c6d649335262f48cd175319.jpg",
+        "type": "mp4",
+        "assetId": 184682282,
+        "assetTitle": "Michael Kors Metallic Dress 25% OFF!!",
+        "assetTitleTextEncoded": "michael-kors-metallic-dress",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184682282,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682282\/e7f74\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

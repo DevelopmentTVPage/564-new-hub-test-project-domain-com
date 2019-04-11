@@ -1,0 +1,115 @@
+{
+    "title": "Fall Days",
+    "description": "Perfect fall day to embellish that turtleneck sweater layered with a Topcoat. I just love fall fashion.",
+    "referenceId": "fc22dc4fcf0bb56c448cc57baa412b0d",
+    "date_created": "1543883095",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": "men",
+    "id": "184986534",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-days",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 23,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 23,
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/184986534\/64226\/thumb-fc22dc4fcf0bb56c448cc57baa412b0d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184986534\/64226\/thumb-fc22dc4fcf0bb56c448cc57baa412b0d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184986534\/64226\/thumb-fc22dc4fcf0bb56c448cc57baa412b0d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184986534\/64226\/thumb-fc22dc4fcf0bb56c448cc57baa412b0d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184986534\/64226\/thumb-fc22dc4fcf0bb56c448cc57baa412b0d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184986534\/64226\/thumb-fc22dc4fcf0bb56c448cc57baa412b0d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184986534\/64226\/thumb-fc22dc4fcf0bb56c448cc57baa412b0d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184986534\/thumbnail\/image-thumbnail-256-59c996da1a891ea1d52d7679fb534a0d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184986534\/thumbnail\/image-thumbnail-480-9653b7c98d4dd53a6b7c147686c80f59.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184986534\/thumbnail\/image-thumbnail-640-004cd3c72417190826f742abc199b004.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184986534\/thumbnail\/image-thumbnail-1280-a9ffc8100f00d14704cf91a9769f1e18.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184986534\/64226\/thumb-fc22dc4fcf0bb56c448cc57baa412b0d-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184986534\/thumbnail\/image-thumbnail-640-004cd3c72417190826f742abc199b004.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/184986534\/64226\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/184986534\/64226\/media.m3u8",
+        "assetId": 184986534,
+        "assetTitle": "12BC79E6-0875-4BF7-A9F9-CB6B6CA75CA5",
+        "assetTitleTextEncoded": "12bc79e6-0875-4bf7-a9f9-cb6b6ca75ca5",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184986534,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986534\/64226\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986534\/64226\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986534\/64226\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986534\/64226\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986534\/64226\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

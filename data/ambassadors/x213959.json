@@ -1,0 +1,21 @@
+{
+    "id": "213959",
+    "first_name": "Alexis",
+    "last_name": "McDonell",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Copywriter"
+    },
+    "last_login_timestamp": "1550180599",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-06 20:42:25",
+    "login_id": "1759121",
+    "user_id": "213959",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Alexis McDonell",
+    "profile_picture": null,
+    "titleTextEncoded": "alexis-mcdonell",
+    "title": "Alexis McDonell",
+    "videos_count": "0"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213927",
+    "first_name": "Ambrocio",
+    "last_name": "Botello",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": "1548360495",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-24 20:03:16",
+    "login_id": "1759121",
+    "user_id": "213927",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Ambrocio Botello",
+    "profile_picture": null,
+    "titleTextEncoded": "ambrocio-botello",
+    "title": "Ambrocio Botello",
+    "videos_count": "0"
+}

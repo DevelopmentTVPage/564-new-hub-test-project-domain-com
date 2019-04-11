@@ -1,0 +1,127 @@
+{
+    "title": "NEW Clinique iD.",
+    "description": "Clinique iD, a custom-blend hydration system. NEW Clinique iD is a personalized Moisturer Range for Every Skin Concern.",
+    "referenceId": null,
+    "date_created": "1545147791",
+    "date_modified": "1546466800",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213183",
+    "id": "188724438",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "new-clinique-id",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2272,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--1920.jpeg?v=1545148065439"
+            },
+            {
+                "width": 1280,
+                "height": 1514,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--1280.jpeg?v=1545148066852"
+            },
+            {
+                "width": 1200,
+                "height": 1420,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--1200.jpeg?v=1545148066105"
+            },
+            {
+                "width": 1024,
+                "height": 1211,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--1024.jpeg?v=1545148066656"
+            },
+            {
+                "width": 1080,
+                "height": 1278,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--1080.jpeg?v=1545148065172"
+            },
+            {
+                "width": 960,
+                "height": 1136,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--960.jpeg?v=1545148066058"
+            },
+            {
+                "width": 640,
+                "height": 757,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--640.jpeg?v=1545148065031"
+            },
+            {
+                "width": 600,
+                "height": 710,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--600.jpeg?v=1545148065015"
+            },
+            {
+                "width": 256,
+                "height": 302,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-media--256.jpeg?v=1545148065546"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-thumbnail-1920.jpeg?v=1545148067843"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-thumbnail-1280.jpeg?v=1545148067709"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-thumbnail-640.jpeg?v=1545148067584"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-thumbnail-480.jpeg?v=1545148067556"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-thumbnail-256.jpeg?v=1545148067857"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-thumbnail-64.jpeg?v=1545148068094"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188724438\/image-thumbnail-640.jpeg?v=1545148067584",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

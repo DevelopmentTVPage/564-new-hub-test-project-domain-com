@@ -1,0 +1,120 @@
+{
+    "title": "Black Friday madness. Beauty specials.",
+    "description": "Find the perfect gifts for everyone on your list and treat yourself. Tons of cosmetics and fragrances on massive sale. #macysstylecrew ..... @ingrid_717",
+    "referenceId": "1dabe987e876c972164a08969e27e6c7",
+    "date_created": "1542820544",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "beauty",
+    "id": "184012004",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-madness-beauty-specials",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 95,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 95,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 95,
+        "prettyDuration": "00:01:35",
+        "automaticThumbnailsPattern": "1759121\/184012004\/5a897\/thumb-1dabe987e876c972164a08969e27e6c7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184012004\/user-images\/image-4032-170d295a2a848fe022d58aa1e6af89e1.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012004\/user-images\/image-611-6fa3924cbecf43483e48140489bb0e28.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/thumb-1dabe987e876c972164a08969e27e6c7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/thumb-1dabe987e876c972164a08969e27e6c7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/thumb-1dabe987e876c972164a08969e27e6c7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/thumb-1dabe987e876c972164a08969e27e6c7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/thumb-1dabe987e876c972164a08969e27e6c7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/thumb-1dabe987e876c972164a08969e27e6c7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184012004\/thumbnail\/image-thumbnail-256-d76350f19279d785e2c6d8137446eb37.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184012004\/thumbnail\/image-thumbnail-480-5f13cf7c2b14e53a2f6434daa06b0b1c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184012004\/thumbnail\/image-thumbnail-640-7954456847e7870ab3b8c7b7cf10bcf0.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184012004\/thumbnail\/image-thumbnail-1280-10717cbc62ad1bd9c109f2eb486b386d.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184012004\/thumbnail\/image-thumbnail-1920-4e16d57abd09e67c67a2aaca5efe14d9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184012004\/user-images\/image-4032-170d295a2a848fe022d58aa1e6af89e1.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184012004\/thumbnail\/image-thumbnail-640-7954456847e7870ab3b8c7b7cf10bcf0.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": 184012004,
+        "assetTitle": "Black Friday madness. Beauty specials.",
+        "assetTitleTextEncoded": "bdd7fdaf-045a-4ebf-a071-8a611b8d1c81",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184012004,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012004\/5a897\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

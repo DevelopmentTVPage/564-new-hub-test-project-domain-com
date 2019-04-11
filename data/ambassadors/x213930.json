@@ -1,0 +1,21 @@
+{
+    "id": "213930",
+    "first_name": "Sabrina",
+    "last_name": "Guevara",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/665956706-0.8966097189113.jpg",
+        "job_title": "Counter Manager "
+    },
+    "last_login_timestamp": "1548461690",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-25 07:21:18",
+    "login_id": "1759121",
+    "user_id": "213930",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sabrina Guevara",
+    "profile_picture": "\/api\/canvas\/logo\/665956706-0.8966097189113.jpg",
+    "titleTextEncoded": "sabrina-guevara",
+    "title": "Sabrina Guevara",
+    "videos_count": "0"
+}

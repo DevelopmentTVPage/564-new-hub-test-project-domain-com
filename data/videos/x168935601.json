@@ -1,0 +1,113 @@
+{
+    "title": "EMILY CURRAN | MACY'S STYLE CREW | EP. 6 - JULY FAVORITES",
+    "description": "Emily shares some of her July favorites!",
+    "referenceId": "9293d5de6ac30365bb2efe18e5788720",
+    "date_created": "1533305223",
+    "date_modified": "1546466784",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "168935601",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "emily-curran-macys-style-crew-ep-6-july-favorites",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "681",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "681",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "681",
+        "prettyDuration": "00:11:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168935601\/thumbnail\/image-thumbnail-640-ba7c3ea5bbc05c17cb292aa2ffbc9221.jpg",
+        "type": "mp4",
+        "assetId": "168935601",
+        "assetTitle": "EMILY CURRAN | MACY'S STYLE CREW | EP. 6 - JULY FAVORITES",
+        "assetTitleTextEncoded": "ep-6-july-favorites",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168935601",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935601\/49351\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935601\/49351\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935601\/49351\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935601\/49351\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935601\/49351\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168935601\/49351\/thumb-9293d5de6ac30365bb2efe18e5788720-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168935601\/user-images\/image-1920-c1f4722049aa339af4c681fd1d19221f.jpg",
+            "\/\/v.tvpage.com\/1759121\/168935601\/49351\/thumb-9293d5de6ac30365bb2efe18e5788720-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168935601\/user-images\/image-1920-c1f4722049aa339af4c681fd1d19221f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168935601\/thumbnail\/image-thumbnail-256-a81d8a9ac11f17cc693c30eb4b3768db.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168935601\/thumbnail\/image-thumbnail-480-be311d6b4e58ccc662d130be695bd06a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168935601\/thumbnail\/image-thumbnail-640-ba7c3ea5bbc05c17cb292aa2ffbc9221.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/168935601\/thumbnail\/image-thumbnail-1280-b020932872b9a9587621c71324c4a2c7.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/168935601\/thumbnail\/image-thumbnail-1920-27e96226534eedd69d174687972b1bdd.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

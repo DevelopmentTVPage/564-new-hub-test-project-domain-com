@@ -1,0 +1,21 @@
+{
+    "id": "213448",
+    "first_name": "Emily",
+    "last_name": "Foster",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/190119020-0.5846827168948.jpg",
+        "job_title": "Associate Product Manager Charter Club Cashmere"
+    },
+    "last_login_timestamp": "1543438294",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-05 14:31:18",
+    "login_id": "1759121",
+    "user_id": "213448",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Emily Foster",
+    "profile_picture": "\/api\/canvas\/logo\/190119020-0.5846827168948.jpg",
+    "titleTextEncoded": "emily-foster",
+    "title": "Emily Foster",
+    "videos_count": "1"
+}

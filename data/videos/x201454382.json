@@ -1,0 +1,105 @@
+{
+    "title": "Valentine's Day Fragrance, Absolu",
+    "description": "Giorgio Armani : Acqua di Gio Absolu\n                              ",
+    "referenceId": "0f518fc9bcda7b51f5322593499e5f7f",
+    "date_created": "1549309099",
+    "date_modified": "1549996819",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "44",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "201454382",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-day-fragrance-absolu",
+    "category": "Giorgio Armani : Acqua di Gio Absolu\n                              ",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 116,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 116,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 116,
+        "prettyDuration": "00:01:56",
+        "automaticThumbnailsPattern": "1759121\/201454382\/86c7c\/thumb-0f518fc9bcda7b51f5322593499e5f7f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201454382\/user-images\/image-2448-21a717fd709509211c76e81ab02100bb.jpg",
+            "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/thumb-0f518fc9bcda7b51f5322593499e5f7f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/thumb-0f518fc9bcda7b51f5322593499e5f7f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/thumb-0f518fc9bcda7b51f5322593499e5f7f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/thumb-0f518fc9bcda7b51f5322593499e5f7f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/thumb-0f518fc9bcda7b51f5322593499e5f7f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/thumb-0f518fc9bcda7b51f5322593499e5f7f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201454382\/thumbnail\/image-thumbnail-256-7db91af92574b2fb5840fb0bc1bc7c74.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/201454382\/thumbnail\/image-thumbnail-480-b91c17ab48a5e1082da94b57d262a349.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/201454382\/thumbnail\/image-thumbnail-640-9ec4f016fef137d049e4c524ef77093a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/thumb-0f518fc9bcda7b51f5322593499e5f7f-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201454382\/thumbnail\/image-thumbnail-640-9ec4f016fef137d049e4c524ef77093a.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201454382\/86c7c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

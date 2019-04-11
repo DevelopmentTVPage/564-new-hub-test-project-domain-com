@@ -1,0 +1,107 @@
+{
+    "title": "Fall Favorites- Cosmetics",
+    "description": "15% off beauty",
+    "referenceId": "8d3058ae2bc789bf9549e0d545f9b235",
+    "date_created": "1541458640",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": "beauty",
+    "id": "182126447",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-favorites-cosmetics",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/182126447\/e4137\/thumb-8d3058ae2bc789bf9549e0d545f9b235-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/thumb-8d3058ae2bc789bf9549e0d545f9b235-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/thumb-8d3058ae2bc789bf9549e0d545f9b235-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/thumb-8d3058ae2bc789bf9549e0d545f9b235-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182126447\/thumbnail\/image-thumbnail-256-5a77d7307064e20933f5096870a6d4c6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/thumb-8d3058ae2bc789bf9549e0d545f9b235-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182126447\/thumbnail\/image-thumbnail-256-5a77d7307064e20933f5096870a6d4c6.jpg",
+        "type": "mp4",
+        "assetId": 182126447,
+        "assetTitle": "89C80085-EEF8-4B6A-B103-245D29FC8650",
+        "assetTitleTextEncoded": "89c80085-eef8-4b6a-b103-245d29fc8650",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182126447,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182126447\/e4137\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

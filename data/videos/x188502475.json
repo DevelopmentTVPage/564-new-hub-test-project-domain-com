@@ -1,0 +1,115 @@
+{
+    "title": "Macy’s Haul",
+    "description": "Hello and welcome to my Macy’s haul. I found the perfect versatile pieces to take for day to night this fall\/winter season. Take advantage of all the great deals and treat your self these holidays. Enjoy! \n\nHola! Bienvenidos a mi canal! Recientemente me fui de compras a Macy’s y encontré una piezas  súper lindas que puedes llevar de día a noche! Aprovecha todas las ofertas!",
+    "referenceId": "a67997f142d481ae79c96baae27a30a1",
+    "date_created": "1544989323",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "68",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213216",
+    "product_category": "women",
+    "id": "188502475",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-haul",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 572,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 572,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 572,
+        "prettyDuration": "00:09:32",
+        "automaticThumbnailsPattern": "1759121\/188502475\/e5808\/thumb-a67997f142d481ae79c96baae27a30a1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/thumb-a67997f142d481ae79c96baae27a30a1-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/thumb-a67997f142d481ae79c96baae27a30a1-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/thumb-a67997f142d481ae79c96baae27a30a1-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/thumb-a67997f142d481ae79c96baae27a30a1-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/thumb-a67997f142d481ae79c96baae27a30a1-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/thumb-a67997f142d481ae79c96baae27a30a1-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188502475\/thumbnail\/image-thumbnail-256-04d4faef37849571428768c3b370c172.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188502475\/thumbnail\/image-thumbnail-480-36a1aa6f1a5a50c0fa2046953d0b360e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188502475\/thumbnail\/image-thumbnail-640-86b73f23d38c0998eb80df85fa50c570.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188502475\/thumbnail\/image-thumbnail-1280-43c24c75ddf7b5b9eaba5b6946747a97.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/thumb-a67997f142d481ae79c96baae27a30a1-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188502475\/thumbnail\/image-thumbnail-640-86b73f23d38c0998eb80df85fa50c570.jpg",
+        "type": "mp4",
+        "assetId": 188502475,
+        "assetTitle": "Macy’s Haul",
+        "assetTitleTextEncoded": "e9015430-b830-4703-bff3-92a946f8f99a",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188502475,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188502475\/e5808\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

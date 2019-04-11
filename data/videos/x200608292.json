@@ -1,0 +1,107 @@
+{
+    "title": "Valentine’s Day with Acqua Di Gio Absolu and sí Passione",
+    "description": "Are you looking for the perfect gift for your love one? Macy’s carry the best frangances for men and women. Definitely my favorite ones are Acqua di Gio Absolu and Sí Passione.",
+    "referenceId": "c638c8f2cfa2fe075e92022d18d38d8b",
+    "date_created": "1548874027",
+    "date_modified": "1548881498",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": null,
+    "id": "200608292",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-day-with-acqua-di-gio-absolu-and-si-passione",
+    "category": "Beauty",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/200608292\/70057\/thumb-c638c8f2cfa2fe075e92022d18d38d8b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200608292\/70057\/thumb-c638c8f2cfa2fe075e92022d18d38d8b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608292\/70057\/thumb-c638c8f2cfa2fe075e92022d18d38d8b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608292\/70057\/thumb-c638c8f2cfa2fe075e92022d18d38d8b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608292\/70057\/thumb-c638c8f2cfa2fe075e92022d18d38d8b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608292\/70057\/thumb-c638c8f2cfa2fe075e92022d18d38d8b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608292\/70057\/thumb-c638c8f2cfa2fe075e92022d18d38d8b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200608292\/thumbnail\/image-thumbnail-256-b1106b012a8dadec4bb479684fe1a081.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200608292\/thumbnail\/image-thumbnail-480-8529336ec54a40384c95d1529796e6fe.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/200608292\/thumbnail\/image-thumbnail-640-8c14b9e862094d3c22c93afcd8678f5c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/200608292\/thumbnail\/image-thumbnail-1280-ea4f1c8d263e3a386cc0c0deb5dddb2b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200608292\/70057\/thumb-c638c8f2cfa2fe075e92022d18d38d8b-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200608292\/thumbnail\/image-thumbnail-640-8c14b9e862094d3c22c93afcd8678f5c.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200608292\/70057\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200608292\/70057\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608292\/70057\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608292\/70057\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608292\/70057\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608292\/70057\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608292\/70057\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

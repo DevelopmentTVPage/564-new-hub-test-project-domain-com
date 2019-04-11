@@ -1,0 +1,113 @@
+{
+    "title": "Plus Size Animal Instinct",
+    "description": "Leopard and animal prints are everywhere this fall and you can really find ways to dress them up or dress them down! I love a good casual, but put together look and this New York Collection plus size duster works for me. I paired it back to these Style & Co soft woven jogger pants and threw on a cool new INC tee shirt. Any weekend look is not complete without a great bootie in fall and these perf booties from Lucky brand are perfect for running around the city. Don't forget to throw on the IT LIST bag of the season, the red hand bag! We have so many at Macys and this Coach quilted camera bag is one of my faves <3 Shop the whole look in the links on this page",
+    "referenceId": "7a220cd787f1485a73f1376dd67c89fd",
+    "date_created": "1539973561",
+    "date_modified": "1546466819",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "89",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "180614602",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "plus-size-animal-instinct",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 35,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 35,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 35,
+        "prettyDuration": "00:00:35",
+        "automaticThumbnailsPattern": "1759121\/180614602\/5012d\/thumb-7a220cd787f1485a73f1376dd67c89fd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/thumb-7a220cd787f1485a73f1376dd67c89fd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/thumb-7a220cd787f1485a73f1376dd67c89fd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/thumb-7a220cd787f1485a73f1376dd67c89fd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/thumb-7a220cd787f1485a73f1376dd67c89fd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/thumb-7a220cd787f1485a73f1376dd67c89fd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/thumb-7a220cd787f1485a73f1376dd67c89fd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180614602\/thumbnail\/image-thumbnail-256-ad5446bd9c753b750c5e44f5b0daf0f8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180614602\/thumbnail\/image-thumbnail-480-5a470e92098b3f9b3ce44835c624171c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180614602\/thumbnail\/image-thumbnail-640-ff35e774527d337cc710d0bf040b89bd.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180614602\/thumbnail\/image-thumbnail-1280-e62ef48f2431df115f8119dc0c7e9559.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/thumb-7a220cd787f1485a73f1376dd67c89fd-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180614602\/thumbnail\/image-thumbnail-640-ff35e774527d337cc710d0bf040b89bd.jpg",
+        "type": "mp4",
+        "assetId": 180614602,
+        "assetTitle": "Plus Size Animal Instinct",
+        "assetTitleTextEncoded": "b2ea6fe6-b722-46cc-86af-e24ccb8d9fe8",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180614602,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180614602\/5012d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

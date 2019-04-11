@@ -1,0 +1,117 @@
+{
+    "title": "Michael Kors Sept. 2018 #remarkableyou",
+    "description": "Fall 2018 Michael Kors",
+    "referenceId": "d30d07dbcee098229dad9d1941afc009",
+    "date_created": "1537514912",
+    "date_modified": "1546466808",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "178091755",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-kors-sept-2018-remarkableyou",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "68",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "68",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "automaticThumbnailsPattern": "1759121\/178091755\/784bf\/thumb-d30d07dbcee098229dad9d1941afc009-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178091755\/user-images\/image-1868-aa93ed87d21bd605821cd406b99bd991.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/thumb-d30d07dbcee098229dad9d1941afc009-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/thumb-d30d07dbcee098229dad9d1941afc009-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/thumb-d30d07dbcee098229dad9d1941afc009-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/thumb-d30d07dbcee098229dad9d1941afc009-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/thumb-d30d07dbcee098229dad9d1941afc009-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/thumb-d30d07dbcee098229dad9d1941afc009-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178091755\/thumbnail\/image-thumbnail-256-67a28a4cfdd5bd3c0caf2214d8cabef7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178091755\/thumbnail\/image-thumbnail-480-b323119256d133a718615b5d43abc4f2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178091755\/thumbnail\/image-thumbnail-640-dabe0dc900337da34657ee332d3fd254.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178091755\/thumbnail\/image-thumbnail-1280-b8fec4686964ed238a74029c20bd5dae.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178091755\/user-images\/image-1868-aa93ed87d21bd605821cd406b99bd991.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178091755\/thumbnail\/image-thumbnail-640-dabe0dc900337da34657ee332d3fd254.jpg",
+        "type": "mp4",
+        "assetId": "178091755",
+        "assetTitle": "Michael Kors Sept. 2018",
+        "assetTitleTextEncoded": "2018-9-21-2-25-32",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178091755",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091755\/784bf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-23"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Norwegian Red Cross",
+    "tvp_enhanced_transcript": null
+}

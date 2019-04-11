@@ -1,0 +1,117 @@
+{
+    "title": "@Mr_TJay Rain Jacket Dance Off",
+    "description": "It's all fun and games until the rain starts.  This Fall gear up with this Blush Pink Kenneth Cole Wind Breaker (5745950) paired with these comfortable Guess Sneakers (5870903) and DANCE THROUGH THE RAIN! Have some fun without the SUN! Be sure to follow @Mr_TJay",
+    "referenceId": "79382a7138f22ac15341d531f4a8a61d",
+    "date_created": "1537831074",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "57",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "178266424",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-rain-jacket-dance-off",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "32",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "automaticThumbnailsPattern": "1759121\/178266424\/644e3\/thumb-79382a7138f22ac15341d531f4a8a61d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/thumb-79382a7138f22ac15341d531f4a8a61d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/thumb-79382a7138f22ac15341d531f4a8a61d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/thumb-79382a7138f22ac15341d531f4a8a61d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/thumb-79382a7138f22ac15341d531f4a8a61d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/thumb-79382a7138f22ac15341d531f4a8a61d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/thumb-79382a7138f22ac15341d531f4a8a61d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178266424\/thumbnail\/image-thumbnail-256-36fca13a51e1862402779b9264797dde.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178266424\/thumbnail\/image-thumbnail-480-a39a734a12ead49b7005d04306d1bae0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178266424\/thumbnail\/image-thumbnail-640-5a8b4e111e83fa47e1e3b50f35659a44.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178266424\/thumbnail\/image-thumbnail-1280-54d518b604c6afda77037e93305d5fed.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/178266424\/thumbnail\/image-thumbnail-1920-af6b71b85f897ec0442939887cac62cc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/thumb-79382a7138f22ac15341d531f4a8a61d-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266424\/thumbnail\/image-thumbnail-640-5a8b4e111e83fa47e1e3b50f35659a44.jpg",
+        "type": "mp4",
+        "assetId": "178266424",
+        "assetTitle": "@Mr_TJay Rain Jacket Dance Off",
+        "assetTitleTextEncoded": "tj-danceoff-vs-statue-v2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178266424",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266424\/644e3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

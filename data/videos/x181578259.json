@@ -1,0 +1,103 @@
+{
+    "title": "Gucci",
+    "description": "Gucci perfect gift set",
+    "referenceId": "b9bc2ea2e489b75103c4739fed2d0c13",
+    "date_created": "1541021537",
+    "date_modified": "1546993114",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213181",
+    "product_category": null,
+    "id": "181578259",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "gucci",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 14,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 14,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 14,
+        "prettyDuration": "00:00:14",
+        "automaticThumbnailsPattern": "1759121\/181578259\/60c28\/thumb-b9bc2ea2e489b75103c4739fed2d0c13-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/thumb-b9bc2ea2e489b75103c4739fed2d0c13-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/thumb-b9bc2ea2e489b75103c4739fed2d0c13-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/thumb-b9bc2ea2e489b75103c4739fed2d0c13-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/thumb-b9bc2ea2e489b75103c4739fed2d0c13-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/thumb-b9bc2ea2e489b75103c4739fed2d0c13-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/thumb-b9bc2ea2e489b75103c4739fed2d0c13-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181578259\/thumbnail\/image-thumbnail-256-b92223fc1d91db1bea2b86b304e9bdd7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181578259\/thumbnail\/image-thumbnail-480-db0650759ba049a008ddd3f638a3b30b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/thumb-b9bc2ea2e489b75103c4739fed2d0c13-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181578259\/thumbnail\/image-thumbnail-480-db0650759ba049a008ddd3f638a3b30b.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181578259\/60c28\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

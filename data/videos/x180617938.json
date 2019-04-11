@@ -1,0 +1,113 @@
+{
+    "title": "The perfect attire for an evening out or a special event",
+    "description": "That moment when you find the perfect dress for a special event and pair with your favorite fragrance- this is that moment !",
+    "referenceId": "9c3325244c82496df32062def9379bec",
+    "date_created": "1539996802",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213242",
+    "product_category": "beauty",
+    "id": "180617938",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-perfect-attire-for-an-evening-out-or-a-special-event",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 29,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 29,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 29,
+        "prettyDuration": "00:00:29",
+        "automaticThumbnailsPattern": "1759121\/180617938\/ef708\/thumb-9c3325244c82496df32062def9379bec-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/thumb-9c3325244c82496df32062def9379bec-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/thumb-9c3325244c82496df32062def9379bec-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/thumb-9c3325244c82496df32062def9379bec-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/thumb-9c3325244c82496df32062def9379bec-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/thumb-9c3325244c82496df32062def9379bec-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/thumb-9c3325244c82496df32062def9379bec-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180617938\/thumbnail\/image-thumbnail-256-bfd6a26d93cd3cbf7a61c9fbbcb4d106.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180617938\/thumbnail\/image-thumbnail-480-3055387dfd58211886ab8eb180fe555c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/thumb-9c3325244c82496df32062def9379bec-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180617938\/thumbnail\/image-thumbnail-480-3055387dfd58211886ab8eb180fe555c.jpg",
+        "type": "mp4",
+        "assetId": 180617938,
+        "assetTitle": "B8B599AE-0D27-4910-B21F-DD6D27A3FAC2",
+        "assetTitleTextEncoded": "b8b599ae-0d27-4910-b21f-dd6d27a3fac2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180617938,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/180617938\/ef708\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

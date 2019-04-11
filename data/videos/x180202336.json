@@ -1,0 +1,114 @@
+{
+    "title": "Marc Fisher Boots & a Great Leopard Cardigan!",
+    "description": "This week's Outfit of the Day is my great finds from Backstage! Macy's own little discount store with great brands for less! Like these Marc Fisher boots that are originally $29!! And this Notation Leopard Cardigan for just $25!! My inspiration came from a Leopard Cardigan from Sanctuary that Macy's currently carries.",
+    "referenceId": "8c7e6bd3929049b56dcf1ba303edf7ba",
+    "date_created": "1539586576",
+    "date_modified": "1546466820",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "180202336",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "marc-fisher-boots-a-great-leopard-cardigan",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 53,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 53,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 53,
+        "prettyDuration": "00:00:53",
+        "automaticThumbnailsPattern": "1759121\/180202336\/94e7e\/thumb-8c7e6bd3929049b56dcf1ba303edf7ba-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/thumb-8c7e6bd3929049b56dcf1ba303edf7ba-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/thumb-8c7e6bd3929049b56dcf1ba303edf7ba-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/thumb-8c7e6bd3929049b56dcf1ba303edf7ba-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/thumb-8c7e6bd3929049b56dcf1ba303edf7ba-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/thumb-8c7e6bd3929049b56dcf1ba303edf7ba-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/thumb-8c7e6bd3929049b56dcf1ba303edf7ba-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180202336\/thumbnail\/image-thumbnail-256-58a5900a9314c1279fb46817629a9528.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180202336\/thumbnail\/image-thumbnail-480-ee3973060f08e8b129dcaaededb36d13.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180202336\/thumbnail\/image-thumbnail-640-f8f10772f9cd47f74b78918894a58089.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180202336\/thumbnail\/image-thumbnail-1280-5e723bcaece9df96a916c2dbdb839eff.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/180202336\/thumbnail\/image-thumbnail-1920-b3d73625def7ed22ac513987e8acc96f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/thumb-8c7e6bd3929049b56dcf1ba303edf7ba-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180202336\/thumbnail\/image-thumbnail-640-f8f10772f9cd47f74b78918894a58089.jpg",
+        "type": "mp4",
+        "assetId": 180202336,
+        "assetTitle": "Marc Fisher Boots & a Great Leopard Cardigan!",
+        "assetTitleTextEncoded": "marc-fisher-boots",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180202336,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180202336\/94e7e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

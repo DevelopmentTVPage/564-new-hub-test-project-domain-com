@@ -1,0 +1,21 @@
+{
+    "id": "213884",
+    "first_name": "Anthony",
+    "last_name": "Diaz",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "MyStylist"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-03 20:13:49",
+    "login_id": "1759121",
+    "user_id": "213884",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Anthony Diaz",
+    "profile_picture": null,
+    "titleTextEncoded": "anthony-diaz",
+    "title": "Anthony Diaz",
+    "videos_count": "0"
+}

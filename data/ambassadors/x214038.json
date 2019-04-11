@@ -1,0 +1,21 @@
+{
+    "id": "214038",
+    "first_name": "Craig",
+    "last_name": "Testerman",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Chanel beauty Advisor"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-14 23:58:34",
+    "login_id": "1759121",
+    "user_id": "214038",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Craig Testerman",
+    "profile_picture": null,
+    "titleTextEncoded": "craig-testerman",
+    "title": "Craig Testerman",
+    "videos_count": "0"
+}

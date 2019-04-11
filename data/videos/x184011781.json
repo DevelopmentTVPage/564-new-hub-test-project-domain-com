@@ -1,0 +1,114 @@
+{
+    "title": "Amazing sweater deals",
+    "description": null,
+    "referenceId": "2f381d8fad4643d5ce948922d65fc100",
+    "date_created": "1542803066",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "35",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213181",
+    "product_category": "women",
+    "id": "184011781",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "amazing-sweater-deals",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 131,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 131,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 131,
+        "prettyDuration": "00:02:11",
+        "automaticThumbnailsPattern": "1759121\/184011781\/44da6\/thumb-2f381d8fad4643d5ce948922d65fc100-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/thumb-2f381d8fad4643d5ce948922d65fc100-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/thumb-2f381d8fad4643d5ce948922d65fc100-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/thumb-2f381d8fad4643d5ce948922d65fc100-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/thumb-2f381d8fad4643d5ce948922d65fc100-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/thumb-2f381d8fad4643d5ce948922d65fc100-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/thumb-2f381d8fad4643d5ce948922d65fc100-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184011781\/thumbnail\/image-thumbnail-256-258441c8f5628589d370e53d6874ed35.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184011781\/thumbnail\/image-thumbnail-480-6187798f9ae1db457fed20c8ecd3f19b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/thumb-2f381d8fad4643d5ce948922d65fc100-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184011781\/thumbnail\/image-thumbnail-480-6187798f9ae1db457fed20c8ecd3f19b.jpg",
+        "type": "mp4",
+        "assetId": 184011781,
+        "assetTitle": "Amazing sweater deals",
+        "assetTitleTextEncoded": "3388026b-46fd-4e27-82ec-fd89966dfdf2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184011781,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011781\/44da6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

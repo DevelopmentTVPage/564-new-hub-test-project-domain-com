@@ -1,0 +1,127 @@
+{
+    "title": "Papyrus Holiday cards to help spread cheer",
+    "description": "Did you know that Macy's carries Papyrus cards all year long? The holiday set has now hit and I am sharing some of my favorites! Some even include a removable ornament to add to your tree! Head in to your local Macy's to find a huge assortment for everyone on your list!\n\nYou can even write a letter to Santa and Macy's will donate $1 to the \"Make-a-Wish\" foundation for every letter mailed from the store",
+    "referenceId": null,
+    "date_created": "1543938548",
+    "date_modified": "1546466827",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213300",
+    "id": "185143747",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "papyrus-holiday-cards-to-help-spread-cheer",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2555,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--1920.jpeg?v=1543938746877"
+            },
+            {
+                "width": 1280,
+                "height": 1703,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--1280.jpeg?v=1543938746561"
+            },
+            {
+                "width": 1200,
+                "height": 1597,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--1200.jpeg?v=1543938746499"
+            },
+            {
+                "width": 1024,
+                "height": 1362,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--1024.jpeg?v=1543938747535"
+            },
+            {
+                "width": 1080,
+                "height": 1437,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--1080.jpeg?v=1543938746511"
+            },
+            {
+                "width": 960,
+                "height": 1277,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--960.jpeg?v=1543938747430"
+            },
+            {
+                "width": 640,
+                "height": 851,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--640.jpeg?v=1543938747523"
+            },
+            {
+                "width": 600,
+                "height": 798,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--600.jpeg?v=1543938748014"
+            },
+            {
+                "width": 256,
+                "height": 340,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-media--256.jpeg?v=1543938748292"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-thumbnail-1920.jpeg?v=1543938748804"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-thumbnail-1280.jpeg?v=1543938748707"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-thumbnail-640.jpeg?v=1543938748592"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-thumbnail-480.jpeg?v=1543938748570"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-thumbnail-256.jpeg?v=1543938748767"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-thumbnail-64.jpeg?v=1543938748936"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/185143747\/image-thumbnail-640.jpeg?v=1543938748592",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

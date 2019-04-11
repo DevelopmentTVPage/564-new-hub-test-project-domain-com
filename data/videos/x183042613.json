@@ -1,0 +1,114 @@
+{
+    "title": "How to Style a Plaid Blazer 3 Ways",
+    "description": "Hi everyone! Blazers have always been a staple in my wardrobe and in today's video I'm showing you how to style my favorite one (web id: 6860897) for this Fall. Enjoy!",
+    "referenceId": "c09f97d3c05febdf11fbf194eb1f159c",
+    "date_created": "1541739960",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "45",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "183042613",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "how-to-style-a-plaid-blazer-3-ways",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 256,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 256,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 256,
+        "prettyDuration": "00:04:16",
+        "automaticThumbnailsPattern": "1759121\/183042613\/a5932\/thumb-c09f97d3c05febdf11fbf194eb1f159c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183042613\/user-images\/image-1919-6bdef90fb5a753c5f8a91751a6e50648.jpg",
+            "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/thumb-c09f97d3c05febdf11fbf194eb1f159c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/thumb-c09f97d3c05febdf11fbf194eb1f159c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/thumb-c09f97d3c05febdf11fbf194eb1f159c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/thumb-c09f97d3c05febdf11fbf194eb1f159c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/thumb-c09f97d3c05febdf11fbf194eb1f159c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/thumb-c09f97d3c05febdf11fbf194eb1f159c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183042613\/thumbnail\/image-thumbnail-256-874c421225acb20a28085b6b54eaa34f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183042613\/thumbnail\/image-thumbnail-480-4fb00e4d473e47c99c7d8d700ff93327.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183042613\/thumbnail\/image-thumbnail-640-54aebfe6312bb780c26df1f3d4643506.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183042613\/thumbnail\/image-thumbnail-1280-d8c2d4132cd5be830c68c0cc4ccfffa0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183042613\/user-images\/image-1919-6bdef90fb5a753c5f8a91751a6e50648.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183042613\/thumbnail\/image-thumbnail-640-54aebfe6312bb780c26df1f3d4643506.jpg",
+        "type": "mp4",
+        "assetId": 183042613,
+        "assetTitle": "How to Style a Plaid Blazer 3 Ways",
+        "assetTitleTextEncoded": "how-to-style-a-plaid-blazer-3-ways",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183042613,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183042613\/a5932\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

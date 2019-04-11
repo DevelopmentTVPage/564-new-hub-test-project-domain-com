@@ -1,0 +1,110 @@
+{
+    "title": "Brittany Xavier's Holiday Collection- obsessed!!",
+    "description": "Check out Brittany's collection just in time to add some jazz to your holiday outfit!",
+    "referenceId": "22631036d47643493c8423eb478f6cba",
+    "date_created": "1545333566",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "59",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213406",
+    "product_category": "women",
+    "id": "189075925",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "brittany-xaviers-holiday-collection-obsessed",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/189075925\/0a993\/thumb-22631036d47643493c8423eb478f6cba-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/thumb-22631036d47643493c8423eb478f6cba-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/thumb-22631036d47643493c8423eb478f6cba-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/thumb-22631036d47643493c8423eb478f6cba-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/thumb-22631036d47643493c8423eb478f6cba-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/189075925\/thumbnail\/image-thumbnail-256-0d2e0be076e4d4787ae73de2eb7f63dc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/189075925\/thumbnail\/image-thumbnail-480-6cf32455ef212ab5ec012d3679826942.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/thumb-22631036d47643493c8423eb478f6cba-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/189075925\/thumbnail\/image-thumbnail-480-6cf32455ef212ab5ec012d3679826942.jpg",
+        "type": "mp4",
+        "assetId": 189075925,
+        "assetTitle": "2018-12-20-14-19-1",
+        "assetTitleTextEncoded": "2018-12-20-14-19-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 189075925,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189075925\/0a993\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Patricia Nash Leather Bag ",
+    "description": "Patricia Nash Zancona Smooth Leather Tote. ... Patricia Nash Heritage London Smooth Leather Crossbody Saddle Bag. ... Patricia Nash Gracchi Metallic Embossed Leather Satchel, Created for Macy's.",
+    "referenceId": null,
+    "date_created": "1545619815",
+    "date_modified": "1546466800",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213738",
+    "id": "191093378",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "patricia-nash-leather-bag",
+    "linkUrl": null,
+    "category": "Handbags",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2553,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--1920.jpeg?v=1545619822385"
+            },
+            {
+                "width": 1280,
+                "height": 1702,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--1280.jpeg?v=1545619823126"
+            },
+            {
+                "width": 1200,
+                "height": 1595,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--1200.jpeg?v=1545619822154"
+            },
+            {
+                "width": 1024,
+                "height": 1361,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--1024.jpeg?v=1545619823031"
+            },
+            {
+                "width": 1080,
+                "height": 1436,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--1080.jpeg?v=1545619822102"
+            },
+            {
+                "width": 960,
+                "height": 1276,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--960.jpeg?v=1545619822740"
+            },
+            {
+                "width": 640,
+                "height": 851,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--640.jpeg?v=1545619822004"
+            },
+            {
+                "width": 600,
+                "height": 797,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--600.jpeg?v=1545619822451"
+            },
+            {
+                "width": 256,
+                "height": 340,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-media--256.jpeg?v=1545619822712"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-thumbnail-1920.jpeg?v=1545619823850"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-thumbnail-1280.jpeg?v=1545619823789"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-thumbnail-640.jpeg?v=1545619823746"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-thumbnail-480.jpeg?v=1545619823735"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-thumbnail-256.jpeg?v=1545619823919"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-thumbnail-64.jpeg?v=1545619824060"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191093378\/image-thumbnail-640.jpeg?v=1545619823746",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

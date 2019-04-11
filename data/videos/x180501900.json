@@ -1,0 +1,115 @@
+{
+    "title": "UPDATED How to Book an Appointment with Andrea @ MyStylist@macys",
+    "description": "Try our FAST, FUN & FREE personal fashion styling service.\n@MYSTYLIST@MACYS with Andrea Warner Macy's Style Crew",
+    "referenceId": "439ae9a9f87041640e2b400a61092e2f",
+    "date_created": "1539841688",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "4",
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "women",
+    "id": "180501900",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "updated-how-to-book-an-appointment-with-andrea-mystylist-macys",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 47,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 47,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 47,
+        "prettyDuration": "00:00:47",
+        "automaticThumbnailsPattern": "1759121\/180501900\/1692c\/thumb-439ae9a9f87041640e2b400a61092e2f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180501900\/user-images\/image-547-292ac8778808c385d08a8dbe454016db.jpg",
+            "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/thumb-439ae9a9f87041640e2b400a61092e2f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/thumb-439ae9a9f87041640e2b400a61092e2f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/thumb-439ae9a9f87041640e2b400a61092e2f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/thumb-439ae9a9f87041640e2b400a61092e2f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/thumb-439ae9a9f87041640e2b400a61092e2f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/thumb-439ae9a9f87041640e2b400a61092e2f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180501900\/thumbnail\/image-thumbnail-256-1d0c2d13a312614bc52290e6a314e6b6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180501900\/thumbnail\/image-thumbnail-480-888d324b85e54462f5070f788b7ea6b6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180501900\/user-images\/image-547-292ac8778808c385d08a8dbe454016db.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180501900\/thumbnail\/image-thumbnail-480-888d324b85e54462f5070f788b7ea6b6.jpg",
+        "type": "mp4",
+        "assetId": 180501900,
+        "assetTitle": "UPDATED How to Book an Appointment with Andrea @ MyStylist@macys",
+        "assetTitleTextEncoded": "updated-how-to-book-an-appointment-with-andrea",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180501900,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180501900\/1692c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

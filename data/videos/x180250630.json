@@ -1,0 +1,112 @@
+{
+    "title": "Suburban style fall florals",
+    "description": "Fall florals",
+    "referenceId": "db30e0e6834c97d1edb78c68c959cc73",
+    "date_created": "1539702087",
+    "date_modified": "1546466785",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": "women",
+    "id": "180250630",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "suburban-style-fall-florals",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/180250630\/de17d\/thumb-db30e0e6834c97d1edb78c68c959cc73-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/thumb-db30e0e6834c97d1edb78c68c959cc73-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/thumb-db30e0e6834c97d1edb78c68c959cc73-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/thumb-db30e0e6834c97d1edb78c68c959cc73-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/thumb-db30e0e6834c97d1edb78c68c959cc73-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/thumb-db30e0e6834c97d1edb78c68c959cc73-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180250630\/thumbnail\/image-thumbnail-256-dda9bacbfa2ca2eb20088469c436027f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180250630\/thumbnail\/image-thumbnail-480-298542830f3e38480d07121c50a1414c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/thumb-db30e0e6834c97d1edb78c68c959cc73-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180250630\/thumbnail\/image-thumbnail-480-298542830f3e38480d07121c50a1414c.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/media.m3u8",
+        "assetId": 180250630,
+        "assetTitle": "A31F871A-9FE1-43A7-82CE-58F6B771E6FD",
+        "assetTitleTextEncoded": "a31f871a-9fe1-43a7-82ce-58f6b771e6fd",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180250630,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180250630\/de17d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

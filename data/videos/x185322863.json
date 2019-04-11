@@ -1,0 +1,114 @@
+{
+    "title": "Fashion Office Hottest Looks",
+    "description": "Holiday Inspired look for Office Occassions\nDazziling Inc sequence tunic web Id 5159333 3\/4Sleeve faux fur shrug by Robbie Bee Web ID 6978700 \nCalvin Klein Coat Web ID 7092261\nCalvin Klein tunic blk\/white\/red Web ID 7092244  \nRobbie Bee Dress Sateen Finish Web ID 7092274",
+    "referenceId": "8b6d00c6b894e9510cf94684280a8500",
+    "date_created": "1543991654",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "61",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "185322863",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-looks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 53,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 53,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 53,
+        "prettyDuration": "00:00:53",
+        "automaticThumbnailsPattern": "1759121\/185322863\/8b150\/thumb-8b6d00c6b894e9510cf94684280a8500-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185322863\/user-images\/image-1522-4f914c731f20912113f83351c2b93649.jpg",
+            "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/thumb-8b6d00c6b894e9510cf94684280a8500-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/thumb-8b6d00c6b894e9510cf94684280a8500-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/thumb-8b6d00c6b894e9510cf94684280a8500-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/thumb-8b6d00c6b894e9510cf94684280a8500-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/thumb-8b6d00c6b894e9510cf94684280a8500-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/thumb-8b6d00c6b894e9510cf94684280a8500-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185322863\/thumbnail\/image-thumbnail-256-a894cf5da96844743f97389ef4ca1c24.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185322863\/thumbnail\/image-thumbnail-480-6e8922ed0e72115a8ab17c8a0cb14614.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185322863\/thumbnail\/image-thumbnail-640-7277fcc9eebec68176cffff12d8ff65a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/185322863\/thumbnail\/image-thumbnail-1280-341ab623e552af66eb00cce120c5538a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185322863\/user-images\/image-1522-4f914c731f20912113f83351c2b93649.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185322863\/thumbnail\/image-thumbnail-640-7277fcc9eebec68176cffff12d8ff65a.jpg",
+        "type": "mp4",
+        "assetId": 185322863,
+        "assetTitle": "Fashion Office Hottest Looks",
+        "assetTitleTextEncoded": "2018-12-5-0-31-34",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185322863,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185322863\/8b150\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

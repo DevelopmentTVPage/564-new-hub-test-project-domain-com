@@ -1,0 +1,115 @@
+{
+    "title": "Black Friday madness cosmetics",
+    "description": "Black Friday specials in cosmetics and fragrances. \n20 love edit palette\n15$ deals in Clinique \n10 body wash from philosophy \n19$ eye palettes from tarte \nOrigins set 20$",
+    "referenceId": "b902ea16446cb3bb254e197b55123850",
+    "date_created": "1543015931",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "beauty",
+    "id": "184214450",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-madness-cosmetics",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 60,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 60,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 60,
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/184214450\/041be\/thumb-b902ea16446cb3bb254e197b55123850-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184214450\/user-images\/image-4032-8d95407dddc0d8b6f189bfbda92a35eb.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214450\/041be\/thumb-b902ea16446cb3bb254e197b55123850-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214450\/041be\/thumb-b902ea16446cb3bb254e197b55123850-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214450\/041be\/thumb-b902ea16446cb3bb254e197b55123850-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214450\/041be\/thumb-b902ea16446cb3bb254e197b55123850-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214450\/041be\/thumb-b902ea16446cb3bb254e197b55123850-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214450\/041be\/thumb-b902ea16446cb3bb254e197b55123850-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184214450\/thumbnail\/image-thumbnail-256-051f6e8658080a59207e80e423d6e829.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184214450\/thumbnail\/image-thumbnail-480-19a825d129be3f45d75247d1d9edaa49.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184214450\/thumbnail\/image-thumbnail-640-65aee245c39a52c42f9f79f86a95a58a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184214450\/thumbnail\/image-thumbnail-1280-31a90d44a9e02a1c8cbd0596c0393396.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184214450\/thumbnail\/image-thumbnail-1920-ef4adb9361ee0048164ad78b3354d410.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214450\/user-images\/image-4032-8d95407dddc0d8b6f189bfbda92a35eb.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214450\/thumbnail\/image-thumbnail-640-65aee245c39a52c42f9f79f86a95a58a.jpg",
+        "type": "mp4",
+        "assetId": 184214450,
+        "assetTitle": "Black Friday madness cosmetics",
+        "assetTitleTextEncoded": "7d7fbd01-f967-40ec-9856-3b948de2cdb0",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184214450,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214450\/041be\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214450\/041be\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214450\/041be\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214450\/041be\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214450\/041be\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

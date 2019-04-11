@@ -1,0 +1,114 @@
+{
+    "title": "Thankgiving look by Connected & Shaggy Vest Web Id 6748094",
+    "description": "Connected V-neck Floral Dress with Shaggy Fleece Vest Web Id 6748094",
+    "referenceId": "3ad11d20adad4edcf631481345201b3e",
+    "date_created": "1542170787",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "183437436",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "thankgiving-look-by-connected-shaggy-vest-web-id-6748094",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 25,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 25,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 25,
+        "prettyDuration": "00:00:25",
+        "automaticThumbnailsPattern": "1759121\/183437436\/d60da\/thumb-3ad11d20adad4edcf631481345201b3e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183437436\/user-images\/image-1811-8bf938ce0b34afa2c8e2ebcecba3f32b.jpg",
+            "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/thumb-3ad11d20adad4edcf631481345201b3e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/thumb-3ad11d20adad4edcf631481345201b3e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/thumb-3ad11d20adad4edcf631481345201b3e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/thumb-3ad11d20adad4edcf631481345201b3e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/thumb-3ad11d20adad4edcf631481345201b3e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/thumb-3ad11d20adad4edcf631481345201b3e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183437436\/thumbnail\/image-thumbnail-256-a460ca65fa362888f97f91e14d1f759f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183437436\/thumbnail\/image-thumbnail-480-9f4ec27d28fae904578de62fa4dfbf41.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183437436\/thumbnail\/image-thumbnail-640-7cf281b986e796d5e3ade6d21c4632d4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183437436\/thumbnail\/image-thumbnail-1280-c9b66884a03719dc2429c1d2a9808a54.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183437436\/user-images\/image-1811-8bf938ce0b34afa2c8e2ebcecba3f32b.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183437436\/thumbnail\/image-thumbnail-640-7cf281b986e796d5e3ade6d21c4632d4.jpg",
+        "type": "mp4",
+        "assetId": 183437436,
+        "assetTitle": "Fall Dress by Connected & Shaggy Vest Web Id 6748094",
+        "assetTitleTextEncoded": "2018-11-13-21-52-6-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183437436,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183437436\/d60da\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "214048",
+    "first_name": "Sally",
+    "last_name": "Acuna",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-17 18:21:40",
+    "login_id": "1759121",
+    "user_id": "214048",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Sally Acuna",
+    "profile_picture": null,
+    "titleTextEncoded": "sally-acuna",
+    "title": "Sally Acuna",
+    "videos_count": "0"
+}

@@ -1,0 +1,116 @@
+{
+    "title": "Paint the town RED",
+    "description": "As new yorkers, it is really easy to fall into the cycle of wearing all black all the time, especially as winter rolls around. I like to spice things up and throw in a bit of pizzazz and pop with fun details and bright colors. I took these INC plus size ponte pants with a sequin tuxedo stripe and paired them back to a basic black chiffon tank and red faux fur coat, also from INC to make this fun and fabulous winter look. It's easy to take this out fit from cubicle to cocktails any day!",
+    "referenceId": "d5e68f5a8d3287379dfffb1be9e432b9",
+    "date_created": "1544494035",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "139",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "34",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "187527652",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "paint-the-town-red",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 20,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 20,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 20,
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/187527652\/59ad1\/thumb-d5e68f5a8d3287379dfffb1be9e432b9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/thumb-d5e68f5a8d3287379dfffb1be9e432b9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/thumb-d5e68f5a8d3287379dfffb1be9e432b9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/thumb-d5e68f5a8d3287379dfffb1be9e432b9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/thumb-d5e68f5a8d3287379dfffb1be9e432b9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/thumb-d5e68f5a8d3287379dfffb1be9e432b9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/thumb-d5e68f5a8d3287379dfffb1be9e432b9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187527652\/thumbnail\/image-thumbnail-256-a0502069af671090a106cdb5c1bc27c1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187527652\/thumbnail\/image-thumbnail-480-a33bb2baa0ac66ffd60ee14354edc48c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/187527652\/thumbnail\/image-thumbnail-640-d5604e47736e8e761cbb85bc80c60cb4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/187527652\/thumbnail\/image-thumbnail-1280-94ca65bd559f1b054134058fed2191d7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/thumb-d5e68f5a8d3287379dfffb1be9e432b9-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187527652\/thumbnail\/image-thumbnail-640-d5604e47736e8e761cbb85bc80c60cb4.jpg",
+        "type": "mp4",
+        "assetId": 187527652,
+        "assetTitle": "Paint the town RED",
+        "assetTitleTextEncoded": "692d0714-5331-48b6-a9b6-5ac1f0e30c56",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187527652,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187527652\/59ad1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

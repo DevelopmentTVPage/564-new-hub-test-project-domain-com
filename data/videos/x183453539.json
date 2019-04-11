@@ -1,0 +1,119 @@
+{
+    "title": "Macys Beauty Fridge",
+    "description": "PERFECT GIFT ALERT!!! - CHECK OUT THIS HOLIDAY HOTLIST MUST HAVEE SITUATION! This little Macy's Beauty Fridge is guaranteed to make you the FAVORITE gift giver this holiday season. Keep it Cool when it comes to your holiday shopping and give the beauty guru in your life a mini fridge thats packed with products and an unforgettable experience!",
+    "referenceId": "65297876301296a4eaa02b7b79d416c2",
+    "date_created": "1542211081",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "102",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213304",
+    "product_category": "beauty",
+    "id": "183453539",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-beauty-fridge",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 353,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 353,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 353,
+        "prettyDuration": "00:05:53",
+        "automaticThumbnailsPattern": "1759121\/183453539\/bc648\/thumb-65297876301296a4eaa02b7b79d416c2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183453539\/user-images\/image-2862-59f4daeb108a93fc1c417a402cd44335.jpg",
+            "\/\/v.tvpage.com\/1759121\/183453539\/user-images\/image-2872-02dd932b8447d57604b00de5f9dd0ff1.jpg",
+            "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/thumb-65297876301296a4eaa02b7b79d416c2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/thumb-65297876301296a4eaa02b7b79d416c2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/thumb-65297876301296a4eaa02b7b79d416c2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/thumb-65297876301296a4eaa02b7b79d416c2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/thumb-65297876301296a4eaa02b7b79d416c2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/thumb-65297876301296a4eaa02b7b79d416c2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183453539\/thumbnail\/image-thumbnail-256-8eb253eae3a4e57906c34657c63dfd58.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183453539\/thumbnail\/image-thumbnail-480-ce9455e5821274452f2ac759e2b499b0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183453539\/thumbnail\/image-thumbnail-640-1c6f099e9b74e89fc5bdbdcefcab4034.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183453539\/thumbnail\/image-thumbnail-1280-2bcb3266a3a53cde648a52123effc19c.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183453539\/thumbnail\/image-thumbnail-1920-62444de5f45f060b3242c8f63090570b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183453539\/user-images\/image-2862-59f4daeb108a93fc1c417a402cd44335.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183453539\/thumbnail\/image-thumbnail-640-1c6f099e9b74e89fc5bdbdcefcab4034.jpg",
+        "type": "mp4",
+        "assetId": 183453539,
+        "assetTitle": "Macys Beauty Fridge",
+        "assetTitleTextEncoded": "macys-beauty-fridge",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183453539,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183453539\/bc648\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

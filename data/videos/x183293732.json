@@ -1,0 +1,114 @@
+{
+    "title": "Playful Ruffles and Gingham Print Dress with Anita",
+    "description": "Hey Guys! Check out another exciting look from Macy's plus size collection. Exclusively found at Macy's Alfani Collection. Floral is definitely it this season and I'm wearing a floral with gingham print dress and the combination is perfect. The sleeves are so fun and playful. Perfect for work wear. Serious and sexy at the same time. Be sure to tag me @foreign_curves and show me how you're wearing this look.",
+    "referenceId": "c6b3461c2b4e0c9f03e6984f09f02818",
+    "date_created": "1542054219",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213142",
+    "product_category": "women",
+    "id": "183293732",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "playful-ruffles-and-gingham-print-dress-with-anita",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 62,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 62,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 62,
+        "prettyDuration": "00:01:02",
+        "automaticThumbnailsPattern": "1759121\/183293732\/63ac5\/thumb-c6b3461c2b4e0c9f03e6984f09f02818-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/thumb-c6b3461c2b4e0c9f03e6984f09f02818-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/thumb-c6b3461c2b4e0c9f03e6984f09f02818-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/thumb-c6b3461c2b4e0c9f03e6984f09f02818-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/thumb-c6b3461c2b4e0c9f03e6984f09f02818-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/thumb-c6b3461c2b4e0c9f03e6984f09f02818-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/thumb-c6b3461c2b4e0c9f03e6984f09f02818-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183293732\/thumbnail\/image-thumbnail-256-cae1650ad07dd0eaa5ae17bfd47b743f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183293732\/thumbnail\/image-thumbnail-480-43e838569002a8235f8f85dd75b239a2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183293732\/thumbnail\/image-thumbnail-640-8d358a0a1de86dfa5f86272f2c58ca63.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183293732\/thumbnail\/image-thumbnail-1280-ee5ddc6e5dbd2bff1dd43692cf6d7c3b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183293732\/thumbnail\/image-thumbnail-1920-c046550324d3611dc4f32e69f024a2fd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/thumb-c6b3461c2b4e0c9f03e6984f09f02818-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293732\/thumbnail\/image-thumbnail-640-8d358a0a1de86dfa5f86272f2c58ca63.jpg",
+        "type": "mp4",
+        "assetId": 183293732,
+        "assetTitle": "Playful ruffles and gingham print",
+        "assetTitleTextEncoded": "playful-ruffles-and-gingham-print",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183293732,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293732\/63ac5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

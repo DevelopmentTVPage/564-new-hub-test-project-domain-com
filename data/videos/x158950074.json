@@ -1,0 +1,103 @@
+{
+    "title": "Macy s Presents: The Edit",
+    "description": "Our desire to delight and inspire you fuels everything we do.",
+    "referenceId": "4f83a37957e0e73e542e05a3b95b55d5",
+    "date_created": "1523567596",
+    "date_modified": "1546466753",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "158950074",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macy-s-presents-the-edit",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "60",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/158950074\/thumbnail\/image-thumbnail-640-28199902a404e73ac65bb69f7f5891cc.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/158950074\/fc3ab\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/158950074\/fc3ab\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950074\/fc3ab\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950074\/fc3ab\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950074\/fc3ab\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950074\/fc3ab\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950074\/fc3ab\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/158950074\/user-images\/image-1920-70eeeb058b168f4fab98b6613a770d68.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/158950074\/user-images\/image-1920-70eeeb058b168f4fab98b6613a770d68.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/158950074\/thumbnail\/image-thumbnail-256-cb2f42e8cd13d9029f331809f66f8937.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/158950074\/thumbnail\/image-thumbnail-480-50146f0d8d04e270bd6e01f4dde4df5a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/158950074\/thumbnail\/image-thumbnail-640-28199902a404e73ac65bb69f7f5891cc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/158950074\/thumbnail\/image-thumbnail-1280-82dc610baec7f81e8ed4873f88c32191.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/158950074\/thumbnail\/image-thumbnail-1920-be92f16f9ba6639a83027bb9707f6ce6.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

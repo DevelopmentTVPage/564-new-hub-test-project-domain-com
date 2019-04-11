@@ -1,0 +1,116 @@
+{
+    "title": "A Quick Fall Look",
+    "description": "How to turn a dress into a blouse for a professional look.",
+    "referenceId": "bb94a51f13b6526c58a21de12075c9e2",
+    "date_created": "1540455285",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "69",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213200",
+    "product_category": "women",
+    "id": "181185654",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a-quick-fall-look",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/181185654\/8cdeb\/thumb-bb94a51f13b6526c58a21de12075c9e2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/thumb-bb94a51f13b6526c58a21de12075c9e2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/thumb-bb94a51f13b6526c58a21de12075c9e2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/thumb-bb94a51f13b6526c58a21de12075c9e2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/thumb-bb94a51f13b6526c58a21de12075c9e2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/thumb-bb94a51f13b6526c58a21de12075c9e2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/thumb-bb94a51f13b6526c58a21de12075c9e2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181185654\/thumbnail\/image-thumbnail-256-de8b0eceff71317a5c1bd5a62841389d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181185654\/thumbnail\/image-thumbnail-480-6bd91a5cf74e2b4abce00025520624f9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181185654\/thumbnail\/image-thumbnail-640-843e9e0b5b42e586e0f7a075cb5de2c1.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181185654\/thumbnail\/image-thumbnail-1280-35386edc6d681be09cdcfe16d779b261.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/thumb-bb94a51f13b6526c58a21de12075c9e2-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181185654\/thumbnail\/image-thumbnail-640-843e9e0b5b42e586e0f7a075cb5de2c1.jpg",
+        "type": "mp4",
+        "assetId": 181185654,
+        "assetTitle": "A Quick Fall Look",
+        "assetTitleTextEncoded": "fall",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181185654,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181185654\/8cdeb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

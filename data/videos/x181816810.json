@@ -1,0 +1,101 @@
+{
+    "title": "Coach x Selena Gomez",
+    "description": "Selena Gomez top-handle crossbody bag is vintage-inspired.",
+    "referenceId": "863102329dc1619a09fe99d481d02bd5",
+    "date_created": "1541170873",
+    "date_modified": "1546466788",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213111",
+    "product_category": null,
+    "id": "181816810",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "coach-x-selena-gomez",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 4,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 4,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 4,
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/181816810\/cb954\/thumb-863102329dc1619a09fe99d481d02bd5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181816810\/cb954\/thumb-863102329dc1619a09fe99d481d02bd5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181816810\/cb954\/thumb-863102329dc1619a09fe99d481d02bd5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181816810\/thumbnail\/image-thumbnail-256-d0955f59789f32f43caef4c9c531e534.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181816810\/thumbnail\/image-thumbnail-480-d0d18fd9a89b7402497fff169aa5b3b6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181816810\/thumbnail\/image-thumbnail-640-a9cc3ea6d99e8454be34eee1946a25d3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181816810\/thumbnail\/image-thumbnail-1280-487534a640fb4c069e7a5fa6ecbe0354.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181816810\/cb954\/thumb-863102329dc1619a09fe99d481d02bd5-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181816810\/thumbnail\/image-thumbnail-640-a9cc3ea6d99e8454be34eee1946a25d3.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181816810\/cb954\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181816810\/cb954\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181816810\/cb954\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181816810\/cb954\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181816810\/cb954\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Weekend Max Mara Heritage, Craftsmenship, Worth It",
+    "description": "I’m wearing Red in support of the American Heart Association",
+    "referenceId": "e45ddf517d181430537f5ffe17a7f789",
+    "date_created": "1549874922",
+    "date_modified": "1549936043",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213144",
+    "product_category": null,
+    "id": "202521828",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "weekend-max-mara-heritage-craftsmenship-worth-it",
+    "category": "Women",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/202521828\/f2186\/thumb-e45ddf517d181430537f5ffe17a7f789-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/thumb-e45ddf517d181430537f5ffe17a7f789-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/thumb-e45ddf517d181430537f5ffe17a7f789-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/thumb-e45ddf517d181430537f5ffe17a7f789-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202521828\/thumbnail\/image-thumbnail-256-f34d2bee322b190d0da32e69ef7313f2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202521828\/thumbnail\/image-thumbnail-480-43b93745ac22fd2d201cd202ece261fd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/thumb-e45ddf517d181430537f5ffe17a7f789-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202521828\/thumbnail\/image-thumbnail-480-43b93745ac22fd2d201cd202ece261fd.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202521828\/f2186\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

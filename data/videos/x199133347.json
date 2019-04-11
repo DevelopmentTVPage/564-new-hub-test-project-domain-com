@@ -1,0 +1,106 @@
+{
+    "title": "My Macy's Star Pick",
+    "description": "You guys!  Two products I CANNOT live without are: Benefit BROWVO! Conditioning Primer and It Cosmetics Bye Bye Undereye concealer.  I use the brow conditioner morning and night - it really helps keep your brows full.  The undereye concealer is a must, especially for the full-time working mom.  I've also tagged my favorite eyebrow pencil, eye shadow primer, blush, mascara and concealer for redness or blemishes.",
+    "referenceId": "35e8511889098964e3a013a9219200b8",
+    "date_created": "1548167154",
+    "date_modified": "1548168506",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": null,
+    "id": "199133347",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-macys-star-pick",
+    "category": "You guys!  Two products I CANNOT live without are: Benefit BROWVO! Conditioning Primer and It Cosmetics Bye Bye Undereye concealer.  I use the brow conditioner morning and night - it really helps keep your brows full.  The undereye concealer is a must, especially for the full-time working mom.  I've also tagged my favorite eyebrow pencil, eye shadow primer, blush, mascara and concealer for redness or blemishes.",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/199133347\/52874\/thumb-35e8511889098964e3a013a9219200b8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199133347\/52874\/thumb-35e8511889098964e3a013a9219200b8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133347\/52874\/thumb-35e8511889098964e3a013a9219200b8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133347\/52874\/thumb-35e8511889098964e3a013a9219200b8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133347\/52874\/thumb-35e8511889098964e3a013a9219200b8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133347\/52874\/thumb-35e8511889098964e3a013a9219200b8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133347\/52874\/thumb-35e8511889098964e3a013a9219200b8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199133347\/thumbnail\/image-thumbnail-256-98c575a19a4404077cc3655e22ce5476.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199133347\/thumbnail\/image-thumbnail-480-348662fdd4ecf1de87f7a49e409094a8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/199133347\/thumbnail\/image-thumbnail-640-0faa8b4fb2371acc10c0f51e8470f503.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199133347\/52874\/thumb-35e8511889098964e3a013a9219200b8-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199133347\/thumbnail\/image-thumbnail-640-0faa8b4fb2371acc10c0f51e8470f503.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133347\/52874\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133347\/52874\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133347\/52874\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133347\/52874\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133347\/52874\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

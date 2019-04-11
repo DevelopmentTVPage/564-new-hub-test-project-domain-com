@@ -1,0 +1,116 @@
+{
+    "title": "COZY IN CASHMERE",
+    "description": "Warm? Soft? Stylish? Check, check and check!\nI love the luxurious 100% Cashmere from Charter club at Macy's especially because it comes in plus sizes! I paired this waffle hoodie with the CASHMERE PANT, yes you read that correctly, CASHMERE PANT! This is the most comfortable outfit you'll ever wear!",
+    "referenceId": "f6077a4c5862307b643acca3abc6434a",
+    "date_created": "1544634452",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "120",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "34",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "187731997",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cozy-in-cashmere",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/187731997\/b06e1\/thumb-f6077a4c5862307b643acca3abc6434a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/thumb-f6077a4c5862307b643acca3abc6434a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/thumb-f6077a4c5862307b643acca3abc6434a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/thumb-f6077a4c5862307b643acca3abc6434a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/thumb-f6077a4c5862307b643acca3abc6434a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/thumb-f6077a4c5862307b643acca3abc6434a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/thumb-f6077a4c5862307b643acca3abc6434a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187731997\/thumbnail\/image-thumbnail-256-af31c186964dda25720acf212ebb8027.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187731997\/thumbnail\/image-thumbnail-480-fe0a72acc7a9486a4421517b020b5cf0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/187731997\/thumbnail\/image-thumbnail-640-2c6e833a5635cee5a4b7515398860611.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/187731997\/thumbnail\/image-thumbnail-1280-5c9675bd439efa6dec175d7d5f74fc34.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/thumb-f6077a4c5862307b643acca3abc6434a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187731997\/thumbnail\/image-thumbnail-640-2c6e833a5635cee5a4b7515398860611.jpg",
+        "type": "mp4",
+        "assetId": 187731997,
+        "assetTitle": "COZY IN CASHMERE",
+        "assetTitleTextEncoded": "d7af4f85-5843-4c6d-849c-fbfeef9e7000",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187731997,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731997\/b06e1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

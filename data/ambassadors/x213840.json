@@ -1,0 +1,21 @@
+{
+    "id": "213840",
+    "first_name": "Lauren",
+    "last_name": "Wagner",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/676872630-0.6676169595215.jpg",
+        "job_title": "Omni Associate Buyer, Fashion Watches"
+    },
+    "last_login_timestamp": "1550433002",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-05 23:19:42",
+    "login_id": "1759121",
+    "user_id": "213840",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lauren Wagner",
+    "profile_picture": "\/api\/canvas\/logo\/676872630-0.6676169595215.jpg",
+    "titleTextEncoded": "lauren-wagner",
+    "title": "Lauren Wagner",
+    "videos_count": "0"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "These Boots are Made for Walking",
+    "description": "Comfy and stylish to boot! I love paring these DKNY Corrie Suede Ankle Boots with midi skirts, dresses and skinny jeans. Easy to dress up or down. Head-over-heels for the metallic gold detail in the block heel! Looks perfect with this DKNY Pleated Midi Skirt.",
+    "referenceId": "a93dd7133cdf827acdd6d89cf6a60118",
+    "date_created": "1549834593",
+    "date_modified": "1549835233",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213771",
+    "product_category": null,
+    "id": "202507679",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "these-boots-are-made-for-walking",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 30,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 30,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/202507679\/ae4ef\/thumb-a93dd7133cdf827acdd6d89cf6a60118-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202507679\/user-images\/image-1200-843ba6882f54bc58ab433661dc2c7000.jpg",
+            "\/\/v.tvpage.com\/1759121\/202507679\/user-images\/image-1200-3e5541976d030d2d19b7df954815d5e4.jpg",
+            "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/thumb-a93dd7133cdf827acdd6d89cf6a60118-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/thumb-a93dd7133cdf827acdd6d89cf6a60118-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/thumb-a93dd7133cdf827acdd6d89cf6a60118-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/thumb-a93dd7133cdf827acdd6d89cf6a60118-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/thumb-a93dd7133cdf827acdd6d89cf6a60118-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/thumb-a93dd7133cdf827acdd6d89cf6a60118-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202507679\/thumbnail\/image-thumbnail-256-4d2cfbf2187e9e28a8c692867c083915.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202507679\/thumbnail\/image-thumbnail-480-55da81fd3a7a179b1de12e4b563a31f1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202507679\/thumbnail\/image-thumbnail-640-7639f4fe5ad2ea8091c99f253209b647.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202507679\/user-images\/image-1200-843ba6882f54bc58ab433661dc2c7000.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202507679\/thumbnail\/image-thumbnail-640-5ca7566704549fbc7cdb98414cf22b28.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202507679\/ae4ef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

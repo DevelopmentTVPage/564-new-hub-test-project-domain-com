@@ -1,0 +1,116 @@
+{
+    "title": "Quick Tip Tuesday: The Metallic Shoe",
+    "description": null,
+    "referenceId": "2b1f2408498df5c6901f63739c3edda3",
+    "date_created": "1538485572",
+    "date_modified": "1546466824",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "49",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "shoes",
+    "id": "178729882",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "quick-tip-tuesday-the-metallic-shoe",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "36",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "36",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "automaticThumbnailsPattern": "1759121\/178729882\/08245\/thumb-2b1f2408498df5c6901f63739c3edda3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178729882\/08245\/thumb-2b1f2408498df5c6901f63739c3edda3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178729882\/08245\/thumb-2b1f2408498df5c6901f63739c3edda3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178729882\/08245\/thumb-2b1f2408498df5c6901f63739c3edda3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178729882\/08245\/thumb-2b1f2408498df5c6901f63739c3edda3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178729882\/08245\/thumb-2b1f2408498df5c6901f63739c3edda3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178729882\/08245\/thumb-2b1f2408498df5c6901f63739c3edda3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178729882\/thumbnail\/image-thumbnail-256-85049833e425b01cfdf20b2d235705ee.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178729882\/thumbnail\/image-thumbnail-480-dc94c01fe589533cc60a8a81ab53d4a5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178729882\/thumbnail\/image-thumbnail-640-dbfce124ae882342b5fa7d9d124630bb.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178729882\/thumbnail\/image-thumbnail-1280-b0cdd3b207e19b285e21cbb0d078e460.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178729882\/08245\/thumb-2b1f2408498df5c6901f63739c3edda3-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178729882\/thumbnail\/image-thumbnail-640-dbfce124ae882342b5fa7d9d124630bb.jpg",
+        "type": "mp4",
+        "assetId": 178729882,
+        "assetTitle": "Quick Tip Tuesday: The Metallic Shoe",
+        "assetTitleTextEncoded": "30fa39e2-06c4-4592-98de-90aaf1a9ddc5",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178729882,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178729882\/08245\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178729882\/08245\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178729882\/08245\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178729882\/08245\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178729882\/08245\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's BF Goodrich",
+    "tvp_enhanced_transcript": null
+}

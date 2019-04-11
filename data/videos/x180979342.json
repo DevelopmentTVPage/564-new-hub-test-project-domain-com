@@ -1,0 +1,111 @@
+{
+    "title": "Join the crew",
+    "description": "Web ID 6494037, 6803820",
+    "referenceId": "8fd1edd6e606d317197699c00e085296",
+    "date_created": "1540241561",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213624",
+    "product_category": "women",
+    "id": "180979342",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "join-the-crew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/180979342\/c36ae\/thumb-8fd1edd6e606d317197699c00e085296-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/thumb-8fd1edd6e606d317197699c00e085296-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/thumb-8fd1edd6e606d317197699c00e085296-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/thumb-8fd1edd6e606d317197699c00e085296-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/thumb-8fd1edd6e606d317197699c00e085296-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/thumb-8fd1edd6e606d317197699c00e085296-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/thumb-8fd1edd6e606d317197699c00e085296-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180979342\/thumbnail\/image-thumbnail-256-5a194321901673442144f485aed8a8c2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180979342\/thumbnail\/image-thumbnail-480-422f11bb7cfdec5152b8e9be0704bac6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/thumb-8fd1edd6e606d317197699c00e085296-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180979342\/thumbnail\/image-thumbnail-480-422f11bb7cfdec5152b8e9be0704bac6.jpg",
+        "type": "mp4",
+        "assetId": 180979342,
+        "assetTitle": "Join the crew",
+        "assetTitleTextEncoded": "08acab13-fc26-40df-b155-400b4057142a",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180979342,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180979342\/c36ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

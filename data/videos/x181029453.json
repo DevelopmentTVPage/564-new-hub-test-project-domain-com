@@ -1,0 +1,107 @@
+{
+    "title": "Power Nap Facial",
+    "description": null,
+    "referenceId": "7888fd05d9aadbb25447d84daea9e2fb",
+    "date_created": "1540333765",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213442",
+    "product_category": "beauty",
+    "id": "181029453",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "power-nap-facial",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 2,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 2,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 2,
+        "prettyDuration": "00:00:02",
+        "automaticThumbnailsPattern": "1759121\/181029453\/e14d6\/thumb-7888fd05d9aadbb25447d84daea9e2fb-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181029453\/e14d6\/thumb-7888fd05d9aadbb25447d84daea9e2fb-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029453\/e14d6\/thumb-7888fd05d9aadbb25447d84daea9e2fb-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181029453\/thumbnail\/image-thumbnail-256-aca6e0a13c9112d5de76bd93d9377a36.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181029453\/thumbnail\/image-thumbnail-480-918ab9ae51d901b3efbada61cf47ed64.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181029453\/e14d6\/thumb-7888fd05d9aadbb25447d84daea9e2fb-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181029453\/thumbnail\/image-thumbnail-480-918ab9ae51d901b3efbada61cf47ed64.jpg",
+        "type": "mp4",
+        "assetId": 181029453,
+        "assetTitle": "6517606D-E5B4-4630-9FE7-C767CB02BB85",
+        "assetTitleTextEncoded": "6517606d-e5b4-4630-9fe7-c767cb02bb85",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181029453,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029453\/e14d6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029453\/e14d6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029453\/e14d6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029453\/e14d6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029453\/e14d6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "My Macy’s Star Picks - Beauty",
+    "description": "BE-YOU-TIFUL. You may have noticed @macys refreshing it’s floors with new brands. @mariobadescu has become an absolute necessity in my beauty routine. What started as a simple bridesmaid gift of the rose water spray led to an immediate obsession for this brand. Established in 1967 right here in the US, it has exponentially grown to the product line you now see in stores - we can barely keep this stuff on shelves! I keep the misting sprays in my purse for refreshers throughout the day, my my bed to spray on my pillows before bed, and it’s the first thing i do before makeup application.\n#mymacysstarpicks#macysbeauty#glowing\n#mariobadescu#macys#nyc#\n#macysstylecrew\n.\n.\n.\nShop the LINK in my bio to get any or all of the Mario Badescu collection today! ",
+    "referenceId": null,
+    "date_created": "1548606664",
+    "date_modified": "1548606997",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213813",
+    "id": "200282412",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-macys-star-picks-beauty",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2560,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--1920.jpeg?v=1548606950338"
+            },
+            {
+                "width": 1280,
+                "height": 1706,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--1280.jpeg?v=1548606949853"
+            },
+            {
+                "width": 1200,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--1200.jpeg?v=1548606949932"
+            },
+            {
+                "width": 1024,
+                "height": 1365,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--1024.jpeg?v=1548606951196"
+            },
+            {
+                "width": 1080,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--1080.jpeg?v=1548606949723"
+            },
+            {
+                "width": 960,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--960.jpeg?v=1548606951018"
+            },
+            {
+                "width": 640,
+                "height": 853,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--640.jpeg?v=1548606951146"
+            },
+            {
+                "width": 600,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--600.jpeg?v=1548606951849"
+            },
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-media--256.jpeg?v=1548606952377"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-thumbnail-1920.jpeg?v=1548606953059"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-thumbnail-1280.jpeg?v=1548606953037"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-thumbnail-640.jpeg?v=1548606953652"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-thumbnail-480.jpeg?v=1548606952895"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-thumbnail-256.jpeg?v=1548606953392"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-thumbnail-64.jpeg?v=1548606953819"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200282412\/image-thumbnail-640.jpeg?v=1548606953652",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

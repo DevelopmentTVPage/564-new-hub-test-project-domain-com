@@ -1,0 +1,112 @@
+{
+    "title": "I.N.C. Suaded Jacket",
+    "description": "Sueded Jacket by I.N.C.",
+    "referenceId": "c8d67167002861a67c77f6f37540bea5",
+    "date_created": "1541219510",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "181901952",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "i-n-c-suaded-jacket",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 21,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 21,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 21,
+        "prettyDuration": "00:00:21",
+        "automaticThumbnailsPattern": "1759121\/181901952\/1a17d\/thumb-c8d67167002861a67c77f6f37540bea5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/thumb-c8d67167002861a67c77f6f37540bea5-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/thumb-c8d67167002861a67c77f6f37540bea5-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/thumb-c8d67167002861a67c77f6f37540bea5-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/thumb-c8d67167002861a67c77f6f37540bea5-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/thumb-c8d67167002861a67c77f6f37540bea5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/thumb-c8d67167002861a67c77f6f37540bea5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181901952\/thumbnail\/image-thumbnail-256-66f8fb64cd97d4c54c71bc6ba25e033e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181901952\/thumbnail\/image-thumbnail-480-8a739218b0175414173f94ec44e7b821.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181901952\/thumbnail\/image-thumbnail-640-2c652f1708419499c7a01de15dc6ee6c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/thumb-c8d67167002861a67c77f6f37540bea5-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181901952\/thumbnail\/image-thumbnail-640-2c652f1708419499c7a01de15dc6ee6c.jpg",
+        "type": "mp4",
+        "assetId": 181901952,
+        "assetTitle": "VID_70900404_000944_869",
+        "assetTitleTextEncoded": "vid-70900404-000944-869",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181901952,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181901952\/1a17d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

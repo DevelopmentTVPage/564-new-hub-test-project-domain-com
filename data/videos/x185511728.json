@@ -1,0 +1,110 @@
+{
+    "title": "MAC x Patrick Starrr",
+    "description": "Patrick Starrr’s holiday collection is finally here! This would be the most perfect gift for the makeup lovers out there.",
+    "referenceId": "2217133302b0a1372b85cc8016804a7c",
+    "date_created": "1544109044",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213779",
+    "product_category": "beauty",
+    "id": "185511728",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mac-x-patrick-starrr",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 9,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 9,
+            "width": 500,
+            "height": 1080
+        },
+        "mediaDuration": 9,
+        "prettyDuration": "00:00:09",
+        "automaticThumbnailsPattern": "1759121\/185511728\/be9c2\/thumb-2217133302b0a1372b85cc8016804a7c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/thumb-2217133302b0a1372b85cc8016804a7c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/thumb-2217133302b0a1372b85cc8016804a7c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/thumb-2217133302b0a1372b85cc8016804a7c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/thumb-2217133302b0a1372b85cc8016804a7c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/thumb-2217133302b0a1372b85cc8016804a7c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185511728\/thumbnail\/image-thumbnail-256-98af54cbf9d074528ba2afb74d585a1e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185511728\/thumbnail\/image-thumbnail-480-78456653eefcf20d8dd460b021ac9590.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/thumb-2217133302b0a1372b85cc8016804a7c-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185511728\/thumbnail\/image-thumbnail-480-78456653eefcf20d8dd460b021ac9590.jpg",
+        "type": "mp4",
+        "assetId": 185511728,
+        "assetTitle": "MAC x Patrick Starrr",
+        "assetTitleTextEncoded": "fb97416f-d0d3-43f4-a806-5e9dc2c408da",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185511728,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 500,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 332,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 222,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 166,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511728\/be9c2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 110,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

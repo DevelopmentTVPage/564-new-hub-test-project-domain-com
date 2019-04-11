@@ -1,0 +1,21 @@
+{
+    "id": "213708",
+    "first_name": "George",
+    "last_name": "Rodriguez",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Sales associate "
+    },
+    "last_login_timestamp": "1549753189",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 04:31:16",
+    "login_id": "1759121",
+    "user_id": "213708",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "George Rodriguez",
+    "profile_picture": null,
+    "titleTextEncoded": "george-rodriguez",
+    "title": "George Rodriguez",
+    "videos_count": "0"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213709",
+    "first_name": "Elitza",
+    "last_name": "Lozada",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/425514875-0.7523623248096.jpg",
+        "job_title": "Style advisor "
+    },
+    "last_login_timestamp": "1544074179",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 05:01:11",
+    "login_id": "1759121",
+    "user_id": "213709",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Elitza Lozada",
+    "profile_picture": "\/api\/canvas\/logo\/425514875-0.7523623248096.jpg",
+    "titleTextEncoded": "elitza-lozada",
+    "title": "Elitza Lozada",
+    "videos_count": "1"
+}

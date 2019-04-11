@@ -1,0 +1,21 @@
+{
+    "id": "213933",
+    "first_name": "Philiciti",
+    "last_name": "Vargas",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/655725216-0.5449236558284.jpg",
+        "job_title": "My stylist"
+    },
+    "last_login_timestamp": "1549308256",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-26 01:43:55",
+    "login_id": "1759121",
+    "user_id": "213933",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Philiciti Vargas",
+    "profile_picture": "\/api\/canvas\/logo\/655725216-0.5449236558284.jpg",
+    "titleTextEncoded": "philiciti-vargas",
+    "title": "Philiciti Vargas",
+    "videos_count": "0"
+}

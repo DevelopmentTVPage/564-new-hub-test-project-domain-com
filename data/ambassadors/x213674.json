@@ -1,0 +1,23 @@
+{
+    "id": "213674",
+    "first_name": "Test",
+    "last_name": "User",
+    "data": {
+        "profileTitle": "Test User",
+        "profilePhoto": "\/api\/canvas\/logo\/100363344-0.3587576825171.jpg",
+        "date_created": "1520027241",
+        "descriptionText": ""
+    },
+    "last_login_timestamp": "1542824100",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-19 21:58:55",
+    "login_id": "1759121",
+    "user_id": "213674",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Test User",
+    "profile_picture": "\/api\/canvas\/logo\/100363344-0.3587576825171.jpg",
+    "titleTextEncoded": "test-user",
+    "title": "Test User",
+    "videos_count": "0"
+}

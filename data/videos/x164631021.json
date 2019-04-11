@@ -1,0 +1,111 @@
+{
+    "title": "Tropical-Print-whitewash-short",
+    "description": "A Kenneth Cole short sleeve Tropical Print shirt paired with a white wash Levi short and a white Cole Haan sneakers.",
+    "referenceId": "e0b9519697b9aed415fade87fe1e3ecd",
+    "date_created": "1528160976",
+    "date_modified": "1546466774",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "136",
+    "engagement_score": "9",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213381",
+    "product_category": "men",
+    "id": "164631021",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "tropical-print-whitewash-short",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "39",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164631021\/thumbnail\/image-thumbnail-640-b6af783cb4731335e7b0a200fde40e8b.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/media.m3u8",
+        "assetId": "164631021",
+        "assetTitle": "Tropical-Print-whitewash-short",
+        "assetTitleTextEncoded": "1a44f5c8-09bc-4fee-a839-66b1dd1bbcdb",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164631021",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164631021\/user-images\/image-1920-883bb9357496ade4074562ad0aaa4426.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164631021\/user-images\/image-1920-883bb9357496ade4074562ad0aaa4426.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164631021\/thumbnail\/image-thumbnail-256-dabf805df12bae26e3ce1dad055ee727.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164631021\/thumbnail\/image-thumbnail-480-caa849e9f19e563b5a56acbde75933cf.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164631021\/thumbnail\/image-thumbnail-640-b6af783cb4731335e7b0a200fde40e8b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164631021\/thumbnail\/image-thumbnail-1280-0f74cb917944bc0e52ea14c09d893386.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164631021\/thumbnail\/image-thumbnail-1920-7f45dc7f05a0b5d76f8e081f9f7997ad.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-31"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Hibiscus Macy's",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Brittany Xavier's Holiday Collection",
+    "description": "There's no need to accessorize when you've got eye-catching balloon sleeves. An elegant mock collar balances things out for a chic ensemble you can wear anywhere.",
+    "referenceId": "d0107a6f967010db86db9af43e207b2c",
+    "date_created": "1544458530",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "187510775",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "brittany-xaviers-holiday-collection",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/187510775\/6b7eb\/thumb-d0107a6f967010db86db9af43e207b2c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187510775\/user-images\/image-1280-76a59e48cc7d39edd4ae8f463c281373.jpg",
+            "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/thumb-d0107a6f967010db86db9af43e207b2c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/thumb-d0107a6f967010db86db9af43e207b2c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/thumb-d0107a6f967010db86db9af43e207b2c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/thumb-d0107a6f967010db86db9af43e207b2c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/thumb-d0107a6f967010db86db9af43e207b2c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/thumb-d0107a6f967010db86db9af43e207b2c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187510775\/thumbnail\/image-thumbnail-256-609bfca82d33be96cac5919501da58bb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187510775\/thumbnail\/image-thumbnail-480-88f4dd15797f7e457839f802b3951d43.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/187510775\/thumbnail\/image-thumbnail-640-5c95a1b2c26adceb437d45157c19dc9e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/187510775\/thumbnail\/image-thumbnail-1280-aaa905295f8a614b7cf7a406f0db82b8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187510775\/user-images\/image-1280-76a59e48cc7d39edd4ae8f463c281373.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187510775\/thumbnail\/image-thumbnail-640-5c95a1b2c26adceb437d45157c19dc9e.jpg",
+        "type": "mp4",
+        "assetId": 187510775,
+        "assetTitle": "Brittany Xavier's Holiday Collection",
+        "assetTitleTextEncoded": "brittany-xavier-s-holiday-collection",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187510775,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187510775\/6b7eb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

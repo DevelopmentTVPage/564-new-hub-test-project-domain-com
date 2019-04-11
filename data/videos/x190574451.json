@@ -1,0 +1,102 @@
+{
+    "title": "Celebrate the Holidays in Style!",
+    "description": "Feeling festive doesn’t always have to mean sparkle! A cozy sweater and a fun plaid can add that flair you’re looking for this holiday season.",
+    "referenceId": "656a1108b008800311349e6288211f3e",
+    "date_created": "1545440233",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213866",
+    "product_category": null,
+    "id": "190574451",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "celebrate-the-holidays-in-style",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 8,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 8,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 8,
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/190574451\/54107\/thumb-656a1108b008800311349e6288211f3e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/190574451\/54107\/thumb-656a1108b008800311349e6288211f3e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/190574451\/54107\/thumb-656a1108b008800311349e6288211f3e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/190574451\/54107\/thumb-656a1108b008800311349e6288211f3e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/190574451\/54107\/thumb-656a1108b008800311349e6288211f3e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/190574451\/thumbnail\/image-thumbnail-256-05b8630cdc333bf638533864afc3e06d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/190574451\/thumbnail\/image-thumbnail-480-9277c5d702cba199f01f0af538a269fa.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/190574451\/54107\/thumb-656a1108b008800311349e6288211f3e-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/190574451\/thumbnail\/image-thumbnail-480-9277c5d702cba199f01f0af538a269fa.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/190574451\/54107\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/190574451\/54107\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190574451\/54107\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190574451\/54107\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190574451\/54107\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190574451\/54107\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190574451\/54107\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

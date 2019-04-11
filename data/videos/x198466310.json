@@ -1,0 +1,104 @@
+{
+    "title": "Renew. Refresh. Reset.",
+    "description": "Renew. Refresh. Reset.\nGrab Nike active wear for workouts.",
+    "referenceId": "fc610cb269086d7f60d55aad723e3bb9",
+    "date_created": "1547752620",
+    "date_modified": "1547778085",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "113",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "198466310",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-refresh-reset",
+    "category": "Women",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 39,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 39,
+            "width": 864,
+            "height": 1080
+        },
+        "mediaDuration": 39,
+        "prettyDuration": "00:00:39",
+        "automaticThumbnailsPattern": "1759121\/198466310\/0d550\/thumb-fc610cb269086d7f60d55aad723e3bb9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/thumb-fc610cb269086d7f60d55aad723e3bb9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/thumb-fc610cb269086d7f60d55aad723e3bb9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/thumb-fc610cb269086d7f60d55aad723e3bb9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/thumb-fc610cb269086d7f60d55aad723e3bb9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/thumb-fc610cb269086d7f60d55aad723e3bb9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/thumb-fc610cb269086d7f60d55aad723e3bb9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198466310\/thumbnail\/image-thumbnail-256-6f74120a9fe7d2263979b167df2dd804.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/198466310\/thumbnail\/image-thumbnail-480-b9ad511e12196222eecf5b4a98a44b11.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/198466310\/thumbnail\/image-thumbnail-640-108d780cf3e73d0829d0b01f8f91dbe4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/thumb-fc610cb269086d7f60d55aad723e3bb9-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198466310\/thumbnail\/image-thumbnail-640-108d780cf3e73d0829d0b01f8f91dbe4.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 864,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466310\/0d550\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "AMAZING SWEATER DEALS|| Charter Club Black Friday Preview",
+    "description": "Check out the amazing deals on cashmere! As low as $59.99!",
+    "referenceId": null,
+    "date_created": "1542756573",
+    "date_modified": "1546466792",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213274",
+    "id": "183902753",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "amazing-sweater-deals-charter-club-black-friday-preview",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2075,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--1920.jpeg?v=1542756672342"
+            },
+            {
+                "width": 1280,
+                "height": 1383,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--1280.jpeg?v=1542756673478"
+            },
+            {
+                "width": 1200,
+                "height": 1297,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--1200.jpeg?v=1542756672081"
+            },
+            {
+                "width": 1024,
+                "height": 1106,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--1024.jpeg?v=1542756672976"
+            },
+            {
+                "width": 1080,
+                "height": 1167,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--1080.jpeg?v=1542756671973"
+            },
+            {
+                "width": 960,
+                "height": 1037,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--960.jpeg?v=1542756672900"
+            },
+            {
+                "width": 640,
+                "height": 691,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--640.jpeg?v=1542756671822"
+            },
+            {
+                "width": 600,
+                "height": 648,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--600.jpeg?v=1542756672512"
+            },
+            {
+                "width": 256,
+                "height": 276,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-media--256.jpeg?v=1542756672929"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-thumbnail-1920.jpeg?v=1542756674457"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-thumbnail-1280.jpeg?v=1542756674311"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-thumbnail-640.jpeg?v=1542756674178"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-thumbnail-480.jpeg?v=1542756674152"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-thumbnail-256.jpeg?v=1542756674497"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-thumbnail-64.jpeg?v=1542756674775"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183902753\/image-thumbnail-640.jpeg?v=1542756674178",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

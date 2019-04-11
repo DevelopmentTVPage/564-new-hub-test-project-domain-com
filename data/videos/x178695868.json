@@ -1,0 +1,116 @@
+{
+    "title": "Blue faux leather jacket by I.N.C.",
+    "description": "I.N.C. faux leather jacket",
+    "referenceId": "8070e30d2de480d210f15ab1bbf7ca46",
+    "date_created": "1538396330",
+    "date_modified": "1546466789",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "178695868",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "blue-faux-leather-jacket-by-i-n-c",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "13",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "13",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/178695868\/08637\/thumb-8070e30d2de480d210f15ab1bbf7ca46-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178695868\/user-images\/image-778-d9c2879c10426f16ccee6a58a6327c39.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695868\/08637\/thumb-8070e30d2de480d210f15ab1bbf7ca46-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695868\/08637\/thumb-8070e30d2de480d210f15ab1bbf7ca46-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695868\/08637\/thumb-8070e30d2de480d210f15ab1bbf7ca46-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695868\/08637\/thumb-8070e30d2de480d210f15ab1bbf7ca46-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695868\/08637\/thumb-8070e30d2de480d210f15ab1bbf7ca46-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695868\/08637\/thumb-8070e30d2de480d210f15ab1bbf7ca46-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178695868\/thumbnail\/image-thumbnail-256-e596c9293f5b642ebb8f280f0910c020.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178695868\/thumbnail\/image-thumbnail-480-4e58e8282bd3a8f2618c98741b315168.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178695868\/thumbnail\/image-thumbnail-640-70a9d1d3abfc89be0b3d365e07c90e5e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178695868\/user-images\/image-778-d9c2879c10426f16ccee6a58a6327c39.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178695868\/thumbnail\/image-thumbnail-640-70a9d1d3abfc89be0b3d365e07c90e5e.jpg",
+        "type": "mp4",
+        "assetId": "178695868",
+        "assetTitle": "blue jacket",
+        "assetTitleTextEncoded": "blue-jacket",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178695868",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695868\/08637\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695868\/08637\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695868\/08637\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695868\/08637\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695868\/08637\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

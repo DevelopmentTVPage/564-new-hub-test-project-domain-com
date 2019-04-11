@@ -1,0 +1,21 @@
+{
+    "id": "213978",
+    "first_name": "Jacquie",
+    "last_name": "St.Pierre",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Associate Planner"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-07 15:41:34",
+    "login_id": "1759121",
+    "user_id": "213978",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jacquie St.Pierre",
+    "profile_picture": null,
+    "titleTextEncoded": "jacquie-st-pierre",
+    "title": "Jacquie St.Pierre",
+    "videos_count": "0"
+}

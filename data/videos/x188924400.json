@@ -1,0 +1,115 @@
+{
+    "title": "Make it Brahmin this Season, Only at Macy's",
+    "description": "Hi Ladies! What's your favorite accessory in your closet?  Mine of course is handbags.  Are you looking for a new handbag for the Holidays?  Check out my new Brahmin, only at Macy's.",
+    "referenceId": "2cbca114d16b35005f7072d5b8a173a8",
+    "date_created": "1545206550",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213200",
+    "product_category": "handbags",
+    "id": "188924400",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "make-it-brahmin-this-season-only-at-macys",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/188924400\/33163\/thumb-2cbca114d16b35005f7072d5b8a173a8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188924400\/33163\/thumb-2cbca114d16b35005f7072d5b8a173a8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924400\/33163\/thumb-2cbca114d16b35005f7072d5b8a173a8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924400\/33163\/thumb-2cbca114d16b35005f7072d5b8a173a8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924400\/33163\/thumb-2cbca114d16b35005f7072d5b8a173a8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924400\/33163\/thumb-2cbca114d16b35005f7072d5b8a173a8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924400\/33163\/thumb-2cbca114d16b35005f7072d5b8a173a8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188924400\/thumbnail\/image-thumbnail-256-0071a2e79bc96ed2c64b87d163d02864.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188924400\/thumbnail\/image-thumbnail-480-dec56168d15dd9d7ab48c12e858bf53a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188924400\/thumbnail\/image-thumbnail-640-f103ac277ad5432e6efead82bafda097.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188924400\/33163\/thumb-2cbca114d16b35005f7072d5b8a173a8-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188924400\/thumbnail\/image-thumbnail-640-f103ac277ad5432e6efead82bafda097.jpg",
+        "type": "mp4",
+        "assetId": 188924400,
+        "assetTitle": "Make it Brahmin this Season, Only at Macy's",
+        "assetTitleTextEncoded": "brahmin",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188924400,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924400\/33163\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924400\/33163\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924400\/33163\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924400\/33163\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924400\/33163\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

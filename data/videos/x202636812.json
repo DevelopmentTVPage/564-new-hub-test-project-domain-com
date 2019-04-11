@@ -1,0 +1,102 @@
+{
+    "title": "Valentine’s Day Fragrances",
+    "description": "Here is a cute little commercial that I threw together to thank my friends at L'Oréal for these amazing fragrances! I am OBSESSED with this Armani Acqua di Gio Absolu and this Armani Sì Passione and I know you will be too! Have an ABSOLUtely amazing V-Day lovelies and just say Sì to Passione. ",
+    "referenceId": "0b28812143cc1315956df5a72b9e47a6",
+    "date_created": "1549949903",
+    "date_modified": "1550280788",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213173",
+    "product_category": null,
+    "id": "202636812",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-day-fragrances",
+    "category": "Valentine’s Day Fragrances",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 47,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 47,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 47,
+        "prettyDuration": "00:00:47",
+        "automaticThumbnailsPattern": "1759121\/202636812\/c1d57\/thumb-0b28812143cc1315956df5a72b9e47a6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/thumb-0b28812143cc1315956df5a72b9e47a6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/thumb-0b28812143cc1315956df5a72b9e47a6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/thumb-0b28812143cc1315956df5a72b9e47a6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/thumb-0b28812143cc1315956df5a72b9e47a6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/thumb-0b28812143cc1315956df5a72b9e47a6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/thumb-0b28812143cc1315956df5a72b9e47a6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202636812\/thumbnail\/image-thumbnail-256-58a7ce597db93a8b40333b10d4939ec1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202636812\/thumbnail\/image-thumbnail-480-c4d60165ee05ea3ec1be0da4c889aa60.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202636812\/thumbnail\/image-thumbnail-640-d89692337679b13524df2b5cd0e5e7b7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/202636812\/thumbnail\/image-thumbnail-1280-cc55499da899ca725cfa6dbf79750b0a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/thumb-0b28812143cc1315956df5a72b9e47a6-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202636812\/thumbnail\/image-thumbnail-640-d89692337679b13524df2b5cd0e5e7b7.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202636812\/c1d57\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

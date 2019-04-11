@@ -1,0 +1,116 @@
+{
+    "title": "thankful for the magic of Macy’s",
+    "description": "Happy thanksgiving from Macy’s favorite fashionista at Destiny USA. Thankful to be part of the wonder of giving at Macy’s. Thankful I can provide a great meal for my family thanks to a great company. Yes! I believe in the Magic of Macy’s at Christmas time.",
+    "referenceId": "fcf85e50960ed5d35b85052611c45b7e",
+    "date_created": "1542245013",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "home",
+    "id": "183455444",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "thankful-for-the-magic-of-macys",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 45,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 45,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 45,
+        "prettyDuration": "00:00:45",
+        "automaticThumbnailsPattern": "1759121\/183455444\/54b3d\/thumb-fcf85e50960ed5d35b85052611c45b7e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183455444\/user-images\/image-705-f7013f78fd100f56e0f6559324da2b6c.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/thumb-fcf85e50960ed5d35b85052611c45b7e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/thumb-fcf85e50960ed5d35b85052611c45b7e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/thumb-fcf85e50960ed5d35b85052611c45b7e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/thumb-fcf85e50960ed5d35b85052611c45b7e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/thumb-fcf85e50960ed5d35b85052611c45b7e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/thumb-fcf85e50960ed5d35b85052611c45b7e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183455444\/thumbnail\/image-thumbnail-256-8a01f963bc6debd00b489992e58885b6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183455444\/thumbnail\/image-thumbnail-480-718b9d22fa78aa6cd8c96fa6cd2e672f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183455444\/thumbnail\/image-thumbnail-640-e5f8ff46d77d504e532cabb33fe70675.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455444\/user-images\/image-705-f7013f78fd100f56e0f6559324da2b6c.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455444\/thumbnail\/image-thumbnail-640-e5f8ff46d77d504e532cabb33fe70675.jpg",
+        "type": "mp4",
+        "assetId": 183455444,
+        "assetTitle": "BE2A46A7-87FB-49EB-B19D-3D7BFE77FC4E",
+        "assetTitleTextEncoded": "be2a46a7-87fb-49eb-b19d-3d7bfe77fc4e",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183455444,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455444\/54b3d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

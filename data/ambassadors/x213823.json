@@ -1,0 +1,21 @@
+{
+    "id": "213823",
+    "first_name": "Sofia",
+    "last_name": "Rodriguez",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Associate Product Manager"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-30 18:07:00",
+    "login_id": "1759121",
+    "user_id": "213823",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sofia Rodriguez",
+    "profile_picture": null,
+    "titleTextEncoded": "sofia-rodriguez",
+    "title": "Sofia Rodriguez",
+    "videos_count": "0"
+}

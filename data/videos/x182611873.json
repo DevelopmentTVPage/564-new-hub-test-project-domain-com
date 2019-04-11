@@ -1,0 +1,114 @@
+{
+    "title": "Sweater Season",
+    "description": "Elevate your your turtle neck Alfani sweater combined with a fun barIII suit. Transform your outfit day to night.",
+    "referenceId": "ed33c59c680918559b35433b5a4544a1",
+    "date_created": "1541528931",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": "men",
+    "id": "182611873",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "sweater-season",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 45,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 45,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 45,
+        "prettyDuration": "00:00:45",
+        "automaticThumbnailsPattern": "1759121\/182611873\/fe90f\/thumb-ed33c59c680918559b35433b5a4544a1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/thumb-ed33c59c680918559b35433b5a4544a1-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/thumb-ed33c59c680918559b35433b5a4544a1-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/thumb-ed33c59c680918559b35433b5a4544a1-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/thumb-ed33c59c680918559b35433b5a4544a1-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/thumb-ed33c59c680918559b35433b5a4544a1-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/thumb-ed33c59c680918559b35433b5a4544a1-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182611873\/thumbnail\/image-thumbnail-256-125b3d9101cf8ce85559a469b440910e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182611873\/thumbnail\/image-thumbnail-480-02642671eadbf21a220afd0fdc7becdc.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182611873\/thumbnail\/image-thumbnail-640-3b4dc3db431239d2c9ed63a4854f2053.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182611873\/thumbnail\/image-thumbnail-1280-0b86cb2fc8da7f8e605f1b6ecd5de9f1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/thumb-ed33c59c680918559b35433b5a4544a1-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611873\/thumbnail\/image-thumbnail-640-3b4dc3db431239d2c9ed63a4854f2053.jpg",
+        "type": "mp4",
+        "assetId": 182611873,
+        "assetTitle": "Sweater Season",
+        "assetTitleTextEncoded": "74962dd0-bf84-443c-80ec-dc274e8fd92a",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182611873,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611873\/fe90f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

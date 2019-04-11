@@ -1,0 +1,98 @@
+{
+    "title": "Macy’s Style Crew Macy’s West County Wacoal Fit Event Monday February 18 10-4",
+    "description": "Macy’s Sest County is having a Wacoal Fit Event Monday February 18, 2019 10-4",
+    "referenceId": "8b7e8a472cc7c2e1483912a53f4ee4f7",
+    "date_created": "1550196741",
+    "date_modified": "1550197568",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": null,
+    "id": "203020780",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-macys-west-county-wacoal-fit-event-monday-february-18-10-4",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 117,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 117,
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": 117,
+        "prettyDuration": "00:01:57",
+        "automaticThumbnailsPattern": "1759121\/203020780\/29db5\/thumb-8b7e8a472cc7c2e1483912a53f4ee4f7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/thumb-8b7e8a472cc7c2e1483912a53f4ee4f7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/thumb-8b7e8a472cc7c2e1483912a53f4ee4f7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/thumb-8b7e8a472cc7c2e1483912a53f4ee4f7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/thumb-8b7e8a472cc7c2e1483912a53f4ee4f7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/thumb-8b7e8a472cc7c2e1483912a53f4ee4f7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/thumb-8b7e8a472cc7c2e1483912a53f4ee4f7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203020780\/thumbnail\/image-thumbnail-256-be2139eca03384b148b68fba06a4fe03.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203020780\/thumbnail\/image-thumbnail-480-84148a6abe589fde769833430e39a135.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/thumb-8b7e8a472cc7c2e1483912a53f4ee4f7-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203020780\/thumbnail\/image-thumbnail-480-84148a6abe589fde769833430e39a135.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020780\/29db5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Lancôme makeup brushes 30% off",
+    "description": null,
+    "referenceId": "edda02c2432b987e2acb22dd41caf5ad",
+    "date_created": "1543175632",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "42",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213750",
+    "product_category": "beauty",
+    "id": "184279692",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lancome-makeup-brushes-30-off",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 66,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 66,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 66,
+        "prettyDuration": "00:01:06",
+        "automaticThumbnailsPattern": "1759121\/184279692\/ca1fe\/thumb-edda02c2432b987e2acb22dd41caf5ad-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/thumb-edda02c2432b987e2acb22dd41caf5ad-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/thumb-edda02c2432b987e2acb22dd41caf5ad-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/thumb-edda02c2432b987e2acb22dd41caf5ad-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/thumb-edda02c2432b987e2acb22dd41caf5ad-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/thumb-edda02c2432b987e2acb22dd41caf5ad-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/thumb-edda02c2432b987e2acb22dd41caf5ad-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184279692\/thumbnail\/image-thumbnail-256-fb3b1ede784f5269ae93f9512c9659b4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184279692\/thumbnail\/image-thumbnail-480-df4d9e6f78592a4d67f7da39c26ba83b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/thumb-edda02c2432b987e2acb22dd41caf5ad-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184279692\/thumbnail\/image-thumbnail-480-df4d9e6f78592a4d67f7da39c26ba83b.jpg",
+        "type": "mp4",
+        "assetId": 184279692,
+        "assetTitle": "DB05B290-A321-468A-8F76-E1AAE5FF7A03",
+        "assetTitleTextEncoded": "db05b290-a321-468a-8f76-e1aae5ff7a03",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184279692,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184279692\/ca1fe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

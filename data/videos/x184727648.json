@@ -1,0 +1,116 @@
+{
+    "title": "Winter Women coats",
+    "description": "I consider this one of my favorite coats. I am wearing a medium size and under it a 32 dregree fleece sweater. I love this coat for weather under 40 dregrees. But wear it On a temperature you believe you need it. It is very warm.",
+    "referenceId": "d7600d192ac483fb1c1d8de37e57cbe9",
+    "date_created": "1543673954",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213700",
+    "product_category": "women",
+    "id": "184727648",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "winter-women-coats",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 121,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 121,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 121,
+        "prettyDuration": "00:02:01",
+        "automaticThumbnailsPattern": "1759121\/184727648\/b34d0\/thumb-d7600d192ac483fb1c1d8de37e57cbe9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/thumb-d7600d192ac483fb1c1d8de37e57cbe9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/thumb-d7600d192ac483fb1c1d8de37e57cbe9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/thumb-d7600d192ac483fb1c1d8de37e57cbe9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/thumb-d7600d192ac483fb1c1d8de37e57cbe9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/thumb-d7600d192ac483fb1c1d8de37e57cbe9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/thumb-d7600d192ac483fb1c1d8de37e57cbe9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184727648\/thumbnail\/image-thumbnail-256-52adc620333ab7f7fb159896012bc392.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184727648\/thumbnail\/image-thumbnail-480-5bb5e056ed1a2bbd10cb03f1a5770af5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184727648\/thumbnail\/image-thumbnail-640-5e2d95797f98d1873a24e0e27f994375.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184727648\/thumbnail\/image-thumbnail-1280-d88383f9393921c461214a88f588abc2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/thumb-d7600d192ac483fb1c1d8de37e57cbe9-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184727648\/thumbnail\/image-thumbnail-640-5e2d95797f98d1873a24e0e27f994375.jpg",
+        "type": "mp4",
+        "assetId": 184727648,
+        "assetTitle": "A8661834-107F-422B-B93D-7BB24CDB4FFF",
+        "assetTitleTextEncoded": "a8661834-107f-422b-b93d-7bb24cdb4fff",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184727648,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184727648\/b34d0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

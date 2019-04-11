@@ -1,0 +1,107 @@
+{
+    "title": "Jacqueline Palmer\/monochromatic",
+    "description": "Favorite fashion is all in one color! Head to toe gray, the perfect denim, cozy sweater, pointy toe pump and a new scatchel!",
+    "referenceId": "a4ebb46a9fa1d7da0b6dff1e9a40c87d",
+    "date_created": "1546257524",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "192087439",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-monochromatic",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 106,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 106,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 106,
+        "prettyDuration": "00:01:46",
+        "automaticThumbnailsPattern": "1759121\/192087439\/1bd16\/thumb-a4ebb46a9fa1d7da0b6dff1e9a40c87d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/thumb-a4ebb46a9fa1d7da0b6dff1e9a40c87d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/thumb-a4ebb46a9fa1d7da0b6dff1e9a40c87d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/thumb-a4ebb46a9fa1d7da0b6dff1e9a40c87d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/thumb-a4ebb46a9fa1d7da0b6dff1e9a40c87d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/thumb-a4ebb46a9fa1d7da0b6dff1e9a40c87d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/thumb-a4ebb46a9fa1d7da0b6dff1e9a40c87d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192087439\/thumbnail\/image-thumbnail-256-86f31e0dcbea5c434d9f00eb962aec18.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192087439\/thumbnail\/image-thumbnail-480-f4053ebc7b0c33b8d56519a5ae5bfaff.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/192087439\/thumbnail\/image-thumbnail-640-5cacdd22bf140ac7ddc88a53ca02a6db.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/192087439\/thumbnail\/image-thumbnail-1280-9355d1d8ae06b8b74ca0c3efd670d976.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/thumb-a4ebb46a9fa1d7da0b6dff1e9a40c87d-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192087439\/thumbnail\/image-thumbnail-640-5cacdd22bf140ac7ddc88a53ca02a6db.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192087439\/1bd16\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

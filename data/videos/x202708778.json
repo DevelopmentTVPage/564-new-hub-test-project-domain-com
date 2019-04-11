@@ -1,0 +1,98 @@
+{
+    "title": "INC Spring 2019",
+    "description": "INC Spring is pretty in pastel, either with a 70’s vibe or preppy and polished.  I love their flared jeans and this pastel rainbow necklace!!",
+    "referenceId": "0b1a3036526ecd7a080d9d5d64099fef",
+    "date_created": "1550025298",
+    "date_modified": "1550049666",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213741",
+    "product_category": null,
+    "id": "202708778",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc-spring-2019",
+    "category": "Women",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 20,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 20,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 20,
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/202708778\/79798\/thumb-0b1a3036526ecd7a080d9d5d64099fef-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202708778\/79798\/thumb-0b1a3036526ecd7a080d9d5d64099fef-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202708778\/79798\/thumb-0b1a3036526ecd7a080d9d5d64099fef-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202708778\/79798\/thumb-0b1a3036526ecd7a080d9d5d64099fef-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202708778\/79798\/thumb-0b1a3036526ecd7a080d9d5d64099fef-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202708778\/79798\/thumb-0b1a3036526ecd7a080d9d5d64099fef-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202708778\/79798\/thumb-0b1a3036526ecd7a080d9d5d64099fef-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202708778\/thumbnail\/image-thumbnail-256-b42e08906a26e71abc341a9901daa3a5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202708778\/thumbnail\/image-thumbnail-480-1b831fe6bb50953279b59d57d20abce7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202708778\/79798\/thumb-0b1a3036526ecd7a080d9d5d64099fef-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202708778\/thumbnail\/image-thumbnail-480-1b831fe6bb50953279b59d57d20abce7.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202708778\/79798\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202708778\/79798\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202708778\/79798\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202708778\/79798\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202708778\/79798\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

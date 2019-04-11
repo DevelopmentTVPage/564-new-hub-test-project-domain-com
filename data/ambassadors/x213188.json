@@ -1,0 +1,21 @@
+{
+    "id": "213188",
+    "first_name": "Miranda",
+    "last_name": "Wall",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/147500725-0.7759137250948.jpg",
+        "job_title": "Women’s Shoes"
+    },
+    "last_login_timestamp": "1548035673",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 03:55:18",
+    "login_id": "1759121",
+    "user_id": "213188",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Miranda Wall",
+    "profile_picture": "\/api\/canvas\/logo\/147500725-0.7759137250948.jpg",
+    "titleTextEncoded": "miranda-wall",
+    "title": "Miranda Wall",
+    "videos_count": "0"
+}

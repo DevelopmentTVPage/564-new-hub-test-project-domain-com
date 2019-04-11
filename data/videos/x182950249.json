@@ -1,0 +1,111 @@
+{
+    "title": "Macy’s Style Crew Macy’s West County Calvin Klein Fit Event November 9, 2018",
+    "description": "Calvin Klein",
+    "referenceId": "46b9f2f2053ec1608108058ba88179ce",
+    "date_created": "1541720858",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "182950249",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-macys-west-county-calvin-klein-fit-event-november-9-2018",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 46,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 46,
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": 46,
+        "prettyDuration": "00:00:46",
+        "automaticThumbnailsPattern": "1759121\/182950249\/e3cfb\/thumb-46b9f2f2053ec1608108058ba88179ce-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/thumb-46b9f2f2053ec1608108058ba88179ce-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/thumb-46b9f2f2053ec1608108058ba88179ce-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/thumb-46b9f2f2053ec1608108058ba88179ce-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/thumb-46b9f2f2053ec1608108058ba88179ce-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/thumb-46b9f2f2053ec1608108058ba88179ce-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/thumb-46b9f2f2053ec1608108058ba88179ce-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182950249\/thumbnail\/image-thumbnail-256-1c12f8ab416fa98be1ec8b996acc1a77.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182950249\/thumbnail\/image-thumbnail-480-779380858bd172e9108d7cd733a3408d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/thumb-46b9f2f2053ec1608108058ba88179ce-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182950249\/thumbnail\/image-thumbnail-480-779380858bd172e9108d7cd733a3408d.jpg",
+        "type": "mp4",
+        "assetId": 182950249,
+        "assetTitle": "54057083-5AC1-41EE-A0BA-3734E1D94B1B",
+        "assetTitleTextEncoded": "54057083-5ac1-41ee-a0ba-3734e1d94b1b",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182950249,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182950249\/e3cfb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

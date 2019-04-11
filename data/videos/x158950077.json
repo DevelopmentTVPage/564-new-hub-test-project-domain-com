@@ -1,0 +1,103 @@
+{
+    "title": "Macy s Fall Fashion: Men’s Suits",
+    "description": "Fall Fashion with suits, patterns or no tie.",
+    "referenceId": "cf030467e5039c8361f264e44886981e",
+    "date_created": "1523567608",
+    "date_modified": "1546466753",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "158950077",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macy-s-fall-fashion-mens-suits",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "30",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/158950077\/thumbnail\/image-thumbnail-640-d26c53056fbd63689c234fce41406d8b.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/158950077\/5dff8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/158950077\/5dff8\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950077\/5dff8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950077\/5dff8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950077\/5dff8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950077\/5dff8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950077\/5dff8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/158950077\/5dff8\/thumb-cf030467e5039c8361f264e44886981e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/158950077\/user-images\/image-853-f809a2aae9e3be758a167fc7674c8018.jpg",
+            "\/\/v.tvpage.com\/1759121\/158950077\/5dff8\/thumb-cf030467e5039c8361f264e44886981e-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/158950077\/user-images\/image-853-f809a2aae9e3be758a167fc7674c8018.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/158950077\/thumbnail\/image-thumbnail-256-8950704e18a19d8cd7f9ad93bd5c7b48.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/158950077\/thumbnail\/image-thumbnail-480-4dc6a69401a886bedfb7419b152dafe6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/158950077\/thumbnail\/image-thumbnail-640-d26c53056fbd63689c234fce41406d8b.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

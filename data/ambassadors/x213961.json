@@ -1,0 +1,21 @@
+{
+    "id": "213961",
+    "first_name": "Jazmine",
+    "last_name": "Brown",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/882001858-0.7585822635795.jpg",
+        "job_title": "Assistant Merchandise Marketing Manager"
+    },
+    "last_login_timestamp": "1550507391",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-06 20:43:39",
+    "login_id": "1759121",
+    "user_id": "213961",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jazmine Brown",
+    "profile_picture": "\/api\/canvas\/logo\/882001858-0.7585822635795.jpg",
+    "titleTextEncoded": "jazmine-brown",
+    "title": "Jazmine Brown",
+    "videos_count": "0"
+}

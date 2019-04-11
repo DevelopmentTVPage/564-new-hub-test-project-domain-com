@@ -1,0 +1,115 @@
+{
+    "title": "BLACK FRIDAY SPECIALS! MACY'S STYLE CERW ANDREA WARNER",
+    "description": "Puma Athleisure Sport wear is the perfect fashion statement to shop in on Black Friday.",
+    "referenceId": "5b59e7f374dd164f6e48b7caaa09c7fa",
+    "date_created": "1542672999",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "active",
+    "id": "183851632",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-specials-macys-style-cerw-andrea-warner",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 8,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 8,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 8,
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/183851632\/60cae\/thumb-5b59e7f374dd164f6e48b7caaa09c7fa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/thumb-5b59e7f374dd164f6e48b7caaa09c7fa-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/thumb-5b59e7f374dd164f6e48b7caaa09c7fa-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/thumb-5b59e7f374dd164f6e48b7caaa09c7fa-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/thumb-5b59e7f374dd164f6e48b7caaa09c7fa-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183851632\/thumbnail\/image-thumbnail-256-02c218e66efd6f9bc378213fe857ad81.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183851632\/thumbnail\/image-thumbnail-480-0976ba5cab7237ce587da36193f61f55.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183851632\/thumbnail\/image-thumbnail-640-8bdce40b95d5a2e94b6d989afac907f1.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183851632\/thumbnail\/image-thumbnail-1280-29c4f8a0bc3bcd5d4ed054949be765db.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183851632\/thumbnail\/image-thumbnail-1920-7486b037c39aad5849ad6849322b0310.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/thumb-5b59e7f374dd164f6e48b7caaa09c7fa-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183851632\/thumbnail\/image-thumbnail-640-8bdce40b95d5a2e94b6d989afac907f1.jpg",
+        "type": "mp4",
+        "assetId": 183851632,
+        "assetTitle": "BLACK FRIDAY SPECIALS! MACY'S STYLE CERW ANDREA WARNER",
+        "assetTitleTextEncoded": "andrea-modeling-puma-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183851632,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851632\/60cae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213892",
+    "first_name": "Joanna",
+    "last_name": "Fishman",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Associate Planner"
+    },
+    "last_login_timestamp": "1548263744",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-09 16:18:19",
+    "login_id": "1759121",
+    "user_id": "213892",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Joanna Fishman",
+    "profile_picture": null,
+    "titleTextEncoded": "joanna-fishman",
+    "title": "Joanna Fishman",
+    "videos_count": "0"
+}

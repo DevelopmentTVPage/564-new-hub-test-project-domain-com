@@ -1,0 +1,112 @@
+{
+    "title": "The Amazing Sweater Deals WEB ID: 6310547, 6574021",
+    "description": "40% off on your favorite sweaters on black friday.",
+    "referenceId": "9e219b631cd9738f8dadfff387b772d3",
+    "date_created": "1542767836",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": "women",
+    "id": "183940576",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-amazing-sweater-deals-web-id-6310547-6574021",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 29,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 29,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 29,
+        "prettyDuration": "00:00:29",
+        "automaticThumbnailsPattern": "1759121\/183940576\/0f119\/thumb-9e219b631cd9738f8dadfff387b772d3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/thumb-9e219b631cd9738f8dadfff387b772d3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/thumb-9e219b631cd9738f8dadfff387b772d3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/thumb-9e219b631cd9738f8dadfff387b772d3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/thumb-9e219b631cd9738f8dadfff387b772d3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/thumb-9e219b631cd9738f8dadfff387b772d3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/thumb-9e219b631cd9738f8dadfff387b772d3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183940576\/thumbnail\/image-thumbnail-256-1e144ff6ecc021ecd7068313274788b4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183940576\/thumbnail\/image-thumbnail-480-4491745eb314a3cd1a7f048b9eb76f72.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183940576\/thumbnail\/image-thumbnail-640-d9a569fa9f4a542b1b78408ff11c0bc1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/thumb-9e219b631cd9738f8dadfff387b772d3-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183940576\/thumbnail\/image-thumbnail-640-d9a569fa9f4a542b1b78408ff11c0bc1.jpg",
+        "type": "mp4",
+        "assetId": 183940576,
+        "assetTitle": "The Amazing Sweater Deals WEB ID: 6310547",
+        "assetTitleTextEncoded": "vue-20181120203348",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183940576,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183940576\/0f119\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

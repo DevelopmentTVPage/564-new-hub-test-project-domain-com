@@ -1,0 +1,117 @@
+{
+    "title": "INC Dot Print Wrap Top",
+    "description": "Loving this dot print wrap top- it defines my shape & is the perfect day to night top. The green dots pop and give me the ultimate chic look.",
+    "referenceId": "058c8515857a4a9b4df1d7929251881c",
+    "date_created": "1537811419",
+    "date_modified": "1546466789",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "53",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "178266160",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc-dot-print-wrap-top",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "automaticThumbnailsPattern": "1759121\/178266160\/30ee0\/thumb-058c8515857a4a9b4df1d7929251881c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/thumb-058c8515857a4a9b4df1d7929251881c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/thumb-058c8515857a4a9b4df1d7929251881c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/thumb-058c8515857a4a9b4df1d7929251881c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/thumb-058c8515857a4a9b4df1d7929251881c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/thumb-058c8515857a4a9b4df1d7929251881c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/thumb-058c8515857a4a9b4df1d7929251881c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178266160\/thumbnail\/image-thumbnail-256-7ca8f192243afbee4d64396fbd799e22.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178266160\/thumbnail\/image-thumbnail-480-41902c27ac89a5583bafb5fa904e0900.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178266160\/thumbnail\/image-thumbnail-640-5cdcb142b4dbd5a06e780c000f086002.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178266160\/thumbnail\/image-thumbnail-1280-e262e3ce5f3fef349e8fbb4322c09378.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/178266160\/thumbnail\/image-thumbnail-1920-75d32ea2f4818f3dd255f41c8e6efae4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/thumb-058c8515857a4a9b4df1d7929251881c-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266160\/thumbnail\/image-thumbnail-640-5cdcb142b4dbd5a06e780c000f086002.jpg",
+        "type": "mp4",
+        "assetId": 178266160,
+        "assetTitle": "Dot Print Wrap Top",
+        "assetTitleTextEncoded": "natasha-modeling4-v1-4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178266160,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266160\/30ee0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213689",
+    "first_name": "Lu",
+    "last_name": "Liang",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/189033263-0.8666747986339.jpg",
+        "job_title": "Sales Manager"
+    },
+    "last_login_timestamp": "1547766644",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-31 22:03:07",
+    "login_id": "1759121",
+    "user_id": "213689",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lu Liang",
+    "profile_picture": "\/api\/canvas\/logo\/189033263-0.8666747986339.jpg",
+    "titleTextEncoded": "lu-liang",
+    "title": "Lu Liang",
+    "videos_count": "14"
+}

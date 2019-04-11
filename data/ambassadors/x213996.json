@@ -1,0 +1,21 @@
+{
+    "id": "213996",
+    "first_name": "Paola",
+    "last_name": "Arredondo",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/537816052-0.8979034216608.jpg",
+        "job_title": "Beauty Advisor"
+    },
+    "last_login_timestamp": "1549750875",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-08 20:55:27",
+    "login_id": "1759121",
+    "user_id": "213996",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Paola Arredondo",
+    "profile_picture": "\/api\/canvas\/logo\/537816052-0.8979034216608.jpg",
+    "titleTextEncoded": "paola-arredondo",
+    "title": "Paola Arredondo",
+    "videos_count": "0"
+}

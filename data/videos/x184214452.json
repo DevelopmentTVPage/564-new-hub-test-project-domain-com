@@ -1,0 +1,116 @@
+{
+    "title": "Black Friday madness  boots on sale",
+    "description": "Boots and booties 40-60% off during Black Friday \nTop brands like inc, lucky brand and Franco sarto.",
+    "referenceId": "0bc39610b05a07826a1a1a87512f4d78",
+    "date_created": "1543016944",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "shoes",
+    "id": "184214452",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-madness-boots-on-sale",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 59,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 59,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 59,
+        "prettyDuration": "00:00:59",
+        "automaticThumbnailsPattern": "1759121\/184214452\/ea610\/thumb-0bc39610b05a07826a1a1a87512f4d78-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/thumb-0bc39610b05a07826a1a1a87512f4d78-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/thumb-0bc39610b05a07826a1a1a87512f4d78-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/thumb-0bc39610b05a07826a1a1a87512f4d78-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/thumb-0bc39610b05a07826a1a1a87512f4d78-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/thumb-0bc39610b05a07826a1a1a87512f4d78-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/thumb-0bc39610b05a07826a1a1a87512f4d78-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184214452\/thumbnail\/image-thumbnail-256-cd4c2599278e74f27df2ceb50c2f7b16.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184214452\/thumbnail\/image-thumbnail-480-f59126ddee7a67109389ecc69abde520.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184214452\/thumbnail\/image-thumbnail-640-2e7d3be73801436002393c09a93941c2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184214452\/thumbnail\/image-thumbnail-1280-07d810a2b8dfcb819346fb319d010790.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/thumb-0bc39610b05a07826a1a1a87512f4d78-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214452\/thumbnail\/image-thumbnail-640-2e7d3be73801436002393c09a93941c2.jpg",
+        "type": "mp4",
+        "assetId": 184214452,
+        "assetTitle": "4F7714B7-0F50-427A-9888-B96075D576A7",
+        "assetTitleTextEncoded": "4f7714b7-0f50-427a-9888-b96075d576a7",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184214452,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214452\/ea610\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "BLACK FRIDAY MADNESS|| Survival kit",
+    "description": "Pick up your black Friday survival kit today when you spend $75!",
+    "referenceId": null,
+    "date_created": "1543023699",
+    "date_modified": "1546466793",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213274",
+    "id": "184241419",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "black-friday-madness-survival-kit",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3431,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--1920.jpeg?v=1543023709877"
+            },
+            {
+                "width": 1280,
+                "height": 2287,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--1280.jpeg?v=1543023709481"
+            },
+            {
+                "width": 1200,
+                "height": 2144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--1200.jpeg?v=1543023709412"
+            },
+            {
+                "width": 1024,
+                "height": 1830,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--1024.jpeg?v=1543023710720"
+            },
+            {
+                "width": 1080,
+                "height": 1930,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--1080.jpeg?v=1543023709427"
+            },
+            {
+                "width": 960,
+                "height": 1715,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--960.jpeg?v=1543023710646"
+            },
+            {
+                "width": 640,
+                "height": 1143,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--640.jpeg?v=1543023710729"
+            },
+            {
+                "width": 600,
+                "height": 1072,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--600.jpeg?v=1543023711362"
+            },
+            {
+                "width": 256,
+                "height": 457,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-media--256.jpeg?v=1543023711772"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-thumbnail-1920.jpeg?v=1543023712341"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-thumbnail-1280.jpeg?v=1543023712211"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-thumbnail-640.jpeg?v=1543023712662"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-thumbnail-480.jpeg?v=1543023712128"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-thumbnail-256.jpeg?v=1543023712108"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-thumbnail-64.jpeg?v=1543023712414"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184241419\/image-thumbnail-640.jpeg?v=1543023712662",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

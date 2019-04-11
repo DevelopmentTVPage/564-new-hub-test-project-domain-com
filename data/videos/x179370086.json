@@ -1,0 +1,115 @@
+{
+    "title": "Cashmere by charter club",
+    "description": "cashmere by charter club",
+    "referenceId": "20e041fca01bd737a6c2f7d71bde4706",
+    "date_created": "1538761560",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "179370086",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cashmere-by-charter-club",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "23",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "23",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/179370086\/656d1\/thumb-20e041fca01bd737a6c2f7d71bde4706-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179370086\/user-images\/image-593-620c8feebefe6e86986947a364c4ec47.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/thumb-20e041fca01bd737a6c2f7d71bde4706-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/thumb-20e041fca01bd737a6c2f7d71bde4706-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/thumb-20e041fca01bd737a6c2f7d71bde4706-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/thumb-20e041fca01bd737a6c2f7d71bde4706-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/thumb-20e041fca01bd737a6c2f7d71bde4706-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/thumb-20e041fca01bd737a6c2f7d71bde4706-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179370086\/thumbnail\/image-thumbnail-256-ef1807bd90075a4d2639e902e66d194d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179370086\/thumbnail\/image-thumbnail-480-d34445ff5ac14276fbd5afafc74e2d2d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179370086\/user-images\/image-593-620c8feebefe6e86986947a364c4ec47.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179370086\/thumbnail\/image-thumbnail-480-d34445ff5ac14276fbd5afafc74e2d2d.jpg",
+        "type": "mp4",
+        "assetId": "179370086",
+        "assetTitle": "2018-10-5-12-43-14",
+        "assetTitleTextEncoded": "2018-10-5-12-43-14",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179370086",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370086\/656d1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-05"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

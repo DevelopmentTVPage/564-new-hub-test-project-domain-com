@@ -1,0 +1,113 @@
+{
+    "title": "Get your sparkle on! Macy’s",
+    "description": "Hi all! Had lots of fun in the shoe department! A lot of sparkly shoes! These have such fun heals too. Take a look at the product link!\nKeep in touch on IG @fashionstylefavs \nHave fun & get ready to party!\nINC shoes",
+    "referenceId": "ad2f899aaff40c59fb0c668784802b4c",
+    "date_created": "1537928858",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "47",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213403",
+    "product_category": "shoes",
+    "id": "178311981",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "get-your-sparkle-on-macys",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "16",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "16",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/178311981\/77c2f\/thumb-ad2f899aaff40c59fb0c668784802b4c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178311981\/user-images\/image-429-c40b2f8bb3e1c8ddce51cbf475873ddd.jpg",
+            "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/thumb-ad2f899aaff40c59fb0c668784802b4c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/thumb-ad2f899aaff40c59fb0c668784802b4c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/thumb-ad2f899aaff40c59fb0c668784802b4c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/thumb-ad2f899aaff40c59fb0c668784802b4c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/thumb-ad2f899aaff40c59fb0c668784802b4c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/thumb-ad2f899aaff40c59fb0c668784802b4c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178311981\/thumbnail\/image-thumbnail-256-c216638f999f53c1cf7363b19a58c44a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178311981\/user-images\/image-429-c40b2f8bb3e1c8ddce51cbf475873ddd.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178311981\/thumbnail\/image-thumbnail-256-c216638f999f53c1cf7363b19a58c44a.jpg",
+        "type": "mp4",
+        "assetId": "178311981",
+        "assetTitle": "Get your sparkle on!",
+        "assetTitleTextEncoded": "d51d75c7-179f-4c7e-93f9-cd8deed311ce",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178311981",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178311981\/77c2f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

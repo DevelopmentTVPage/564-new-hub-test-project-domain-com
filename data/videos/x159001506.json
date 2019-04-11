@@ -1,0 +1,103 @@
+{
+    "title": "Making a Fall Gameday Cocktail",
+    "description": "Courtney and Kelly show how to make a Fall gameday cocktail.",
+    "referenceId": "e9c81cbaab388e3bf92eebe757f8b88a",
+    "date_created": "1523645213",
+    "date_modified": "1546466755",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "159001506",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "making-a-fall-gameday-cocktail",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "175",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "175",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "175",
+        "prettyDuration": "00:02:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/159001506\/thumbnail\/image-thumbnail-640-94c4169310fb11399ca01f09be9dfb9c.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159001506\/bef30\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159001506\/bef30\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001506\/bef30\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001506\/bef30\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001506\/bef30\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001506\/bef30\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001506\/bef30\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/159001506\/bef30\/thumb-e9c81cbaab388e3bf92eebe757f8b88a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/159001506\/user-images\/image-853-3e63e41efa06d8c4036b498ea9421932.jpg",
+            "\/\/v.tvpage.com\/1759121\/159001506\/bef30\/thumb-e9c81cbaab388e3bf92eebe757f8b88a-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/159001506\/user-images\/image-853-3e63e41efa06d8c4036b498ea9421932.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/159001506\/thumbnail\/image-thumbnail-256-46b63328b6f7c9a357dd570ec7ce0fee.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/159001506\/thumbnail\/image-thumbnail-480-2b4fb4e31271bc9093ee0e3cad7d9021.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/159001506\/thumbnail\/image-thumbnail-640-94c4169310fb11399ca01f09be9dfb9c.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "My Macy’s Star Pick",
+    "description": "What’s in your bag that you can’t live without?  It was hard to narrow it down but these are my Top 10 Beauty Must Haves along with Estée Lauder ANR eye which I just ran out of yesterday so couldn’t get a pic.  Link is in bio.  #macysbeauty #macysstylecrew",
+    "referenceId": null,
+    "date_created": "1548393282",
+    "date_modified": "1548426684",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213804",
+    "id": "199424180",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-macys-star-pick",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2350,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--1920.jpeg?v=1548393336294"
+            },
+            {
+                "width": 1280,
+                "height": 1566,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--1280.jpeg?v=1548393336951"
+            },
+            {
+                "width": 1200,
+                "height": 1469,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--1200.jpeg?v=1548393336081"
+            },
+            {
+                "width": 1024,
+                "height": 1253,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--1024.jpeg?v=1548393336839"
+            },
+            {
+                "width": 1080,
+                "height": 1322,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--1080.jpeg?v=1548393336029"
+            },
+            {
+                "width": 960,
+                "height": 1175,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--960.jpeg?v=1548393336548"
+            },
+            {
+                "width": 640,
+                "height": 783,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--640.jpeg?v=1548393335951"
+            },
+            {
+                "width": 600,
+                "height": 734,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--600.jpeg?v=1548393336277"
+            },
+            {
+                "width": 256,
+                "height": 313,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-media--256.jpeg?v=1548393336520"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-thumbnail-1920.jpeg?v=1548393337592"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-thumbnail-1280.jpeg?v=1548393337540"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-thumbnail-640.jpeg?v=1548393337492"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-thumbnail-480.jpeg?v=1548393337481"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-thumbnail-256.jpeg?v=1548393337631"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-thumbnail-64.jpeg?v=1548393337724"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199424180\/image-thumbnail-640.jpeg?v=1548393337492",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

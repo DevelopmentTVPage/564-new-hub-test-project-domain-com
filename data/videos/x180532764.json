@@ -1,0 +1,116 @@
+{
+    "title": "Calvin Klein Dark Floral Dress",
+    "description": "Dress by Calvin Klein",
+    "referenceId": "f2e7ad1d9fce5824dc5d5171d5026541",
+    "date_created": "1539908867",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "180532764",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "calvin-klein-dark-floral-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/180532764\/841dc\/thumb-f2e7ad1d9fce5824dc5d5171d5026541-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180532764\/user-images\/image-1914-9d8e80ca858b3d23b4561620c3b3742e.jpg",
+            "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/thumb-f2e7ad1d9fce5824dc5d5171d5026541-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/thumb-f2e7ad1d9fce5824dc5d5171d5026541-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/thumb-f2e7ad1d9fce5824dc5d5171d5026541-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/thumb-f2e7ad1d9fce5824dc5d5171d5026541-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/thumb-f2e7ad1d9fce5824dc5d5171d5026541-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/thumb-f2e7ad1d9fce5824dc5d5171d5026541-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180532764\/thumbnail\/image-thumbnail-256-696fd78d77a6d1ce532e29d2d914648c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180532764\/thumbnail\/image-thumbnail-480-81374bfb448d8b22c6794ff49b537823.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180532764\/thumbnail\/image-thumbnail-640-9a33ee198a021924523d5cada7d5e573.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180532764\/thumbnail\/image-thumbnail-1280-a21a763fa0a6d8717c00ca89b58b61e2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180532764\/user-images\/image-1914-9d8e80ca858b3d23b4561620c3b3742e.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180532764\/thumbnail\/image-thumbnail-640-9a33ee198a021924523d5cada7d5e573.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/media.m3u8",
+        "assetId": 180532764,
+        "assetTitle": "Calvin Klien Dark Floral Dress",
+        "assetTitleTextEncoded": "calvin-klien-dark-floral-dress",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180532764,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180532764\/841dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

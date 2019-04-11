@@ -1,0 +1,127 @@
+{
+    "title": "Merry Cyber Monday",
+    "description": "I just couldn’t go to work today with all these Cyber Monday deals going on. They say my online shopping cart grew three sizes today! Gives me a reason to cozy up in these cashmere pajamas and this Hotel Collection carved faux fur blanket. I don’t think I’ll be leaving this spot anytime soon!!  Cashmere top by Club Room and cashmere pants by Tasso Elba.",
+    "referenceId": null,
+    "date_created": "1543233743",
+    "date_modified": "1546466796",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213712",
+    "id": "184294237",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "merry-cyber-monday",
+    "linkUrl": null,
+    "category": "Bed & Bath",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2552,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--1920.jpeg?v=1543233768534"
+            },
+            {
+                "width": 1280,
+                "height": 1701,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--1280.jpeg?v=1543233769467"
+            },
+            {
+                "width": 1200,
+                "height": 1595,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--1200.jpeg?v=1543233768160"
+            },
+            {
+                "width": 1024,
+                "height": 1361,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--1024.jpeg?v=1543233769050"
+            },
+            {
+                "width": 1080,
+                "height": 1436,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--1080.jpeg?v=1543233768103"
+            },
+            {
+                "width": 960,
+                "height": 1276,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--960.jpeg?v=1543233768886"
+            },
+            {
+                "width": 640,
+                "height": 850,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--640.jpeg?v=1543233767998"
+            },
+            {
+                "width": 600,
+                "height": 797,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--600.jpeg?v=1543233768511"
+            },
+            {
+                "width": 256,
+                "height": 340,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-media--256.jpeg?v=1543233768891"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-thumbnail-1920.jpeg?v=1543233770250"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-thumbnail-1280.jpeg?v=1543233770156"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-thumbnail-640.jpeg?v=1543233770081"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-thumbnail-480.jpeg?v=1543233770068"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-thumbnail-256.jpeg?v=1543233770299"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-thumbnail-64.jpeg?v=1543233770514"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184294237\/image-thumbnail-640.jpeg?v=1543233770081",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

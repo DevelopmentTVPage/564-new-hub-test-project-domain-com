@@ -1,0 +1,115 @@
+{
+    "title": "Live in Levi’s ",
+    "description": "Levi’s has me covered for all I do in my life, including hanging out areound the city on the weekends. I’m in love with their plus size jeans, especially the wedgie jeans! Plus who doesn’t love a puffer?!?",
+    "referenceId": null,
+    "date_created": "1543431376",
+    "date_modified": "1546466796",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213300",
+    "id": "184457254",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "live-in-levis",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1280,
+                "height": 1599,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-media--1280.jpeg?v=1543431384954"
+            },
+            {
+                "width": 1200,
+                "height": 1499,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-media--1200.jpeg?v=1543431384922"
+            },
+            {
+                "width": 1024,
+                "height": 1279,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-media--1024.jpeg?v=1543431384878"
+            },
+            {
+                "width": 1080,
+                "height": 1349,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-media--1080.jpeg?v=1543431385646"
+            },
+            {
+                "width": 960,
+                "height": 1199,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-media--960.jpeg?v=1543431384855"
+            },
+            {
+                "width": 640,
+                "height": 799,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-media--640.jpeg?v=1543431385473"
+            },
+            {
+                "width": 600,
+                "height": 749,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-media--600.jpeg?v=1543431385540"
+            },
+            {
+                "width": 256,
+                "height": 319,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-media--256.jpeg?v=1543431385737"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-thumbnail-1280.jpeg?v=1543431386094"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-thumbnail-640.jpeg?v=1543431386047"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-thumbnail-480.jpeg?v=1543431386036"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-thumbnail-256.jpeg?v=1543431386014"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-thumbnail-64.jpeg?v=1543431386161"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184457254\/image-thumbnail-640.jpeg?v=1543431386047",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

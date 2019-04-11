@@ -1,0 +1,107 @@
+{
+    "title": "Take the day off familys",
+    "description": "We love your fabulous lipstick looks, but we love your inner beauty even more. This October, join Clinique to Take The Day Off for a great cause. ",
+    "referenceId": "8614a10a1b7940fc8c266bc9a3775779",
+    "date_created": "1539813320",
+    "date_modified": "1546466785",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213672",
+    "product_category": "beauty",
+    "id": "180376893",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "take-the-day-off-familys",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/180376893\/6538b\/thumb-8614a10a1b7940fc8c266bc9a3775779-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/thumb-8614a10a1b7940fc8c266bc9a3775779-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/thumb-8614a10a1b7940fc8c266bc9a3775779-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/thumb-8614a10a1b7940fc8c266bc9a3775779-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180376893\/thumbnail\/image-thumbnail-256-8e953cedf588583170c7efa16b5ec711.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/thumb-8614a10a1b7940fc8c266bc9a3775779-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180376893\/thumbnail\/image-thumbnail-256-8e953cedf588583170c7efa16b5ec711.jpg",
+        "type": "mp4",
+        "assetId": 180376893,
+        "assetTitle": "TAke the day off",
+        "assetTitleTextEncoded": "31ff844d-2b59-4b4f-aeb6-5b33d00d04ec",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180376893,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180376893\/6538b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

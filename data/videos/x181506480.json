@@ -1,0 +1,118 @@
+{
+    "title": "Legs for Days: The Lucite Heel",
+    "description": "Hi guys! Today I'm sharing with you one of my favorite current trends that doubles as a hack to make your legs look longer. Enjoy!",
+    "referenceId": "4aaa6102aab691d1ee0ae8ae7e59756f",
+    "date_created": "1540948752",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "46",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "shoes",
+    "id": "181506480",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "legs-for-days-the-lucite-heel",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 132,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 132,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 132,
+        "prettyDuration": "00:02:12",
+        "automaticThumbnailsPattern": "1759121\/181506480\/aca87\/thumb-4aaa6102aab691d1ee0ae8ae7e59756f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181506480\/user-images\/image-3839-9f755deff9bd26f40128da4315e4613b.jpg",
+            "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/thumb-4aaa6102aab691d1ee0ae8ae7e59756f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/thumb-4aaa6102aab691d1ee0ae8ae7e59756f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/thumb-4aaa6102aab691d1ee0ae8ae7e59756f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/thumb-4aaa6102aab691d1ee0ae8ae7e59756f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/thumb-4aaa6102aab691d1ee0ae8ae7e59756f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/thumb-4aaa6102aab691d1ee0ae8ae7e59756f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181506480\/thumbnail\/image-thumbnail-256-900ca10f85f6a55032ec9e6309b4f6ef.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181506480\/thumbnail\/image-thumbnail-480-7dc67bfee723a58066b01203c86f5326.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181506480\/thumbnail\/image-thumbnail-640-f8ab1ceb37ada9f0b20929fcea761925.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181506480\/thumbnail\/image-thumbnail-1280-db518cab70b56d7c52d5af0166dc804a.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181506480\/thumbnail\/image-thumbnail-1920-e61c5f44e8e9ca24979383f9111271cc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181506480\/user-images\/image-3839-9f755deff9bd26f40128da4315e4613b.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181506480\/thumbnail\/image-thumbnail-640-f8ab1ceb37ada9f0b20929fcea761925.jpg",
+        "type": "mp4",
+        "assetId": 181506480,
+        "assetTitle": "Legs for Days: The Lucite Heel",
+        "assetTitleTextEncoded": "legs-for-days-the-lucite-heel",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181506480,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181506480\/aca87\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

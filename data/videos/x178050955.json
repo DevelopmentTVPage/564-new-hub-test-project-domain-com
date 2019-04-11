@@ -1,0 +1,113 @@
+{
+    "title": "Too Faced Cosmetics Prime, Concealer, and Foundation Routine",
+    "description": "In this tutorial I'm using some of my favorite Too Faced cosmetic products from their Born this Way collection",
+    "referenceId": "00e93ffbee2d351dbc35ae5db26ddcc6",
+    "date_created": "1537481695",
+    "date_modified": "1546466789",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1218",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213366",
+    "product_category": "beauty",
+    "id": "178050955",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "too-faced-cosmetics-prime-concealer-and-foundation-routine",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "66",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "66",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "automaticThumbnailsPattern": "1759121\/178050955\/f40ee\/thumb-00e93ffbee2d351dbc35ae5db26ddcc6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/thumb-00e93ffbee2d351dbc35ae5db26ddcc6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/thumb-00e93ffbee2d351dbc35ae5db26ddcc6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/thumb-00e93ffbee2d351dbc35ae5db26ddcc6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/thumb-00e93ffbee2d351dbc35ae5db26ddcc6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/thumb-00e93ffbee2d351dbc35ae5db26ddcc6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/thumb-00e93ffbee2d351dbc35ae5db26ddcc6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178050955\/thumbnail\/image-thumbnail-256-474bddedda35667a8ccfe1d9166bc9ec.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178050955\/thumbnail\/image-thumbnail-480-3127e0b0bb08227ec2c11618c1e00a08.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178050955\/thumbnail\/image-thumbnail-640-6962012a3d1a5451341f5baed1417762.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178050955\/thumbnail\/image-thumbnail-1280-99652d4b050e2cebbb3f3c7321e00f86.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/thumb-00e93ffbee2d351dbc35ae5db26ddcc6-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178050955\/thumbnail\/image-thumbnail-640-6962012a3d1a5451341f5baed1417762.jpg",
+        "type": "mp4",
+        "assetId": 178050955,
+        "assetTitle": "Too Faced Cosmetics Prime, Concealer, and Foundation Routine",
+        "assetTitleTextEncoded": "twofaced",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178050955,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178050955\/f40ee\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

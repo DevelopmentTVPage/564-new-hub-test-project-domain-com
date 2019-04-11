@@ -1,0 +1,115 @@
+{
+    "title": "NEW CliniqueID",
+    "description": "\"Clinique iD is a revolutionary custom-blend hydrator that gives you the power to hydrate and treat your way...In 15 combinations. Customize, don't compromise.\" Clinique is filling the white space of customization skin care. No one has the same skin and this is an amazing product that everyone can use.",
+    "referenceId": "872e775dc5be1075a7f61d8e23d0aca9",
+    "date_created": "1545244841",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213101",
+    "product_category": null,
+    "id": "188924567",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "new-cliniqueid",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 30,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 30,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/188924567\/9a623\/thumb-872e775dc5be1075a7f61d8e23d0aca9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/thumb-872e775dc5be1075a7f61d8e23d0aca9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/thumb-872e775dc5be1075a7f61d8e23d0aca9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/thumb-872e775dc5be1075a7f61d8e23d0aca9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/thumb-872e775dc5be1075a7f61d8e23d0aca9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/thumb-872e775dc5be1075a7f61d8e23d0aca9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/thumb-872e775dc5be1075a7f61d8e23d0aca9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188924567\/thumbnail\/image-thumbnail-256-b0bdad1a8244d6da1927b33d0603294a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188924567\/thumbnail\/image-thumbnail-480-dad5e9ff25b9fd50eda5c01c0a7c919e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188924567\/thumbnail\/image-thumbnail-640-3af14d9c9f50323a3e9306d0419c19b9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/thumb-872e775dc5be1075a7f61d8e23d0aca9-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188924567\/thumbnail\/image-thumbnail-640-3af14d9c9f50323a3e9306d0419c19b9.jpg",
+        "type": "mp4",
+        "assetId": 188924567,
+        "assetTitle": "NEW CliniqueID",
+        "assetTitleTextEncoded": "clinique-video",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188924567,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924567\/9a623\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

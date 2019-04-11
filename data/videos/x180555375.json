@@ -1,0 +1,116 @@
+{
+    "title": "Macy’s Style Crew Andrea Warner @ Northside Hospital breast cancer awareness Wine, Women&Shoes event  Grand Hyatt Atlanta Georgia .",
+    "description": "October is breast cancer awareness month so I’m representing Macy’s My Stylist\/Macy’s Style Crew-at the Wine Women & Shoes benefiting the leukemia and Women’s Cancer Programs at the Northside Hospita\/#GrandHyattBuckhead #breastcancerawareness #macysstylecrew #mystylist@macys #personalfashionstylist",
+    "referenceId": "49d43dcaab0b12b0dfea3258401b40e4",
+    "date_created": "1539917261",
+    "date_modified": "1546466794",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "27",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "women",
+    "id": "180555375",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-andrea-warner-northside-hospital-breast-cancer-awareness-wine-women-shoes-event-grand-hyatt-atlanta-georgia",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 197,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 197,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 197,
+        "prettyDuration": "00:03:17",
+        "automaticThumbnailsPattern": "1759121\/180555375\/d750a\/thumb-49d43dcaab0b12b0dfea3258401b40e4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/thumb-49d43dcaab0b12b0dfea3258401b40e4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/thumb-49d43dcaab0b12b0dfea3258401b40e4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/thumb-49d43dcaab0b12b0dfea3258401b40e4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/thumb-49d43dcaab0b12b0dfea3258401b40e4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/thumb-49d43dcaab0b12b0dfea3258401b40e4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/thumb-49d43dcaab0b12b0dfea3258401b40e4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180555375\/thumbnail\/image-thumbnail-256-74a7dc3b53590f0b91709d38cf516214.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180555375\/thumbnail\/image-thumbnail-480-e7969c0b68bce3f8b3a30e6d56247bbd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180555375\/thumbnail\/image-thumbnail-640-b51eb539ea9598db5a49d5a91f21f84b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180555375\/thumbnail\/image-thumbnail-1280-60827b1697631a858686dcd34d81f808.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/thumb-49d43dcaab0b12b0dfea3258401b40e4-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180555375\/thumbnail\/image-thumbnail-640-b51eb539ea9598db5a49d5a91f21f84b.jpg",
+        "type": "mp4",
+        "assetId": 180555375,
+        "assetTitle": "Macy’s Style Crew Andrea Warner @ Northside Hospital breast cancer awareness Wine, Women&Shoes event  Grand Hyatt Atlanta Georgia .",
+        "assetTitleTextEncoded": "5c128007-0472-40b8-b35b-b807c1ca6695",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180555375,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180555375\/d750a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

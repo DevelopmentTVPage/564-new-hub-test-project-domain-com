@@ -1,0 +1,127 @@
+{
+    "title": "My Favorite Nike look",
+    "description": "The most comfy sweater and legging combo for either running errands or actually working out",
+    "referenceId": null,
+    "date_created": "1549419292",
+    "date_modified": "1549419655",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213172",
+    "id": "201547516",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-favorite-nike-look",
+    "linkUrl": null,
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2178,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--1920.jpeg?v=1549419321070"
+            },
+            {
+                "width": 1280,
+                "height": 1452,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--1280.jpeg?v=1549419322560"
+            },
+            {
+                "width": 1200,
+                "height": 1361,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--1200.jpeg?v=1549419320376"
+            },
+            {
+                "width": 1024,
+                "height": 1161,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--1024.jpeg?v=1549419321754"
+            },
+            {
+                "width": 1080,
+                "height": 1225,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--1080.jpeg?v=1549419320302"
+            },
+            {
+                "width": 960,
+                "height": 1089,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--960.jpeg?v=1549419321627"
+            },
+            {
+                "width": 640,
+                "height": 726,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--640.jpeg?v=1549419320188"
+            },
+            {
+                "width": 600,
+                "height": 680,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--600.jpeg?v=1549419321251"
+            },
+            {
+                "width": 256,
+                "height": 290,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-media--256.jpeg?v=1549419321848"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-thumbnail-1920.jpeg?v=1549419323526"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-thumbnail-1280.jpeg?v=1549419323426"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-thumbnail-640.jpeg?v=1549419324029"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-thumbnail-480.jpeg?v=1549419323307"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-thumbnail-256.jpeg?v=1549419323277"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-thumbnail-64.jpeg?v=1549419323676"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201547516\/image-thumbnail-640.jpeg?v=1549419324029",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

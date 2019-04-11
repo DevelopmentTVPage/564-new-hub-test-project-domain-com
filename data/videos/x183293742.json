@@ -1,0 +1,112 @@
+{
+    "title": "The sweater GLOW UP is real",
+    "description": "Don't forget to add a little color and shine to your wardrobe during the darkest, coldest parts of the year! The plus size options at Macy's right now are sure to brighten your day (and your wardrobe) like this INC rainbow stripes sweater and City Chic star studded faux leather jacket!",
+    "referenceId": "657b1d817a7b1f058a1edbbc01377e8c",
+    "date_created": "1542057327",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "119",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "183293742",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-sweater-glow-up-is-real",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/183293742\/078bb\/thumb-657b1d817a7b1f058a1edbbc01377e8c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/thumb-657b1d817a7b1f058a1edbbc01377e8c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/thumb-657b1d817a7b1f058a1edbbc01377e8c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/thumb-657b1d817a7b1f058a1edbbc01377e8c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/thumb-657b1d817a7b1f058a1edbbc01377e8c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/thumb-657b1d817a7b1f058a1edbbc01377e8c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/thumb-657b1d817a7b1f058a1edbbc01377e8c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183293742\/thumbnail\/image-thumbnail-256-227cd453d8b3a64d4e6fd43f8513b0dd.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183293742\/thumbnail\/image-thumbnail-480-739d1a7edab0867ea4a03376036a3196.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183293742\/thumbnail\/image-thumbnail-640-e4ed09460729fa58f701c42467aff138.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/thumb-657b1d817a7b1f058a1edbbc01377e8c-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293742\/thumbnail\/image-thumbnail-640-e4ed09460729fa58f701c42467aff138.jpg",
+        "type": "mp4",
+        "assetId": 183293742,
+        "assetTitle": "The sweater GLOW UP is real",
+        "assetTitleTextEncoded": "jill-modeling-6-v3",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183293742,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293742\/078bb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

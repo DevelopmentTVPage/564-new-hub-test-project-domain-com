@@ -1,0 +1,102 @@
+{
+    "title": "Renew. Reset. Refresh",
+    "description": "Men’s and women’s active wear ",
+    "referenceId": "128f81ee47cea80e9fa18b08251554ed",
+    "date_created": "1547637643",
+    "date_modified": "1547637882",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "39",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213147",
+    "product_category": null,
+    "id": "198357016",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-reset-refresh",
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/198357016\/b8005\/thumb-128f81ee47cea80e9fa18b08251554ed-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/thumb-128f81ee47cea80e9fa18b08251554ed-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/thumb-128f81ee47cea80e9fa18b08251554ed-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/thumb-128f81ee47cea80e9fa18b08251554ed-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/thumb-128f81ee47cea80e9fa18b08251554ed-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/thumb-128f81ee47cea80e9fa18b08251554ed-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/thumb-128f81ee47cea80e9fa18b08251554ed-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198357016\/thumbnail\/image-thumbnail-256-9cfe356a6a9a5305005d5ae7dacb48d7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/198357016\/thumbnail\/image-thumbnail-480-36faa12d2b62f380e38aba60c38497f0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/thumb-128f81ee47cea80e9fa18b08251554ed-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198357016\/thumbnail\/image-thumbnail-480-36faa12d2b62f380e38aba60c38497f0.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357016\/b8005\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-23"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

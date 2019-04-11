@@ -1,0 +1,105 @@
+{
+    "title": "Activate your Clinique ID",
+    "description": "One of the most satisfying things to do is complete your skin care regimen with good for you products and in this case taking two steps and plugging them into each other for super charged benefits with active ingredients that show results in one day, one week and one bottle! #blessed #macysbeauty #macysstylecrew #cliniqueid #clinique2019 #teamcliniqueNa #activateyourid #findyourid #newness #follow #like #share ",
+    "referenceId": "c68673afd5e2264261ce6caad72adbcd",
+    "date_created": "1546538246",
+    "date_modified": "1546538605",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "83",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213871",
+    "product_category": null,
+    "id": "192649918",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "activate-your-clinique-id",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 720,
+            "height": 900
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/192649918\/843fc\/thumb-c68673afd5e2264261ce6caad72adbcd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/thumb-c68673afd5e2264261ce6caad72adbcd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/thumb-c68673afd5e2264261ce6caad72adbcd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/thumb-c68673afd5e2264261ce6caad72adbcd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/thumb-c68673afd5e2264261ce6caad72adbcd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/thumb-c68673afd5e2264261ce6caad72adbcd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/thumb-c68673afd5e2264261ce6caad72adbcd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192649918\/thumbnail\/image-thumbnail-256-52e1b19ee74789e21eb04bcb7c26188b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192649918\/thumbnail\/image-thumbnail-480-1bcdfd87c5d0052d0e2d5400b2fbc3dd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/192649918\/thumbnail\/image-thumbnail-640-58ed07565c49b1678c90bda688e2d38b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/thumb-c68673afd5e2264261ce6caad72adbcd-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192649918\/thumbnail\/image-thumbnail-640-58ed07565c49b1678c90bda688e2d38b.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 900
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649918\/843fc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

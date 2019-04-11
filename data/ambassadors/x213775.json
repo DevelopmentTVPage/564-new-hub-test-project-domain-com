@@ -1,0 +1,21 @@
+{
+    "id": "213775",
+    "first_name": "Jill",
+    "last_name": "Williams",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Receiver Associate"
+    },
+    "last_login_timestamp": "1543534952",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-19 22:53:48",
+    "login_id": "1759121",
+    "user_id": "213775",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jill Williams",
+    "profile_picture": null,
+    "titleTextEncoded": "jill-williams",
+    "title": "Jill Williams",
+    "videos_count": "0"
+}

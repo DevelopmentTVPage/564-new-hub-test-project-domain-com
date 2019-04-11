@@ -1,0 +1,112 @@
+{
+    "title": "Will be the winner at  the Christmas Sweater Party",
+    "description": "Get Hooked on one of these Christmas outfits .",
+    "referenceId": "5d9f650a9a5263698cc5ea5d41f5d57a",
+    "date_created": "1544578076",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": "juniors",
+    "id": "187609051",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "will-be-the-winner-at-the-christmas-sweater-party",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/187609051\/30f70\/thumb-5d9f650a9a5263698cc5ea5d41f5d57a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/thumb-5d9f650a9a5263698cc5ea5d41f5d57a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/thumb-5d9f650a9a5263698cc5ea5d41f5d57a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/thumb-5d9f650a9a5263698cc5ea5d41f5d57a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/thumb-5d9f650a9a5263698cc5ea5d41f5d57a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/thumb-5d9f650a9a5263698cc5ea5d41f5d57a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/thumb-5d9f650a9a5263698cc5ea5d41f5d57a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187609051\/thumbnail\/image-thumbnail-256-83a57c538bf4d5d4599d579ea5073ee2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187609051\/thumbnail\/image-thumbnail-480-1102ab0343461ca3b73d9c475cff6fbf.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/thumb-5d9f650a9a5263698cc5ea5d41f5d57a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187609051\/thumbnail\/image-thumbnail-480-1102ab0343461ca3b73d9c475cff6fbf.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": 187609051,
+        "assetTitle": "Christmas",
+        "assetTitleTextEncoded": "6f8bfee2-0180-4316-aa7c-1fee2fa3762d",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187609051,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187609051\/30f70\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

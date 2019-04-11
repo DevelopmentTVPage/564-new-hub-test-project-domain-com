@@ -1,0 +1,21 @@
+{
+    "id": "213705",
+    "first_name": "efrain",
+    "last_name": "rodriguez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/120670351-0.9351314648054.jpg",
+        "job_title": "Visual Merchandiser"
+    },
+    "last_login_timestamp": "1542134292",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 02:36:50",
+    "login_id": "1759121",
+    "user_id": "213705",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "efrain rodriguez",
+    "profile_picture": "\/api\/canvas\/logo\/120670351-0.9351314648054.jpg",
+    "titleTextEncoded": "efrain-rodriguez",
+    "title": "efrain rodriguez",
+    "videos_count": "15"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "634",
+    "first_name": "Alex",
+    "last_name": "Turner",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/533867603-0.8042478414252.jpg",
+        "job_title": "Dude"
+    },
+    "last_login_timestamp": "1550097122",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-02 01:14:03",
+    "login_id": "1759121",
+    "user_id": "634",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Alex Turner",
+    "profile_picture": "\/api\/canvas\/logo\/533867603-0.8042478414252.jpg",
+    "titleTextEncoded": "alex-turner",
+    "title": "Alex Turner",
+    "videos_count": "0"
+}

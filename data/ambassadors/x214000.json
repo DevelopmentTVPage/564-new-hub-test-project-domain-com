@@ -1,0 +1,21 @@
+{
+    "id": "214000",
+    "first_name": "Ashley",
+    "last_name": "Pattigno",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/712589642-0.1025189584586.jpg",
+        "job_title": "Visual Merchandiser associate"
+    },
+    "last_login_timestamp": "1549898430",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-09 15:17:15",
+    "login_id": "1759121",
+    "user_id": "214000",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Ashley Pattigno",
+    "profile_picture": "\/api\/canvas\/logo\/712589642-0.1025189584586.jpg",
+    "titleTextEncoded": "ashley-pattigno",
+    "title": "Ashley Pattigno",
+    "videos_count": "0"
+}

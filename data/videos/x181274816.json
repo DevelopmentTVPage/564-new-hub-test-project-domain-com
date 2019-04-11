@@ -1,0 +1,112 @@
+{
+    "title": "Warm & Cozy in Flannel Sheets and Bedding by Martha Stewart",
+    "description": "Stay warm and cozy this season!  We have a great selection of oh-so-soft prints, plaids, and solid flannel sheets and bedding.",
+    "referenceId": "2b7353092d0623f28c7f2492c451dd84",
+    "date_created": "1540561678",
+    "date_modified": "1546466787",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "181274816",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "warm-cozy-in-flannel-sheets-and-bedding-by-martha-stewart",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 28,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 28,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 28,
+        "prettyDuration": "00:00:28",
+        "automaticThumbnailsPattern": "1759121\/181274816\/ba5ba\/thumb-2b7353092d0623f28c7f2492c451dd84-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/thumb-2b7353092d0623f28c7f2492c451dd84-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/thumb-2b7353092d0623f28c7f2492c451dd84-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/thumb-2b7353092d0623f28c7f2492c451dd84-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/thumb-2b7353092d0623f28c7f2492c451dd84-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/thumb-2b7353092d0623f28c7f2492c451dd84-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/thumb-2b7353092d0623f28c7f2492c451dd84-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181274816\/thumbnail\/image-thumbnail-256-01c5d598d1545b8cafadb1810e27ca19.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181274816\/thumbnail\/image-thumbnail-480-2ef2d934da9fe1f15e76e92c25683622.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181274816\/thumbnail\/image-thumbnail-640-b500a04397d20ec9b5dc156aab4813df.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/thumb-2b7353092d0623f28c7f2492c451dd84-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181274816\/thumbnail\/image-thumbnail-640-b500a04397d20ec9b5dc156aab4813df.jpg",
+        "type": "mp4",
+        "assetId": 181274816,
+        "assetTitle": "Warm & Cozy in Flannel Sheets and Bedding by Martha Stewart",
+        "assetTitleTextEncoded": "photogrid-1540561538174",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181274816,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274816\/ba5ba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

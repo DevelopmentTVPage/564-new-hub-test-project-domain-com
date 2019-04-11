@@ -1,0 +1,115 @@
+{
+    "title": "Buy A Coat, We'll Donate One",
+    "description": "For every coat purchased during The Big Give Back (November 4 – November 6) in our women's, men's, juniors' and kids' outerwear departments in store and on macys.com, we'll donate a coat* to Clothes4Souls, to provide warmth, hope & dignity to those in need this winter.\n\nThanks to you, we’ve donated more than $8 million worth of coats to keep more than 200,000 warm since 2013.\n\n*Up to 35,000 women's, men's, juniors' and kids' coats of our choice with an average retail value of $40-$100 each will be donated.",
+    "referenceId": "619fcfdb09129fea307fa281b395edec",
+    "date_created": "1541021571",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "75",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "men",
+    "id": "181580260",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "buy-a-coat-well-donate-one",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 63,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 63,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 63,
+        "prettyDuration": "00:01:03",
+        "automaticThumbnailsPattern": "1759121\/181580260\/615df\/thumb-619fcfdb09129fea307fa281b395edec-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181580260\/615df\/thumb-619fcfdb09129fea307fa281b395edec-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181580260\/615df\/thumb-619fcfdb09129fea307fa281b395edec-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181580260\/615df\/thumb-619fcfdb09129fea307fa281b395edec-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181580260\/615df\/thumb-619fcfdb09129fea307fa281b395edec-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181580260\/615df\/thumb-619fcfdb09129fea307fa281b395edec-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181580260\/615df\/thumb-619fcfdb09129fea307fa281b395edec-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181580260\/thumbnail\/image-thumbnail-256-d5073ccc9be5d1de277d4f0e53764785.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181580260\/thumbnail\/image-thumbnail-480-663f051829e273e0dfed24d9f4a30385.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181580260\/thumbnail\/image-thumbnail-640-67084ebbbbe34b38b5c4ef948b9135b8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181580260\/615df\/thumb-619fcfdb09129fea307fa281b395edec-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181580260\/thumbnail\/image-thumbnail-640-67084ebbbbe34b38b5c4ef948b9135b8.jpg",
+        "type": "mp4",
+        "assetId": 181580260,
+        "assetTitle": "Buy A Coat, We'll Donate One",
+        "assetTitleTextEncoded": "buy-a-coat-we-ll-donate-one",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181580260,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181580260\/615df\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181580260\/615df\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181580260\/615df\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181580260\/615df\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181580260\/615df\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

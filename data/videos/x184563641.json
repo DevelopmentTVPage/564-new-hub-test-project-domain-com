@@ -1,0 +1,117 @@
+{
+    "title": "How to stay warm this winter vol 1: Live in Levis",
+    "description": "In the first installment of \"how to stay warm this winter\" I am sharing my favorite outfit to be in on the weekends. Looking good and staying warm are obviously priorities and this Levis plus size outfit keeps me warm even on those cold, windy days of winter\nCheck out this great hoodie and novelty puffer jacket and pair them back to the wedgie jean and you are set!",
+    "referenceId": "6c0a342982b7217134d0849370780edd",
+    "date_created": "1543520196",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "162",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "37",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "184563641",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "how-to-stay-warm-this-winter-vol-1-live-in-levis",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/184563641\/b7d52\/thumb-6c0a342982b7217134d0849370780edd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/thumb-6c0a342982b7217134d0849370780edd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/thumb-6c0a342982b7217134d0849370780edd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/thumb-6c0a342982b7217134d0849370780edd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/thumb-6c0a342982b7217134d0849370780edd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/thumb-6c0a342982b7217134d0849370780edd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/thumb-6c0a342982b7217134d0849370780edd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184563641\/thumbnail\/image-thumbnail-256-7ae50753d12488c132a15653f359c7be.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184563641\/thumbnail\/image-thumbnail-480-f073a876b5fbaf9dd843832a5e00f974.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184563641\/thumbnail\/image-thumbnail-640-2008fd9d17ea8b3d1fc1c48a32c343ba.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184563641\/thumbnail\/image-thumbnail-1280-142a5339a82150bcc1e09489f7dc4c47.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184563641\/thumbnail\/image-thumbnail-1920-67cd0586d2598765f4c924f33db4bbf4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/thumb-6c0a342982b7217134d0849370780edd-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184563641\/thumbnail\/image-thumbnail-640-2008fd9d17ea8b3d1fc1c48a32c343ba.jpg",
+        "type": "mp4",
+        "assetId": 184563641,
+        "assetTitle": "How to stay warm this winter vol 1: Live in Levis",
+        "assetTitleTextEncoded": "jill-modeling-1-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184563641,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184563641\/b7d52\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213839",
+    "first_name": "Nick",
+    "last_name": "Birkby",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Assistant Buyer"
+    },
+    "last_login_timestamp": "1550096957",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-05 23:04:48",
+    "login_id": "1759121",
+    "user_id": "213839",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Nick Birkby",
+    "profile_picture": null,
+    "titleTextEncoded": "nick-birkby",
+    "title": "Nick Birkby",
+    "videos_count": "0"
+}

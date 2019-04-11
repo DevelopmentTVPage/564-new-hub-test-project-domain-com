@@ -1,0 +1,127 @@
+{
+    "title": "Concert Ready in Bar III",
+    "description": "I checked out Charlotte Lawrence's amazing gig at Bowery Ballroom in this Bar III Cutout Rib Sweater. I opted for black for a downtown, night out vibe but the sweater also comes in 3 other colors. Check it out! Web ID: https:\/\/www.macys.com\/shop\/product\/bar-iii-cutout-ribbed-sweater-created-for-macys?ID=6707093",
+    "referenceId": null,
+    "date_created": "1544382964",
+    "date_modified": "1546466797",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213524",
+    "id": "187439146",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "concert-ready-in-bar-iii",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2136,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--1920.jpeg?v=1544382966392"
+            },
+            {
+                "width": 1280,
+                "height": 1424,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--1280.jpeg?v=1544382966544"
+            },
+            {
+                "width": 1200,
+                "height": 1335,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--1200.jpeg?v=1544382966543"
+            },
+            {
+                "width": 1024,
+                "height": 1139,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--1024.jpeg?v=1544382967003"
+            },
+            {
+                "width": 1080,
+                "height": 1201,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--1080.jpeg?v=1544382966239"
+            },
+            {
+                "width": 960,
+                "height": 1068,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--960.jpeg?v=1544382966675"
+            },
+            {
+                "width": 640,
+                "height": 712,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--640.jpeg?v=1544382966181"
+            },
+            {
+                "width": 600,
+                "height": 667,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--600.jpeg?v=1544382966178"
+            },
+            {
+                "width": 256,
+                "height": 284,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-media--256.jpeg?v=1544382966358"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-thumbnail-1920.jpeg?v=1544382967408"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-thumbnail-1280.jpeg?v=1544382967360"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-thumbnail-640.jpeg?v=1544382967311"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-thumbnail-480.jpeg?v=1544382967306"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-thumbnail-256.jpeg?v=1544382967360"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-thumbnail-64.jpeg?v=1544382967391"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187439146\/image-thumbnail-640.jpeg?v=1544382967311",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

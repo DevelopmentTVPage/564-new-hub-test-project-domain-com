@@ -1,0 +1,117 @@
+{
+    "title": "Silken Slumber: 100% Silk Pillowcase #macysbeauty",
+    "description": "This 100% silk pillowcase does it all. Say goodbye to bed hair & face sleep creases. This pillowcase feels amazing on your skin and has great benefits--one of which is that it helps to minimize wrinkles! Say no more. This is the perfect gift for yourself or the health and skin conscious friend in your life!",
+    "referenceId": "e7f2900f23990949dad21ffbcd04bdbc",
+    "date_created": "1543864235",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "69",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "4",
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "beauty",
+    "id": "184985953",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "silken-slumber-100-silk-pillowcase-macysbeauty",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/184985953\/cc889\/thumb-e7f2900f23990949dad21ffbcd04bdbc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184985953\/user-images\/image-1280-332cf7ab4a2e24a7a871260503e51172.jpg",
+            "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/thumb-e7f2900f23990949dad21ffbcd04bdbc-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/thumb-e7f2900f23990949dad21ffbcd04bdbc-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/thumb-e7f2900f23990949dad21ffbcd04bdbc-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/thumb-e7f2900f23990949dad21ffbcd04bdbc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/thumb-e7f2900f23990949dad21ffbcd04bdbc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/thumb-e7f2900f23990949dad21ffbcd04bdbc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184985953\/thumbnail\/image-thumbnail-256-a5017f2e53b3ff82851619c63f2ba8dc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184985953\/thumbnail\/image-thumbnail-480-51089a689085d4c70e135cd5937325ee.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184985953\/thumbnail\/image-thumbnail-640-eb2f51ffab1212ed58b52a6be2f26e39.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184985953\/thumbnail\/image-thumbnail-1280-402f232125c1d2b0b0af5b385dbc5211.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184985953\/user-images\/image-1280-332cf7ab4a2e24a7a871260503e51172.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184985953\/thumbnail\/image-thumbnail-640-eb2f51ffab1212ed58b52a6be2f26e39.jpg",
+        "type": "mp4",
+        "assetId": 184985953,
+        "assetTitle": "Silken Slumber",
+        "assetTitleTextEncoded": "silken-slumber",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184985953,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184985953\/cc889\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

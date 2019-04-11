@@ -1,0 +1,104 @@
+{
+    "title": "Jacqueline Palmer\/Renew refresh reset with cooking",
+    "description": "Try these great products from Joesph Joesph to upgrade your kitchen prep in the new year!\n#food #joesphjoesph #home #style #macysstylecrew #cooking",
+    "referenceId": "ab496dde1e5098ce7146a8303ecbe21b",
+    "date_created": "1547906248",
+    "date_modified": "1547907706",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "54",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "198711737",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-renew-refresh-reset-with-cooking",
+    "category": "Jacqueline Palmer\/Renew refresh reset with cooking",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 226,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 226,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 226,
+        "prettyDuration": "00:03:46",
+        "automaticThumbnailsPattern": "1759121\/198711737\/13479\/thumb-ab496dde1e5098ce7146a8303ecbe21b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198711737\/13479\/thumb-ab496dde1e5098ce7146a8303ecbe21b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/198711737\/13479\/thumb-ab496dde1e5098ce7146a8303ecbe21b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/198711737\/13479\/thumb-ab496dde1e5098ce7146a8303ecbe21b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/198711737\/13479\/thumb-ab496dde1e5098ce7146a8303ecbe21b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198711737\/13479\/thumb-ab496dde1e5098ce7146a8303ecbe21b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198711737\/13479\/thumb-ab496dde1e5098ce7146a8303ecbe21b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198711737\/thumbnail\/image-thumbnail-256-59bc60e67f3b4d1570cb81d5974bdc50.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/198711737\/thumbnail\/image-thumbnail-480-37b7fc707bdfa1815f2b0ac7ba2e7661.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/198711737\/thumbnail\/image-thumbnail-640-efed175d13c91c778a3235d394ebe0d6.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/198711737\/thumbnail\/image-thumbnail-1280-94ee4b17bb83217e9a6a83fa3c49462c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198711737\/13479\/thumb-ab496dde1e5098ce7146a8303ecbe21b-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198711737\/thumbnail\/image-thumbnail-640-efed175d13c91c778a3235d394ebe0d6.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198711737\/13479\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198711737\/13479\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198711737\/13479\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198711737\/13479\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198711737\/13479\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

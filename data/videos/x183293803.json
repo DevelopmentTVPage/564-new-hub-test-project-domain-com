@@ -1,0 +1,117 @@
+{
+    "title": "Feelin Cozy - Just a Taste of Fashion",
+    "description": "Stay cozy but chic in a teddy bear jacket and cord skirt during the chilly weather. This is one of my favorite looks I filmed because I was able to put this outfit together so easily and I can dress this look up and down in a snap.",
+    "referenceId": "0581ab0b96135ef0651fe4f608ba7a10",
+    "date_created": "1542067341",
+    "date_modified": "1546466824",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "183293803",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "feelin-cozy-just-a-taste-of-fashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 99,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 99,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 99,
+        "prettyDuration": "00:01:39",
+        "automaticThumbnailsPattern": "1759121\/183293803\/50e74\/thumb-0581ab0b96135ef0651fe4f608ba7a10-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183293803\/user-images\/image-3839-b5229c1b5bc7be6275d0e3616aec9a82.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/thumb-0581ab0b96135ef0651fe4f608ba7a10-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/thumb-0581ab0b96135ef0651fe4f608ba7a10-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/thumb-0581ab0b96135ef0651fe4f608ba7a10-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/thumb-0581ab0b96135ef0651fe4f608ba7a10-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/thumb-0581ab0b96135ef0651fe4f608ba7a10-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/thumb-0581ab0b96135ef0651fe4f608ba7a10-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183293803\/thumbnail\/image-thumbnail-256-129d15c803a68420094c188be4ff35c0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183293803\/thumbnail\/image-thumbnail-480-05f79b8c3cbcec2ee19e5592229929a7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183293803\/thumbnail\/image-thumbnail-640-07b0f6455c54491d64597b84040782f0.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183293803\/thumbnail\/image-thumbnail-1280-a1efd0b6f9d92f820209bfd0ae60cd03.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183293803\/thumbnail\/image-thumbnail-1920-8c9f4f88060d2635f035225b7185ddb3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293803\/user-images\/image-3839-b5229c1b5bc7be6275d0e3616aec9a82.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293803\/thumbnail\/image-thumbnail-640-07b0f6455c54491d64597b84040782f0.jpg",
+        "type": "mp4",
+        "assetId": 183293803,
+        "assetTitle": "Feelin Cozy - Just a Taste of Fashion",
+        "assetTitleTextEncoded": "4-feelin-cozy-1080p",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183293803,
+            "li": 1759121
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293803\/50e74\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

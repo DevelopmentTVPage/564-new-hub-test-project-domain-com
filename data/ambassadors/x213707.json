@@ -1,0 +1,21 @@
+{
+    "id": "213707",
+    "first_name": "Michelle",
+    "last_name": "Perez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/281216821-0.1660785023123.jpg",
+        "job_title": "Fragrance Shop Captain"
+    },
+    "last_login_timestamp": "1546061128",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 03:23:05",
+    "login_id": "1759121",
+    "user_id": "213707",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Michelle Perez",
+    "profile_picture": "\/api\/canvas\/logo\/281216821-0.1660785023123.jpg",
+    "titleTextEncoded": "michelle-perez",
+    "title": "Michelle Perez",
+    "videos_count": "3"
+}

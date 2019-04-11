@@ -1,0 +1,115 @@
+{
+    "title": "Amazing Sweater Deals",
+    "description": "Amazing Sweater Deals \nAll Brands Color and Sizes\nWeb Id 6727355 cover sweater",
+    "referenceId": "498928a8bf9841428ef20b6c17b148ff",
+    "date_created": "1542750160",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "35",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "183902356",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "amazing-sweater-deals",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 38,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 38,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 38,
+        "prettyDuration": "00:00:38",
+        "automaticThumbnailsPattern": "1759121\/183902356\/e316e\/thumb-498928a8bf9841428ef20b6c17b148ff-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183902356\/user-images\/image-1867-6f17c5b73afabaa5d4143ce06c3ce800.jpg",
+            "\/\/v.tvpage.com\/1759121\/183902356\/user-images\/image-1080-96b3eafb7ab4aa83e2e73f46f1002460.jpg",
+            "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/thumb-498928a8bf9841428ef20b6c17b148ff-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/thumb-498928a8bf9841428ef20b6c17b148ff-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/thumb-498928a8bf9841428ef20b6c17b148ff-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/thumb-498928a8bf9841428ef20b6c17b148ff-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/thumb-498928a8bf9841428ef20b6c17b148ff-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/thumb-498928a8bf9841428ef20b6c17b148ff-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183902356\/thumbnail\/image-thumbnail-256-7fd2ba881b5785c40b262bfebcec84e7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183902356\/thumbnail\/image-thumbnail-480-4e239439d22a4b462e37e210c8f59955.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183902356\/thumbnail\/image-thumbnail-640-b674892a56ea7a282dcc4cbdda0b9472.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183902356\/thumbnail\/image-thumbnail-1280-a55c2a16bab34c93a8daaa2ece4dc8be.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183902356\/user-images\/image-1867-6f17c5b73afabaa5d4143ce06c3ce800.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183902356\/thumbnail\/image-thumbnail-640-b674892a56ea7a282dcc4cbdda0b9472.jpg",
+        "type": "mp4",
+        "assetId": 183902356,
+        "assetTitle": "Amazing Sweater Deals",
+        "assetTitleTextEncoded": "2018-11-20-13-49-38",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183902356,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183902356\/e316e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,103 @@
+{
+    "title": "Macy s Style Crew New Year's Eve Prep",
+    "description": "Check yourself in the mirror to find the perfect outfit.",
+    "referenceId": "0d8375fa5a221287cf514930f22ac364",
+    "date_created": "1523913905",
+    "date_modified": "1546466764",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160455766",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macy-s-style-crew-new-years-eve-prep",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "68",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "68",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455766\/thumbnail\/image-thumbnail-640-6d0ac835c5016e798fe8f1e200d1cc7e.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455766\/ccdc3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455766\/ccdc3\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455766\/ccdc3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455766\/ccdc3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455766\/ccdc3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455766\/ccdc3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455766\/ccdc3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160455766\/user-images\/image-1920-ee5029f0c687fe7811ddd79e6c8bfc9d.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455766\/user-images\/image-1920-ee5029f0c687fe7811ddd79e6c8bfc9d.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160455766\/thumbnail\/image-thumbnail-256-f6f6ed20b6464f64ee9a297658e71d7b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160455766\/thumbnail\/image-thumbnail-480-0923cb19ce868521d7cfc9c4052acb2a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160455766\/thumbnail\/image-thumbnail-640-6d0ac835c5016e798fe8f1e200d1cc7e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/160455766\/thumbnail\/image-thumbnail-1280-da3a9b42c1779a4eb80c69b1b058b638.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/160455766\/thumbnail\/image-thumbnail-1920-c9067e9226f5d9ed7fb59d54b5e7886f.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

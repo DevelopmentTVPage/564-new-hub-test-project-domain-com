@@ -1,0 +1,109 @@
+{
+    "title": "My New Year's Resolution feat. Clinique iD",
+    "description": "This year my New Year's resolution is to focus more on taking care of myself, especially when it comes to skincare. After all, they don't just say great makeup starts with great skin for nothing! To find out more about how I'm transforming my skin with Clinique's new amazing and customizable skincare line, \"Clinique iD,\" make sure to click the video to watch.",
+    "referenceId": "e9e90c818050ea6ce7554b88d38c9454",
+    "date_created": "1546645199",
+    "date_modified": "1546725580",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": null,
+    "id": "192857360",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-new-years-resolution-feat-clinique-id",
+    "category": "Beauty",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 108,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 108,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 108,
+        "prettyDuration": "00:01:48",
+        "automaticThumbnailsPattern": "1759121\/192857360\/ec82a\/thumb-e9e90c818050ea6ce7554b88d38c9454-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192857360\/user-images\/image-3839-9dfe6da4abadd0d90d168fc2f5008096.jpg",
+            "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/thumb-e9e90c818050ea6ce7554b88d38c9454-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/thumb-e9e90c818050ea6ce7554b88d38c9454-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/thumb-e9e90c818050ea6ce7554b88d38c9454-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/thumb-e9e90c818050ea6ce7554b88d38c9454-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/thumb-e9e90c818050ea6ce7554b88d38c9454-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/thumb-e9e90c818050ea6ce7554b88d38c9454-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192857360\/thumbnail\/image-thumbnail-256-a1fb8eb2f7a2a8115a3f6800d1ca6218.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192857360\/thumbnail\/image-thumbnail-480-1946ef13f9ba0c383a4242b68a5fad91.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/192857360\/thumbnail\/image-thumbnail-640-fd2b18c024cd4043b82e331d26281167.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/192857360\/thumbnail\/image-thumbnail-1280-3b3349de1a4f2dec973c556a53972ed2.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/192857360\/thumbnail\/image-thumbnail-1920-3e7efc8fa1eae94b24e40594620a44c3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192857360\/user-images\/image-3839-9dfe6da4abadd0d90d168fc2f5008096.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192857360\/thumbnail\/image-thumbnail-640-fd2b18c024cd4043b82e331d26281167.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192857360\/ec82a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

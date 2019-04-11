@@ -1,0 +1,103 @@
+{
+    "title": "Holiday Party Glam ",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1542161312",
+    "date_modified": "1546466790",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213297",
+    "id": "183360201",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "holiday-party-glam",
+    "linkUrl": null,
+    "category": "Bed & Bath",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1507,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-media--1200.jpeg?v=1542161316927"
+            },
+            {
+                "width": 1024,
+                "height": 1286,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-media--1024.jpeg?v=1542161316878"
+            },
+            {
+                "width": 1080,
+                "height": 1356,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-media--1080.jpeg?v=1542161316889"
+            },
+            {
+                "width": 960,
+                "height": 1205,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-media--960.jpeg?v=1542161316843"
+            },
+            {
+                "width": 640,
+                "height": 803,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-media--640.jpeg?v=1542161317365"
+            },
+            {
+                "width": 600,
+                "height": 753,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-media--600.jpeg?v=1542161317407"
+            },
+            {
+                "width": 256,
+                "height": 321,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-media--256.jpeg?v=1542161317394"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-thumbnail-640.jpeg?v=1542161317618"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-thumbnail-480.jpeg?v=1542161317606"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-thumbnail-256.jpeg?v=1542161317590"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-thumbnail-64.jpeg?v=1542161317585"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360201\/image-thumbnail-640.jpeg?v=1542161317618",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

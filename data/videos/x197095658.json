@@ -1,0 +1,110 @@
+{
+    "title": "Clinique iD - Better skin texture in a matter of weeks! ",
+    "description": "Clinique iD is a revolutionary custom-blend hydrator that gives you the power to hydrate and treat your way. When picking the prefect custom blend for me, I went with the ID Dramatically Different Moisturizing Lotion+ With Active Cartridge Concentrate For Pores & Uneven Texture because I wanted to enhance my skin's texture and reduce my pores. I've been using this moisturizer for several weeks now and I do love how it evens out my skin tone. It's a keeper in my book. Check out the entire collection to find out what moisturizer is best for you! ",
+    "referenceId": "c30e3bd223f8aae5501fc12327619d44",
+    "date_created": "1547050330",
+    "date_modified": "1547051080",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": null,
+    "id": "197095658",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "clinique-id-better-skin-texture-in-a-matter-of-weeks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 36,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 36,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 36,
+        "prettyDuration": "00:00:36",
+        "automaticThumbnailsPattern": "1759121\/197095658\/78726\/thumb-c30e3bd223f8aae5501fc12327619d44-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197095658\/user-images\/image-1280-edb5c935e8e28ca1f05d48f69fdafac4.jpg",
+            "\/\/v.tvpage.com\/1759121\/197095658\/78726\/thumb-c30e3bd223f8aae5501fc12327619d44-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197095658\/78726\/thumb-c30e3bd223f8aae5501fc12327619d44-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197095658\/78726\/thumb-c30e3bd223f8aae5501fc12327619d44-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197095658\/78726\/thumb-c30e3bd223f8aae5501fc12327619d44-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197095658\/78726\/thumb-c30e3bd223f8aae5501fc12327619d44-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197095658\/78726\/thumb-c30e3bd223f8aae5501fc12327619d44-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197095658\/thumbnail\/image-thumbnail-256-ded56473d745085924a15dd6cdb571e5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197095658\/thumbnail\/image-thumbnail-480-741a1a2154a968ba95539ca3fd2c8a37.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/197095658\/thumbnail\/image-thumbnail-640-4d563ee1bac7f664e35b791399845bbd.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/197095658\/thumbnail\/image-thumbnail-1280-f53f1b3b7868c3c6833808c6c65d1ed4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197095658\/user-images\/image-1280-edb5c935e8e28ca1f05d48f69fdafac4.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197095658\/thumbnail\/image-thumbnail-640-4d563ee1bac7f664e35b791399845bbd.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/197095658\/78726\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/197095658\/78726\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197095658\/78726\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197095658\/78726\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197095658\/78726\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197095658\/78726\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197095658\/78726\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

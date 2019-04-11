@@ -1,0 +1,114 @@
+{
+    "title": "MY GIFT LIST",
+    "description": "GIFTING MADE EASY,   GREAT IDEAS FOR THE HOLIDAY SEASON",
+    "referenceId": "e4704611fe1507b09a97e820054bcd59",
+    "date_created": "1544856270",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "61",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "188358259",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-gift-list",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 42,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 42,
+            "width": 720,
+            "height": 900
+        },
+        "mediaDuration": 42,
+        "prettyDuration": "00:00:42",
+        "automaticThumbnailsPattern": "1759121\/188358259\/d0dff\/thumb-e4704611fe1507b09a97e820054bcd59-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188358259\/user-images\/image-933-90b2ab2c13a613acbe06fa899fa03fed.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/thumb-e4704611fe1507b09a97e820054bcd59-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/thumb-e4704611fe1507b09a97e820054bcd59-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/thumb-e4704611fe1507b09a97e820054bcd59-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/thumb-e4704611fe1507b09a97e820054bcd59-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/thumb-e4704611fe1507b09a97e820054bcd59-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/thumb-e4704611fe1507b09a97e820054bcd59-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188358259\/thumbnail\/image-thumbnail-256-73d7991ccc2d7a7c805b1afd1644d00f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188358259\/thumbnail\/image-thumbnail-480-479d34ec2187b5f71e68db95f197354c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188358259\/thumbnail\/image-thumbnail-640-d9e7bee5ba0410598ea33c5f0a00ff93.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188358259\/user-images\/image-933-90b2ab2c13a613acbe06fa899fa03fed.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188358259\/thumbnail\/image-thumbnail-640-d9e7bee5ba0410598ea33c5f0a00ff93.jpg",
+        "type": "mp4",
+        "assetId": 188358259,
+        "assetTitle": "My Gift List",
+        "assetTitleTextEncoded": "vid-82610806-144755-819",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188358259,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 900
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358259\/d0dff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

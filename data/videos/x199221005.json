@@ -1,0 +1,104 @@
+{
+    "title": "Adidas sneakers sale! $30-33!",
+    "description": "Insane deal on Adidas sneakers today on Macy’s.com",
+    "referenceId": "4f99709f59ee827a9d1274b650f9b11d",
+    "date_created": "1548249147",
+    "date_modified": "1548251871",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "74",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": null,
+    "id": "199221005",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "adidas-sneakers-sale-30-33",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 33,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 33,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 33,
+        "prettyDuration": "00:00:33",
+        "automaticThumbnailsPattern": "1759121\/199221005\/faf86\/thumb-4f99709f59ee827a9d1274b650f9b11d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/thumb-4f99709f59ee827a9d1274b650f9b11d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/thumb-4f99709f59ee827a9d1274b650f9b11d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/thumb-4f99709f59ee827a9d1274b650f9b11d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/thumb-4f99709f59ee827a9d1274b650f9b11d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/thumb-4f99709f59ee827a9d1274b650f9b11d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/thumb-4f99709f59ee827a9d1274b650f9b11d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199221005\/thumbnail\/image-thumbnail-256-b2b10e1eb2e42b0bb8957a22a5363cfc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199221005\/thumbnail\/image-thumbnail-480-8e3b28b67a11b081612f6825f386fb67.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/thumb-4f99709f59ee827a9d1274b650f9b11d-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199221005\/thumbnail\/image-thumbnail-480-8e3b28b67a11b081612f6825f386fb67.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199221005\/faf86\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

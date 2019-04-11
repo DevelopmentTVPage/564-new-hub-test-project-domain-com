@@ -1,0 +1,111 @@
+{
+    "title": "Max Mara Madness!",
+    "description": "Check out this amazing new delivery from Max Mara! The brush stroke print is absolutely breathtaking!",
+    "referenceId": "52cf438c4ec4ce33bbf5beb51a205c9a",
+    "date_created": "1530234743",
+    "date_modified": "1546466810",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213126",
+    "product_category": "women",
+    "id": "165308176",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "max-mara-madness",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "49",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165308176\/thumbnail\/image-thumbnail-640-2f673b1c0bc6540b99d10a48fd3e4c42.jpg",
+        "type": "mp4",
+        "assetId": "165308176",
+        "assetTitle": "Correctlayout",
+        "assetTitleTextEncoded": "correctlayout",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165308176",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165308176\/37512\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165308176\/37512\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165308176\/37512\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165308176\/37512\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165308176\/37512\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165308176\/37512\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165308176\/37512\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/165308176\/37512\/thumb-52cf438c4ec4ce33bbf5beb51a205c9a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165308176\/user-images\/image-1280-dab06eb90ba1a463ed27b04c2ccd4671.jpg",
+            "\/\/v.tvpage.com\/1759121\/165308176\/37512\/thumb-52cf438c4ec4ce33bbf5beb51a205c9a-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165308176\/user-images\/image-1280-dab06eb90ba1a463ed27b04c2ccd4671.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165308176\/thumbnail\/image-thumbnail-256-3d45ddb79629526845b64f25f10ad587.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165308176\/thumbnail\/image-thumbnail-480-fc3f3c842fb2afbd1e675fc9712dad77.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/165308176\/thumbnail\/image-thumbnail-640-2f673b1c0bc6540b99d10a48fd3e4c42.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/165308176\/thumbnail\/image-thumbnail-1280-a9f52123dbccd4df1724f56628116c4a.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Macy s It List",
+    "description": "Best Styles picked by the best stylist.",
+    "referenceId": "5a80e2acd104b0a33932876596a0194d",
+    "date_created": "1523572664",
+    "date_modified": "1546466753",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "74",
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "158950098",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macy-s-it-list",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "30",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/158950098\/thumbnail\/image-thumbnail-640-f9aa875a69e6a7d8dd8e4f8ff65f8fd9.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/158950098\/bf0a0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/158950098\/bf0a0\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950098\/bf0a0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950098\/bf0a0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950098\/bf0a0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950098\/bf0a0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950098\/bf0a0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/158950098\/user-images\/image-1920-e736b5951705800daf0604a007067aac.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/158950098\/user-images\/image-1920-e736b5951705800daf0604a007067aac.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/158950098\/thumbnail\/image-thumbnail-256-641f9a477211d91aaa80339ac75c58b0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/158950098\/thumbnail\/image-thumbnail-480-33776e4cd050f9d5dffe75b2219e064e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/158950098\/thumbnail\/image-thumbnail-640-f9aa875a69e6a7d8dd8e4f8ff65f8fd9.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/158950098\/thumbnail\/image-thumbnail-1280-7aea32d1d761d8c73e0b8effabbd1345.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/158950098\/thumbnail\/image-thumbnail-1920-ce6e2a565927d977167fb91cdbb5d9fd.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

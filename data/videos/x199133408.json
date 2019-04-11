@@ -1,0 +1,104 @@
+{
+    "title": "Jacqueline Palmer\/Consealing the muffin top",
+    "description": "Everyone had an area that they consider a problem! Here are my favorite solutions for concealing your muffin top. #macysmystylist #macysstylecrew #fashion #style #fabulousfifty #fashionforevetyone",
+    "referenceId": "acccbbb99eacbb5fbee1aa06637cdf30",
+    "date_created": "1548187809",
+    "date_modified": "1548190768",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "199133408",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-consealing-the-muffin-top",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 181,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 181,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 181,
+        "prettyDuration": "00:03:01",
+        "automaticThumbnailsPattern": "1759121\/199133408\/8e387\/thumb-acccbbb99eacbb5fbee1aa06637cdf30-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/thumb-acccbbb99eacbb5fbee1aa06637cdf30-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/thumb-acccbbb99eacbb5fbee1aa06637cdf30-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/thumb-acccbbb99eacbb5fbee1aa06637cdf30-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/thumb-acccbbb99eacbb5fbee1aa06637cdf30-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/thumb-acccbbb99eacbb5fbee1aa06637cdf30-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/thumb-acccbbb99eacbb5fbee1aa06637cdf30-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199133408\/thumbnail\/image-thumbnail-256-d60746fe3c67c08f533baa7e6b7ebd6e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199133408\/thumbnail\/image-thumbnail-480-1753f3acdfc869c397a0d3fed8949423.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/199133408\/thumbnail\/image-thumbnail-640-eed8649bcfcafcbfe3b5e9807254c01e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/199133408\/thumbnail\/image-thumbnail-1280-29c7321064ab9814cd720c73795d1062.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/thumb-acccbbb99eacbb5fbee1aa06637cdf30-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199133408\/thumbnail\/image-thumbnail-640-eed8649bcfcafcbfe3b5e9807254c01e.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133408\/8e387\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

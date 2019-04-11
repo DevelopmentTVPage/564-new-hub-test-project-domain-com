@@ -1,0 +1,109 @@
+{
+    "title": "Great Summer Suit Options!",
+    "description": "Hello Everyone!! With Father’s Day being right around the corner, as well as Summer finially hitting here’s some great summer suiting options and ways to wear that suit.... Here I’ve styled looks at work showing a variety of ways to wear a suit rather than just as a suit!",
+    "referenceId": "603e7d084715742bf5f88c1af75c1509",
+    "date_created": "1528408757",
+    "date_modified": "1548274048",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "53",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213146",
+    "product_category": "men",
+    "id": "164681659",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "great-summer-suit-options",
+    "category": "Men",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 152,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 152,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 152,
+        "prettyDuration": "00:02:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164681659\/thumbnail\/image-thumbnail-640-f60a1f809847555b8f76b15ead4a5e6c.jpg",
+        "type": "mp4",
+        "assetId": 164681659,
+        "assetTitle": "E7153CC4-2C06-4AA5-A3AE-097580E9ADB5",
+        "assetTitleTextEncoded": "e7153cc4-2c06-4aa5-a3ae-097580e9adb5",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164681659,
+            "li": 1759121
+        },
+        "automaticThumbnailsPattern": "1759121\/164681659\/140bc\/thumb-603e7d084715742bf5f88c1af75c1509-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164681659\/user-images\/image-1280-bc52db6a80f82def4d69c790d82ff36f.jpg",
+            "\/\/v.tvpage.com\/1759121\/164681659\/140bc\/thumb-603e7d084715742bf5f88c1af75c1509-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164681659\/user-images\/image-1280-bc52db6a80f82def4d69c790d82ff36f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164681659\/thumbnail\/image-thumbnail-256-494826f9294508083faa8533a6b6f940.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164681659\/thumbnail\/image-thumbnail-480-02f76d70d498f311e1ef3853b4ebcd66.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164681659\/thumbnail\/image-thumbnail-640-f60a1f809847555b8f76b15ead4a5e6c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164681659\/thumbnail\/image-thumbnail-1280-52d8ade0ce556e39d232d31983b4198d.jpg"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164681659\/140bc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164681659\/140bc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164681659\/140bc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164681659\/140bc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164681659\/140bc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "My Daytime and Nighttime Skincare Routine",
+    "description": null,
+    "referenceId": "c29c3e251ddf3d6bc0fca97604b302e0",
+    "date_created": "1544221808",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "beauty",
+    "id": "185548566",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-daytime-and-nighttime-skincare-routine",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 448,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 448,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 448,
+        "prettyDuration": "00:07:28",
+        "automaticThumbnailsPattern": "1759121\/185548566\/42ec8\/thumb-c29c3e251ddf3d6bc0fca97604b302e0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/thumb-c29c3e251ddf3d6bc0fca97604b302e0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/thumb-c29c3e251ddf3d6bc0fca97604b302e0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/thumb-c29c3e251ddf3d6bc0fca97604b302e0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/thumb-c29c3e251ddf3d6bc0fca97604b302e0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/thumb-c29c3e251ddf3d6bc0fca97604b302e0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/thumb-c29c3e251ddf3d6bc0fca97604b302e0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185548566\/thumbnail\/image-thumbnail-256-c414d75acb007c7154c2b4c1dbab088c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185548566\/thumbnail\/image-thumbnail-480-515aeec2efa093de4db0e42ec705759b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185548566\/thumbnail\/image-thumbnail-640-1d7b3831e06cb7225f6c5477421889ef.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/185548566\/thumbnail\/image-thumbnail-1280-923b59c9321fc5f3c03d2fe63efe0c0c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/thumb-c29c3e251ddf3d6bc0fca97604b302e0-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185548566\/thumbnail\/image-thumbnail-640-1d7b3831e06cb7225f6c5477421889ef.jpg",
+        "type": "mp4",
+        "assetId": 185548566,
+        "assetTitle": "D23469BF-4A23-4393-AA17-24DF37969BFC",
+        "assetTitleTextEncoded": "d23469bf-4a23-4393-aa17-24df37969bfc",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185548566,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548566\/42ec8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

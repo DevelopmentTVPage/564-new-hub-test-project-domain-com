@@ -1,0 +1,21 @@
+{
+    "id": "213789",
+    "first_name": "Sandi",
+    "last_name": "Snively",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "SVP Merchandise Execution and Selling"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-28 07:07:57",
+    "login_id": "1759121",
+    "user_id": "213789",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sandi Snively",
+    "profile_picture": null,
+    "titleTextEncoded": "sandi-snively",
+    "title": "Sandi Snively",
+    "videos_count": "0"
+}

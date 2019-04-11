@@ -1,0 +1,104 @@
+{
+    "title": "Renew, Refresh, Reset in. N I K E!!",
+    "description": "Feeling the urge to get out and start the New Year right?! The best motivator for that is some great. N I K E gear like this velour track suit. Both sold separately in the women’s activewear department!",
+    "referenceId": "aaf02cb29565462d94b032988e9f21d4",
+    "date_created": "1548192610",
+    "date_modified": "1548192813",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "47",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": null,
+    "id": "199133433",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-refresh-reset-in-n-i-k-e",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "54",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "54",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "automaticThumbnailsPattern": "1759121\/199133433\/a3160\/thumb-aaf02cb29565462d94b032988e9f21d4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/thumb-aaf02cb29565462d94b032988e9f21d4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/thumb-aaf02cb29565462d94b032988e9f21d4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/thumb-aaf02cb29565462d94b032988e9f21d4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/thumb-aaf02cb29565462d94b032988e9f21d4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/thumb-aaf02cb29565462d94b032988e9f21d4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/thumb-aaf02cb29565462d94b032988e9f21d4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199133433\/thumbnail\/image-thumbnail-256-6e95a54305bfea0de01fa249b2e793e5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199133433\/thumbnail\/image-thumbnail-480-6f6379aebd69fa9db5ada68d4626dbf7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/199133433\/thumbnail\/image-thumbnail-640-82f6869cfc5a67e5801793c1aaf1c66b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/199133433\/thumbnail\/image-thumbnail-1280-034bf66889c3db335a297b77bbd675d7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199133433\/a3160\/thumb-aaf02cb29565462d94b032988e9f21d4-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199133433\/thumbnail\/image-thumbnail-640-82f6869cfc5a67e5801793c1aaf1c66b.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

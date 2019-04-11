@@ -1,0 +1,98 @@
+{
+    "title": "Dior and Chanel",
+    "description": "Dior and Chanel perfumes",
+    "referenceId": "b1dd0294f018c350a466157bfdf511b8",
+    "date_created": "1525694456",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213140",
+    "product_category": null,
+    "id": "163565608",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dior-and-chanel",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163565608\/thumbnail\/image-thumbnail-640-abdf750b5fd0c5c9d6469a38fe7f1d08.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163565608\/87b0d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163565608\/87b0d\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565608\/87b0d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565608\/87b0d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565608\/87b0d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565608\/87b0d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565608\/87b0d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/163565608\/user-images\/image-1920-995a2b99f31eb1fc4450749f2eb1d2d6.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/163565608\/user-images\/image-1920-995a2b99f31eb1fc4450749f2eb1d2d6.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/163565608\/thumbnail\/image-thumbnail-256-303f32176cbb7f2884b829ede877ab62.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/163565608\/thumbnail\/image-thumbnail-480-0a50c067b6283c97a9b5ed1219e94fe1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/163565608\/thumbnail\/image-thumbnail-640-abdf750b5fd0c5c9d6469a38fe7f1d08.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/163565608\/thumbnail\/image-thumbnail-1280-92a84d2f9db9dac013eb9457ab2c4717.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/163565608\/thumbnail\/image-thumbnail-1920-2e3a45e8a5fa26a24ae267e62ee98d63.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

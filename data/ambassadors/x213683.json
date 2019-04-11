@@ -1,0 +1,21 @@
+{
+    "id": "213683",
+    "first_name": "Greg",
+    "last_name": "Bazarnik",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/994493552-0.2167074832133.jpg",
+        "job_title": "District Director"
+    },
+    "last_login_timestamp": "1549571164",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-31 21:21:30",
+    "login_id": "1759121",
+    "user_id": "213683",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Greg Bazarnik",
+    "profile_picture": "\/api\/canvas\/logo\/994493552-0.2167074832133.jpg",
+    "titleTextEncoded": "greg-bazarnik",
+    "title": "Greg Bazarnik",
+    "videos_count": "0"
+}

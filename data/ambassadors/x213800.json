@@ -1,0 +1,21 @@
+{
+    "id": "213800",
+    "first_name": "Emma",
+    "last_name": "Honohan",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/501943182-0.3532586356159.jpg",
+        "job_title": "Omni Merchandise Assistant"
+    },
+    "last_login_timestamp": "1549560005",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-29 15:24:26",
+    "login_id": "1759121",
+    "user_id": "213800",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Emma Honohan",
+    "profile_picture": "\/api\/canvas\/logo\/501943182-0.3532586356159.jpg",
+    "titleTextEncoded": "emma-honohan",
+    "title": "Emma Honohan",
+    "videos_count": "0"
+}

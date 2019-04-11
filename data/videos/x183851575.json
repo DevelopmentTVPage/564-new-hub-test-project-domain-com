@@ -1,0 +1,114 @@
+{
+    "title": "Black Friday Deals",
+    "description": "Spend $50.00 on any purchase at the store and these gorgeous diamond earrings could be yours for $29.99.",
+    "referenceId": "83ec8498ceb901344b742db29b4e0b22",
+    "date_created": "1542663384",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "jewelry",
+    "id": "183851575",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-deals",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 33,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 33,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 33,
+        "prettyDuration": "00:00:33",
+        "automaticThumbnailsPattern": "1759121\/183851575\/474ad\/thumb-83ec8498ceb901344b742db29b4e0b22-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183851575\/user-images\/image-750-ea23cbde38f7788e36dc4e5d6d129906.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851575\/user-images\/image-750-8b0ed4ca416a3d7152e201181bc6c307.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/thumb-83ec8498ceb901344b742db29b4e0b22-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/thumb-83ec8498ceb901344b742db29b4e0b22-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/thumb-83ec8498ceb901344b742db29b4e0b22-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/thumb-83ec8498ceb901344b742db29b4e0b22-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/thumb-83ec8498ceb901344b742db29b4e0b22-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/thumb-83ec8498ceb901344b742db29b4e0b22-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183851575\/thumbnail\/image-thumbnail-256-1898634ad760fe3df71a9cb5883651a9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183851575\/thumbnail\/image-thumbnail-480-ca47153807cab92dcf8e01983716071c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183851575\/thumbnail\/image-thumbnail-640-3066aad351b949a45443c48e1d89bfa3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183851575\/user-images\/image-750-ea23cbde38f7788e36dc4e5d6d129906.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183851575\/thumbnail\/image-thumbnail-640-3066aad351b949a45443c48e1d89bfa3.jpg",
+        "type": "mp4",
+        "assetId": 183851575,
+        "assetTitle": "5FB5C208-AC95-48AD-A1FE-D773796A1635",
+        "assetTitleTextEncoded": "5fb5c208-ac95-48ad-a1fe-d773796a1635",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183851575,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183851575\/474ad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

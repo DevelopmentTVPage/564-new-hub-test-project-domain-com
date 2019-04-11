@@ -1,0 +1,116 @@
+{
+    "title": "AMAZING SWEATER DEALS ARE HERE",
+    "description": "The black friday specials haven't even started in stores and the deals are still amazing. Style and Co sweaters at 50% off will be even more on sale this evening through Friday\nShop now to find one for you, and one for a friend.",
+    "referenceId": "265aa98a464164c737d6260dc00f63c6",
+    "date_created": "1542821553",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "140",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "33",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "184012013",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "amazing-sweater-deals-are-here",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 14,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 14,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 14,
+        "prettyDuration": "00:00:14",
+        "automaticThumbnailsPattern": "1759121\/184012013\/f69b5\/thumb-265aa98a464164c737d6260dc00f63c6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/thumb-265aa98a464164c737d6260dc00f63c6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/thumb-265aa98a464164c737d6260dc00f63c6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/thumb-265aa98a464164c737d6260dc00f63c6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/thumb-265aa98a464164c737d6260dc00f63c6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/thumb-265aa98a464164c737d6260dc00f63c6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/thumb-265aa98a464164c737d6260dc00f63c6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184012013\/thumbnail\/image-thumbnail-256-3bf5e6ba906e98b2e60a68853852b49a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184012013\/thumbnail\/image-thumbnail-480-1a0c517b0b0179795c82474b6a3d9274.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184012013\/thumbnail\/image-thumbnail-640-18a353207a59f995ec7f45bdacd65d87.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184012013\/thumbnail\/image-thumbnail-1280-4b424a603ba04d179decf60d5006ddb0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/thumb-265aa98a464164c737d6260dc00f63c6-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184012013\/thumbnail\/image-thumbnail-640-18a353207a59f995ec7f45bdacd65d87.jpg",
+        "type": "mp4",
+        "assetId": 184012013,
+        "assetTitle": "AMAZING SWEATER DEALS ARE HERE",
+        "assetTitleTextEncoded": "0d9021d4-2d6e-4688-b73d-c7703eab5d75",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184012013,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012013\/f69b5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,107 @@
+{
+    "title": "welcoming the cold weather",
+    "description": "Black Michael Kors  tote . This is the perfect bag for the season. big enough to put everything in and so stylish and fashionable. I’m absolutely in love with this bag . Michael Kors is one of my favorite handbags brand just because you find both quality and trends in those bags.",
+    "referenceId": "d38df62853c9da3f23203989089a64bf",
+    "date_created": "1541599852",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213701",
+    "product_category": "handbags",
+    "id": "182736549",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "welcoming-the-cold-weather",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/182736549\/34927\/thumb-d38df62853c9da3f23203989089a64bf-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182736549\/34927\/thumb-d38df62853c9da3f23203989089a64bf-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182736549\/34927\/thumb-d38df62853c9da3f23203989089a64bf-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182736549\/34927\/thumb-d38df62853c9da3f23203989089a64bf-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182736549\/thumbnail\/image-thumbnail-256-c210cc795e28acaaa2ca209bf2c782cc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182736549\/34927\/thumb-d38df62853c9da3f23203989089a64bf-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182736549\/thumbnail\/image-thumbnail-256-c210cc795e28acaaa2ca209bf2c782cc.jpg",
+        "type": "mp4",
+        "assetId": 182736549,
+        "assetTitle": "welcoming the cold weather",
+        "assetTitleTextEncoded": "3b3921f5-9617-4069-ad2e-ee883f20368d",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182736549,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182736549\/34927\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182736549\/34927\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182736549\/34927\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182736549\/34927\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182736549\/34927\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

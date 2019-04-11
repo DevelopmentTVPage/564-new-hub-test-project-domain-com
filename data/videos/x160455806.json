@@ -1,0 +1,106 @@
+{
+    "title": "Street Fashion 2018 LookBook",
+    "description": "Beautiful Street Fashion 2018 showcase.",
+    "referenceId": "c8b696e885b384d6afee9b611013f199",
+    "date_created": "1523916334",
+    "date_modified": "1546466768",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "39",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160455806",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "street-fashion-2018-lookbook",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "60",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455806\/thumbnail\/image-thumbnail-640-d5c5e67725f60f70b12fe605d060d714.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455806\/cda46\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455806\/cda46\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455806\/cda46\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455806\/cda46\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455806\/cda46\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455806\/cda46\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455806\/cda46\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160455806\/user-images\/image-1920-47643db978a1fac5c0dca84689d65c6c.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455806\/user-images\/image-1920-47643db978a1fac5c0dca84689d65c6c.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160455806\/thumbnail\/image-thumbnail-256-762f06089dd525a490569e13b4beee93.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160455806\/thumbnail\/image-thumbnail-480-159cbbcd01a6816d0c05f146c1435d92.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160455806\/thumbnail\/image-thumbnail-640-d5c5e67725f60f70b12fe605d060d714.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/160455806\/thumbnail\/image-thumbnail-1280-179d2f59a6e81dde88cc7216ac43d8d6.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/160455806\/thumbnail\/image-thumbnail-1920-bb1b9dd10a38a74d8731317f7229b8ac.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

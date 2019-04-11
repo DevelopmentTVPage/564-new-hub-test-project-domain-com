@@ -1,0 +1,107 @@
+{
+    "title": "New Years Eve Velvet Look- Just a Taste of Fashion",
+    "description": "Not sure what to wear for New Years Eve?\n\nI am stepping outside the box and rocking I.N.C's velvet blazer and pant to ring in the new year.\n \nHappy New Years!",
+    "referenceId": "bf26064d9b765619fce48b9c6755202f",
+    "date_created": "1545850618",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": null,
+    "id": "191457183",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "new-years-eve-velvet-look-just-a-taste-of-fashion",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 21,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 21,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 21,
+        "prettyDuration": "00:00:21",
+        "automaticThumbnailsPattern": "1759121\/191457183\/3c4ae\/thumb-bf26064d9b765619fce48b9c6755202f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/thumb-bf26064d9b765619fce48b9c6755202f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/thumb-bf26064d9b765619fce48b9c6755202f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/thumb-bf26064d9b765619fce48b9c6755202f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/thumb-bf26064d9b765619fce48b9c6755202f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/thumb-bf26064d9b765619fce48b9c6755202f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/thumb-bf26064d9b765619fce48b9c6755202f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191457183\/thumbnail\/image-thumbnail-256-09cdd8e2baf414c0a63d981aa071804a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191457183\/thumbnail\/image-thumbnail-480-7b9cfd376c7d07cc1754551079b712ce.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191457183\/thumbnail\/image-thumbnail-640-6bee208525e2904b563e8aa332499bf3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/191457183\/thumbnail\/image-thumbnail-1280-967b858b9c24d1c18a9bba2b4218e83d.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/191457183\/thumbnail\/image-thumbnail-1920-7d497d8a024f84484dd72dba3abdc6b0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/thumb-bf26064d9b765619fce48b9c6755202f-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191457183\/thumbnail\/image-thumbnail-640-6bee208525e2904b563e8aa332499bf3.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457183\/3c4ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

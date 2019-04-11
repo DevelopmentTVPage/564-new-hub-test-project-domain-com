@@ -1,0 +1,109 @@
+{
+    "title": "The Holiday season is here!",
+    "description": "From Michael Kors Scarf Set to Waterford Barware and everything in between!!",
+    "referenceId": "5316852d5d6c5e35e09dd64a544f1f8b",
+    "date_created": "1542339979",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213525",
+    "product_category": "home",
+    "id": "183461328",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-holiday-season-is-here",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 3,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 3,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 3,
+        "prettyDuration": "00:00:03",
+        "automaticThumbnailsPattern": "1759121\/183461328\/7dfc9\/thumb-5316852d5d6c5e35e09dd64a544f1f8b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/thumb-5316852d5d6c5e35e09dd64a544f1f8b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/thumb-5316852d5d6c5e35e09dd64a544f1f8b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183461328\/thumbnail\/image-thumbnail-256-acc3584547cc47dbee69554c97d2e6bf.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183461328\/thumbnail\/image-thumbnail-480-fbfca3ce1b79934e54b414854c2fbd8f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/thumb-5316852d5d6c5e35e09dd64a544f1f8b-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183461328\/thumbnail\/image-thumbnail-480-fbfca3ce1b79934e54b414854c2fbd8f.jpg",
+        "type": "mp4",
+        "assetId": 183461328,
+        "assetTitle": "1D4DA307-7D7A-4FFB-A9CD-9B8296351948",
+        "assetTitleTextEncoded": "1d4da307-7d7a-4ffb-a9cd-9b8296351948",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183461328,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/183461328\/7dfc9\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

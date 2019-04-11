@@ -1,0 +1,114 @@
+{
+    "title": "Travel Attire #firsttake",
+    "description": "My favorite travel pieces! What do you love to travel in?",
+    "referenceId": "7910f152bd4d4da7d211cd0730523f34",
+    "date_created": "1545226455",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213119",
+    "product_category": null,
+    "id": "188924483",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "travel-attire-firsttake",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 23,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 23,
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/188924483\/ac31f\/thumb-7910f152bd4d4da7d211cd0730523f34-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/thumb-7910f152bd4d4da7d211cd0730523f34-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/thumb-7910f152bd4d4da7d211cd0730523f34-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/thumb-7910f152bd4d4da7d211cd0730523f34-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/thumb-7910f152bd4d4da7d211cd0730523f34-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/thumb-7910f152bd4d4da7d211cd0730523f34-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/thumb-7910f152bd4d4da7d211cd0730523f34-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188924483\/thumbnail\/image-thumbnail-256-de88541573e8c3a4600ece0685f69756.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188924483\/thumbnail\/image-thumbnail-480-3f1a2cf1fb5d527d7756b09d0c1c95fb.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/thumb-7910f152bd4d4da7d211cd0730523f34-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188924483\/thumbnail\/image-thumbnail-480-3f1a2cf1fb5d527d7756b09d0c1c95fb.jpg",
+        "type": "mp4",
+        "assetId": 188924483,
+        "assetTitle": "Travel Attire #firsttake",
+        "assetTitleTextEncoded": "firsttake",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188924483,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188924483\/ac31f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

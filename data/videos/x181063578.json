@@ -1,0 +1,115 @@
+{
+    "title": "Holidays style has arrived at Macy’s",
+    "description": "Gorgeous Calvin Klein faux fur with the matching faux fur booties. Hair accessories by INC and handbag is INC. Do you believe in Macy’s Magic?",
+    "referenceId": "46e700d49f109bf6db94c65d3ab781bb",
+    "date_created": "1540416736",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "27",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "women",
+    "id": "181063578",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "holidays-style-has-arrived-at-macys",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 46,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 46,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 46,
+        "prettyDuration": "00:00:46",
+        "automaticThumbnailsPattern": "1759121\/181063578\/84fcd\/thumb-46e700d49f109bf6db94c65d3ab781bb-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181063578\/user-images\/image-2448-1f48876225db73e8daf7b0cc1f33d431.jpg",
+            "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/thumb-46e700d49f109bf6db94c65d3ab781bb-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/thumb-46e700d49f109bf6db94c65d3ab781bb-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/thumb-46e700d49f109bf6db94c65d3ab781bb-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/thumb-46e700d49f109bf6db94c65d3ab781bb-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/thumb-46e700d49f109bf6db94c65d3ab781bb-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/thumb-46e700d49f109bf6db94c65d3ab781bb-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181063578\/thumbnail\/image-thumbnail-256-1ce16b3ed6c4d68742b52e2fe7220a23.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181063578\/thumbnail\/image-thumbnail-480-6fd72f875bfb7c45fe9e92318088c255.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181063578\/thumbnail\/image-thumbnail-640-e8293e9d22931884543d96bd7ef780f9.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181063578\/thumbnail\/image-thumbnail-1280-322ce831fda2a3bd008741ef308738fd.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181063578\/thumbnail\/image-thumbnail-1920-8a75e1a6b12bd6fdfced9490daa467d5.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181063578\/user-images\/image-2448-1f48876225db73e8daf7b0cc1f33d431.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181063578\/thumbnail\/image-thumbnail-640-e8293e9d22931884543d96bd7ef780f9.jpg",
+        "type": "mp4",
+        "assetId": 181063578,
+        "assetTitle": "C6FACA41-4C9B-4236-B1BD-BE11DCD0F931",
+        "assetTitleTextEncoded": "c6faca41-4c9b-4236-b1bd-be11dcd0f931",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181063578,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181063578\/84fcd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

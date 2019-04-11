@@ -1,0 +1,113 @@
+{
+    "title": "EMILY JOHNSON | MACY’S STYLE CREW | CHANEL N°5 IN RED",
+    "description": "Get your hands on this LIMITED EDITION N°5 RUBY RED BOTTLE this holiday season! Also check out other holiday favorites from the beauty department!",
+    "referenceId": "acd6cb1e36b2ca550a653180ee04d601",
+    "date_created": "1541691381",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "182949493",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "emily-johnson-macys-style-crew-chanel-n5-in-red",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 28,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 28,
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": 28,
+        "prettyDuration": "00:00:28",
+        "automaticThumbnailsPattern": "1759121\/182949493\/f96b8\/thumb-acd6cb1e36b2ca550a653180ee04d601-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/thumb-acd6cb1e36b2ca550a653180ee04d601-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/thumb-acd6cb1e36b2ca550a653180ee04d601-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/thumb-acd6cb1e36b2ca550a653180ee04d601-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/thumb-acd6cb1e36b2ca550a653180ee04d601-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/thumb-acd6cb1e36b2ca550a653180ee04d601-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/thumb-acd6cb1e36b2ca550a653180ee04d601-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182949493\/thumbnail\/image-thumbnail-256-6d71d553892d0bf5a7f16831cafd8f1a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/thumb-acd6cb1e36b2ca550a653180ee04d601-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182949493\/thumbnail\/image-thumbnail-256-6d71d553892d0bf5a7f16831cafd8f1a.jpg",
+        "type": "mp4",
+        "assetId": 182949493,
+        "assetTitle": "FCDFBE2C-C753-4365-A5CE-C0838BC22CE9",
+        "assetTitleTextEncoded": "fcdfbe2c-c753-4365-a5ce-c0838bc22ce9",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182949493,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182949493\/f96b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

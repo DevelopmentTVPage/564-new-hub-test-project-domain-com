@@ -1,0 +1,103 @@
+{
+    "title": "Black Friday Specials! ",
+    "description": "These are all of my favorite Beauty deals starting right now through Saturday!",
+    "referenceId": null,
+    "date_created": "1542871160",
+    "date_modified": "1546466795",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213746",
+    "id": "184112882",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "black-friday-specials",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1484,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-media--1200.jpeg?v=1542871166102"
+            },
+            {
+                "width": 1024,
+                "height": 1266,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-media--1024.jpeg?v=1542871166072"
+            },
+            {
+                "width": 1080,
+                "height": 1335,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-media--1080.jpeg?v=1542871166589"
+            },
+            {
+                "width": 960,
+                "height": 1187,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-media--960.jpeg?v=1542871166051"
+            },
+            {
+                "width": 640,
+                "height": 791,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-media--640.jpeg?v=1542871166449"
+            },
+            {
+                "width": 600,
+                "height": 742,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-media--600.jpeg?v=1542871165982"
+            },
+            {
+                "width": 256,
+                "height": 316,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-media--256.jpeg?v=1542871166239"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-thumbnail-640.jpeg?v=1542871166897"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-thumbnail-480.jpeg?v=1542871166886"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-thumbnail-256.jpeg?v=1542871166875"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-thumbnail-64.jpeg?v=1542871166868"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184112882\/image-thumbnail-640.jpeg?v=1542871166897",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

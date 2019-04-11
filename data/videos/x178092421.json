@@ -1,0 +1,112 @@
+{
+    "title": "It list trends with Sandra O and Essence Magazine",
+    "description": "It list trends with curated looks by Sandra O brands such as rachel roy, inc and Jessica Simpson were a hit for our influencers",
+    "referenceId": "9d1fe223dbada95e9dbec8b7be9201d3",
+    "date_created": "1537573250",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213302",
+    "product_category": "women",
+    "id": "178092421",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "it-list-trends-with-sandra-o-and-essence-magazine",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/178092421\/352ab\/thumb-9d1fe223dbada95e9dbec8b7be9201d3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/thumb-9d1fe223dbada95e9dbec8b7be9201d3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/thumb-9d1fe223dbada95e9dbec8b7be9201d3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/thumb-9d1fe223dbada95e9dbec8b7be9201d3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/thumb-9d1fe223dbada95e9dbec8b7be9201d3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/thumb-9d1fe223dbada95e9dbec8b7be9201d3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/thumb-9d1fe223dbada95e9dbec8b7be9201d3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178092421\/thumbnail\/image-thumbnail-256-7b4ac1325b07a5c0319024ab17d46002.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178092421\/thumbnail\/image-thumbnail-480-9b06f61e115b2cf9827b70a21c98e27c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178092421\/thumbnail\/image-thumbnail-640-1e954460cf1f17e6be4a4ad37fa57e62.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/thumb-9d1fe223dbada95e9dbec8b7be9201d3-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178092421\/thumbnail\/image-thumbnail-640-1e954460cf1f17e6be4a4ad37fa57e62.jpg",
+        "type": "mp4",
+        "assetId": "178092421",
+        "assetTitle": "VID_185300304_124429_053",
+        "assetTitleTextEncoded": "vid-185300304-124429-053",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178092421",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092421\/352ab\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Round Table International Deny Sports Round Table",
+    "tvp_enhanced_transcript": null
+}

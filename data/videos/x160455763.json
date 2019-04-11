@@ -1,0 +1,103 @@
+{
+    "title": "LAURA DEADY Is Glowing",
+    "description": "Feel the glow with Laura",
+    "referenceId": "5c62a394e8902526d55e5bf4a5a9e4f1",
+    "date_created": "1523913896",
+    "date_modified": "1546466765",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160455763",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "laura-deady-is-glowing",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "22",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "22",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455763\/thumbnail\/image-thumbnail-640-1f8e026ae1ae751d45d3e6f59a3a919a.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455763\/82715\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455763\/82715\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455763\/82715\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455763\/82715\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455763\/82715\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455763\/82715\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455763\/82715\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160455763\/user-images\/image-1920-a5d4f9e2d5b3c0e44f5b3f107475e026.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455763\/user-images\/image-1920-a5d4f9e2d5b3c0e44f5b3f107475e026.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160455763\/thumbnail\/image-thumbnail-256-de69677a426814b1b38272b6bcc4e9f1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160455763\/thumbnail\/image-thumbnail-480-89c35a7b28fa70426b8ea309d55532e8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160455763\/thumbnail\/image-thumbnail-640-1f8e026ae1ae751d45d3e6f59a3a919a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/160455763\/thumbnail\/image-thumbnail-1280-134a81ed230fedcf1abb3b8c026b2f9b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/160455763\/thumbnail\/image-thumbnail-1920-20100a199143a145842db8b3597eb45e.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

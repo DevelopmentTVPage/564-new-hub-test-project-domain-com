@@ -1,0 +1,118 @@
+{
+    "title": "Vlog - Behind the Scenes",
+    "description": "If you've ever wondered what it's like to film all this content you see from the Macy's Style Crew, here's a sneak peek...",
+    "referenceId": "9afca3b7789155feefc7b66f0836f051",
+    "date_created": "1543459459",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "53",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "184500561",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vlog-behind-the-scenes",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 193,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 193,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 193,
+        "prettyDuration": "00:03:13",
+        "automaticThumbnailsPattern": "1759121\/184500561\/cc875\/thumb-9afca3b7789155feefc7b66f0836f051-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184500561\/user-images\/image-3839-67d71128ffb9cedb6502191e2a6b85d0.jpg",
+            "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/thumb-9afca3b7789155feefc7b66f0836f051-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/thumb-9afca3b7789155feefc7b66f0836f051-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/thumb-9afca3b7789155feefc7b66f0836f051-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/thumb-9afca3b7789155feefc7b66f0836f051-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/thumb-9afca3b7789155feefc7b66f0836f051-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/thumb-9afca3b7789155feefc7b66f0836f051-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184500561\/thumbnail\/image-thumbnail-256-bea93cdcebfe7894b329b2ff91a32b43.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184500561\/thumbnail\/image-thumbnail-480-ae319f1080b4fb2aa4840bce4a4efbab.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184500561\/thumbnail\/image-thumbnail-640-ea3cc04935b525612e4200d54bd95259.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184500561\/thumbnail\/image-thumbnail-1280-6754ff21886733233bc05bf8e7f51094.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184500561\/thumbnail\/image-thumbnail-1920-0f7b9460d76f655669d0e9a44ec770b7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184500561\/user-images\/image-3839-67d71128ffb9cedb6502191e2a6b85d0.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184500561\/thumbnail\/image-thumbnail-640-ea3cc04935b525612e4200d54bd95259.jpg",
+        "type": "mp4",
+        "assetId": 184500561,
+        "assetTitle": "Vlog - Behind the Scenes",
+        "assetTitleTextEncoded": "vlog-behind-the-scenes",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184500561,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184500561\/cc875\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

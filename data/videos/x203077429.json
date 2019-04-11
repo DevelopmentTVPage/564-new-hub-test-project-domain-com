@@ -1,0 +1,103 @@
+{
+    "title": "How to Make A Bellini ft. Waterford Flutes",
+    "description": "Who doesn't love a delicious at home bellini on the weekend? I know I sure do. Sometimes brunch at home is just as good as going out to a restaurant. Bellini's are super easy to make and only require 2 ingredients. Serve it up in a gorgeous waterford flute and it's sure to be a hit! Cheers! ",
+    "referenceId": "fbe998b39f2f87dcc382cbba420f5faf",
+    "date_created": "1550258325",
+    "date_modified": "1550259745",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": null,
+    "id": "203077429",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "how-to-make-a-bellini-ft-waterford-flutes",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 165,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 165,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 165,
+        "prettyDuration": "00:02:45",
+        "automaticThumbnailsPattern": "1759121\/203077429\/ae17e\/thumb-fbe998b39f2f87dcc382cbba420f5faf-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203077429\/user-images\/image-1280-e4d78ad8986b1f6a677d66950e67fb83.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/thumb-fbe998b39f2f87dcc382cbba420f5faf-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/thumb-fbe998b39f2f87dcc382cbba420f5faf-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/thumb-fbe998b39f2f87dcc382cbba420f5faf-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/thumb-fbe998b39f2f87dcc382cbba420f5faf-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/thumb-fbe998b39f2f87dcc382cbba420f5faf-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/thumb-fbe998b39f2f87dcc382cbba420f5faf-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203077429\/thumbnail\/image-thumbnail-256-3b54ea187b60c385045b651d3e5c9899.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203077429\/thumbnail\/image-thumbnail-480-7da61e1134c40b917b67f9e9543d3c5d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/203077429\/thumbnail\/image-thumbnail-640-60f124ef22239f1b7cf8ce361af736f5.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/203077429\/thumbnail\/image-thumbnail-1280-a4addea7b6b4425331e0988fe3897d2d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203077429\/user-images\/image-1280-e4d78ad8986b1f6a677d66950e67fb83.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203077429\/thumbnail\/image-thumbnail-640-60f124ef22239f1b7cf8ce361af736f5.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077429\/ae17e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

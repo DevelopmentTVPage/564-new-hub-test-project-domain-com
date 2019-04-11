@@ -1,0 +1,108 @@
+{
+    "title": "Online Gaming",
+    "description": "Did you know that Macy's carries award winning gaming products like MSi? That's right, we do! Macy's has everything for your gaming needs including gaming chairs and desks.",
+    "referenceId": "ef61097c2a184d7293fb89b3b947ec4f",
+    "date_created": "1546898084",
+    "date_modified": "1546899170",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "212",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": null,
+    "id": "194565903",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "online-gaming",
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/194565903\/e2181\/thumb-ef61097c2a184d7293fb89b3b947ec4f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/194565903\/user-images\/image-303-4d69ea482c485122ba42584d916d252a.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565903\/user-images\/image-314-67e4625de156095807dae0a7517b0175.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/thumb-ef61097c2a184d7293fb89b3b947ec4f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/thumb-ef61097c2a184d7293fb89b3b947ec4f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/thumb-ef61097c2a184d7293fb89b3b947ec4f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/thumb-ef61097c2a184d7293fb89b3b947ec4f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/thumb-ef61097c2a184d7293fb89b3b947ec4f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/thumb-ef61097c2a184d7293fb89b3b947ec4f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/194565903\/thumbnail\/image-thumbnail-256-2a3f1cdae078b7ca2c22b93588e8affa.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/194565903\/user-images\/image-303-4d69ea482c485122ba42584d916d252a.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/194565903\/thumbnail\/image-thumbnail-256-2a3f1cdae078b7ca2c22b93588e8affa.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565903\/e2181\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

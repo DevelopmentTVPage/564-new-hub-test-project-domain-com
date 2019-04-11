@@ -1,0 +1,99 @@
+{
+    "title": "Morning Wake-Up Routine",
+    "description": "Nicolette shows us what her morning routine looks like",
+    "referenceId": "1442e479ac680352a3379e97c67f7ee8",
+    "date_created": "1523663505",
+    "date_modified": "1546466765",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "159002759",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "morning-wake-up-routine",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "231",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "231",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "231",
+        "prettyDuration": "00:03:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/159002759\/thumbnail\/image-thumbnail-640-c8d7bbf28695c54b7c0a788dc31eadb8.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159002759\/cf832\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159002759\/cf832\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002759\/cf832\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002759\/cf832\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002759\/cf832\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002759\/cf832\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002759\/cf832\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/159002759\/cf832\/thumb-1442e479ac680352a3379e97c67f7ee8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/159002759\/user-images\/image-853-834d3b356f467eb5262c37ab345ec2ba.jpg",
+            "\/\/v.tvpage.com\/1759121\/159002759\/cf832\/thumb-1442e479ac680352a3379e97c67f7ee8-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/159002759\/user-images\/image-853-834d3b356f467eb5262c37ab345ec2ba.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/159002759\/thumbnail\/image-thumbnail-256-aec94296bb033beac9d1c549d99381f9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/159002759\/thumbnail\/image-thumbnail-480-df141b5efc0611c3c2d2e4be74046b2a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/159002759\/thumbnail\/image-thumbnail-640-c8d7bbf28695c54b7c0a788dc31eadb8.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

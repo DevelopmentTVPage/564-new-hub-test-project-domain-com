@@ -1,0 +1,115 @@
+{
+    "title": "New Clinique ID -Customized moisturizer just for you!",
+    "description": null,
+    "referenceId": "d2996e06c1a9b6faae2f9a0d5a709f32",
+    "date_created": "1545192094",
+    "date_modified": "1547882306",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "35",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "6",
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": "beauty",
+    "id": "188886077",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "new-clinique-id-customized-moisturizer-just-for-you",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 103,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 103,
+            "width": 720,
+            "height": 960
+        },
+        "mediaDuration": 103,
+        "prettyDuration": "00:01:43",
+        "automaticThumbnailsPattern": "1759121\/188886077\/f01c2\/thumb-d2996e06c1a9b6faae2f9a0d5a709f32-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/thumb-d2996e06c1a9b6faae2f9a0d5a709f32-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/thumb-d2996e06c1a9b6faae2f9a0d5a709f32-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/thumb-d2996e06c1a9b6faae2f9a0d5a709f32-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/thumb-d2996e06c1a9b6faae2f9a0d5a709f32-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/thumb-d2996e06c1a9b6faae2f9a0d5a709f32-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/thumb-d2996e06c1a9b6faae2f9a0d5a709f32-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188886077\/thumbnail\/image-thumbnail-256-7d7f55e48252d46fcc2a970d23fbfdcb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188886077\/thumbnail\/image-thumbnail-480-260f85be2bc6c74ae8734036277caabb.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188886077\/thumbnail\/image-thumbnail-640-d36156c4113430ad8863bda2c6c70734.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/thumb-d2996e06c1a9b6faae2f9a0d5a709f32-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188886077\/thumbnail\/image-thumbnail-640-d36156c4113430ad8863bda2c6c70734.jpg",
+        "type": "mp4",
+        "assetId": 188886077,
+        "assetTitle": "Clinique ID -Customized moisturizer just for you!",
+        "assetTitleTextEncoded": "wssy-1545191903464",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188886077,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 960
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188886077\/f01c2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

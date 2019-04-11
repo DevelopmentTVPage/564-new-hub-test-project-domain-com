@@ -1,0 +1,103 @@
+{
+    "title": "Activate Your Workout In Adidas ",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1542160352",
+    "date_modified": "1546466791",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213297",
+    "id": "183360160",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "activate-your-workout-in-adidas",
+    "linkUrl": null,
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1445,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-media--1200.jpeg?v=1542160359132"
+            },
+            {
+                "width": 1024,
+                "height": 1233,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-media--1024.jpeg?v=1542160359491"
+            },
+            {
+                "width": 1080,
+                "height": 1301,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-media--1080.jpeg?v=1542160359561"
+            },
+            {
+                "width": 960,
+                "height": 1156,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-media--960.jpeg?v=1542160359076"
+            },
+            {
+                "width": 640,
+                "height": 771,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-media--640.jpeg?v=1542160359029"
+            },
+            {
+                "width": 600,
+                "height": 722,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-media--600.jpeg?v=1542160359017"
+            },
+            {
+                "width": 256,
+                "height": 308,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-media--256.jpeg?v=1542160359278"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-thumbnail-640.jpeg?v=1542160359900"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-thumbnail-480.jpeg?v=1542160359893"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-thumbnail-256.jpeg?v=1542160359874"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-thumbnail-64.jpeg?v=1542160359869"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183360160\/image-thumbnail-640.jpeg?v=1542160359900",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

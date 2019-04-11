@@ -1,0 +1,101 @@
+{
+    "title": "INC Lace Bomber Jacket",
+    "description": "Very light weight and fashionable  bomber styled jacket by INC",
+    "referenceId": "4afda32a22a27848855dac7bc4e177ef",
+    "date_created": "1549770626",
+    "date_modified": "1550000074",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "202140110",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc-lace-bomber-jacket",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 52,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 52,
+            "width": 868,
+            "height": 1080
+        },
+        "mediaDuration": 52,
+        "prettyDuration": "00:00:52",
+        "automaticThumbnailsPattern": "1759121\/202140110\/6ed1d\/thumb-4afda32a22a27848855dac7bc4e177ef-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/thumb-4afda32a22a27848855dac7bc4e177ef-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/thumb-4afda32a22a27848855dac7bc4e177ef-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/thumb-4afda32a22a27848855dac7bc4e177ef-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/thumb-4afda32a22a27848855dac7bc4e177ef-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/thumb-4afda32a22a27848855dac7bc4e177ef-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/thumb-4afda32a22a27848855dac7bc4e177ef-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202140110\/thumbnail\/image-thumbnail-256-a0ad733b341c400859e72035345cb762.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202140110\/thumbnail\/image-thumbnail-480-906a965661b065ea28571ff7be09d639.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202140110\/thumbnail\/image-thumbnail-640-0933ae9dbbd93ecd124bb83fe6730d2a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/thumb-4afda32a22a27848855dac7bc4e177ef-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202140110\/thumbnail\/image-thumbnail-640-0933ae9dbbd93ecd124bb83fe6730d2a.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 868,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 578,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 386,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 290,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202140110\/6ed1d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

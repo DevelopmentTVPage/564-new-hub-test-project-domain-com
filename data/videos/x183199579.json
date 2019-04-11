@@ -1,0 +1,115 @@
+{
+    "title": "Lauren Ralph Lauren Buffalo check plaid Web. ID 6758116",
+    "description": "Buffalo check plaid adds graphic allure to this cozy and soft merino wool shawl sweater from Lauren Ralph Lauren.   Web ID 6758116",
+    "referenceId": "310fd5292cab6c051ed94bece9e28412",
+    "date_created": "1541875396",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "183199579",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lauren-ralph-lauren-buffalo-check-plaid-web-id-6758116",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/183199579\/8b561\/thumb-310fd5292cab6c051ed94bece9e28412-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183199579\/user-images\/image-1960-57d598b3b9a8d6ad50be8b730fa0bc74.jpg",
+            "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/thumb-310fd5292cab6c051ed94bece9e28412-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/thumb-310fd5292cab6c051ed94bece9e28412-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/thumb-310fd5292cab6c051ed94bece9e28412-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/thumb-310fd5292cab6c051ed94bece9e28412-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/thumb-310fd5292cab6c051ed94bece9e28412-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/thumb-310fd5292cab6c051ed94bece9e28412-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183199579\/thumbnail\/image-thumbnail-256-d58790347a8f5c658aa058d5123ef486.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183199579\/thumbnail\/image-thumbnail-480-f5fed0082157034cc0255624b8416c6d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183199579\/thumbnail\/image-thumbnail-640-ad6b5a1d508ac0cff9b6daf5917e28c2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183199579\/thumbnail\/image-thumbnail-1280-a9fa18ac30df2b523a752a95faa6644a.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183199579\/thumbnail\/image-thumbnail-1920-0fe45050eb649c3c4a977e0d00388eb6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183199579\/user-images\/image-1960-57d598b3b9a8d6ad50be8b730fa0bc74.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183199579\/thumbnail\/image-thumbnail-640-ad6b5a1d508ac0cff9b6daf5917e28c2.jpg",
+        "type": "mp4",
+        "assetId": 183199579,
+        "assetTitle": "lauren red check",
+        "assetTitleTextEncoded": "lauren-red-check",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183199579,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183199579\/8b561\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

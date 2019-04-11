@@ -1,0 +1,110 @@
+{
+    "title": "Cooking with Instant Pot",
+    "description": "Instant pot makes cooking easy.",
+    "referenceId": "aa3a704dc3ccee205f45eb9c7b9c7041",
+    "date_created": "1541288924",
+    "date_modified": "1546466788",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213319",
+    "product_category": "home",
+    "id": "181910335",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cooking-with-instant-pot",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/181910335\/aba87\/thumb-aa3a704dc3ccee205f45eb9c7b9c7041-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/thumb-aa3a704dc3ccee205f45eb9c7b9c7041-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/thumb-aa3a704dc3ccee205f45eb9c7b9c7041-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/thumb-aa3a704dc3ccee205f45eb9c7b9c7041-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/thumb-aa3a704dc3ccee205f45eb9c7b9c7041-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181910335\/thumbnail\/image-thumbnail-256-93329d07d5d1634166f8e2295438eaa5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181910335\/thumbnail\/image-thumbnail-480-571a3697ffabca7d028bb216b724db97.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/thumb-aa3a704dc3ccee205f45eb9c7b9c7041-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181910335\/thumbnail\/image-thumbnail-480-571a3697ffabca7d028bb216b724db97.jpg",
+        "type": "mp4",
+        "assetId": 181910335,
+        "assetTitle": "37ECDDBC-FCA2-486A-971C-7C6262D08E2E",
+        "assetTitleTextEncoded": "37ecddbc-fca2-486a-971c-7c6262d08e2e",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181910335,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910335\/aba87\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

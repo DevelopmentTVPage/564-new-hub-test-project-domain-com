@@ -1,0 +1,61 @@
+{
+    "title": "Move over crossbody, the hobo is back!",
+    "description": "This Michael Kors Evie Hobo bag is my new fav!  I have literally been carrying it since I bought it.  They also have some fun fall colors available too.  ",
+    "referenceId": null,
+    "date_created": "1542140290",
+    "date_modified": "1546466826",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "183347246",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "move-over-crossbody-the-hobo-is-back",
+    "linkUrl": null,
+    "category": "Handbags",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347246\/image-media--256.jpeg?v=1542140291762"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347246\/image-thumbnail-480.jpeg?v=1542140291890"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347246\/image-thumbnail-256.jpeg?v=1542140291880"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347246\/image-thumbnail-64.jpeg?v=1542140291881"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347246\/image-thumbnail-480.jpeg?v=1542140291890",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

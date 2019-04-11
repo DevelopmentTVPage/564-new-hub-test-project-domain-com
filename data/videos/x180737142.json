@@ -1,0 +1,111 @@
+{
+    "title": "Calvin Klein Blazer Dresses",
+    "description": "Great choice for the office, business lunch or dinner",
+    "referenceId": "b4b6b6bedbb1560a3a8d16653d84e606",
+    "date_created": "1540068978",
+    "date_modified": "1546466815",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": "women",
+    "id": "180737142",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "calvin-klein-blazer-dresses",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/180737142\/9ec9f\/thumb-b4b6b6bedbb1560a3a8d16653d84e606-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/thumb-b4b6b6bedbb1560a3a8d16653d84e606-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/thumb-b4b6b6bedbb1560a3a8d16653d84e606-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/thumb-b4b6b6bedbb1560a3a8d16653d84e606-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/thumb-b4b6b6bedbb1560a3a8d16653d84e606-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/thumb-b4b6b6bedbb1560a3a8d16653d84e606-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/thumb-b4b6b6bedbb1560a3a8d16653d84e606-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180737142\/thumbnail\/image-thumbnail-256-dd14ecb8c3a8a55b1b95480af2811a52.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180737142\/thumbnail\/image-thumbnail-480-f2770e2c28977aa27b083177632e620f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/thumb-b4b6b6bedbb1560a3a8d16653d84e606-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180737142\/thumbnail\/image-thumbnail-480-f2770e2c28977aa27b083177632e620f.jpg",
+        "type": "mp4",
+        "assetId": 180737142,
+        "assetTitle": "Calvin Klein Blazer Dresses",
+        "assetTitleTextEncoded": "9b86f183-d103-40e7-bb18-e87d8d65237f",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180737142,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180737142\/9ec9f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

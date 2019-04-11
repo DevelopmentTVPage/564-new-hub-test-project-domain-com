@@ -1,0 +1,91 @@
+{
+    "title": "Holiday Dressing Made Easy ",
+    "description": "Not sure what to wear to the office holiday party next month? I've got you covered! This red wine colored bardot wrap dress it the perfect outfit for the festivities. The material is classic and the sheer stripes really makes this dress pop. ",
+    "referenceId": null,
+    "date_created": "1542654933",
+    "date_modified": "1546466790",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213203",
+    "id": "183845406",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "holiday-dressing-made-easy",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1024,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-media--1024.jpeg?v=1542654939916"
+            },
+            {
+                "width": 960,
+                "height": 1200,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-media--960.jpeg?v=1542654939988"
+            },
+            {
+                "width": 640,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-media--640.jpeg?v=1542654939937"
+            },
+            {
+                "width": 600,
+                "height": 750,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-media--600.jpeg?v=1542654939930"
+            },
+            {
+                "width": 256,
+                "height": 320,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-media--256.jpeg?v=1542654940175"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-thumbnail-640.jpeg?v=1542654940620"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-thumbnail-480.jpeg?v=1542654940610"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-thumbnail-256.jpeg?v=1542654940597"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-thumbnail-64.jpeg?v=1542654940592"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183845406\/image-thumbnail-640.jpeg?v=1542654940620",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

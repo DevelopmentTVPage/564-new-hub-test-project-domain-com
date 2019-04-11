@@ -1,0 +1,111 @@
+{
+    "title": "Youngest Style Crew",
+    "description": "Cute Carter's overalls",
+    "referenceId": "3b3fe3debd4e4d099be940fedfada638",
+    "date_created": "1538104244",
+    "date_modified": "1546466782",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213136",
+    "product_category": "kids",
+    "id": "178452307",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "youngest-style-crew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "7",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "7",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/178452307\/1523c\/thumb-3b3fe3debd4e4d099be940fedfada638-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/thumb-3b3fe3debd4e4d099be940fedfada638-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/thumb-3b3fe3debd4e4d099be940fedfada638-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/thumb-3b3fe3debd4e4d099be940fedfada638-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/thumb-3b3fe3debd4e4d099be940fedfada638-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178452307\/thumbnail\/image-thumbnail-256-8caa148fc2893f094f12402518655849.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178452307\/thumbnail\/image-thumbnail-480-ea7dcffc8c950bceaf724c0f02ae3eb1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/thumb-3b3fe3debd4e4d099be940fedfada638-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178452307\/thumbnail\/image-thumbnail-480-ea7dcffc8c950bceaf724c0f02ae3eb1.jpg",
+        "type": "mp4",
+        "assetId": 178452307,
+        "assetTitle": "Youngest Style Crew",
+        "assetTitleTextEncoded": "img-8443",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178452307,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178452307\/1523c\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

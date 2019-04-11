@@ -1,0 +1,21 @@
+{
+    "id": "213924",
+    "first_name": "Victoria",
+    "last_name": "Borna",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/905688485-0.2366708924993.jpg",
+        "job_title": "My stylist and Studio Services manager"
+    },
+    "last_login_timestamp": "1548451308",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-23 21:49:34",
+    "login_id": "1759121",
+    "user_id": "213924",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Victoria Borna",
+    "profile_picture": "\/api\/canvas\/logo\/905688485-0.2366708924993.jpg",
+    "titleTextEncoded": "victoria-borna",
+    "title": "Victoria Borna",
+    "videos_count": "1"
+}

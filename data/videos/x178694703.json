@@ -1,0 +1,115 @@
+{
+    "title": "Fall Business ~ BCBG Blazer & Carlos Santana Boots",
+    "description": "The BCBG Blazer can take you from casual to business along with this great shoe boot by Carlos Santana.  I paired the blazer and boots with a great dress by Julia Jordan. The dress has some great details like the ruffled short sleeves, tie-waist and layered skirt and comes in a great striped trend. Great for work!",
+    "referenceId": "093378a999781ed68775c5a86e28a1ca",
+    "date_created": "1538376331",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "178694703",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-business-bcbg-blazer-carlos-santana-boots",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "55",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "automaticThumbnailsPattern": "1759121\/178694703\/49d5b\/thumb-093378a999781ed68775c5a86e28a1ca-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178694703\/user-images\/image-6016-d9eef6ed1b06afcc0b552ad816130369.jpg",
+            "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/thumb-093378a999781ed68775c5a86e28a1ca-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/thumb-093378a999781ed68775c5a86e28a1ca-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/thumb-093378a999781ed68775c5a86e28a1ca-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/thumb-093378a999781ed68775c5a86e28a1ca-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/thumb-093378a999781ed68775c5a86e28a1ca-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/thumb-093378a999781ed68775c5a86e28a1ca-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178694703\/thumbnail\/image-thumbnail-256-321970cb7afab3947f72203f3d03b9e6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178694703\/thumbnail\/image-thumbnail-480-60b2087c7fae8eeda16aff8591888b40.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178694703\/thumbnail\/image-thumbnail-640-ad5c54d1d011b23054619bcc902b5a23.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178694703\/thumbnail\/image-thumbnail-1280-75ff802511236505ece328f7c48e0a9b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/178694703\/thumbnail\/image-thumbnail-1920-858fcec40ae06b35844b49978c0ae25d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178694703\/user-images\/image-6016-d9eef6ed1b06afcc0b552ad816130369.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178694703\/thumbnail\/image-thumbnail-640-ad5c54d1d011b23054619bcc902b5a23.jpg",
+        "type": "mp4",
+        "assetId": "178694703",
+        "assetTitle": "Fall Business",
+        "assetTitleTextEncoded": "fall-business",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178694703",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178694703\/49d5b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

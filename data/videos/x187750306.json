@@ -1,0 +1,115 @@
+{
+    "title": "Brittany Xavier or Charles Xavier?",
+    "description": "In this video, you guess if the answer is \"Brittany Xavier\" or \"Charles Xavier\". \n\nBrittany Xavier's Holiday Collection can be purchased online or at select Market @ Macy's locations!\n\n#macysstylecrew #insprBX @brittanyxavier @inspyrny",
+    "referenceId": "8a873b2ec9542d5c9f21843ab5af102a",
+    "date_created": "1544666720",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "83",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "5",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "women",
+    "id": "187750306",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "brittany-xavier-or-charles-xavier",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 118,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 118,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 118,
+        "prettyDuration": "00:01:58",
+        "automaticThumbnailsPattern": "1759121\/187750306\/51333\/thumb-8a873b2ec9542d5c9f21843ab5af102a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187750306\/51333\/thumb-8a873b2ec9542d5c9f21843ab5af102a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187750306\/51333\/thumb-8a873b2ec9542d5c9f21843ab5af102a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187750306\/51333\/thumb-8a873b2ec9542d5c9f21843ab5af102a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187750306\/51333\/thumb-8a873b2ec9542d5c9f21843ab5af102a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187750306\/51333\/thumb-8a873b2ec9542d5c9f21843ab5af102a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187750306\/51333\/thumb-8a873b2ec9542d5c9f21843ab5af102a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187750306\/thumbnail\/image-thumbnail-256-0a81d4f57df61ad37d9056d71be8f0dc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187750306\/thumbnail\/image-thumbnail-480-1100d23a127c7706a1a28434b3fb9596.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/187750306\/thumbnail\/image-thumbnail-640-06742fefd36440da4ff2ce276b5598a9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187750306\/51333\/thumb-8a873b2ec9542d5c9f21843ab5af102a-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187750306\/thumbnail\/image-thumbnail-640-06742fefd36440da4ff2ce276b5598a9.jpg",
+        "type": "mp4",
+        "assetId": 187750306,
+        "assetTitle": "Brittany Xavier or Charles Xavier?",
+        "assetTitleTextEncoded": "brittany-xavier-or-charles-xavier",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187750306,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187750306\/51333\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187750306\/51333\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187750306\/51333\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187750306\/51333\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187750306\/51333\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

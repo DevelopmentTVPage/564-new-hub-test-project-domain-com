@@ -1,0 +1,127 @@
+{
+    "title": "Macy’s Friends & Family 11\/29-12\/10",
+    "description": " What could be better than Macy’s 12 days of friends and family?? 15% off beauty and fragrance!!",
+    "referenceId": null,
+    "date_created": "1543600570",
+    "date_modified": "1546466797",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213750",
+    "id": "184682293",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "macys-friends-family-11-29-12-10",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1901,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--1920.jpeg?v=1544034462498"
+            },
+            {
+                "width": 1280,
+                "height": 1267,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--1280.jpeg?v=1544034463070"
+            },
+            {
+                "width": 1200,
+                "height": 1188,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--1200.jpeg?v=1544034462332"
+            },
+            {
+                "width": 1024,
+                "height": 1014,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--1024.jpeg?v=1544034462902"
+            },
+            {
+                "width": 1080,
+                "height": 1069,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--1080.jpeg?v=1544034462293"
+            },
+            {
+                "width": 960,
+                "height": 950,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--960.jpeg?v=1544034462780"
+            },
+            {
+                "width": 640,
+                "height": 633,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--640.jpeg?v=1544034462222"
+            },
+            {
+                "width": 600,
+                "height": 594,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--600.jpeg?v=1544034462570"
+            },
+            {
+                "width": 256,
+                "height": 253,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-media--256.jpeg?v=1544034462727"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-thumbnail-1920.jpeg?v=1544034463614"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-thumbnail-1280.jpeg?v=1544034463551"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-thumbnail-640.jpeg?v=1544034463489"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-thumbnail-480.jpeg?v=1544034463473"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-thumbnail-256.jpeg?v=1544034463544"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-thumbnail-64.jpeg?v=1544034463649"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184682293\/image-thumbnail-640.jpeg?v=1544034463489",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

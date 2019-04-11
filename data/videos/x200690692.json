@@ -1,0 +1,108 @@
+{
+    "title": "Juniors dresses and accessories. Valentine's Day ideas",
+    "description": "With Valentine's Day right around the corner, it's time to start prepping the ultimate date night (or day) outfit.",
+    "referenceId": "2a973286b3a8bbb02b97dc69d46378c5",
+    "date_created": "1548978619",
+    "date_modified": "1548982805",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "6",
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": null,
+    "id": "200690692",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "juniors-dresses-and-accessories-valentines-day-ideas",
+    "category": "Juniors",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 22,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 22,
+            "width": 602,
+            "height": 1080
+        },
+        "mediaDuration": 22,
+        "prettyDuration": "00:00:22",
+        "automaticThumbnailsPattern": "1759121\/200690692\/6802c\/thumb-2a973286b3a8bbb02b97dc69d46378c5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/thumb-2a973286b3a8bbb02b97dc69d46378c5-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/thumb-2a973286b3a8bbb02b97dc69d46378c5-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/thumb-2a973286b3a8bbb02b97dc69d46378c5-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/thumb-2a973286b3a8bbb02b97dc69d46378c5-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/thumb-2a973286b3a8bbb02b97dc69d46378c5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/thumb-2a973286b3a8bbb02b97dc69d46378c5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200690692\/thumbnail\/image-thumbnail-256-a0c4edf2706e97361559189c58d8e09f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200690692\/thumbnail\/image-thumbnail-480-f4e52aafeb8bd7d79a49d7ad0990a4c0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/thumb-2a973286b3a8bbb02b97dc69d46378c5-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200690692\/thumbnail\/image-thumbnail-480-f4e52aafeb8bd7d79a49d7ad0990a4c0.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 602,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 402,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 268,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 200,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200690692\/6802c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

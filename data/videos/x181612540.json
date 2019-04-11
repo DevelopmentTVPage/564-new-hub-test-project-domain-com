@@ -1,0 +1,110 @@
+{
+    "title": "A Bold Floral Love Affair",
+    "description": "Check out my top rose bowl vase picks for all your centerpiece arrangements.",
+    "referenceId": "702819ea68db1f98608a50ef4ec4ba6c",
+    "date_created": "1541035820",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213627",
+    "product_category": "home",
+    "id": "181612540",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a-bold-floral-love-affair",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 9,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 9,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 9,
+        "prettyDuration": "00:00:09",
+        "automaticThumbnailsPattern": "1759121\/181612540\/10882\/thumb-702819ea68db1f98608a50ef4ec4ba6c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181612540\/10882\/thumb-702819ea68db1f98608a50ef4ec4ba6c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181612540\/10882\/thumb-702819ea68db1f98608a50ef4ec4ba6c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181612540\/10882\/thumb-702819ea68db1f98608a50ef4ec4ba6c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181612540\/10882\/thumb-702819ea68db1f98608a50ef4ec4ba6c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181612540\/10882\/thumb-702819ea68db1f98608a50ef4ec4ba6c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181612540\/thumbnail\/image-thumbnail-256-12b1110eb820d201f2a77665ca766c67.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181612540\/thumbnail\/image-thumbnail-480-48935f570d6b5030ca2faa7e02cf078b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181612540\/10882\/thumb-702819ea68db1f98608a50ef4ec4ba6c-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181612540\/thumbnail\/image-thumbnail-480-48935f570d6b5030ca2faa7e02cf078b.jpg",
+        "type": "mp4",
+        "assetId": 181612540,
+        "assetTitle": "47E90F5C-7722-4E3F-84B3-EA4D424DF74F",
+        "assetTitleTextEncoded": "47e90f5c-7722-4e3f-84b3-ea4d424df74f",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181612540,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181612540\/10882\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181612540\/10882\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181612540\/10882\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181612540\/10882\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181612540\/10882\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

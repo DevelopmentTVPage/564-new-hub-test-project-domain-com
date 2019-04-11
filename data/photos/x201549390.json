@@ -1,0 +1,127 @@
+{
+    "title": "Executive Stylist",
+    "description": "Doing what I do best...styling clients! I’m wearing a Bar lll Check Print One Button Jacket that is only available in store...but you can achieve a similar look by checking out my tagged item! I also tagged the dress hanging in the back for those who are interested.",
+    "referenceId": null,
+    "date_created": "1549481730",
+    "date_modified": "1549501261",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213914",
+    "id": "201549390",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "executive-stylist",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3171,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--1920.jpeg?v=1549481741056"
+            },
+            {
+                "width": 1280,
+                "height": 2114,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--1280.jpeg?v=1549481745069"
+            },
+            {
+                "width": 1200,
+                "height": 1981,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--1200.jpeg?v=1549481744534"
+            },
+            {
+                "width": 1024,
+                "height": 1691,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--1024.jpeg?v=1549481751625"
+            },
+            {
+                "width": 1080,
+                "height": 1783,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--1080.jpeg?v=1549481740803"
+            },
+            {
+                "width": 960,
+                "height": 1585,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--960.jpeg?v=1549481740832"
+            },
+            {
+                "width": 640,
+                "height": 1057,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--640.jpeg?v=1549481740713"
+            },
+            {
+                "width": 600,
+                "height": 990,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--600.jpeg?v=1549481744068"
+            },
+            {
+                "width": 256,
+                "height": 422,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-media--256.jpeg?v=1549481745957"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-thumbnail-1920.jpeg?v=1549481756268"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-thumbnail-1280.jpeg?v=1549481756209"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-thumbnail-640.jpeg?v=1549481759690"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-thumbnail-480.jpeg?v=1549481756164"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-thumbnail-256.jpeg?v=1549481756154"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-thumbnail-64.jpeg?v=1549481759329"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549390\/image-thumbnail-640.jpeg?v=1549481759690",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

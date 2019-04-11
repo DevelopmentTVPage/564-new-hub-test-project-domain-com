@@ -1,0 +1,127 @@
+{
+    "title": "My Travel MUST HAVES...What I wear on the Plane!",
+    "description": "These items are a Must Have for airplane travel!! We leave for FL tomorrow and I have my Camo Spanx leggings ready to go! These are a customer favorite and they are perfectly comfortable for the plane - especially if you're flying with a toddler (like me). I love to pair the leggings with a fun graphic tee and easy slide-on casual sneakers! Also, a plane ride wouldn't be complete without a BEAUTIFUL carry-on bag filled with stickers, coloring books, and snacks for your kid(s)!! ",
+    "referenceId": null,
+    "date_created": "1550234998",
+    "date_modified": "1550235254",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213936",
+    "id": "203077395",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-travel-must-haves-what-i-wear-on-the-plane",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1920,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--1920.jpeg?v=1550235008004"
+            },
+            {
+                "width": 1280,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--1280.jpeg?v=1550235007919"
+            },
+            {
+                "width": 1200,
+                "height": 1200,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--1200.jpeg?v=1550235008097"
+            },
+            {
+                "width": 1024,
+                "height": 1024,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--1024.jpeg?v=1550235008626"
+            },
+            {
+                "width": 1080,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--1080.jpeg?v=1550235008026"
+            },
+            {
+                "width": 960,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--960.jpeg?v=1550235007898"
+            },
+            {
+                "width": 640,
+                "height": 640,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--640.jpeg?v=1550235007604"
+            },
+            {
+                "width": 600,
+                "height": 600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--600.jpeg?v=1550235007600"
+            },
+            {
+                "width": 256,
+                "height": 256,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-media--256.jpeg?v=1550235007414"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-thumbnail-1920.jpeg?v=1550235009989"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-thumbnail-1280.jpeg?v=1550235009925"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-thumbnail-640.jpeg?v=1550235009799"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-thumbnail-480.jpeg?v=1550235009717"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-thumbnail-256.jpeg?v=1550235009627"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-thumbnail-64.jpeg?v=1550235009695"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203077395\/image-thumbnail-640.jpeg?v=1550235009799",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

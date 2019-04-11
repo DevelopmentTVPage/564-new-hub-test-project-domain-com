@@ -1,0 +1,116 @@
+{
+    "title": "Zoe by Rachel Zoe | adrianneviz",
+    "description": "Shimmery strands illuminate a date night-ready Rachel Zoe dress designed with cold-shoulder angel sleeves and a smocked waist for alluring shape.\nSee more : @adrianneviz",
+    "referenceId": "d407e68e0245ba5d13a128d72539573d",
+    "date_created": "1538159217",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "84",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213329",
+    "product_category": "women",
+    "id": "178516559",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "zoe-by-rachel-zoe-adrianneviz",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 40,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 40,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 40,
+        "prettyDuration": "00:00:40",
+        "automaticThumbnailsPattern": "1759121\/178516559\/b3751\/thumb-d407e68e0245ba5d13a128d72539573d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178516559\/user-images\/image-1089-e3f8c4964b0b7f109552e05f0c17e569.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/thumb-d407e68e0245ba5d13a128d72539573d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/thumb-d407e68e0245ba5d13a128d72539573d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/thumb-d407e68e0245ba5d13a128d72539573d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/thumb-d407e68e0245ba5d13a128d72539573d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/thumb-d407e68e0245ba5d13a128d72539573d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/thumb-d407e68e0245ba5d13a128d72539573d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178516559\/thumbnail\/image-thumbnail-256-a4419ec8721ce5a4c1f26e6805b0e7ba.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178516559\/thumbnail\/image-thumbnail-480-1f8fa5aba460aa83083715ffa9ff05d8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178516559\/thumbnail\/image-thumbnail-640-22579704519e442f154e500c3e7fcd2f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178516559\/user-images\/image-1089-e3f8c4964b0b7f109552e05f0c17e569.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178516559\/thumbnail\/image-thumbnail-640-22579704519e442f154e500c3e7fcd2f.jpg",
+        "type": "mp4",
+        "assetId": 178516559,
+        "assetTitle": "Zoe by Rachel Zoe | adrianneviz",
+        "assetTitleTextEncoded": "burgundy-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178516559,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516559\/b3751\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

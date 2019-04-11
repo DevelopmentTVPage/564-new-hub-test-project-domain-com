@@ -1,0 +1,113 @@
+{
+    "title": "Style Crew Nikky\/ Michael Kors Monogramming Event",
+    "description": "Hurry up few more days till last Kors Week of the year ends (sale ends 12\/10\/18) Enjoy additional 25% off on Michael Kors products and get gifting! So guys enjoy this video of our monogramming event that happened at our store in Los Cerritos Center. Our customers enjoyed this free personalization to their handbags!",
+    "referenceId": "af4f0bd3ef01ff3b17aecac4c8e0c3ec",
+    "date_created": "1544199055",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213182",
+    "product_category": "handbags",
+    "id": "185548458",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-crew-nikky-michael-kors-monogramming-event",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 85,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 85,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 85,
+        "prettyDuration": "00:01:25",
+        "automaticThumbnailsPattern": "1759121\/185548458\/e9091\/thumb-af4f0bd3ef01ff3b17aecac4c8e0c3ec-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/thumb-af4f0bd3ef01ff3b17aecac4c8e0c3ec-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/thumb-af4f0bd3ef01ff3b17aecac4c8e0c3ec-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/thumb-af4f0bd3ef01ff3b17aecac4c8e0c3ec-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/thumb-af4f0bd3ef01ff3b17aecac4c8e0c3ec-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/thumb-af4f0bd3ef01ff3b17aecac4c8e0c3ec-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/thumb-af4f0bd3ef01ff3b17aecac4c8e0c3ec-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185548458\/thumbnail\/image-thumbnail-256-6cf6c3adf5bab3d70e74c2c00c20ffd3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185548458\/thumbnail\/image-thumbnail-480-fc8057dd4a3b917a9d508dc5486c1145.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185548458\/thumbnail\/image-thumbnail-640-346d240aa1888a8eb2659189aed4511d.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/185548458\/thumbnail\/image-thumbnail-1280-932bb642eeb1f48d9535384be2b10074.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/thumb-af4f0bd3ef01ff3b17aecac4c8e0c3ec-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185548458\/thumbnail\/image-thumbnail-640-346d240aa1888a8eb2659189aed4511d.jpg",
+        "type": "mp4",
+        "assetId": 185548458,
+        "assetTitle": "90C5A50F-1E8A-4252-900D-1B6DFEC90694",
+        "assetTitleTextEncoded": "90c5a50f-1e8a-4252-900d-1b6dfec90694",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185548458,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185548458\/e9091\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

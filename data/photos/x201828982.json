@@ -1,0 +1,127 @@
+{
+    "title": "Are You Valentine’s Day Ready?",
+    "description": "With 6 days left before V-day, you still have time to find that special gift! But what’s the perfect gift without the perfect card?! Head to a Macys store near you & find these GORG #Papyrus cards- even Cupid couldn’t make a better match! ",
+    "referenceId": null,
+    "date_created": "1549667083",
+    "date_modified": "1549668295",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213866",
+    "id": "201828982",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "are-you-valentines-day-ready",
+    "linkUrl": null,
+    "category": "Home",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2488,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--1920.jpeg?v=1549668313451"
+            },
+            {
+                "width": 1280,
+                "height": 1659,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--1280.jpeg?v=1549668313258"
+            },
+            {
+                "width": 1200,
+                "height": 1555,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--1200.jpeg?v=1549668313262"
+            },
+            {
+                "width": 1024,
+                "height": 1327,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--1024.jpeg?v=1549668314168"
+            },
+            {
+                "width": 1080,
+                "height": 1399,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--1080.jpeg?v=1549668313228"
+            },
+            {
+                "width": 960,
+                "height": 1244,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--960.jpeg?v=1549668314012"
+            },
+            {
+                "width": 640,
+                "height": 829,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--640.jpeg?v=1549668314060"
+            },
+            {
+                "width": 600,
+                "height": 777,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--600.jpeg?v=1549668314478"
+            },
+            {
+                "width": 256,
+                "height": 331,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-media--256.jpeg?v=1549668314689"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-thumbnail-1920.jpeg?v=1549668315094"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-thumbnail-1280.jpeg?v=1549668315002"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-thumbnail-640.jpeg?v=1549668314926"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-thumbnail-480.jpeg?v=1549668314916"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-thumbnail-256.jpeg?v=1549668315052"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-thumbnail-64.jpeg?v=1549668315182"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828982\/image-thumbnail-640.jpeg?v=1549668314926",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

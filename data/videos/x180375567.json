@@ -1,0 +1,118 @@
+{
+    "title": "Rachel Roy Blue and White Stripes| adrianneviz",
+    "description": "the perfect blue and white striped dress.\nSee more : @adrianneviz\nKate Striped Faux-Wrap Dress, Created for Macy's\nSelf-tie straps and handy on-seam pockets lend a clever look to this striped faux-wrap dress from RACHEL Rachel Roy",
+    "referenceId": "126fda7afa978c14b21ce658b9eaf318",
+    "date_created": "1539786070",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213329",
+    "product_category": "women",
+    "id": "180375567",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "rachel-roy-blue-and-white-stripes-adrianneviz",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 35,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 35,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 35,
+        "prettyDuration": "00:00:35",
+        "automaticThumbnailsPattern": "1759121\/180375567\/4f813\/thumb-126fda7afa978c14b21ce658b9eaf318-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/thumb-126fda7afa978c14b21ce658b9eaf318-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/thumb-126fda7afa978c14b21ce658b9eaf318-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/thumb-126fda7afa978c14b21ce658b9eaf318-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/thumb-126fda7afa978c14b21ce658b9eaf318-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/thumb-126fda7afa978c14b21ce658b9eaf318-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/thumb-126fda7afa978c14b21ce658b9eaf318-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180375567\/thumbnail\/image-thumbnail-256-2f745a912fc729fafc22f1c289847182.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180375567\/thumbnail\/image-thumbnail-480-64534faf1cace63108ad79d14384d174.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180375567\/thumbnail\/image-thumbnail-640-c8b45b99c36a82765f6c8850ed3d24c8.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180375567\/thumbnail\/image-thumbnail-1280-5461a3ee1b1ff39dff38f786f1ce531f.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/180375567\/thumbnail\/image-thumbnail-1920-b00f8a69e49785463f55f0e6fc3b44c8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/thumb-126fda7afa978c14b21ce658b9eaf318-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180375567\/thumbnail\/image-thumbnail-640-c8b45b99c36a82765f6c8850ed3d24c8.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": 180375567,
+        "assetTitle": "Rachel Roy Blue and White Stripes| adrianneviz",
+        "assetTitleTextEncoded": "blue-and-white-stripes-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180375567,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180375567\/4f813\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-05"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

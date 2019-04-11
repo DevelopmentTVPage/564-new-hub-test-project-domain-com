@@ -1,0 +1,21 @@
+{
+    "id": "213662",
+    "first_name": "Amber ",
+    "last_name": "Scott",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/572974459-0.9057139187585.jpg",
+        "job_title": "Beauty Advisor"
+    },
+    "last_login_timestamp": "1541717148",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-12 18:41:51",
+    "login_id": "1759121",
+    "user_id": "213662",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Amber  Scott",
+    "profile_picture": "\/api\/canvas\/logo\/572974459-0.9057139187585.jpg",
+    "titleTextEncoded": "amber-scott",
+    "title": "Amber  Scott",
+    "videos_count": "0"
+}

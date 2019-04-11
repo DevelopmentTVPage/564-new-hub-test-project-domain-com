@@ -1,0 +1,112 @@
+{
+    "title": "EMILY JOHNSON | MACY’S STYLE CREW | STOCKING STUFFERS!",
+    "description": "You can’t forget the stocking stuffers! I show you some of the quick, easy, and awesome stocking stuffers we have to offer at Macy’s!",
+    "referenceId": "fa56988fbd4b129f1afe70401037f747",
+    "date_created": "1545059993",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "188581694",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "emily-johnson-macys-style-crew-stocking-stuffers",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 26,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 26,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 26,
+        "prettyDuration": "00:00:26",
+        "automaticThumbnailsPattern": "1759121\/188581694\/b1ed5\/thumb-fa56988fbd4b129f1afe70401037f747-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188581694\/user-images\/image-602-ffe8a31f4417ce6d06297d1b3ccd29d6.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/thumb-fa56988fbd4b129f1afe70401037f747-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/thumb-fa56988fbd4b129f1afe70401037f747-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/thumb-fa56988fbd4b129f1afe70401037f747-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/thumb-fa56988fbd4b129f1afe70401037f747-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/thumb-fa56988fbd4b129f1afe70401037f747-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/thumb-fa56988fbd4b129f1afe70401037f747-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188581694\/thumbnail\/image-thumbnail-256-a6b6068ca6062c97f5d27d08fc27ea52.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188581694\/thumbnail\/image-thumbnail-480-f41c6067c8bab838e313555031af840e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188581694\/user-images\/image-602-ffe8a31f4417ce6d06297d1b3ccd29d6.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188581694\/thumbnail\/image-thumbnail-480-f41c6067c8bab838e313555031af840e.jpg",
+        "type": "mp4",
+        "assetId": 188581694,
+        "assetTitle": "Stocking Stuffers!",
+        "assetTitleTextEncoded": "4743282c-c0b1-4a07-9ddc-f6d1088853e8",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188581694,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581694\/b1ed5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

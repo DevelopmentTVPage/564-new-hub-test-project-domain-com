@@ -1,0 +1,113 @@
+{
+    "title": "Style Crew Nikky\/Skinfinish perfect look with Impulse Manager Adriana and Social Media influencer Kaitlin Villasuso",
+    "description": "We love giving back to our community and sharing makeover pro tricks! Watch as our Impulse Counter Manager Adriana, Social Media Influencer Kaitlin Villasuso and myself did for a makeover to our “local Hero” Theresa of Safe Passage! Enjoy!",
+    "referenceId": "bb287c71063fbae9a63b67c079a8aef7",
+    "date_created": "1542512442",
+    "date_modified": "1546466820",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213182",
+    "product_category": "beauty",
+    "id": "183809394",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-crew-nikky-skinfinish-perfect-look-with-impulse-manager-adriana-and-social-media-influencer-kaitlin-villasuso",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 182,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 182,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 182,
+        "prettyDuration": "00:03:02",
+        "automaticThumbnailsPattern": "1759121\/183809394\/175f1\/thumb-bb287c71063fbae9a63b67c079a8aef7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/thumb-bb287c71063fbae9a63b67c079a8aef7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/thumb-bb287c71063fbae9a63b67c079a8aef7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/thumb-bb287c71063fbae9a63b67c079a8aef7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/thumb-bb287c71063fbae9a63b67c079a8aef7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/thumb-bb287c71063fbae9a63b67c079a8aef7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/thumb-bb287c71063fbae9a63b67c079a8aef7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183809394\/thumbnail\/image-thumbnail-256-346270f891a8448fbc275dbb2a7c9315.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183809394\/thumbnail\/image-thumbnail-480-3dc1195856c2578c63850c41fd665596.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183809394\/thumbnail\/image-thumbnail-640-d91fb1288b89d975ed2698d52054117a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183809394\/thumbnail\/image-thumbnail-1280-3c637790aa8a679f72160743a7ce22b6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/thumb-bb287c71063fbae9a63b67c079a8aef7-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183809394\/thumbnail\/image-thumbnail-640-d91fb1288b89d975ed2698d52054117a.jpg",
+        "type": "mp4",
+        "assetId": 183809394,
+        "assetTitle": "Style Crew Nikky\/Skinfinish perfect look with Impulse Manager Adriana and Social Media influencer Kaitlin Villasuso",
+        "assetTitleTextEncoded": "1098491e-e50c-4825-9782-f88f827a124c",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183809394,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183809394\/175f1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,114 @@
+{
+    "title": "@Mr_TJay Denim Jacket x Graphic T-Shirt",
+    "description": "What's better then a nice Fall Day in the Park? A bleached denim jacket and nostalgic D.A.R.E. graphic T-Shirt.  This look is completed with the fashion forward CK Dad Sneakers (6538279), super comfy and a great go to shoe to kick start your day! Even though its becoming colder by the day, take a moment and smell the roses! Be sure to follow @Mr_TJay.",
+    "referenceId": "a8f875d29ce24d846dfc66edbefba021",
+    "date_created": "1541979293",
+    "date_modified": "1546466789",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "183274450",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-denim-jacket-x-graphic-t-shirt",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 19,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 19,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 19,
+        "prettyDuration": "00:00:19",
+        "automaticThumbnailsPattern": "1759121\/183274450\/b14b1\/thumb-a8f875d29ce24d846dfc66edbefba021-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/thumb-a8f875d29ce24d846dfc66edbefba021-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/thumb-a8f875d29ce24d846dfc66edbefba021-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/thumb-a8f875d29ce24d846dfc66edbefba021-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/thumb-a8f875d29ce24d846dfc66edbefba021-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/thumb-a8f875d29ce24d846dfc66edbefba021-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/thumb-a8f875d29ce24d846dfc66edbefba021-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183274450\/thumbnail\/image-thumbnail-256-eb317cba50dfe56d376562590635922d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183274450\/thumbnail\/image-thumbnail-480-3b62c17c21daacda2729ef8120aa3913.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183274450\/thumbnail\/image-thumbnail-640-e844bf0aaa7c4afe16a06dda413a379c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183274450\/thumbnail\/image-thumbnail-1280-31805da27422446dce01d371ec84c6be.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183274450\/thumbnail\/image-thumbnail-1920-ebba7b4724b929e6143c36cd933379e4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/thumb-a8f875d29ce24d846dfc66edbefba021-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183274450\/thumbnail\/image-thumbnail-640-e844bf0aaa7c4afe16a06dda413a379c.jpg",
+        "type": "mp4",
+        "assetId": 183274450,
+        "assetTitle": "@Mr_TJay Denim Jacket x Graphic T-Shirt",
+        "assetTitleTextEncoded": "tj-day-in-the-park-v2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183274450,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274450\/b14b1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

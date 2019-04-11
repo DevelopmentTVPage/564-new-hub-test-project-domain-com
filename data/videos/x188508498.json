@@ -1,0 +1,116 @@
+{
+    "title": "Anastasia  buy one get one",
+    "description": "Buy any Anastasia lipstick, liquid lipstick or lip gloss and get one free. 12\/16-12\/26",
+    "referenceId": "9669be234b87c9459fb197946fedce75",
+    "date_created": "1545009983",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "beauty",
+    "id": "188508498",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "anastasia-buy-one-get-one",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 23,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 23,
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/188508498\/91128\/thumb-9669be234b87c9459fb197946fedce75-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188508498\/user-images\/image-2048-13c9504129f2e97eebc2980b14f90054.jpg",
+            "\/\/v.tvpage.com\/1759121\/188508498\/91128\/thumb-9669be234b87c9459fb197946fedce75-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188508498\/91128\/thumb-9669be234b87c9459fb197946fedce75-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188508498\/91128\/thumb-9669be234b87c9459fb197946fedce75-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188508498\/91128\/thumb-9669be234b87c9459fb197946fedce75-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188508498\/91128\/thumb-9669be234b87c9459fb197946fedce75-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188508498\/91128\/thumb-9669be234b87c9459fb197946fedce75-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188508498\/thumbnail\/image-thumbnail-256-089c46be681fbf7d929d557e3a58c3ca.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188508498\/thumbnail\/image-thumbnail-480-24aaf5a8337619fc32db89f990248bf1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188508498\/thumbnail\/image-thumbnail-640-e44231b0d2c4cb5356b733b1387f7f54.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188508498\/thumbnail\/image-thumbnail-1280-61aa7b31fad9a5426fdeda0e3b19da34.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188508498\/thumbnail\/image-thumbnail-1920-915c21106d90773ac31f573eb5f6d5b3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188508498\/user-images\/image-2048-13c9504129f2e97eebc2980b14f90054.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188508498\/thumbnail\/image-thumbnail-640-e44231b0d2c4cb5356b733b1387f7f54.jpg",
+        "type": "mp4",
+        "assetId": 188508498,
+        "assetTitle": "Anastasia beverlyhills buy one get one",
+        "assetTitleTextEncoded": "494a1c5d-7cac-4320-bea4-b41b239560c9",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188508498,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188508498\/91128\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188508498\/91128\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188508498\/91128\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188508498\/91128\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188508498\/91128\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

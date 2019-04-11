@@ -1,0 +1,114 @@
+{
+    "title": "Natalie Off Duty- Just a Taste of Fashion",
+    "description": "Natalie Off Duty",
+    "referenceId": "32bb0006ea9170dd0ed7c205124d47ce",
+    "date_created": "1539903841",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "180530447",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "natalie-off-duty-just-a-taste-of-fashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 57,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 57,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 57,
+        "prettyDuration": "00:00:57",
+        "automaticThumbnailsPattern": "1759121\/180530447\/d650d\/thumb-32bb0006ea9170dd0ed7c205124d47ce-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180530447\/user-images\/image-1639-b677c46f94a7138ac1fe90e39edd8802.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/thumb-32bb0006ea9170dd0ed7c205124d47ce-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/thumb-32bb0006ea9170dd0ed7c205124d47ce-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/thumb-32bb0006ea9170dd0ed7c205124d47ce-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/thumb-32bb0006ea9170dd0ed7c205124d47ce-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/thumb-32bb0006ea9170dd0ed7c205124d47ce-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/thumb-32bb0006ea9170dd0ed7c205124d47ce-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180530447\/thumbnail\/image-thumbnail-256-28449e0eec77bdacb97bb80afd19781e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180530447\/thumbnail\/image-thumbnail-480-b1308dc5257ce410885b730854ec97c8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180530447\/thumbnail\/image-thumbnail-640-fcea1a0c368e43714f992b5024a63239.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180530447\/thumbnail\/image-thumbnail-1280-56796a12e0dfe712c9f3065df6882c19.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180530447\/user-images\/image-1639-b677c46f94a7138ac1fe90e39edd8802.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180530447\/thumbnail\/image-thumbnail-640-fcea1a0c368e43714f992b5024a63239.jpg",
+        "type": "mp4",
+        "assetId": 180530447,
+        "assetTitle": "Natalie Off Duty- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "natalie-off-duty",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180530447,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530447\/d650d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

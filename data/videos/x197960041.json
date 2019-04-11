@@ -1,0 +1,107 @@
+{
+    "title": "Style Hungry: Renew. Refresh. Reset",
+    "description": "I don't know about you, but I always feel much more motivated around New Years! Using The Edit's \"Let Get It 2019\", I styled an eye-catching look perfect for a Saturday morning workout. A little boxing.. a little brunch.. what more could you ask for? Nike Running Leggings (Web Id: 6655608), Adidas Jacket (Web ID: 5929595), Adidas Crop Top (Web ID: 6310480).",
+    "referenceId": "6ad53b105078d5fbf865851383530718",
+    "date_created": "1547514065",
+    "date_modified": "1547852152",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213315",
+    "product_category": null,
+    "id": "197960041",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-hungry-renew-refresh-reset",
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 20,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 20,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 20,
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/197960041\/6beca\/thumb-6ad53b105078d5fbf865851383530718-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/thumb-6ad53b105078d5fbf865851383530718-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/thumb-6ad53b105078d5fbf865851383530718-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/thumb-6ad53b105078d5fbf865851383530718-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/thumb-6ad53b105078d5fbf865851383530718-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/thumb-6ad53b105078d5fbf865851383530718-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/thumb-6ad53b105078d5fbf865851383530718-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197960041\/thumbnail\/image-thumbnail-256-98d2823b315f7eb93e54772eef691402.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197960041\/thumbnail\/image-thumbnail-480-4a8ded04610df4f7dd5ba421d54848b2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/197960041\/thumbnail\/image-thumbnail-640-ef815df0ceb97e46aa26034594b08179.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/197960041\/thumbnail\/image-thumbnail-1280-d096e54d7cff22fc16c404d33edca341.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/197960041\/thumbnail\/image-thumbnail-1920-3e8e860bfcee75c4a534d4ba684e907e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/thumb-6ad53b105078d5fbf865851383530718-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197960041\/thumbnail\/image-thumbnail-640-ef815df0ceb97e46aa26034594b08179.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197960041\/6beca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

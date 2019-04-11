@@ -1,0 +1,108 @@
+{
+    "title": "Brittany Xavier pt 2 - Just a Taste of Fashion",
+    "description": "Brittany Xavier collection is so amazing I wanted to showcase another one of my favorite pieces.\n\nThe silky hot pink dress gives me an 80's vibe so i styled with my black combat boots and suede jacket to complete the whole look!",
+    "referenceId": "f5b640aa232c6602c016fa173b7886f7",
+    "date_created": "1548809327",
+    "date_modified": "1548820074",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "49",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": null,
+    "id": "200338959",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "brittany-xavier-pt-2-just-a-taste-of-fashion",
+    "category": "Brittany Xavier pt 2 - Just a Taste of Fashion",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 38,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 38,
+            "width": 1920,
+            "height": 1012
+        },
+        "mediaDuration": 38,
+        "prettyDuration": "00:00:38",
+        "automaticThumbnailsPattern": "1759121\/200338959\/bc8dc\/thumb-f5b640aa232c6602c016fa173b7886f7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200338959\/user-images\/image-2319-0fdb5bd023aec8467933f1c23874586c.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/thumb-f5b640aa232c6602c016fa173b7886f7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/thumb-f5b640aa232c6602c016fa173b7886f7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/thumb-f5b640aa232c6602c016fa173b7886f7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/thumb-f5b640aa232c6602c016fa173b7886f7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/thumb-f5b640aa232c6602c016fa173b7886f7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/thumb-f5b640aa232c6602c016fa173b7886f7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200338959\/thumbnail\/image-thumbnail-256-889d3de52dc481b17d53f9fe812f9520.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200338959\/thumbnail\/image-thumbnail-480-59e725ce771d3336eca41bd803c032da.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/200338959\/thumbnail\/image-thumbnail-640-73bb8d0a3c9bc858c76d36bb94f14ea7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/200338959\/thumbnail\/image-thumbnail-1280-150205a5b525474a5839fc6d96452234.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/200338959\/thumbnail\/image-thumbnail-1920-86cf1df317d5d14ecb52c01245f4e596.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200338959\/user-images\/image-2319-0fdb5bd023aec8467933f1c23874586c.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200338959\/thumbnail\/image-thumbnail-640-73bb8d0a3c9bc858c76d36bb94f14ea7.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1012
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 674
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 450
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 338
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338959\/bc8dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 168
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

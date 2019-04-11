@@ -1,0 +1,111 @@
+{
+    "title": "Milo walking in his carters footed pajamas",
+    "description": "I’m such a big boy taking my first steps in my Carters footed pajamas from Macy’s! It’s a cotton fabric that is breathable yet snug for 12 hour sleep sessions.  And enough traction on the footies so that I can run around!",
+    "referenceId": "872c67dc3b9005de053167e2169bfb12",
+    "date_created": "1543876980",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213780",
+    "product_category": "kids",
+    "id": "184986206",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "milo-walking-in-his-carters-footed-pajamas",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/184986206\/17323\/thumb-872c67dc3b9005de053167e2169bfb12-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184986206\/17323\/thumb-872c67dc3b9005de053167e2169bfb12-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184986206\/17323\/thumb-872c67dc3b9005de053167e2169bfb12-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184986206\/17323\/thumb-872c67dc3b9005de053167e2169bfb12-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184986206\/thumbnail\/image-thumbnail-256-25bc86fe3572345181694cc139ae1da2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184986206\/thumbnail\/image-thumbnail-480-61d95daa654dbc7d384cd42d0693e819.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184986206\/17323\/thumb-872c67dc3b9005de053167e2169bfb12-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184986206\/thumbnail\/image-thumbnail-480-61d95daa654dbc7d384cd42d0693e819.jpg",
+        "type": "mp4",
+        "assetId": 184986206,
+        "assetTitle": "Milo walking in his carters footed pajamas",
+        "assetTitleTextEncoded": "milo-walking",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184986206,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986206\/17323\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986206\/17323\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986206\/17323\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986206\/17323\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184986206\/17323\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

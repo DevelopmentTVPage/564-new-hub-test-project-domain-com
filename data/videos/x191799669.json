@@ -1,0 +1,106 @@
+{
+    "title": "Jacqueline Palmer\/Glam",
+    "description": "Everyone needs needs a night on the town once in a while! Celebrate in style with these glam looks for NYE!",
+    "referenceId": "5284e06301da30bf26eab036501752e3",
+    "date_created": "1546106319",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "191799669",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-glam",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 185,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 185,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 185,
+        "prettyDuration": "00:03:05",
+        "automaticThumbnailsPattern": "1759121\/191799669\/6acee\/thumb-5284e06301da30bf26eab036501752e3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/thumb-5284e06301da30bf26eab036501752e3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/thumb-5284e06301da30bf26eab036501752e3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/thumb-5284e06301da30bf26eab036501752e3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/thumb-5284e06301da30bf26eab036501752e3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/thumb-5284e06301da30bf26eab036501752e3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/thumb-5284e06301da30bf26eab036501752e3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191799669\/thumbnail\/image-thumbnail-256-78f711d94d1197f9770d0c378f0a74f8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191799669\/thumbnail\/image-thumbnail-480-e84ea0cad005eff3e4fa0fd39afb5f60.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191799669\/thumbnail\/image-thumbnail-640-927932adedf9514d38ded1c295ee2051.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/191799669\/thumbnail\/image-thumbnail-1280-80675e1db498d125d4e4f92abfa39cba.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/thumb-5284e06301da30bf26eab036501752e3-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191799669\/thumbnail\/image-thumbnail-640-927932adedf9514d38ded1c295ee2051.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799669\/6acee\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

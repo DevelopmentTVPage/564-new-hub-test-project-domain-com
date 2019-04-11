@@ -1,0 +1,102 @@
+{
+    "title": "Happy Friday!",
+    "description": "Free People is having a huge sale today!  I'm wearing the Heartbreaker bralette in Natural on sale for 40% off today ($16.80) - also available in blue.  So comfy, and all over lace with the T back! LOVE!  Also tagging a bandeau that's only $12!",
+    "referenceId": "8b7e825f152e32029c0ada9d32825a73",
+    "date_created": "1549632540",
+    "date_modified": "1549633846",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": null,
+    "id": "201828917",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "happy-friday",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 244,
+            "height": 480
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/201828917\/42582\/thumb-8b7e825f152e32029c0ada9d32825a73-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201828917\/user-images\/image-279-f59e42f8abf442902c332d33b241efa3.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828917\/42582\/thumb-8b7e825f152e32029c0ada9d32825a73-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828917\/42582\/thumb-8b7e825f152e32029c0ada9d32825a73-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828917\/42582\/thumb-8b7e825f152e32029c0ada9d32825a73-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828917\/42582\/thumb-8b7e825f152e32029c0ada9d32825a73-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201828917\/thumbnail\/image-thumbnail-256-98be07652f603df311fa4201e05be936.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201828917\/user-images\/image-279-f59e42f8abf442902c332d33b241efa3.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/201828917\/42582\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/201828917\/42582\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828917\/42582\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828917\/42582\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828917\/42582\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 244,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828917\/42582\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 182,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828917\/42582\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 122,
+                "height": 240
+            }
+        ],
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201828917\/thumbnail\/image-thumbnail-256-98be07652f603df311fa4201e05be936.jpg"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

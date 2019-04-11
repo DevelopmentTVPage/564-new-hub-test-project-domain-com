@@ -1,0 +1,113 @@
+{
+    "title": "Animal prints three ways in plus sizes",
+    "description": "It’s a jungle out there these days with animal prints making a strong comeback! I’ve picked out three of my favorite piece from Macy’s and styled them with some great accessories for weekend casual, office chic and going out on the weekend!",
+    "referenceId": "137e1badc7986f42ff0ea696901cdcbe",
+    "date_created": "1540499655",
+    "date_modified": "1546466787",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "96",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "181187420",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "animal-prints-three-ways-in-plus-sizes",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 137,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 137,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 137,
+        "prettyDuration": "00:02:17",
+        "automaticThumbnailsPattern": "1759121\/181187420\/89874\/thumb-137e1badc7986f42ff0ea696901cdcbe-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181187420\/89874\/thumb-137e1badc7986f42ff0ea696901cdcbe-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181187420\/89874\/thumb-137e1badc7986f42ff0ea696901cdcbe-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181187420\/89874\/thumb-137e1badc7986f42ff0ea696901cdcbe-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181187420\/89874\/thumb-137e1badc7986f42ff0ea696901cdcbe-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181187420\/89874\/thumb-137e1badc7986f42ff0ea696901cdcbe-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181187420\/89874\/thumb-137e1badc7986f42ff0ea696901cdcbe-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181187420\/thumbnail\/image-thumbnail-256-dccde1a24b3c3e9a4300620f8a6c85dd.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181187420\/thumbnail\/image-thumbnail-480-db29bd885b731deedce0833c1c436887.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181187420\/thumbnail\/image-thumbnail-640-90a2f6c5be9a993eb289b4039e55897d.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181187420\/thumbnail\/image-thumbnail-1280-1a98b0fa2b299618bd5bd3ba30ee6a62.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181187420\/89874\/thumb-137e1badc7986f42ff0ea696901cdcbe-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181187420\/thumbnail\/image-thumbnail-640-90a2f6c5be9a993eb289b4039e55897d.jpg",
+        "type": "mp4",
+        "assetId": 181187420,
+        "assetTitle": "Animal prints three ways in plus sizes",
+        "assetTitleTextEncoded": "8c1b0c0a-dc5b-497a-ab2b-ce4226240d9b",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181187420,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181187420\/89874\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181187420\/89874\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181187420\/89874\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181187420\/89874\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181187420\/89874\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

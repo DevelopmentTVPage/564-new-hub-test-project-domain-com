@@ -1,0 +1,110 @@
+{
+    "title": "Fall Dresses",
+    "description": "Maison Jules Dress",
+    "referenceId": "13b0aaf10a61b0a99464dd7eaf14440b",
+    "date_created": "1541122968",
+    "date_modified": "1546466794",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": "women",
+    "id": "181627317",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-dresses",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/181627317\/47cf3\/thumb-13b0aaf10a61b0a99464dd7eaf14440b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/thumb-13b0aaf10a61b0a99464dd7eaf14440b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/thumb-13b0aaf10a61b0a99464dd7eaf14440b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/thumb-13b0aaf10a61b0a99464dd7eaf14440b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181627317\/thumbnail\/image-thumbnail-256-26bcb6c51cc4d70a1cf9c86bba7bdf53.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/thumb-13b0aaf10a61b0a99464dd7eaf14440b-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181627317\/thumbnail\/image-thumbnail-256-26bcb6c51cc4d70a1cf9c86bba7bdf53.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/media.m3u8",
+        "assetId": 181627317,
+        "assetTitle": "28C04638-0E71-4AC6-99A5-3251872BD6AF",
+        "assetTitleTextEncoded": "28c04638-0e71-4ac6-99a5-3251872bd6af",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181627317,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627317\/47cf3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

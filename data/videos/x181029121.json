@@ -1,0 +1,113 @@
+{
+    "title": "Alert: New Plus Size DKNY Coat",
+    "description": "I am lucky enough to see almost all things that we launch in plus sizes and this DKYNY faux leather trim coat is absolutely stunning! The coat selection at Macy's is stylish and affordable!",
+    "referenceId": "f6f8e78389fbb19e20fde82aed833acb",
+    "date_created": "1540306700",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "93",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "181029121",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "alert-new-plus-size-dkny-coat",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 55,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 55,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 55,
+        "prettyDuration": "00:00:55",
+        "automaticThumbnailsPattern": "1759121\/181029121\/83349\/thumb-f6f8e78389fbb19e20fde82aed833acb-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181029121\/83349\/thumb-f6f8e78389fbb19e20fde82aed833acb-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029121\/83349\/thumb-f6f8e78389fbb19e20fde82aed833acb-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029121\/83349\/thumb-f6f8e78389fbb19e20fde82aed833acb-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029121\/83349\/thumb-f6f8e78389fbb19e20fde82aed833acb-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029121\/83349\/thumb-f6f8e78389fbb19e20fde82aed833acb-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181029121\/83349\/thumb-f6f8e78389fbb19e20fde82aed833acb-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181029121\/thumbnail\/image-thumbnail-256-ab65cee5815dcde790d8f705fa9087c9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181029121\/thumbnail\/image-thumbnail-480-84a80a528e6a7f15f7ed138c95adae6d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181029121\/thumbnail\/image-thumbnail-640-f3013fe8eabc21966d63e448f78f2589.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181029121\/thumbnail\/image-thumbnail-1280-51abbc2712769ef221c81d2419ef1c52.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181029121\/83349\/thumb-f6f8e78389fbb19e20fde82aed833acb-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181029121\/thumbnail\/image-thumbnail-640-f3013fe8eabc21966d63e448f78f2589.jpg",
+        "type": "mp4",
+        "assetId": 181029121,
+        "assetTitle": "Alert: New Plus Size DKNY Coat",
+        "assetTitleTextEncoded": "db591b56-322b-4f60-8e4e-ce445e122635",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181029121,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029121\/83349\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029121\/83349\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029121\/83349\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029121\/83349\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181029121\/83349\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,108 @@
+{
+    "title": "The Best Holiday Items From Macy’s",
+    "description": "Whether you’re looking for holiday ornaments, tree trimmings, nutcrackers or something else to gear up for the holiday season—Macy’s has it! Be sure to check out our home department for the most joyful items to get you in the holiday spirit today!",
+    "referenceId": "e117951c4cfdf470b4bbfd2f99274b8d",
+    "date_created": "1543980871",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213443",
+    "product_category": "home",
+    "id": "185315756",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-best-holiday-items-from-macys",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/185315756\/4a0db\/thumb-e117951c4cfdf470b4bbfd2f99274b8d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/thumb-e117951c4cfdf470b4bbfd2f99274b8d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/thumb-e117951c4cfdf470b4bbfd2f99274b8d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/thumb-e117951c4cfdf470b4bbfd2f99274b8d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/thumb-e117951c4cfdf470b4bbfd2f99274b8d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185315756\/thumbnail\/image-thumbnail-256-835e45494abeb46ed8c89e40803bf5e6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/thumb-e117951c4cfdf470b4bbfd2f99274b8d-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185315756\/thumbnail\/image-thumbnail-256-835e45494abeb46ed8c89e40803bf5e6.jpg",
+        "type": "mp4",
+        "assetId": 185315756,
+        "assetTitle": "A6ACF404-7C02-472D-BF1F-4A6E605C2C4A",
+        "assetTitleTextEncoded": "a6acf404-7c02-472d-bf1f-4a6e605c2c4a",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185315756,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315756\/4a0db\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,115 @@
+{
+    "title": "On Wednesdays We Wear Pink feat. Brahmin",
+    "description": "Give the gift of Brahmin this holiday season.\nJacket- 7274551 | Pants- 7121917",
+    "referenceId": "5efb5e6ac6570c71b299d8889a82d1c7",
+    "date_created": "1545113147",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "66",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "handbags",
+    "id": "188724278",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "on-wednesdays-we-wear-pink-feat-brahmin",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 47,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 47,
+            "width": 1920,
+            "height": 1012
+        },
+        "mediaDuration": 47,
+        "prettyDuration": "00:00:47",
+        "automaticThumbnailsPattern": "1759121\/188724278\/3713e\/thumb-5efb5e6ac6570c71b299d8889a82d1c7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188724278\/user-images\/image-3840-67196b6bc51b42d3266ec183cb72ab37.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/thumb-5efb5e6ac6570c71b299d8889a82d1c7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/thumb-5efb5e6ac6570c71b299d8889a82d1c7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/thumb-5efb5e6ac6570c71b299d8889a82d1c7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/thumb-5efb5e6ac6570c71b299d8889a82d1c7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/thumb-5efb5e6ac6570c71b299d8889a82d1c7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/thumb-5efb5e6ac6570c71b299d8889a82d1c7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188724278\/thumbnail\/image-thumbnail-256-acb7b0b10a9170bf9bca6fcac408fa33.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188724278\/thumbnail\/image-thumbnail-480-a2eddd2135321e7e7b9c91e7b7d9f7d1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188724278\/thumbnail\/image-thumbnail-640-130c6f4d26a3130dc6759ca9fc1425dc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188724278\/thumbnail\/image-thumbnail-1280-efd061a9bbdceed232a725dcc6f43030.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188724278\/thumbnail\/image-thumbnail-1920-769d144936f6890fa745c9ae8e06f1ae.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188724278\/user-images\/image-3840-67196b6bc51b42d3266ec183cb72ab37.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188724278\/thumbnail\/image-thumbnail-640-130c6f4d26a3130dc6759ca9fc1425dc.jpg",
+        "type": "mp4",
+        "assetId": 188724278,
+        "assetTitle": "On Wednesdays We Wear Pink feat. Brahmin",
+        "assetTitleTextEncoded": "on-wednesdays-we-wear-pink",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188724278,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1012
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 674
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 450
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 338
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724278\/3713e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 168
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,105 @@
+{
+    "title": "AdrianneViz",
+    "description": "Black booties are always in",
+    "referenceId": "292037bdd4d93df7b9ef2e7e814dbff8",
+    "date_created": "1547233577",
+    "date_modified": "1547234157",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213329",
+    "product_category": null,
+    "id": "197389859",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "adrianneviz",
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 54,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 54,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 54,
+        "prettyDuration": "00:00:54",
+        "automaticThumbnailsPattern": "1759121\/197389859\/0f37e\/thumb-292037bdd4d93df7b9ef2e7e814dbff8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/thumb-292037bdd4d93df7b9ef2e7e814dbff8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/thumb-292037bdd4d93df7b9ef2e7e814dbff8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/thumb-292037bdd4d93df7b9ef2e7e814dbff8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/thumb-292037bdd4d93df7b9ef2e7e814dbff8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/thumb-292037bdd4d93df7b9ef2e7e814dbff8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/thumb-292037bdd4d93df7b9ef2e7e814dbff8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197389859\/thumbnail\/image-thumbnail-256-3524ec0623ed2b37f16c1ed02cee89de.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197389859\/thumbnail\/image-thumbnail-480-d202ea5ef6192150e77e9688c28167b9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/197389859\/thumbnail\/image-thumbnail-640-271dbadafd6793fe66473eda2587b7b7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/197389859\/thumbnail\/image-thumbnail-1280-cddc0ed28adff1369bb404c9508dcc6b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/197389859\/thumbnail\/image-thumbnail-1920-27ddf7df7c66d1b7cb89e3538c91c6f0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/thumb-292037bdd4d93df7b9ef2e7e814dbff8-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197389859\/thumbnail\/image-thumbnail-640-271dbadafd6793fe66473eda2587b7b7.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197389859\/0f37e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-23"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

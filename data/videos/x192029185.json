@@ -1,0 +1,106 @@
+{
+    "title": "Jacqueline Palmer\/monochromatic fashion",
+    "description": "Head to toe color is just the direction for the New year! Along with a gorgeous Dooney and Burke satchel this look completes my holiday journey! #myholidayjourney #macysstylecrew #macysmystylist #fashion #shopping #dooneyandburke #michealkors #flyingmonkey ",
+    "referenceId": "5ee012625a91b1655591fc76168d4343",
+    "date_created": "1546205995",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "192029185",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-monochromatic-fashion",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 108,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 108,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 108,
+        "prettyDuration": "00:01:48",
+        "automaticThumbnailsPattern": "1759121\/192029185\/17591\/thumb-5ee012625a91b1655591fc76168d4343-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192029185\/17591\/thumb-5ee012625a91b1655591fc76168d4343-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192029185\/17591\/thumb-5ee012625a91b1655591fc76168d4343-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192029185\/17591\/thumb-5ee012625a91b1655591fc76168d4343-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192029185\/17591\/thumb-5ee012625a91b1655591fc76168d4343-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192029185\/17591\/thumb-5ee012625a91b1655591fc76168d4343-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192029185\/17591\/thumb-5ee012625a91b1655591fc76168d4343-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192029185\/thumbnail\/image-thumbnail-256-040be1170343510002f11c785f86cd2c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192029185\/thumbnail\/image-thumbnail-480-036a40a068fcf538cfebfd49ef28be67.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/192029185\/thumbnail\/image-thumbnail-640-d0ef46f62d2ffa5752338204526a0373.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/192029185\/thumbnail\/image-thumbnail-1280-90890e47d5d7902c80a118ede32e613a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192029185\/17591\/thumb-5ee012625a91b1655591fc76168d4343-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192029185\/thumbnail\/image-thumbnail-640-d0ef46f62d2ffa5752338204526a0373.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/192029185\/17591\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/192029185\/17591\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192029185\/17591\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192029185\/17591\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192029185\/17591\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192029185\/17591\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192029185\/17591\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

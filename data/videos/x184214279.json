@@ -1,0 +1,113 @@
+{
+    "title": "The perfect soft Fleece sweater for the winter",
+    "description": "Hands down the most warm and comfortable Fleece top. It is perfect to put under your coat with this Boston weather. Along with that I am wearing my high waisted Tinseltown Ribbed Jeans with Bearpaw tall winter boots. For my liking I fold the boots down so it can go with my style.",
+    "referenceId": "8865a6dd84d02625d82e3e47e5051454",
+    "date_created": "1542993050",
+    "date_modified": "1546466820",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213700",
+    "product_category": "juniors",
+    "id": "184214279",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-perfect-soft-fleece-sweater-for-the-winter",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 32,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 32,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 32,
+        "prettyDuration": "00:00:32",
+        "automaticThumbnailsPattern": "1759121\/184214279\/604c0\/thumb-8865a6dd84d02625d82e3e47e5051454-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184214279\/user-images\/image-1212-9325438f39a743b7a60c20890e2e29c5.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/thumb-8865a6dd84d02625d82e3e47e5051454-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/thumb-8865a6dd84d02625d82e3e47e5051454-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/thumb-8865a6dd84d02625d82e3e47e5051454-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/thumb-8865a6dd84d02625d82e3e47e5051454-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/thumb-8865a6dd84d02625d82e3e47e5051454-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/thumb-8865a6dd84d02625d82e3e47e5051454-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184214279\/thumbnail\/image-thumbnail-256-e7cec7a925af0fa2d16e0e9b028c3dd0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184214279\/thumbnail\/image-thumbnail-480-42ce89ff858778d1c7268d72d5cba969.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184214279\/thumbnail\/image-thumbnail-640-6f859a716dfd458517ff152ca431c55e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214279\/user-images\/image-1212-9325438f39a743b7a60c20890e2e29c5.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214279\/thumbnail\/image-thumbnail-640-6f859a716dfd458517ff152ca431c55e.jpg",
+        "type": "mp4",
+        "assetId": 184214279,
+        "assetTitle": "The perfect soft Fleece sweater for the winter",
+        "assetTitleTextEncoded": "f32ee2c0-107b-4e0c-94ec-5e37e76986f1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184214279,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214279\/604c0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

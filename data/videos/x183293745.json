@@ -1,0 +1,120 @@
+{
+    "title": "Fierce plus size pieces that shine",
+    "description": null,
+    "referenceId": "daebff73656e0670bdc95b6953ef6aa7",
+    "date_created": "1542059370",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "121",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "30",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "183293745",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fierce-plus-size-pieces-that-shine",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/183293745\/6c8b6\/thumb-daebff73656e0670bdc95b6953ef6aa7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183293745\/user-images\/image-5616-9bbfeee6bcb5805f347fd775d26d47a2.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293745\/user-images\/image-3744-68138c6871e6f0b44f899cfb4ca64990.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/thumb-daebff73656e0670bdc95b6953ef6aa7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/thumb-daebff73656e0670bdc95b6953ef6aa7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/thumb-daebff73656e0670bdc95b6953ef6aa7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/thumb-daebff73656e0670bdc95b6953ef6aa7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/thumb-daebff73656e0670bdc95b6953ef6aa7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/thumb-daebff73656e0670bdc95b6953ef6aa7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183293745\/thumbnail\/image-thumbnail-256-0ac29577ecfddd7a30a8ee311a47152b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183293745\/thumbnail\/image-thumbnail-480-164e9626c08b71d0bfbb1c3ce8c8628e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183293745\/thumbnail\/image-thumbnail-640-303bca7956841934932cfc20b4701f11.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183293745\/thumbnail\/image-thumbnail-1280-43deda1e6c8d1bf7fd7922e289645a57.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183293745\/thumbnail\/image-thumbnail-1920-d43c66d9f67fd40680316dfc32e5d3d0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293745\/user-images\/image-5616-9bbfeee6bcb5805f347fd775d26d47a2.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293745\/thumbnail\/image-thumbnail-640-303bca7956841934932cfc20b4701f11.jpg",
+        "type": "mp4",
+        "assetId": 183293745,
+        "assetTitle": "Fierce plus size pieces that shine",
+        "assetTitleTextEncoded": "jill-modeling-3-v3",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183293745,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293745\/6c8b6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

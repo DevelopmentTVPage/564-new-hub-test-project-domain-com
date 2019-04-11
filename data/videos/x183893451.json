@@ -1,0 +1,111 @@
+{
+    "title": "Coach Selena Gomez Top-handled Crossbody Web Id.6567773",
+    "description": null,
+    "referenceId": "be4471986833de5af653bacd65e12dd2",
+    "date_created": "1542694180",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": "handbags",
+    "id": "183893451",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "coach-selena-gomez-top-handled-crossbody-web-id-6567773",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/183893451\/c5767\/thumb-be4471986833de5af653bacd65e12dd2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/thumb-be4471986833de5af653bacd65e12dd2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/thumb-be4471986833de5af653bacd65e12dd2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/thumb-be4471986833de5af653bacd65e12dd2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/thumb-be4471986833de5af653bacd65e12dd2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183893451\/thumbnail\/image-thumbnail-256-6aa32d73e8dbf8273eb657808f187cba.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183893451\/thumbnail\/image-thumbnail-480-fcc3bdd5af2320aac4973275ae767add.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183893451\/thumbnail\/image-thumbnail-640-85d1d2c61e62e38473a8cbc33e680522.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/thumb-be4471986833de5af653bacd65e12dd2-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183893451\/thumbnail\/image-thumbnail-640-85d1d2c61e62e38473a8cbc33e680522.jpg",
+        "type": "mp4",
+        "assetId": 183893451,
+        "assetTitle": "Coach Selina Gomez Top-handled crossbody Web Id.6567773",
+        "assetTitleTextEncoded": "video-2018-11-20-12-09-04-am",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183893451,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183893451\/c5767\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Fashion Office Hottest Looks ft. Bardot",
+    "description": "So glam and gorgeous, this sleeveless jumpsuit from Bardot is covered in gold-tone sequins with a chic cropped silhouette. Perfect for a holiday party or NYE!",
+    "referenceId": "67c7c8e8c026ad99f2ee573f4f893d84",
+    "date_created": "1544617486",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "187731890",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-looks-ft-bardot",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/187731890\/4e3bd\/thumb-67c7c8e8c026ad99f2ee573f4f893d84-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187731890\/user-images\/image-1280-eb4f242bd6e415425147e9eb170349fe.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/thumb-67c7c8e8c026ad99f2ee573f4f893d84-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/thumb-67c7c8e8c026ad99f2ee573f4f893d84-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/thumb-67c7c8e8c026ad99f2ee573f4f893d84-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/thumb-67c7c8e8c026ad99f2ee573f4f893d84-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/thumb-67c7c8e8c026ad99f2ee573f4f893d84-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/thumb-67c7c8e8c026ad99f2ee573f4f893d84-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187731890\/thumbnail\/image-thumbnail-256-e353cfa1b2953e2d3f7202e187ea027e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187731890\/thumbnail\/image-thumbnail-480-36035f456b2373360eeea9b7ba478d30.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/187731890\/thumbnail\/image-thumbnail-640-99cc5e87b664c6df2c3c40f81684620b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/187731890\/thumbnail\/image-thumbnail-1280-69f92d3302f61f96b4a0611534fd33f4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187731890\/user-images\/image-1280-eb4f242bd6e415425147e9eb170349fe.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187731890\/thumbnail\/image-thumbnail-640-99cc5e87b664c6df2c3c40f81684620b.jpg",
+        "type": "mp4",
+        "assetId": 187731890,
+        "assetTitle": "Fashion Office Hottest Looks",
+        "assetTitleTextEncoded": "fashion-office-hottest-looks",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187731890,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187731890\/4e3bd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-18"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,112 @@
+{
+    "title": "Outta Space New Kids Bedding by Urban Dreams",
+    "description": "All So Cute!  It's always playtime with these new out of space kids bedding...Make It Fun!  #UrbanDreams #Space #KidsBedding #HomeStyle #Homebodies #MacysStyleCrew #MacysStyleCrewSouchitta #BeOurGuest @macysvisual41",
+    "referenceId": "7fd7a614945f242d01ece8bcacfe3f21",
+    "date_created": "1539360657",
+    "date_modified": "1546466785",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "39",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "179996386",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "outta-space-new-kids-bedding-by-urban-dreams",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "25",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "25",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "automaticThumbnailsPattern": "1759121\/179996386\/713e7\/thumb-7fd7a614945f242d01ece8bcacfe3f21-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/thumb-7fd7a614945f242d01ece8bcacfe3f21-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/thumb-7fd7a614945f242d01ece8bcacfe3f21-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/thumb-7fd7a614945f242d01ece8bcacfe3f21-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/thumb-7fd7a614945f242d01ece8bcacfe3f21-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/thumb-7fd7a614945f242d01ece8bcacfe3f21-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/thumb-7fd7a614945f242d01ece8bcacfe3f21-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179996386\/thumbnail\/image-thumbnail-256-9e12613e4cc99342cf12f2440f33dd7d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179996386\/thumbnail\/image-thumbnail-480-81735c56786ff0eb724fdbfc59d3f7bb.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179996386\/thumbnail\/image-thumbnail-640-8065541cfab0b066ca7d2540b19516ee.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/thumb-7fd7a614945f242d01ece8bcacfe3f21-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179996386\/thumbnail\/image-thumbnail-640-8065541cfab0b066ca7d2540b19516ee.jpg",
+        "type": "mp4",
+        "assetId": "179996386",
+        "assetTitle": "Outta Space New Kids Bedding by Urban Dreams",
+        "assetTitleTextEncoded": "vid-51021126-021710-045",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179996386",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179996386\/713e7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

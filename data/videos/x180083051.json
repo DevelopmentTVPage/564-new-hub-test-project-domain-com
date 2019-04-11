@@ -1,0 +1,111 @@
+{
+    "title": "Varsity Looks",
+    "description": "Game ready",
+    "referenceId": "b71a36bcc117ac1342d0f83633e60091",
+    "date_created": "1539399853",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213265",
+    "product_category": "juniors",
+    "id": "180083051",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "varsity-looks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 46,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 46,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 46,
+        "prettyDuration": "00:00:46",
+        "automaticThumbnailsPattern": "1759121\/180083051\/766bc\/thumb-b71a36bcc117ac1342d0f83633e60091-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/thumb-b71a36bcc117ac1342d0f83633e60091-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/thumb-b71a36bcc117ac1342d0f83633e60091-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/thumb-b71a36bcc117ac1342d0f83633e60091-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/thumb-b71a36bcc117ac1342d0f83633e60091-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/thumb-b71a36bcc117ac1342d0f83633e60091-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/thumb-b71a36bcc117ac1342d0f83633e60091-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180083051\/thumbnail\/image-thumbnail-256-358b366f42ee3156d494284a5fcc376b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180083051\/thumbnail\/image-thumbnail-480-83d95c8d76a9f24b77212c811e70e60b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/thumb-b71a36bcc117ac1342d0f83633e60091-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180083051\/thumbnail\/image-thumbnail-480-83d95c8d76a9f24b77212c811e70e60b.jpg",
+        "type": "mp4",
+        "assetId": 180083051,
+        "assetTitle": "Varsity Looks",
+        "assetTitleTextEncoded": "a90e1265-43ad-4fac-ab79-6f0f2ec62246",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180083051,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083051\/766bc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

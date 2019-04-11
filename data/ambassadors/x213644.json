@@ -1,0 +1,21 @@
+{
+    "id": "213644",
+    "first_name": "Liz",
+    "last_name": "Karanikas",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/662573989-0.4547173649538.jpg",
+        "job_title": "Estée Lauder Counter Manager "
+    },
+    "last_login_timestamp": "1540846315",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-10 18:43:43",
+    "login_id": "1759121",
+    "user_id": "213644",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Liz Karanikas",
+    "profile_picture": "\/api\/canvas\/logo\/662573989-0.4547173649538.jpg",
+    "titleTextEncoded": "liz-karanikas",
+    "title": "Liz Karanikas",
+    "videos_count": "2"
+}

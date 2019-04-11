@@ -1,0 +1,99 @@
+{
+    "title": "KENNETH MARSHALL- NMD",
+    "description": "Kenneth Marshall Featuring Adidas",
+    "referenceId": "27964fff62fee96d0a0ad79bd5b2379c",
+    "date_created": "1523925358",
+    "date_modified": "1546466768",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160463624",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "kenneth-marshall-nmd",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "25",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "25",
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160463624\/thumbnail\/image-thumbnail-640-fcb9d94857e594436fbdfb76ccc13d8c.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160463624\/d28ba\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160463624\/d28ba\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160463624\/d28ba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160463624\/d28ba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160463624\/d28ba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160463624\/d28ba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160463624\/d28ba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160463624\/user-images\/image-1920-4db12f211d1ecc27c8deb03b3da750d6.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160463624\/user-images\/image-1920-4db12f211d1ecc27c8deb03b3da750d6.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160463624\/thumbnail\/image-thumbnail-256-40f42f3c2d8c5e93a2df23886a00d035.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160463624\/thumbnail\/image-thumbnail-480-23b1760ef6838d21bc63635b7f5c09c3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160463624\/thumbnail\/image-thumbnail-640-fcb9d94857e594436fbdfb76ccc13d8c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/160463624\/thumbnail\/image-thumbnail-1280-41ad19e394f75aeb78b1e7dd4e96ef76.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/160463624\/thumbnail\/image-thumbnail-1920-79e3b146c7f2ec13e1d7e2f195058f41.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Jacqueline Palmer\/Essential Shoes ",
+    "description": "The seven most essential shoes for your wardrobe! Riding boot, ballet flat, bootie, pump, sneaker, sandal and the patterned shoe. #macysstylecrew #shoes #macysmystylist #fashion #style #basicstyle #wardrobe ",
+    "referenceId": "8c4fb6ff9ded83d5a6a1312290542e00",
+    "date_created": "1546774466",
+    "date_modified": "1546777005",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "193162137",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-essential-shoes",
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 161,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 161,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 161,
+        "prettyDuration": "00:02:41",
+        "automaticThumbnailsPattern": "1759121\/193162137\/725a4\/thumb-8c4fb6ff9ded83d5a6a1312290542e00-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/thumb-8c4fb6ff9ded83d5a6a1312290542e00-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/thumb-8c4fb6ff9ded83d5a6a1312290542e00-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/thumb-8c4fb6ff9ded83d5a6a1312290542e00-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/thumb-8c4fb6ff9ded83d5a6a1312290542e00-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/thumb-8c4fb6ff9ded83d5a6a1312290542e00-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/thumb-8c4fb6ff9ded83d5a6a1312290542e00-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/193162137\/thumbnail\/image-thumbnail-256-aadef093dc3cd02d8b2940f870d00e52.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/193162137\/thumbnail\/image-thumbnail-480-65952cdf1c162d2ac5abf938126dd098.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/193162137\/thumbnail\/image-thumbnail-640-649017efaf675bd24405b984c39e9ad5.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/193162137\/thumbnail\/image-thumbnail-1280-b675f2cde530c88fd1061880cb8d2daf.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/thumb-8c4fb6ff9ded83d5a6a1312290542e00-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/193162137\/thumbnail\/image-thumbnail-640-649017efaf675bd24405b984c39e9ad5.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193162137\/725a4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

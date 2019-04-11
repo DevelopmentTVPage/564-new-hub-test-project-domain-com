@@ -1,0 +1,117 @@
+{
+    "title": "AMAZING SWEATER DEALS|| Lights",
+    "description": "Check out all the amazing sweaters that are on sale this black Friday! Instagram @caydeecat @saystheart",
+    "referenceId": "ab3cddf39988b74b14f48c01f7b10a56",
+    "date_created": "1542868086",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": "juniors",
+    "id": "184112822",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "amazing-sweater-deals-lights",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 33,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 33,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 33,
+        "prettyDuration": "00:00:33",
+        "automaticThumbnailsPattern": "1759121\/184112822\/1eba8\/thumb-ab3cddf39988b74b14f48c01f7b10a56-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/thumb-ab3cddf39988b74b14f48c01f7b10a56-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/thumb-ab3cddf39988b74b14f48c01f7b10a56-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/thumb-ab3cddf39988b74b14f48c01f7b10a56-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/thumb-ab3cddf39988b74b14f48c01f7b10a56-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/thumb-ab3cddf39988b74b14f48c01f7b10a56-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/thumb-ab3cddf39988b74b14f48c01f7b10a56-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184112822\/thumbnail\/image-thumbnail-256-b59239fefeb8c9448e482a1f021b45a5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184112822\/thumbnail\/image-thumbnail-480-60a6d3dafcd4e6d825e55c009754a383.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184112822\/thumbnail\/image-thumbnail-640-f83ef0eed01ff7837cbb8cdb12524314.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184112822\/thumbnail\/image-thumbnail-1280-df571e4c2cf98732c25cab1198e8ed0f.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184112822\/thumbnail\/image-thumbnail-1920-686ba526ec0cd92ba6a7fe327938af66.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/thumb-ab3cddf39988b74b14f48c01f7b10a56-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184112822\/thumbnail\/image-thumbnail-640-f83ef0eed01ff7837cbb8cdb12524314.jpg",
+        "type": "mp4",
+        "assetId": 184112822,
+        "assetTitle": "AMAZING SWEATER DEALS|| Lights",
+        "assetTitleTextEncoded": "amazing-sweater-deals",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184112822,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184112822\/1eba8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "I.N.C. Spring 2019",
+    "description": "INC Spring is pretty in pastel, either with a 70’s vibe or preppy and polished.  I love their flared jeans and this pastel rainbow necklace!!",
+    "referenceId": "20429bd9e91e69b7f8c44ca68d8a61af",
+    "date_created": "1550026988",
+    "date_modified": "1550092466",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213741",
+    "product_category": null,
+    "id": "202724938",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "i-n-c-spring-2019",
+    "category": "Women",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 20,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 20,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 20,
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/202724938\/6f8dc\/thumb-20429bd9e91e69b7f8c44ca68d8a61af-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/thumb-20429bd9e91e69b7f8c44ca68d8a61af-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/thumb-20429bd9e91e69b7f8c44ca68d8a61af-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/thumb-20429bd9e91e69b7f8c44ca68d8a61af-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/thumb-20429bd9e91e69b7f8c44ca68d8a61af-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/thumb-20429bd9e91e69b7f8c44ca68d8a61af-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/thumb-20429bd9e91e69b7f8c44ca68d8a61af-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202724938\/thumbnail\/image-thumbnail-256-e8cf758a5108889e05fa30de0fb4c6c4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202724938\/thumbnail\/image-thumbnail-480-a7c7cf64e0b8fd2cde34354847ed558b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/thumb-20429bd9e91e69b7f8c44ca68d8a61af-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202724938\/thumbnail\/image-thumbnail-480-a7c7cf64e0b8fd2cde34354847ed558b.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202724938\/6f8dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

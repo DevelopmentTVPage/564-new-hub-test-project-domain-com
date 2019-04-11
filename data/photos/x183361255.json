@@ -1,0 +1,97 @@
+{
+    "title": "MICHAEL Michael Kors Faux-Shearling-Collar Leather Moto Jacket WEB ID: 6380545",
+    "description": "This Michael Kors Leather Jackets come in two colors, brown and black.  Your chic winter look is completed.",
+    "referenceId": null,
+    "date_created": "1542162744",
+    "date_modified": "1546466828",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213689",
+    "id": "183361255",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "michael-michael-kors-faux-shearling-collar-leather-moto-jacket-web-id-6380545",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1024,
+                "height": 1318,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-media--1024.jpeg?v=1542162749533"
+            },
+            {
+                "width": 1080,
+                "height": 1390,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-media--1080.jpeg?v=1542162749888"
+            },
+            {
+                "width": 960,
+                "height": 1236,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-media--960.jpeg?v=1542162749839"
+            },
+            {
+                "width": 640,
+                "height": 824,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-media--640.jpeg?v=1542162749446"
+            },
+            {
+                "width": 600,
+                "height": 772,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-media--600.jpeg?v=1542162749441"
+            },
+            {
+                "width": 256,
+                "height": 329,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-media--256.jpeg?v=1542162749409"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-thumbnail-640.jpeg?v=1542162750294"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-thumbnail-480.jpeg?v=1542162750282"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-thumbnail-256.jpeg?v=1542162750271"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-thumbnail-64.jpeg?v=1542162750267"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183361255\/image-thumbnail-640.jpeg?v=1542162750294",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Hustle & Glow",
+    "description": "Smashbox’s new collection of L.A. inspired color",
+    "referenceId": null,
+    "date_created": "1549575513",
+    "date_modified": "1549575649",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213923",
+    "id": "201552759",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "hustle-glow",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1906,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--1920.jpeg?v=1549575522580"
+            },
+            {
+                "width": 1280,
+                "height": 1270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--1280.jpeg?v=1549575522944"
+            },
+            {
+                "width": 1200,
+                "height": 1191,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--1200.jpeg?v=1549575522393"
+            },
+            {
+                "width": 1024,
+                "height": 1016,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--1024.jpeg?v=1549575522380"
+            },
+            {
+                "width": 1080,
+                "height": 1072,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--1080.jpeg?v=1549575522393"
+            },
+            {
+                "width": 960,
+                "height": 953,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--960.jpeg?v=1549575522909"
+            },
+            {
+                "width": 640,
+                "height": 635,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--640.jpeg?v=1549575522929"
+            },
+            {
+                "width": 600,
+                "height": 595,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--600.jpeg?v=1549575523140"
+            },
+            {
+                "width": 256,
+                "height": 254,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-media--256.jpeg?v=1549575523274"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-thumbnail-1920.jpeg?v=1549575523692"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-thumbnail-1280.jpeg?v=1549575523611"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-thumbnail-640.jpeg?v=1549575523542"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-thumbnail-480.jpeg?v=1549575523531"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-thumbnail-256.jpeg?v=1549575523628"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-thumbnail-64.jpeg?v=1549575523635"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552759\/image-thumbnail-640.jpeg?v=1549575523542",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

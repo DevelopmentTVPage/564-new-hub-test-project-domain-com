@@ -1,0 +1,108 @@
+{
+    "title": "My Holiday Journey with a Blue Yeti 2",
+    "description": "Many people travel during the holidays, but I'm sick. So instead I'm going to play \"Where in the World is Jefferson Sancarlos\" with a Blue Yeti!",
+    "referenceId": "f683c64e3b9d154077c5cd4778cb6cd2",
+    "date_created": "1545490990",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "49",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": null,
+    "id": "190711941",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-with-a-blue-yeti-2",
+    "category": "Many people travel during the holidays, but I'm sick. So instead I'm going to play \"Where in the World is Jefferson Sancarlos\" with a Blue Yeti!",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 102,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 102,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 102,
+        "prettyDuration": "00:01:42",
+        "automaticThumbnailsPattern": "1759121\/190711941\/4f1a3\/thumb-f683c64e3b9d154077c5cd4778cb6cd2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/thumb-f683c64e3b9d154077c5cd4778cb6cd2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/thumb-f683c64e3b9d154077c5cd4778cb6cd2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/thumb-f683c64e3b9d154077c5cd4778cb6cd2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/thumb-f683c64e3b9d154077c5cd4778cb6cd2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/thumb-f683c64e3b9d154077c5cd4778cb6cd2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/thumb-f683c64e3b9d154077c5cd4778cb6cd2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/190711941\/thumbnail\/image-thumbnail-256-5615193cc169295caa48fc0683cdb7d5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/190711941\/thumbnail\/image-thumbnail-480-bd49c7f99b602b5b227974ba99b575ac.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/190711941\/thumbnail\/image-thumbnail-640-d45c711256a60740be4f649976b298ea.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/thumb-f683c64e3b9d154077c5cd4778cb6cd2-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/190711941\/thumbnail\/image-thumbnail-640-d45c711256a60740be4f649976b298ea.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711941\/4f1a3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

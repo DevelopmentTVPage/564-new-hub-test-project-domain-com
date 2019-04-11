@@ -1,0 +1,127 @@
+{
+    "title": "INC sweater sale",
+    "description": "Love this INC (only at Macy's) sweater.  It comes in so many cute colors too.  Perfect for spring and fall as its lightweight, Boatneck and a loose fit.  For winter just pair it with a scarf for extra warmth.  Runs true to size.  Wearing XS.  Use code YAY for an additional 25% off sale prices!",
+    "referenceId": null,
+    "date_created": "1548852753",
+    "date_modified": "1548853423",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "200607885",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "inc-sweater-sale",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3026,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--1920.jpeg?v=1548852756029"
+            },
+            {
+                "width": 1280,
+                "height": 2017,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--1280.jpeg?v=1548852756876"
+            },
+            {
+                "width": 1200,
+                "height": 1891,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--1200.jpeg?v=1548852755809"
+            },
+            {
+                "width": 1024,
+                "height": 1614,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--1024.jpeg?v=1548852756346"
+            },
+            {
+                "width": 1080,
+                "height": 1702,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--1080.jpeg?v=1548852755774"
+            },
+            {
+                "width": 960,
+                "height": 1513,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--960.jpeg?v=1548852756334"
+            },
+            {
+                "width": 640,
+                "height": 1008,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--640.jpeg?v=1548852755693"
+            },
+            {
+                "width": 600,
+                "height": 945,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--600.jpeg?v=1548852755993"
+            },
+            {
+                "width": 256,
+                "height": 403,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-media--256.jpeg?v=1548852756181"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-thumbnail-1920.jpeg?v=1548852757433"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-thumbnail-1280.jpeg?v=1548852757396"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-thumbnail-640.jpeg?v=1548852757361"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-thumbnail-480.jpeg?v=1548852757352"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-thumbnail-256.jpeg?v=1548852757454"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-thumbnail-64.jpeg?v=1548852757469"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200607885\/image-thumbnail-640.jpeg?v=1548852757361",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

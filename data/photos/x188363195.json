@@ -1,0 +1,127 @@
+{
+    "title": "The ultimate holiday party dress",
+    "description": "Gorgeous Red Velvet Blazer with the Sparkling dress",
+    "referenceId": null,
+    "date_created": "1544921944",
+    "date_modified": "1546466798",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213202",
+    "id": "188363195",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "the-ultimate-holiday-party-dress",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 5324,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--1920.jpeg?v=1544921958864"
+            },
+            {
+                "width": 1280,
+                "height": 3549,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--1280.jpeg?v=1544921957942"
+            },
+            {
+                "width": 1200,
+                "height": 3328,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--1200.jpeg?v=1544921957876"
+            },
+            {
+                "width": 1024,
+                "height": 2839,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--1024.jpeg?v=1544921959740"
+            },
+            {
+                "width": 1080,
+                "height": 2995,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--1080.jpeg?v=1544921957824"
+            },
+            {
+                "width": 960,
+                "height": 2662,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--960.jpeg?v=1544921959599"
+            },
+            {
+                "width": 640,
+                "height": 1774,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--640.jpeg?v=1544921959962"
+            },
+            {
+                "width": 600,
+                "height": 1664,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--600.jpeg?v=1544921960484"
+            },
+            {
+                "width": 256,
+                "height": 709,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-media--256.jpeg?v=1544921960456"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-thumbnail-1920.jpeg?v=1544921961362"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-thumbnail-1280.jpeg?v=1544921961302"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-thumbnail-640.jpeg?v=1544921961532"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-thumbnail-480.jpeg?v=1544921961268"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-thumbnail-256.jpeg?v=1544921961258"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-thumbnail-64.jpeg?v=1544921961438"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188363195\/image-thumbnail-640.jpeg?v=1544921961532",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

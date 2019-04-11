@@ -1,0 +1,99 @@
+{
+    "title": "Chilewich Place Mats and Table Runners",
+    "description": "I'm sure you will find place mats or table runners that will compliment your setup.",
+    "referenceId": "65667481079500e333d1b169b5390080",
+    "date_created": "1523914746",
+    "date_modified": "1546466767",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160455768",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "chilewich-place-mats-and-table-runners",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "38",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455768\/thumbnail\/image-thumbnail-640-10d767ee4894033b942b5fe721866c8c.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455768\/dfbab\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455768\/dfbab\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455768\/dfbab\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455768\/dfbab\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455768\/dfbab\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455768\/dfbab\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455768\/dfbab\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/160455768\/dfbab\/thumb-65667481079500e333d1b169b5390080-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160455768\/user-images\/image-853-7adb8dc1aede54f8f4f2a47e558d1f2b.jpg",
+            "\/\/v.tvpage.com\/1759121\/160455768\/dfbab\/thumb-65667481079500e333d1b169b5390080-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455768\/user-images\/image-853-7adb8dc1aede54f8f4f2a47e558d1f2b.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160455768\/thumbnail\/image-thumbnail-256-1da13ed6b0e1272ebce9efde1968f488.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160455768\/thumbnail\/image-thumbnail-480-8251952ff13d13ea8f21787d05b80c45.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160455768\/thumbnail\/image-thumbnail-640-10d767ee4894033b942b5fe721866c8c.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

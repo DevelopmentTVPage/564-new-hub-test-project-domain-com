@@ -1,0 +1,108 @@
+{
+    "title": "My Macy's Star Pick",
+    "description": "Lancome Cils Booster XL and Lancome Hypnose Drama mascara combo will have people wondering if your lashes are real or not! The Cils Booster conditions, smooths, and lengthens your lashes making your favorite Lancome mascara go on even better. Lancome Hypnose Drama mascara lives up to its name creating dramatically pigmented lashes with extreme volume. Want even more drama? Put on a highly pigmented Lancome Color Design lipstick like the color Into the Rapture.  ",
+    "referenceId": "22aa5fd3343addd999e5dcbcb3a8ed7b",
+    "date_created": "1548564103",
+    "date_modified": "1548567067",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "487",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "5",
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": null,
+    "id": "200029309",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-macys-star-pick",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/200029309\/77337\/thumb-22aa5fd3343addd999e5dcbcb3a8ed7b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200029309\/77337\/thumb-22aa5fd3343addd999e5dcbcb3a8ed7b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/200029309\/77337\/thumb-22aa5fd3343addd999e5dcbcb3a8ed7b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/200029309\/77337\/thumb-22aa5fd3343addd999e5dcbcb3a8ed7b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/200029309\/77337\/thumb-22aa5fd3343addd999e5dcbcb3a8ed7b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200029309\/77337\/thumb-22aa5fd3343addd999e5dcbcb3a8ed7b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200029309\/77337\/thumb-22aa5fd3343addd999e5dcbcb3a8ed7b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200029309\/thumbnail\/image-thumbnail-256-93c8a8d256c964dce454f2ea96441fea.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200029309\/thumbnail\/image-thumbnail-480-a551fcc9072b462aa312ba6be2cc212c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/200029309\/thumbnail\/image-thumbnail-640-f1663a28315c59f1ae8cc14f0a8b30ec.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/200029309\/thumbnail\/image-thumbnail-1280-e8afcc180e6d0ec66f23e327b2e62298.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/200029309\/thumbnail\/image-thumbnail-1920-4c7ed63eab0ed6077a125992cbb030a7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200029309\/77337\/thumb-22aa5fd3343addd999e5dcbcb3a8ed7b-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200029309\/thumbnail\/image-thumbnail-640-f1663a28315c59f1ae8cc14f0a8b30ec.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200029309\/77337\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200029309\/77337\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200029309\/77337\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200029309\/77337\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200029309\/77337\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

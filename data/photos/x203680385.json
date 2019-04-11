@@ -1,0 +1,127 @@
+{
+    "title": "Tom Ford Lipstick",
+    "description": "My new favorite red lipstick! ",
+    "referenceId": null,
+    "date_created": "1550532881",
+    "date_modified": "1550532965",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213274",
+    "id": "203680385",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "tom-ford-lipstick",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2606,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--1920.jpeg?v=1550532953581"
+            },
+            {
+                "width": 1280,
+                "height": 1737,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--1280.jpeg?v=1550532952787"
+            },
+            {
+                "width": 1200,
+                "height": 1629,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--1200.jpeg?v=1550532952500"
+            },
+            {
+                "width": 1024,
+                "height": 1390,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--1024.jpeg?v=1550532952299"
+            },
+            {
+                "width": 1080,
+                "height": 1466,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--1080.jpeg?v=1550532952387"
+            },
+            {
+                "width": 960,
+                "height": 1303,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--960.jpeg?v=1550532952101"
+            },
+            {
+                "width": 640,
+                "height": 868,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--640.jpeg?v=1550532951591"
+            },
+            {
+                "width": 600,
+                "height": 814,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--600.jpeg?v=1550532951780"
+            },
+            {
+                "width": 256,
+                "height": 347,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-media--256.jpeg?v=1550532953499"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-thumbnail-1920.jpeg?v=1550532955660"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-thumbnail-1280.jpeg?v=1550532955646"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-thumbnail-640.jpeg?v=1550532955530"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-thumbnail-480.jpeg?v=1550532955503"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-thumbnail-256.jpeg?v=1550532955217"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-thumbnail-64.jpeg?v=1550532955482"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203680385\/image-thumbnail-640.jpeg?v=1550532955530",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

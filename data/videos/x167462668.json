@@ -1,0 +1,111 @@
+{
+    "title": "Dueling Levi’s",
+    "description": "Time to Shine with exploring in your dueling Levi’s. The men’s look is a paint distressed vest, paired with a blue sapphire 502 Regualr Tapered jean. Under the vest is a graphic tee, with all three pieces being made by Levi’s. The women’s look is a camouflage jet set pant by Levi. It’s paired with white Chuck Taylor high tops and a simple Free People tank. #levis #converse #camo #graphictee #taperedjean #vest",
+    "referenceId": "9b4d2194dfb90f84dc9e1e80bc45855c",
+    "date_created": "1532315109",
+    "date_modified": "1546466803",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "222",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213381",
+    "product_category": null,
+    "id": "167462668",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dueling-levis",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "59",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "59",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167462668\/thumbnail\/image-thumbnail-640-b72d6a96ee732a3f3a327b01c7a9f996.jpg",
+        "type": "mp4",
+        "assetId": "167462668",
+        "assetTitle": "Dueling Levi’s",
+        "assetTitleTextEncoded": "4d625122-ef53-4b21-831e-a967068b3e23",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167462668",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167462668\/c94c1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167462668\/c94c1\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462668\/c94c1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462668\/c94c1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462668\/c94c1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462668\/c94c1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462668\/c94c1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167462668\/user-images\/image-1920-a9fb8b76ede354901bc29c51a2aeff2c.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167462668\/user-images\/image-1920-a9fb8b76ede354901bc29c51a2aeff2c.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167462668\/thumbnail\/image-thumbnail-256-9776aaffd4fe35b3780ccba2c0f8c292.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167462668\/thumbnail\/image-thumbnail-480-7b5954c15e203463900a190b88033c6d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167462668\/thumbnail\/image-thumbnail-640-b72d6a96ee732a3f3a327b01c7a9f996.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167462668\/thumbnail\/image-thumbnail-1280-4b6ed5b08d565fbc38a18a32a69fa544.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/167462668\/thumbnail\/image-thumbnail-1920-55f8fc9b1e960aacd27214acdfbe862d.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

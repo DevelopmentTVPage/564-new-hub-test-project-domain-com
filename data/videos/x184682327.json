@@ -1,0 +1,111 @@
+{
+    "title": "FC PARTY 11.29",
+    "description": "Macy's Team at French Connection Daily Front Row Party! \nSee below for outfit details: \nSHOES Web ID: 7007997\nJEANS Web ID: 5918212",
+    "referenceId": "4f07d793fa76a2536fd323282c6462a6",
+    "date_created": "1543603256",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213806",
+    "product_category": "women",
+    "id": "184682327",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fc-party-11-29",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/184682327\/fcd4b\/thumb-4f07d793fa76a2536fd323282c6462a6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/thumb-4f07d793fa76a2536fd323282c6462a6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/thumb-4f07d793fa76a2536fd323282c6462a6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/thumb-4f07d793fa76a2536fd323282c6462a6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184682327\/thumbnail\/image-thumbnail-256-d88d1a714e252a4ad14fbc8e8270271a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184682327\/thumbnail\/image-thumbnail-480-7a716e3a1e9eb50ce4017d0eacb0f45a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/thumb-4f07d793fa76a2536fd323282c6462a6-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184682327\/thumbnail\/image-thumbnail-480-7a716e3a1e9eb50ce4017d0eacb0f45a.jpg",
+        "type": "mp4",
+        "assetId": 184682327,
+        "assetTitle": "FC PARTY 11.29",
+        "assetTitleTextEncoded": "fc-party-11-29",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184682327,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682327\/fcd4b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

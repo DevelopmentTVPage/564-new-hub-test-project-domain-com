@@ -1,0 +1,103 @@
+{
+    "title": "That's Y I Dream I Dare I Live",
+    "description": "#That'sYIDreamIDareILive Travel with your Yves Saint Laurent everywhere.",
+    "referenceId": "53ddbbe52a943ed244cfaafdee32c906",
+    "date_created": "1549957561",
+    "date_modified": "1549993930",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": null,
+    "id": "202639093",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "thats-y-i-dream-i-dare-i-live",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/202639093\/9210c\/thumb-53ddbbe52a943ed244cfaafdee32c906-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/thumb-53ddbbe52a943ed244cfaafdee32c906-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/thumb-53ddbbe52a943ed244cfaafdee32c906-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/thumb-53ddbbe52a943ed244cfaafdee32c906-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202639093\/thumbnail\/image-thumbnail-256-1fa75ab08bc7eeaec374760b8981cc24.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202639093\/thumbnail\/image-thumbnail-480-9a5a79ceabce9596fed020eefc4f975f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202639093\/thumbnail\/image-thumbnail-640-4188300fb88afa3ce6749966a077dcb6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/thumb-53ddbbe52a943ed244cfaafdee32c906-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639093\/thumbnail\/image-thumbnail-640-4188300fb88afa3ce6749966a077dcb6.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639093\/9210c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

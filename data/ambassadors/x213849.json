@@ -1,0 +1,21 @@
+{
+    "id": "213849",
+    "first_name": "ANTHONY",
+    "last_name": "DIAZ",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/918051885-0.8546152558177.jpg",
+        "job_title": "MyStylist"
+    },
+    "last_login_timestamp": "1546711063",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-10 18:37:58",
+    "login_id": "1759121",
+    "user_id": "213849",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "ANTHONY DIAZ",
+    "profile_picture": "\/api\/canvas\/logo\/918051885-0.8546152558177.jpg",
+    "titleTextEncoded": "anthony-diaz",
+    "title": "ANTHONY DIAZ",
+    "videos_count": "0"
+}

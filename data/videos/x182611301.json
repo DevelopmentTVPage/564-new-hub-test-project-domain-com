@@ -1,0 +1,113 @@
+{
+    "title": "Skin care routine (Night)",
+    "description": "This is  my personal skin care night routine. In the video I show you in order what I put on my face and how I apply it. These products work for me, your skin may be different so if you have any questions, you can contact me through email: Michelle.Z.Perez@macys.com. I am oily in the \"T-zone\" which is my forehead & nose.\n\nEspañol: Esta es mi rutina personal para la piel mia por las noches. En el video te enseño en orden que me pongo en la piel y como me lo aplico. Estos productos funciona para la piel mía, la de usted probablemente seria diferente. Si tienen alguna duda o preguntas, me pueden contactar por mensaje electronico: Michelle.Z.Perez@macys.com. Mi piel es aceitoso en la \"Zona-T\" que seria en la frente y la nariz.  \n\n1. Dior Skin Boosting Serum\n2. Clinique All About Eyes\n3. Mario Badescu Vitamin C Serum\n4. Dior Hydra Life Fresh Hydration\n5. Dior Lip Sugar Scrub",
+    "referenceId": "abf96c5d6c0c7c49a1d3084c2c6853b2",
+    "date_created": "1541479734",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213707",
+    "product_category": "beauty",
+    "id": "182611301",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "skin-care-routine-night",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 169,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 169,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 169,
+        "prettyDuration": "00:02:49",
+        "automaticThumbnailsPattern": "1759121\/182611301\/1289f\/thumb-abf96c5d6c0c7c49a1d3084c2c6853b2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/thumb-abf96c5d6c0c7c49a1d3084c2c6853b2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/thumb-abf96c5d6c0c7c49a1d3084c2c6853b2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/thumb-abf96c5d6c0c7c49a1d3084c2c6853b2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/thumb-abf96c5d6c0c7c49a1d3084c2c6853b2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/thumb-abf96c5d6c0c7c49a1d3084c2c6853b2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/thumb-abf96c5d6c0c7c49a1d3084c2c6853b2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182611301\/thumbnail\/image-thumbnail-256-cc0e92e95fc14ff78b6a0a9a37545565.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182611301\/thumbnail\/image-thumbnail-480-a5e164e574d398d36dd75b4c4d4945d8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182611301\/thumbnail\/image-thumbnail-640-50a022a0e5366a63a0cfd27624fea7fa.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182611301\/thumbnail\/image-thumbnail-1280-98323444f8edecdc14294cced9c39087.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/thumb-abf96c5d6c0c7c49a1d3084c2c6853b2-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611301\/thumbnail\/image-thumbnail-640-50a022a0e5366a63a0cfd27624fea7fa.jpg",
+        "type": "mp4",
+        "assetId": 182611301,
+        "assetTitle": "Skin care routine (Night)",
+        "assetTitleTextEncoded": "skin-care-routine-night",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182611301,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611301\/1289f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

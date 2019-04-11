@@ -1,0 +1,127 @@
+{
+    "title": "Dress by Rachel Roy",
+    "description": "A chic flutter-sleeve plus size option from RACHEL Rachel Roy is styled with a sweeping maxi-length skirt. The mini-dot print adds an on-trend touch.",
+    "referenceId": null,
+    "date_created": "1550114964",
+    "date_modified": "1550115469",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213142",
+    "id": "202765020",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "dress-by-rachel-roy",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2880,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--1920.jpeg?v=1550114999916"
+            },
+            {
+                "width": 1280,
+                "height": 1920,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--1280.jpeg?v=1550114999084"
+            },
+            {
+                "width": 1200,
+                "height": 1800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--1200.jpeg?v=1550114998982"
+            },
+            {
+                "width": 1024,
+                "height": 1536,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--1024.jpeg?v=1550114998384"
+            },
+            {
+                "width": 1080,
+                "height": 1620,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--1080.jpeg?v=1550114998495"
+            },
+            {
+                "width": 960,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--960.jpeg?v=1550114998401"
+            },
+            {
+                "width": 640,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--640.jpeg?v=1550114998083"
+            },
+            {
+                "width": 600,
+                "height": 900,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--600.jpeg?v=1550114998083"
+            },
+            {
+                "width": 256,
+                "height": 384,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-media--256.jpeg?v=1550114999296"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-thumbnail-1920.jpeg?v=1550115001836"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-thumbnail-1280.jpeg?v=1550115001739"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-thumbnail-640.jpeg?v=1550115001698"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-thumbnail-480.jpeg?v=1550115001480"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-thumbnail-256.jpeg?v=1550115001604"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-thumbnail-64.jpeg?v=1550115001393"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/202765020\/image-thumbnail-640.jpeg?v=1550115001698",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

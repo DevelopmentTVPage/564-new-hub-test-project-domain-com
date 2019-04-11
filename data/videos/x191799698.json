@@ -1,0 +1,106 @@
+{
+    "title": "Clinique iD",
+    "description": "Clinique iD comes in 3 different formulas. \nCombo to Dry (Lotion) \nCombo to Oily (Gel)\nAll skin types (Jelly)  \nMy choice is the orange cartridge that helps you revitalize and re energize a (tired) dull skin.  ",
+    "referenceId": "60f97a33282db8974a1e1d9a5ec612dd",
+    "date_created": "1546121991",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213873",
+    "product_category": null,
+    "id": "191799698",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "clinique-id",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 47,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 47,
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": 47,
+        "prettyDuration": "00:00:47",
+        "automaticThumbnailsPattern": "1759121\/191799698\/d1599\/thumb-60f97a33282db8974a1e1d9a5ec612dd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191799698\/user-images\/image-1125-9877f716f56ca1f5aed3812e4c92df25.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/thumb-60f97a33282db8974a1e1d9a5ec612dd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/thumb-60f97a33282db8974a1e1d9a5ec612dd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/thumb-60f97a33282db8974a1e1d9a5ec612dd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/thumb-60f97a33282db8974a1e1d9a5ec612dd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/thumb-60f97a33282db8974a1e1d9a5ec612dd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/thumb-60f97a33282db8974a1e1d9a5ec612dd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191799698\/thumbnail\/image-thumbnail-256-d4c092d61063fd99a684913b161796d4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191799698\/thumbnail\/image-thumbnail-480-96ddcd460bf71f95e8caedb015fd32a3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191799698\/thumbnail\/image-thumbnail-640-e1c769dd05749cc609e7e5a5daea88d8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191799698\/user-images\/image-1125-9877f716f56ca1f5aed3812e4c92df25.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191799698\/thumbnail\/image-thumbnail-640-e1c769dd05749cc609e7e5a5daea88d8.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799698\/d1599\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

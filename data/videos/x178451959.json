@@ -1,0 +1,117 @@
+{
+    "title": "Frye booties",
+    "description": "A girl can never own enough pairs.",
+    "referenceId": "9ff1fe373723d5232626a6bc9e2a73fa",
+    "date_created": "1538099201",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213248",
+    "product_category": "shoes",
+    "id": "178451959",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "frye-booties",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/178451959\/01798\/thumb-9ff1fe373723d5232626a6bc9e2a73fa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178451959\/01798\/thumb-9ff1fe373723d5232626a6bc9e2a73fa-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178451959\/01798\/thumb-9ff1fe373723d5232626a6bc9e2a73fa-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178451959\/01798\/thumb-9ff1fe373723d5232626a6bc9e2a73fa-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178451959\/01798\/thumb-9ff1fe373723d5232626a6bc9e2a73fa-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178451959\/01798\/thumb-9ff1fe373723d5232626a6bc9e2a73fa-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178451959\/01798\/thumb-9ff1fe373723d5232626a6bc9e2a73fa-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178451959\/thumbnail\/image-thumbnail-256-9e02885cb68887eaee6d5e00f53b8981.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178451959\/thumbnail\/image-thumbnail-480-b89dab3f233fa58b97dd28c943d6776a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178451959\/01798\/thumb-9ff1fe373723d5232626a6bc9e2a73fa-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178451959\/thumbnail\/image-thumbnail-480-b89dab3f233fa58b97dd28c943d6776a.jpg",
+        "type": "mp4",
+        "assetId": "178451959",
+        "assetTitle": "7ABC750D-B07E-46CD-A2E4-DA61B6A8A951",
+        "assetTitleTextEncoded": "7abc750d-b07e-46cd-a2e4-da61b6a8a951",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178451959",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178451959\/01798\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178451959\/01798\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178451959\/01798\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178451959\/01798\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178451959\/01798\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178451959\/01798\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178451959\/01798\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,119 @@
+{
+    "title": "SPORTY SPICE - A MUST HAVE ADIDAS LOOK FOR FALL 2018",
+    "description": null,
+    "referenceId": "338ab58109eb7b2c6c990533aef954a4",
+    "date_created": "1543539666",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "active",
+    "id": "184577232",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "sporty-spice-a-must-have-adidas-look-for-fall-2018",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 31,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 31,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 31,
+        "prettyDuration": "00:00:31",
+        "automaticThumbnailsPattern": "1759121\/184577232\/60851\/thumb-338ab58109eb7b2c6c990533aef954a4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184577232\/60851\/thumb-338ab58109eb7b2c6c990533aef954a4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184577232\/60851\/thumb-338ab58109eb7b2c6c990533aef954a4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184577232\/60851\/thumb-338ab58109eb7b2c6c990533aef954a4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184577232\/60851\/thumb-338ab58109eb7b2c6c990533aef954a4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184577232\/60851\/thumb-338ab58109eb7b2c6c990533aef954a4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184577232\/60851\/thumb-338ab58109eb7b2c6c990533aef954a4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184577232\/thumbnail\/image-thumbnail-256-a609efca39197d6f1d2342dd88b5510c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184577232\/thumbnail\/image-thumbnail-480-e5749c24f3175f750486c4e2c808538a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184577232\/thumbnail\/image-thumbnail-640-a078f4fd820b3583c0c989bbad4e24cb.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184577232\/thumbnail\/image-thumbnail-1280-fd2efb7c9045a650a2f51733d14707ed.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184577232\/thumbnail\/image-thumbnail-1920-2b6a5a4cad785dace6c6f671d60ed2c6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184577232\/60851\/thumb-338ab58109eb7b2c6c990533aef954a4-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184577232\/thumbnail\/image-thumbnail-640-a078f4fd820b3583c0c989bbad4e24cb.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/184577232\/60851\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/184577232\/60851\/media.m3u8",
+        "assetId": 184577232,
+        "assetTitle": "SPORTY SPICE - A MUST HAVE ADIDAS LOOK FOR FALL 2018",
+        "assetTitleTextEncoded": "layla-modeling1-full-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184577232,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184577232\/60851\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184577232\/60851\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184577232\/60851\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184577232\/60851\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184577232\/60851\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

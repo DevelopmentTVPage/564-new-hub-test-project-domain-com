@@ -1,0 +1,115 @@
+{
+    "title": "I.N.C. Maxi",
+    "description": "Maxi paired with a denim Jacket",
+    "referenceId": "01a6494632a2cde12311175135210fb9",
+    "date_created": "1538063834",
+    "date_modified": "1546466816",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "178448425",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "i-n-c-maxi",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/178448425\/4a6d6\/thumb-01a6494632a2cde12311175135210fb9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178448425\/user-images\/image-2081-1be6bda3e18763bd0eabdae4af8a282c.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/thumb-01a6494632a2cde12311175135210fb9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/thumb-01a6494632a2cde12311175135210fb9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/thumb-01a6494632a2cde12311175135210fb9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/thumb-01a6494632a2cde12311175135210fb9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/thumb-01a6494632a2cde12311175135210fb9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/thumb-01a6494632a2cde12311175135210fb9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178448425\/thumbnail\/image-thumbnail-256-fd9de2944a15b36cd806ebee9a3b890e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178448425\/thumbnail\/image-thumbnail-480-02cf725c74fcf452910573dbc8833bca.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178448425\/thumbnail\/image-thumbnail-640-79f9c0e1f105c8b3a4d548134e857499.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178448425\/thumbnail\/image-thumbnail-1280-8f2ae28878b5b076c8b281403e1fd3dc.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/178448425\/thumbnail\/image-thumbnail-1920-e2a2363e2c5829166faa49c328cea696.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178448425\/user-images\/image-2081-1be6bda3e18763bd0eabdae4af8a282c.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178448425\/thumbnail\/image-thumbnail-640-79f9c0e1f105c8b3a4d548134e857499.jpg",
+        "type": "mp4",
+        "assetId": "178448425",
+        "assetTitle": "2018-9-27-10-53-50",
+        "assetTitleTextEncoded": "2018-9-27-10-53-50",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178448425",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448425\/4a6d6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

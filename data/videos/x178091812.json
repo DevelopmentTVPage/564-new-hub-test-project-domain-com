@@ -1,0 +1,111 @@
+{
+    "title": "suburban style Natalie off duty",
+    "description": "Fashion",
+    "referenceId": "2eed61d13c692f8c20fc237c9c3e65a0",
+    "date_created": "1537526742",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "72",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": "women",
+    "id": "178091812",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "suburban-style-natalie-off-duty",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "automaticThumbnailsPattern": "1759121\/178091812\/b1064\/thumb-2eed61d13c692f8c20fc237c9c3e65a0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/thumb-2eed61d13c692f8c20fc237c9c3e65a0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/thumb-2eed61d13c692f8c20fc237c9c3e65a0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/thumb-2eed61d13c692f8c20fc237c9c3e65a0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/thumb-2eed61d13c692f8c20fc237c9c3e65a0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/thumb-2eed61d13c692f8c20fc237c9c3e65a0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/thumb-2eed61d13c692f8c20fc237c9c3e65a0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178091812\/thumbnail\/image-thumbnail-256-1581218c16c6e1f7ab04cfbb62aad9dd.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178091812\/thumbnail\/image-thumbnail-480-1fd175c9ad395d0cd1a447647d955b85.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/thumb-2eed61d13c692f8c20fc237c9c3e65a0-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178091812\/thumbnail\/image-thumbnail-480-1fd175c9ad395d0cd1a447647d955b85.jpg",
+        "type": "mp4",
+        "assetId": 178091812,
+        "assetTitle": "suburban style Natalie off duty",
+        "assetTitleTextEncoded": "fbd220a1-ca9d-4c80-86c7-15a1c89f99bb",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178091812,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091812\/b1064\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

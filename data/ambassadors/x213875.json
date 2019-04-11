@@ -1,0 +1,21 @@
+{
+    "id": "213875",
+    "first_name": "Milagros",
+    "last_name": "Roman-perez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/576926386-0.8935931968502.jpg",
+        "job_title": "Esthetician\/MUA"
+    },
+    "last_login_timestamp": "1546549932",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-28 16:09:26",
+    "login_id": "1759121",
+    "user_id": "213875",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Milagros Roman-perez",
+    "profile_picture": "\/api\/canvas\/logo\/576926386-0.8935931968502.jpg",
+    "titleTextEncoded": "milagros-roman-perez",
+    "title": "Milagros Roman-perez",
+    "videos_count": "0"
+}

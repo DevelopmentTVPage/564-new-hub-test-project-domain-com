@@ -1,0 +1,116 @@
+{
+    "title": "THIS JUST IN: Gorgeous plus size faux fur coat",
+    "description": "This beautiful Jones New York burgundy Merlot faux fur jacket just came across my desk today and I am dying over it! The beauty and sophistication of fur is updated with this great color and faux leather Trims. I will be in this piece all season long!",
+    "referenceId": "192f9360bc4c1145fe9f08bfcf829b80",
+    "date_created": "1539014290",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "91",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "179586818",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "this-just-in-gorgeous-plus-size-faux-fur-coat",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 53,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 53,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 53,
+        "prettyDuration": "00:00:53",
+        "automaticThumbnailsPattern": "1759121\/179586818\/33a36\/thumb-192f9360bc4c1145fe9f08bfcf829b80-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/thumb-192f9360bc4c1145fe9f08bfcf829b80-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/thumb-192f9360bc4c1145fe9f08bfcf829b80-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/thumb-192f9360bc4c1145fe9f08bfcf829b80-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/thumb-192f9360bc4c1145fe9f08bfcf829b80-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/thumb-192f9360bc4c1145fe9f08bfcf829b80-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/thumb-192f9360bc4c1145fe9f08bfcf829b80-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179586818\/thumbnail\/image-thumbnail-256-9d88a779ba486d0682472d19b8861eb3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179586818\/thumbnail\/image-thumbnail-480-fdd27f49ca7610e028d31a6330cee518.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179586818\/thumbnail\/image-thumbnail-640-d4fe1c0337440c6428d653d602010b46.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179586818\/thumbnail\/image-thumbnail-1280-b5717f86bd1e1707e4d9d3cabf24ce7b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/thumb-192f9360bc4c1145fe9f08bfcf829b80-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179586818\/thumbnail\/image-thumbnail-640-d4fe1c0337440c6428d653d602010b46.jpg",
+        "type": "mp4",
+        "assetId": 179586818,
+        "assetTitle": "THIS JUST IN: Gorgeous plus size faux fur coat",
+        "assetTitleTextEncoded": "f0d1bc8e-74ff-4b57-8397-0ea6fa8e326b",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 179586818,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179586818\/33a36\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

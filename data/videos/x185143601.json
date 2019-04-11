@@ -1,0 +1,110 @@
+{
+    "title": "For the Slytherin in your life",
+    "description": "A few gift ideas for your favorite sassy serpentine!",
+    "referenceId": "968e1c96c87388aecd77d5cde85c977d",
+    "date_created": "1543900055",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213741",
+    "product_category": "jewelry",
+    "id": "185143601",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "for-the-slytherin-in-your-life",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 9,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 9,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 9,
+        "prettyDuration": "00:00:09",
+        "automaticThumbnailsPattern": "1759121\/185143601\/17d79\/thumb-968e1c96c87388aecd77d5cde85c977d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/thumb-968e1c96c87388aecd77d5cde85c977d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/thumb-968e1c96c87388aecd77d5cde85c977d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/thumb-968e1c96c87388aecd77d5cde85c977d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/thumb-968e1c96c87388aecd77d5cde85c977d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/thumb-968e1c96c87388aecd77d5cde85c977d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185143601\/thumbnail\/image-thumbnail-256-b721a745a78f32a566e53bc8dc172a4c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185143601\/thumbnail\/image-thumbnail-480-b08021c629ab986193149fbccb097f2a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/thumb-968e1c96c87388aecd77d5cde85c977d-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143601\/thumbnail\/image-thumbnail-480-b08021c629ab986193149fbccb097f2a.jpg",
+        "type": "mp4",
+        "assetId": 185143601,
+        "assetTitle": "5614B204-729F-4199-A15E-EDDD4B29F6FB",
+        "assetTitleTextEncoded": "5614b204-729f-4199-a15e-eddd4b29f6fb",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185143601,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143601\/17d79\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

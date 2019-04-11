@@ -1,0 +1,115 @@
+{
+    "title": "Alfani Faux Fur Web. ID 6916580",
+    "description": "Alfani faux fur Web. ID 6916580",
+    "referenceId": "8367d4b0b9b43d5cf602d351fb8de8f7",
+    "date_created": "1542479640",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "183747140",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "alfani-faux-fur-web-id-6916580",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/183747140\/9f395\/thumb-8367d4b0b9b43d5cf602d351fb8de8f7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183747140\/user-images\/image-1960-797c4ecbc3ee1f4694a211362b0b1b0f.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/thumb-8367d4b0b9b43d5cf602d351fb8de8f7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/thumb-8367d4b0b9b43d5cf602d351fb8de8f7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/thumb-8367d4b0b9b43d5cf602d351fb8de8f7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/thumb-8367d4b0b9b43d5cf602d351fb8de8f7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/thumb-8367d4b0b9b43d5cf602d351fb8de8f7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/thumb-8367d4b0b9b43d5cf602d351fb8de8f7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183747140\/thumbnail\/image-thumbnail-256-e0d88db1e427db7f9ed612c028f2aa2a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183747140\/thumbnail\/image-thumbnail-480-4f3db43081d8f4948ad67cd323760baf.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183747140\/thumbnail\/image-thumbnail-640-a34861716edb2dfd0604386f9a3cf825.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183747140\/thumbnail\/image-thumbnail-1280-ec96b0168e608006fa3c4f3f3af0fbcf.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183747140\/thumbnail\/image-thumbnail-1920-33c313f864c10dea3f8098dc01a75f1f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183747140\/user-images\/image-1960-797c4ecbc3ee1f4694a211362b0b1b0f.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183747140\/thumbnail\/image-thumbnail-640-a34861716edb2dfd0604386f9a3cf825.jpg",
+        "type": "mp4",
+        "assetId": 183747140,
+        "assetTitle": "Alfani faux fur Web. ID 6916580",
+        "assetTitleTextEncoded": "2018-11-17-11-52-35",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183747140,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747140\/9f395\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

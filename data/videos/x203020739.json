@@ -1,0 +1,100 @@
+{
+    "title": "Macy’s Style Crew Macy’s West County Vanity Fair Fit Event Friday February 15, 2019 11-3",
+    "description": "Macys West County is having a Vanity Fair Fit Event Friday February 15 from 11-3.\nVanity Fair bras",
+    "referenceId": "4dd21dc7bb02851d5dca00b919526828",
+    "date_created": "1550195344",
+    "date_modified": "1550196050",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": null,
+    "id": "203020739",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-macys-west-county-vanity-fair-fit-event-friday-february-15-2019-11-3",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 68,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 68,
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": 68,
+        "prettyDuration": "00:01:08",
+        "automaticThumbnailsPattern": "1759121\/203020739\/b1054\/thumb-4dd21dc7bb02851d5dca00b919526828-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/thumb-4dd21dc7bb02851d5dca00b919526828-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/thumb-4dd21dc7bb02851d5dca00b919526828-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/thumb-4dd21dc7bb02851d5dca00b919526828-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/thumb-4dd21dc7bb02851d5dca00b919526828-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/thumb-4dd21dc7bb02851d5dca00b919526828-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/thumb-4dd21dc7bb02851d5dca00b919526828-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203020739\/thumbnail\/image-thumbnail-256-3d5191f8a1c116747430283f4d30a8a9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203020739\/thumbnail\/image-thumbnail-480-78aa638006073af74c72dc25f28b5443.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/thumb-4dd21dc7bb02851d5dca00b919526828-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203020739\/thumbnail\/image-thumbnail-480-78aa638006073af74c72dc25f28b5443.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203020739\/b1054\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

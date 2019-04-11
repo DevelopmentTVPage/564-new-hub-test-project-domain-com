@@ -1,0 +1,85 @@
+{
+    "title": "Fall Fashion - Jean Jackets",
+    "description": "The latest in fall fashion has jean jackets back in the mix.",
+    "referenceId": null,
+    "date_created": "1542060728",
+    "date_modified": "1546466827",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "632",
+    "id": "183293772",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "fall-fashion-jean-jackets",
+    "linkUrl": null,
+    "category": "Men",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 960,
+                "height": 536,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-media--960.jpeg?v=1542060732847"
+            },
+            {
+                "width": 640,
+                "height": 357,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-media--640.jpeg?v=1542060732826"
+            },
+            {
+                "width": 600,
+                "height": 335,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-media--600.jpeg?v=1542060732840"
+            },
+            {
+                "width": 256,
+                "height": 143,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-media--256.jpeg?v=1542060732815"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-thumbnail-640.jpeg?v=1542060733192"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-thumbnail-480.jpeg?v=1542060733206"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-thumbnail-256.jpeg?v=1542060733152"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-thumbnail-64.jpeg?v=1542060733132"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183293772\/image-thumbnail-640.jpeg?v=1542060733192",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

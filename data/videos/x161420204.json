@@ -1,0 +1,99 @@
+{
+    "title": "Skincare Series - Post 2 of 3",
+    "description": "Kenneth shows us a skincare routine",
+    "referenceId": "ce7ec5d1522bf1e0b78c5d87422de9e2",
+    "date_created": "1524077454",
+    "date_modified": "1546466765",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "161420204",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "skincare-series-post-2-of-3",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "60",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420204\/thumbnail\/image-thumbnail-640-e10da77290d95df32538a31227e44f40.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161420204\/01ceb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161420204\/01ceb\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420204\/01ceb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420204\/01ceb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420204\/01ceb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420204\/01ceb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420204\/01ceb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/161420204\/user-images\/image-1920-05ae5e33aaf765cac9c2369911a254c6.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420204\/user-images\/image-1920-05ae5e33aaf765cac9c2369911a254c6.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/161420204\/thumbnail\/image-thumbnail-256-452c4acc6da5bde9f5ea60e3710fae22.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/161420204\/thumbnail\/image-thumbnail-480-d53ca21419d71b4dd38305c83aee01de.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/161420204\/thumbnail\/image-thumbnail-640-e10da77290d95df32538a31227e44f40.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/161420204\/thumbnail\/image-thumbnail-1280-2a575a1fac0028ccb8c7abd5f0522926.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/161420204\/thumbnail\/image-thumbnail-1920-116db30b837ba53d2911d0a92f441c49.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

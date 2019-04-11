@@ -1,0 +1,113 @@
+{
+    "title": "Christmas Make-Up Tutorial",
+    "description": "For this make-up look, I wanted to do something different for you guys and give two options. I started off with the basics:\n\nPrimer (Smashbox Photo Finish)\nFoundation (Benefit Hello Fawless)\nConcealer (Diorskin Forever Undercover)\nBronzer (Benefit Hoola) or (Hoola Light)\nBlush (Benefit Galifornia)\nBrows (Anastasia Brow Gel) or (Benefit Gimme Brow)\nLashes (Smashbox Lash Primer)\nMascara (Benefit Bang Bad Gal) & (Too-Faced Better Than Sex)\n\nAfter, I start on my left side to complete my first look. From there you continue your basic \"Shopping for a Christmas Tree\" look, which leaves you with only one product to apply:\n\nHighlight (Dior Skin Nude  Air Luminizer)\nSetting Spray (Urban Decay All-Nighter)\n\nLastly, I finish off my second look, \"Christmas Party\" with: \n\nEyeshadow (Inner-White, Middle-Green, Outer-Red)\nHighlight (Anastasia Moonchild)\nSetting Spray (Urban Decay All-Nighter)",
+    "referenceId": "af07bafffefe45a0bda5db79eef0e199",
+    "date_created": "1541918125",
+    "date_modified": "1546466789",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213707",
+    "product_category": "beauty",
+    "id": "183263112",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "christmas-make-up-tutorial",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 789,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 789,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 789,
+        "prettyDuration": "00:13:09",
+        "automaticThumbnailsPattern": "1759121\/183263112\/be97f\/thumb-af07bafffefe45a0bda5db79eef0e199-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/thumb-af07bafffefe45a0bda5db79eef0e199-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/thumb-af07bafffefe45a0bda5db79eef0e199-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/thumb-af07bafffefe45a0bda5db79eef0e199-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/thumb-af07bafffefe45a0bda5db79eef0e199-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/thumb-af07bafffefe45a0bda5db79eef0e199-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/thumb-af07bafffefe45a0bda5db79eef0e199-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183263112\/thumbnail\/image-thumbnail-256-adef7eaa467b5bd8be4acde095083c00.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183263112\/thumbnail\/image-thumbnail-480-350b38708b54165a43d71a2aa070cb03.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183263112\/thumbnail\/image-thumbnail-640-0ce17a84aa13d1a5030037c6d96ac73e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183263112\/thumbnail\/image-thumbnail-1280-f4e0a472b8674542d64424eae70964c9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/thumb-af07bafffefe45a0bda5db79eef0e199-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183263112\/thumbnail\/image-thumbnail-640-0ce17a84aa13d1a5030037c6d96ac73e.jpg",
+        "type": "mp4",
+        "assetId": 183263112,
+        "assetTitle": "Christmas Make-Up Tutorial",
+        "assetTitleTextEncoded": "x-mas-make-up-tutorial",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183263112,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183263112\/be97f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

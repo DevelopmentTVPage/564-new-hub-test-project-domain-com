@@ -1,0 +1,116 @@
+{
+    "title": "15% off Beauty\/Fragrance during Friends & Family",
+    "description": "What could be better than FF beginning on 11\/29?? 15% OFF Beauty & Fragrance!!",
+    "referenceId": "f9c2b91cd4d0fb8685c74f27b5339481",
+    "date_created": "1543337271",
+    "date_modified": "1546466794",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "49",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "5",
+    "video_type": null,
+    "user_id": "213750",
+    "product_category": "beauty",
+    "id": "184348760",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "15-off-beauty-fragrance-during-friends-family",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/184348760\/c88fe\/thumb-f9c2b91cd4d0fb8685c74f27b5339481-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/thumb-f9c2b91cd4d0fb8685c74f27b5339481-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/thumb-f9c2b91cd4d0fb8685c74f27b5339481-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/thumb-f9c2b91cd4d0fb8685c74f27b5339481-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/thumb-f9c2b91cd4d0fb8685c74f27b5339481-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/thumb-f9c2b91cd4d0fb8685c74f27b5339481-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/thumb-f9c2b91cd4d0fb8685c74f27b5339481-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184348760\/thumbnail\/image-thumbnail-256-9bf894a9d025becd8a3821ebfa550c7e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184348760\/thumbnail\/image-thumbnail-480-0e229afdd34aa24a6fdf68b2bd0555f9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/thumb-f9c2b91cd4d0fb8685c74f27b5339481-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184348760\/thumbnail\/image-thumbnail-480-0e229afdd34aa24a6fdf68b2bd0555f9.jpg",
+        "type": "mp4",
+        "assetId": 184348760,
+        "assetTitle": "0D7D1317-0E41-4D8B-84DD-97E01909A104",
+        "assetTitleTextEncoded": "0d7d1317-0e41-4d8b-84dd-97e01909a104",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184348760,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348760\/c88fe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
