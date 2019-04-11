@@ -1,0 +1,104 @@
+{
+    "title": "#firsttake",
+    "description": null,
+    "referenceId": "5583547d7c3cda5cdf0ffce3222b084b",
+    "date_created": "1547942071",
+    "date_modified": "1547964625",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "64",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "198712358",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "firsttake",
+    "category": "#firsttake  ",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 174,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 174,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 174,
+        "prettyDuration": "00:02:54",
+        "automaticThumbnailsPattern": "1759121\/198712358\/4dcd0\/thumb-5583547d7c3cda5cdf0ffce3222b084b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/thumb-5583547d7c3cda5cdf0ffce3222b084b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/thumb-5583547d7c3cda5cdf0ffce3222b084b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/thumb-5583547d7c3cda5cdf0ffce3222b084b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/thumb-5583547d7c3cda5cdf0ffce3222b084b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/thumb-5583547d7c3cda5cdf0ffce3222b084b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/thumb-5583547d7c3cda5cdf0ffce3222b084b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198712358\/thumbnail\/image-thumbnail-256-9bf76e51b81e1abaac135153dada669a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/198712358\/thumbnail\/image-thumbnail-480-35e87ba32e49fa219d07c3bb74880d0b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/198712358\/thumbnail\/image-thumbnail-640-0520ed181d2435429f6da6f0bc131f13.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/198712358\/thumbnail\/image-thumbnail-1280-4e1b4f8f43c519efecb434bede0d3687.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/thumb-5583547d7c3cda5cdf0ffce3222b084b-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198712358\/thumbnail\/image-thumbnail-640-0520ed181d2435429f6da6f0bc131f13.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712358\/4dcd0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

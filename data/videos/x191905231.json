@@ -1,0 +1,105 @@
+{
+    "title": "New Year's Eve Makeup",
+    "description": "Contemplating your New Year's Eve makeup look? Me too! Too Faced cosmetics is always a great choice for shimmering eye colors, and top it off with some Lancome mascara that will make your eyes pop! NYX has great eye liner and lip colors that will make you stand out in a crowd. Throw some MAC blush and glitter on and you are good to go!",
+    "referenceId": "3dca931e35498ed93650021c2e4c070c",
+    "date_created": "1546139770",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "201",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": null,
+    "id": "191905231",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "new-years-eve-makeup",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/191905231\/28932\/thumb-3dca931e35498ed93650021c2e4c070c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191905231\/28932\/thumb-3dca931e35498ed93650021c2e4c070c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191905231\/28932\/thumb-3dca931e35498ed93650021c2e4c070c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191905231\/28932\/thumb-3dca931e35498ed93650021c2e4c070c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191905231\/28932\/thumb-3dca931e35498ed93650021c2e4c070c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191905231\/28932\/thumb-3dca931e35498ed93650021c2e4c070c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191905231\/28932\/thumb-3dca931e35498ed93650021c2e4c070c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191905231\/thumbnail\/image-thumbnail-256-4048418426050c2d3b0e27e19b56c374.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191905231\/thumbnail\/image-thumbnail-480-c740fcc87f0c82ac1d126dbbacf93dda.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191905231\/thumbnail\/image-thumbnail-640-a652df2535b5d7a5860cf9268d77114b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/191905231\/thumbnail\/image-thumbnail-1280-b098ff48a7a8deb661dac3e92ead8007.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/191905231\/thumbnail\/image-thumbnail-1920-6500a94c0dd7c4dd9dc417ce3b090e43.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191905231\/28932\/thumb-3dca931e35498ed93650021c2e4c070c-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191905231\/thumbnail\/image-thumbnail-640-a652df2535b5d7a5860cf9268d77114b.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191905231\/28932\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191905231\/28932\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191905231\/28932\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191905231\/28932\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191905231\/28932\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

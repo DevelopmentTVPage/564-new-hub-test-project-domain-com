@@ -1,0 +1,110 @@
+{
+    "title": "Stripe it Green!",
+    "description": "INC Dress- Material Girl Shoes -Michael Kors",
+    "referenceId": "abee607efe35e74a0407df08480a7549",
+    "date_created": "1537614524",
+    "date_modified": "1546466812",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213303",
+    "product_category": "women",
+    "id": "178188523",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "stripe-it-green",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "9",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "9",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "9",
+        "prettyDuration": "00:00:09",
+        "automaticThumbnailsPattern": "1759121\/178188523\/a4597\/thumb-abee607efe35e74a0407df08480a7549-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/thumb-abee607efe35e74a0407df08480a7549-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/thumb-abee607efe35e74a0407df08480a7549-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/thumb-abee607efe35e74a0407df08480a7549-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/thumb-abee607efe35e74a0407df08480a7549-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/thumb-abee607efe35e74a0407df08480a7549-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178188523\/thumbnail\/image-thumbnail-256-fa16701e5c61f295b2d28071cf1e2a55.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178188523\/thumbnail\/image-thumbnail-480-61a4adaa0c7f48e6a79166ac50b7a68d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/thumb-abee607efe35e74a0407df08480a7549-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178188523\/thumbnail\/image-thumbnail-480-61a4adaa0c7f48e6a79166ac50b7a68d.jpg",
+        "type": "mp4",
+        "assetId": 178188523,
+        "assetTitle": "Stripe it Green!",
+        "assetTitleTextEncoded": "2aab8135-5201-48c4-ad1a-ac5988df4c80",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178188523,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178188523\/a4597\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

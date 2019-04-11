@@ -1,0 +1,21 @@
+{
+    "id": "214027",
+    "first_name": "Karen",
+    "last_name": "Young",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Macy's My Stylist"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-13 22:35:18",
+    "login_id": "1759121",
+    "user_id": "214027",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Karen Young",
+    "profile_picture": null,
+    "titleTextEncoded": "karen-young",
+    "title": "Karen Young",
+    "videos_count": "0"
+}

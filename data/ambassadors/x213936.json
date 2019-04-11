@@ -1,0 +1,21 @@
+{
+    "id": "213936",
+    "first_name": "Carolyn",
+    "last_name": "Hoffer",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/552432638-0.6477355541661.jpg",
+        "job_title": "Manager, Compensation"
+    },
+    "last_login_timestamp": "1550073318",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-28 22:05:46",
+    "login_id": "1759121",
+    "user_id": "213936",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Carolyn Hoffer",
+    "profile_picture": "\/api\/canvas\/logo\/552432638-0.6477355541661.jpg",
+    "titleTextEncoded": "carolyn-hoffer",
+    "title": "Carolyn Hoffer",
+    "videos_count": "2"
+}

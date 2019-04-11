@@ -1,0 +1,127 @@
+{
+    "title": "Prada",
+    "description": "Prada Sunglasses here at Macy's",
+    "referenceId": null,
+    "date_created": "1550015887",
+    "date_modified": "1550077860",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213722",
+    "id": "202639229",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "prada",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1722,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--1920.jpeg?v=1550015896755"
+            },
+            {
+                "width": 1280,
+                "height": 1148,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--1280.jpeg?v=1550015896622"
+            },
+            {
+                "width": 1200,
+                "height": 1076,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--1200.jpeg?v=1550015896606"
+            },
+            {
+                "width": 1024,
+                "height": 918,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--1024.jpeg?v=1550015897111"
+            },
+            {
+                "width": 1080,
+                "height": 968,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--1080.jpeg?v=1550015896576"
+            },
+            {
+                "width": 960,
+                "height": 861,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--960.jpeg?v=1550015897076"
+            },
+            {
+                "width": 640,
+                "height": 574,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--640.jpeg?v=1550015897089"
+            },
+            {
+                "width": 600,
+                "height": 538,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--600.jpeg?v=1550015897617"
+            },
+            {
+                "width": 256,
+                "height": 229,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-media--256.jpeg?v=1550015897749"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-thumbnail-1920.jpeg?v=1550015898035"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-thumbnail-1280.jpeg?v=1550015897948"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-thumbnail-640.jpeg?v=1550015898048"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-thumbnail-480.jpeg?v=1550015897862"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-thumbnail-256.jpeg?v=1550015897850"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-thumbnail-64.jpeg?v=1550015897914"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639229\/image-thumbnail-640.jpeg?v=1550015898048",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

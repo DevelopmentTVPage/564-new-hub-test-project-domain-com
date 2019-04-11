@@ -1,0 +1,127 @@
+{
+    "title": "MOSCHINO toy 2",
+    "description": "Toy 2, the new women's fragrance by Moschino. The iconic Moschino teddy bear is here! The sparkling top notes of mandarin orange and Granny Smith apple combined with delicate floral notes enhanced by amber wood and sandalwood add radiance and softness to the new Toy 2 scent.\nTop Notes: Mandarin Orange, Granny Smith Apple\nMiddle Notes: Magnolia, Jasmine Petals, Peony, White Currant\nBottom Notes: Musk, Sandalwood, Ambery Woods\nA fresh, floral, musk fragrance\n\n",
+    "referenceId": null,
+    "date_created": "1550405715",
+    "date_modified": "1550405804",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213728",
+    "id": "203667415",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "moschino-toy-2",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3000,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--1920.jpeg?v=1550405758213"
+            },
+            {
+                "width": 1280,
+                "height": 2000,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--1280.jpeg?v=1550405755926"
+            },
+            {
+                "width": 1200,
+                "height": 1875,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--1200.jpeg?v=1550405755814"
+            },
+            {
+                "width": 1024,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--1024.jpeg?v=1550405755511"
+            },
+            {
+                "width": 1080,
+                "height": 1688,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--1080.jpeg?v=1550405756024"
+            },
+            {
+                "width": 960,
+                "height": 1500,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--960.jpeg?v=1550405755318"
+            },
+            {
+                "width": 640,
+                "height": 1000,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--640.jpeg?v=1550405754794"
+            },
+            {
+                "width": 600,
+                "height": 937,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--600.jpeg?v=1550405755095"
+            },
+            {
+                "width": 256,
+                "height": 400,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-media--256.jpeg?v=1550405757929"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-thumbnail-1920.jpeg?v=1550405760565"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-thumbnail-1280.jpeg?v=1550405760497"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-thumbnail-640.jpeg?v=1550405760305"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-thumbnail-480.jpeg?v=1550405760322"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-thumbnail-256.jpeg?v=1550405760321"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-thumbnail-64.jpeg?v=1550405760400"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667415\/image-thumbnail-640.jpeg?v=1550405760305",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

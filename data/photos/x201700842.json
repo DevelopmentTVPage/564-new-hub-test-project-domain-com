@@ -1,0 +1,127 @@
+{
+    "title": "Valentines Fragrances",
+    "description": "Si Passione by Giorgio Armani",
+    "referenceId": null,
+    "date_created": "1549598384",
+    "date_modified": "1549598531",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213287",
+    "id": "201700842",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "valentines-fragrances",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1447,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--1920.jpeg?v=1549598397929"
+            },
+            {
+                "width": 1280,
+                "height": 964,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--1280.jpeg?v=1549598398083"
+            },
+            {
+                "width": 1200,
+                "height": 904,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--1200.jpeg?v=1549598398082"
+            },
+            {
+                "width": 1024,
+                "height": 771,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--1024.jpeg?v=1549598398328"
+            },
+            {
+                "width": 1080,
+                "height": 813,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--1080.jpeg?v=1549598397805"
+            },
+            {
+                "width": 960,
+                "height": 723,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--960.jpeg?v=1549598398054"
+            },
+            {
+                "width": 640,
+                "height": 482,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--640.jpeg?v=1549598397770"
+            },
+            {
+                "width": 600,
+                "height": 452,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--600.jpeg?v=1549598397767"
+            },
+            {
+                "width": 256,
+                "height": 192,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-media--256.jpeg?v=1549598397897"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-thumbnail-1920.jpeg?v=1549598398731"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-thumbnail-1280.jpeg?v=1549598398654"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-thumbnail-640.jpeg?v=1549598398625"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-thumbnail-480.jpeg?v=1549598398609"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-thumbnail-256.jpeg?v=1549598398706"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-thumbnail-64.jpeg?v=1549598398739"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201700842\/image-thumbnail-640.jpeg?v=1549598398625",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

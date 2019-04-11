@@ -1,0 +1,105 @@
+{
+    "title": "Renew. REFRESH. R E S E T",
+    "description": "Time to renew and refresh your workout gear and Macy's has you covered from head to toe.  Did you know that Macy's sells Apple products like watches and airpods?  Those are a must for my workouts.  I NEED music and I like tracking my workout with my watch.  Of course we sell tops, leggings, and shoes.  What brand is my favorite?  I really like them all, Adidas, Under Armour, Nike, Ideology - only at Macy's.  I've tagged my outfit and a few other favs!  ",
+    "referenceId": "dc3361b47dbc81a763e77722887c9b6f",
+    "date_created": "1546954251",
+    "date_modified": "1546956423",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": null,
+    "id": "196757769",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-refresh-r-e-s-e-t",
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/196757769\/2d9a7\/thumb-dc3361b47dbc81a763e77722887c9b6f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/thumb-dc3361b47dbc81a763e77722887c9b6f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/thumb-dc3361b47dbc81a763e77722887c9b6f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/thumb-dc3361b47dbc81a763e77722887c9b6f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/thumb-dc3361b47dbc81a763e77722887c9b6f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/thumb-dc3361b47dbc81a763e77722887c9b6f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/thumb-dc3361b47dbc81a763e77722887c9b6f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/196757769\/thumbnail\/image-thumbnail-256-34cb1379125885683a8c8d6cd11acdf1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/196757769\/thumbnail\/image-thumbnail-480-a3abab943196451962ccacfa9cc1a730.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/196757769\/thumbnail\/image-thumbnail-640-d63abcf0ed16b49bab73f7b0fb2ab7e3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/thumb-dc3361b47dbc81a763e77722887c9b6f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/196757769\/thumbnail\/image-thumbnail-640-d63abcf0ed16b49bab73f7b0fb2ab7e3.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757769\/2d9a7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

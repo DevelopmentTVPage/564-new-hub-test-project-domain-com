@@ -1,0 +1,116 @@
+{
+    "title": "Plus size fall must haves! Fall florals that feel fresh!",
+    "description": "This season florals take on a whole new attitude and are amazing mixed back to this falls trendiest items including the menswear jacket. Check out some of my favorite picks from Macy’s plus size fashion collections to stay on trend all season long.",
+    "referenceId": "d32da5aedd224fd71c4268eb6f22f1fd",
+    "date_created": "1537726947",
+    "date_modified": "1546466788",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "100",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "10",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "178244267",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "plus-size-fall-must-haves-fall-florals-that-feel-fresh",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "181",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "181",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "181",
+        "prettyDuration": "00:03:01",
+        "automaticThumbnailsPattern": "1759121\/178244267\/93d45\/thumb-d32da5aedd224fd71c4268eb6f22f1fd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/thumb-d32da5aedd224fd71c4268eb6f22f1fd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/thumb-d32da5aedd224fd71c4268eb6f22f1fd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/thumb-d32da5aedd224fd71c4268eb6f22f1fd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/thumb-d32da5aedd224fd71c4268eb6f22f1fd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/thumb-d32da5aedd224fd71c4268eb6f22f1fd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/thumb-d32da5aedd224fd71c4268eb6f22f1fd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178244267\/thumbnail\/image-thumbnail-256-e6d36e6a05dbe4dc99669e639bb346c6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178244267\/thumbnail\/image-thumbnail-480-4d2910b69844dfe7f108f1bc4e3f9db4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178244267\/thumbnail\/image-thumbnail-640-3a6788b9bca5f4e08e02de8e7b426417.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178244267\/thumbnail\/image-thumbnail-1280-cf7a68dc5d67278c0883178e116f2171.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/thumb-d32da5aedd224fd71c4268eb6f22f1fd-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178244267\/thumbnail\/image-thumbnail-640-3a6788b9bca5f4e08e02de8e7b426417.jpg",
+        "type": "mp4",
+        "assetId": "178244267",
+        "assetTitle": "Plus size fall must haves! Fall florals that feel fresh!",
+        "assetTitleTextEncoded": "2bc5f16a-ed30-4cce-a9ba-649cf018a55c",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178244267",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244267\/93d45\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

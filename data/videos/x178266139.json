@@ -1,0 +1,111 @@
+{
+    "title": "INSPRNY x natalieoffduty - Collection",
+    "description": "Hi guys! I'm excited to announce that I am now a part of the Macy's Style Crew. I will be styling looks and posting content with Macy's fashion. Look out for more to come! Here is blogger natalieoffduty's new collaboration with INSPRNY for Market at Macy's. There are some amazing pieces in this collection. Check it out linked in this video!",
+    "referenceId": "b6c7f21e3c9acb9382d1fd7eab967087",
+    "date_created": "1537808461",
+    "date_modified": "1546466788",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213321",
+    "product_category": "women",
+    "id": "178266139",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "insprny-x-natalieoffduty-collection",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "11",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "11",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/178266139\/3b33a\/thumb-b6c7f21e3c9acb9382d1fd7eab967087-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/thumb-b6c7f21e3c9acb9382d1fd7eab967087-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/thumb-b6c7f21e3c9acb9382d1fd7eab967087-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/thumb-b6c7f21e3c9acb9382d1fd7eab967087-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/thumb-b6c7f21e3c9acb9382d1fd7eab967087-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/thumb-b6c7f21e3c9acb9382d1fd7eab967087-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/thumb-b6c7f21e3c9acb9382d1fd7eab967087-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178266139\/thumbnail\/image-thumbnail-256-6e1139daa320f755a084ee9ed8429055.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178266139\/thumbnail\/image-thumbnail-480-d3ec101e5979595257ab801b3fb183ca.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/thumb-b6c7f21e3c9acb9382d1fd7eab967087-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266139\/thumbnail\/image-thumbnail-480-d3ec101e5979595257ab801b3fb183ca.jpg",
+        "type": "mp4",
+        "assetId": "178266139",
+        "assetTitle": "INSPRNY x natalieoffduty Collection",
+        "assetTitleTextEncoded": "5c334d59-e4f7-481f-a55b-a25c2acde0f4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178266139",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266139\/3b33a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

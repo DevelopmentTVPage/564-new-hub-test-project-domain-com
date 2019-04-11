@@ -1,0 +1,21 @@
+{
+    "id": "213721",
+    "first_name": "JoLinda",
+    "last_name": "Rhodes",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/802950772-0.2018313673790.jpg",
+        "job_title": "Assistant Buyer "
+    },
+    "last_login_timestamp": "1541183297",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 15:55:42",
+    "login_id": "1759121",
+    "user_id": "213721",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "JoLinda Rhodes",
+    "profile_picture": "\/api\/canvas\/logo\/802950772-0.2018313673790.jpg",
+    "titleTextEncoded": "jolinda-rhodes",
+    "title": "JoLinda Rhodes",
+    "videos_count": "0"
+}

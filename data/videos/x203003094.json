@@ -1,0 +1,98 @@
+{
+    "title": "Happy Feet in the Ultra Sneaker",
+    "description": " @calvinklein the ultra sneaker #calvinkleinsneakers WebID 7117111 Wearing #knitandfauxleather and this lux flyaway #fauxsuedejacket in Color:  Chipmunk  WebID 7888131 by #bariii  @vincecamuto #ridingboots #macysstylecre",
+    "referenceId": "e6fa615d2e5dc6527e5aabf3596b917d",
+    "date_created": "1550173982",
+    "date_modified": "1550174148",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213144",
+    "product_category": null,
+    "id": "203003094",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "happy-feet-in-the-ultra-sneaker",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "6",
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/203003094\/b6764\/thumb-e6fa615d2e5dc6527e5aabf3596b917d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/thumb-e6fa615d2e5dc6527e5aabf3596b917d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/thumb-e6fa615d2e5dc6527e5aabf3596b917d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/thumb-e6fa615d2e5dc6527e5aabf3596b917d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203003094\/thumbnail\/image-thumbnail-256-8251acd8e984f68ae67025dc48860c89.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203003094\/b6764\/thumb-e6fa615d2e5dc6527e5aabf3596b917d-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203003094\/thumbnail\/image-thumbnail-256-8251acd8e984f68ae67025dc48860c89.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

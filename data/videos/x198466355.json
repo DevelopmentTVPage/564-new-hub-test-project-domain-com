@@ -1,0 +1,102 @@
+{
+    "title": "I.N.C. Mixed-Materials Faux-Fur Jacket",
+    "description": "Faux Fur makes me feel more beautiful.",
+    "referenceId": "afdc5cea6007a1a8fb71bd853f354e55",
+    "date_created": "1547759195",
+    "date_modified": "1547829510",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213731",
+    "product_category": null,
+    "id": "198466355",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "i-n-c-mixed-materials-faux-fur-jacket",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/198466355\/55464\/thumb-afdc5cea6007a1a8fb71bd853f354e55-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198466355\/55464\/thumb-afdc5cea6007a1a8fb71bd853f354e55-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198466355\/55464\/thumb-afdc5cea6007a1a8fb71bd853f354e55-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198466355\/55464\/thumb-afdc5cea6007a1a8fb71bd853f354e55-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198466355\/thumbnail\/image-thumbnail-256-18a4984b2c2ac6e8f77494959006046e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/198466355\/thumbnail\/image-thumbnail-480-403d97420664119b3545a51d4d2bafe7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198466355\/55464\/thumb-afdc5cea6007a1a8fb71bd853f354e55-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198466355\/thumbnail\/image-thumbnail-480-403d97420664119b3545a51d4d2bafe7.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/198466355\/55464\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/198466355\/55464\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466355\/55464\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466355\/55464\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466355\/55464\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466355\/55464\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198466355\/55464\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-23"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

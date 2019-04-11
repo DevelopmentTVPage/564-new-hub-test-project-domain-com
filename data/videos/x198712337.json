@@ -1,0 +1,102 @@
+{
+    "title": "Kiehl's Rare Earth Masque - YOU NEED THIS!",
+    "description": "I originally bought this mask to be used as ... a mask (obviously) but after waking up the other day with the most painful breakout under my chin imaginable, I thought \"if this can deep clean pores and remove toxins\/debris, maybe it can be used as a spot treatment, too?\" so I tried it and let. me. tell. you. the next morning the breakout was so much smaller, less red, and sooo much less painful. After two nights using it as a treatment, the breakout is basically gone. I'm seriously so happy I figured this out. If you're looking for a product that you can easily turn into a 2 in 1, BUY THIS!",
+    "referenceId": "a4bf81195635c95090f4e19ef38f7c9e",
+    "date_created": "1547928871",
+    "date_modified": "1547929173",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213214",
+    "product_category": null,
+    "id": "198712337",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "kiehls-rare-earth-masque-you-need-this",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 63,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 63,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 63,
+        "prettyDuration": "00:01:03",
+        "automaticThumbnailsPattern": "1759121\/198712337\/18c3e\/thumb-a4bf81195635c95090f4e19ef38f7c9e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/thumb-a4bf81195635c95090f4e19ef38f7c9e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/thumb-a4bf81195635c95090f4e19ef38f7c9e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/thumb-a4bf81195635c95090f4e19ef38f7c9e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/thumb-a4bf81195635c95090f4e19ef38f7c9e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/thumb-a4bf81195635c95090f4e19ef38f7c9e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/thumb-a4bf81195635c95090f4e19ef38f7c9e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198712337\/thumbnail\/image-thumbnail-256-809d7d8401ef321974a1bce5ad30d631.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/198712337\/thumbnail\/image-thumbnail-480-79c88b273362e4092b86f9d7980dcd37.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/thumb-a4bf81195635c95090f4e19ef38f7c9e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198712337\/thumbnail\/image-thumbnail-480-79c88b273362e4092b86f9d7980dcd37.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198712337\/18c3e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

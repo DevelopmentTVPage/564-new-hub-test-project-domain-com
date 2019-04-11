@@ -1,0 +1,101 @@
+{
+    "title": "Must have",
+    "description": "Cliniques take the day off makeup remover for the lips , lids and lashes is a staple in my skin care routine. Even aftw cleansing the skin residue and debris hangs out on your lashes . This product gets every last speck off without hurting your eyes! #musthave #macysbeauty #macysstylecrew #teamcliniqueNa ",
+    "referenceId": "ab4296bab0430005422c7850c2e0dbc8",
+    "date_created": "1548186014",
+    "date_modified": "1548186323",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213871",
+    "product_category": null,
+    "id": "199133393",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "must-have",
+    "category": "Cliniques take the day off makeup remover for the lips , lids and lashes is a staple in my skin care routine. Even aftw cleansing the skin residue and debris hangs out on your lashes . This product gets every last speck off without hurting your eyes! #musthave #macysbeauty #macysstylecrew #teamcliniqueNa ",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 558,
+            "height": 1080
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/199133393\/76f7d\/thumb-ab4296bab0430005422c7850c2e0dbc8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/thumb-ab4296bab0430005422c7850c2e0dbc8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/thumb-ab4296bab0430005422c7850c2e0dbc8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/thumb-ab4296bab0430005422c7850c2e0dbc8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/thumb-ab4296bab0430005422c7850c2e0dbc8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/thumb-ab4296bab0430005422c7850c2e0dbc8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199133393\/thumbnail\/image-thumbnail-256-52ec72ed15aa69e51892261e38d6ddeb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199133393\/thumbnail\/image-thumbnail-480-da7e4137a4b05ded22834b5a91dd3fa2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/thumb-ab4296bab0430005422c7850c2e0dbc8-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199133393\/thumbnail\/image-thumbnail-480-da7e4137a4b05ded22834b5a91dd3fa2.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 558,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 372,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 248,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 186,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199133393\/76f7d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 124,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

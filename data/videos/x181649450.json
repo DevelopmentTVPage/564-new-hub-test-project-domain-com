@@ -1,0 +1,117 @@
+{
+    "title": "World Series: Boston Red Sox",
+    "description": "Boston Red Sox won the 2018 World Series.",
+    "referenceId": "0c36f4a7a7003f4519b4119e0ea7a94f",
+    "date_created": "1541134578",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213700",
+    "product_category": "active",
+    "id": "181649450",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "world-series-boston-red-sox",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 23,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 23,
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/181649450\/bdf3f\/thumb-0c36f4a7a7003f4519b4119e0ea7a94f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181649450\/user-images\/image-1280-f02cdb7548045ee1e2e0ffb153f72bd6.jpg",
+            "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/thumb-0c36f4a7a7003f4519b4119e0ea7a94f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/thumb-0c36f4a7a7003f4519b4119e0ea7a94f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/thumb-0c36f4a7a7003f4519b4119e0ea7a94f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/thumb-0c36f4a7a7003f4519b4119e0ea7a94f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/thumb-0c36f4a7a7003f4519b4119e0ea7a94f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/thumb-0c36f4a7a7003f4519b4119e0ea7a94f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181649450\/thumbnail\/image-thumbnail-256-b6460213f22ba28dd4d26cc34a58a789.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181649450\/thumbnail\/image-thumbnail-480-733a24c7b64a415417ef184eddf6a03e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181649450\/thumbnail\/image-thumbnail-640-c3256b1f473a20485fb657b3a9d67b39.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181649450\/thumbnail\/image-thumbnail-1280-5ecbf55ec2096c77b7fda13b58bc6d09.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181649450\/user-images\/image-1280-f02cdb7548045ee1e2e0ffb153f72bd6.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181649450\/thumbnail\/image-thumbnail-640-c3256b1f473a20485fb657b3a9d67b39.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/media.m3u8",
+        "uploadAsset": false,
+        "assetId": 181649450,
+        "assetTitle": "World Series: Boston Red Sox",
+        "assetTitleTextEncoded": "61c85414-c3da-434b-87a8-059de6c18b03",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181649450,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181649450\/bdf3f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Valentine’s Day Fragrances",
+    "description": "Great gift ideas for the perfect men in your life at Macy’s for this Valentine’s Day!",
+    "referenceId": "f79352288fde69bcc0054f5b5b84049e",
+    "date_created": "1550092233",
+    "date_modified": "1550093154",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213269",
+    "product_category": null,
+    "id": "202738449",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-day-fragrances",
+    "category": "Men",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/202738449\/22eef\/thumb-f79352288fde69bcc0054f5b5b84049e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/thumb-f79352288fde69bcc0054f5b5b84049e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/thumb-f79352288fde69bcc0054f5b5b84049e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/thumb-f79352288fde69bcc0054f5b5b84049e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/thumb-f79352288fde69bcc0054f5b5b84049e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/thumb-f79352288fde69bcc0054f5b5b84049e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/thumb-f79352288fde69bcc0054f5b5b84049e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202738449\/thumbnail\/image-thumbnail-256-ef0df82297f49728e1a7d24b73739142.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202738449\/thumbnail\/image-thumbnail-480-563296aecbcdc2595ac1be6b965ec1c0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/thumb-f79352288fde69bcc0054f5b5b84049e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202738449\/thumbnail\/image-thumbnail-480-563296aecbcdc2595ac1be6b965ec1c0.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202738449\/22eef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

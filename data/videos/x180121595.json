@@ -1,0 +1,111 @@
+{
+    "title": "New Lipsticks for Fall",
+    "description": "Featuring Dior Rouge Liquid Lip Stain in 979 Poison Metal and brows by Benefit. I’ve also included other similar colors and finishes! :)",
+    "referenceId": "863bbf748b75ba5959f8c298a579e28c",
+    "date_created": "1539482473",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "beauty",
+    "id": "180121595",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "new-lipsticks-for-fall",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/180121595\/ae74c\/thumb-863bbf748b75ba5959f8c298a579e28c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/thumb-863bbf748b75ba5959f8c298a579e28c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/thumb-863bbf748b75ba5959f8c298a579e28c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/thumb-863bbf748b75ba5959f8c298a579e28c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/thumb-863bbf748b75ba5959f8c298a579e28c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/thumb-863bbf748b75ba5959f8c298a579e28c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/thumb-863bbf748b75ba5959f8c298a579e28c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180121595\/thumbnail\/image-thumbnail-256-d5e5b3596d499a316251f4abc1058831.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180121595\/thumbnail\/image-thumbnail-480-85f719900f8c2b311f8fd8089dff7ee4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/thumb-863bbf748b75ba5959f8c298a579e28c-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180121595\/thumbnail\/image-thumbnail-480-85f719900f8c2b311f8fd8089dff7ee4.jpg",
+        "type": "mp4",
+        "assetId": 180121595,
+        "assetTitle": "New Lipsticks for Fall",
+        "assetTitleTextEncoded": "e9cd17e8-bc7f-4482-b197-a14450f2ab50",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180121595,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180121595\/ae74c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

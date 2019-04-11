@@ -1,0 +1,117 @@
+{
+    "title": "Fall Haul- The “It List”",
+    "description": "Hi everyone! Today I'm bringing you our Fall \"It List\" items styled into three different looks you can wear for the season. Enjoy!",
+    "referenceId": "232fcede4ed3c67bd23920081724eede",
+    "date_created": "1541074314",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "49",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "181626722",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-haul-the-it-list",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 82,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 82,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 82,
+        "prettyDuration": "00:01:22",
+        "automaticThumbnailsPattern": "1759121\/181626722\/080ad\/thumb-232fcede4ed3c67bd23920081724eede-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181626722\/user-images\/image-1919-6b58abc403280d0e2d98152338da4293.jpg",
+            "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/thumb-232fcede4ed3c67bd23920081724eede-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/thumb-232fcede4ed3c67bd23920081724eede-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/thumb-232fcede4ed3c67bd23920081724eede-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/thumb-232fcede4ed3c67bd23920081724eede-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/thumb-232fcede4ed3c67bd23920081724eede-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/thumb-232fcede4ed3c67bd23920081724eede-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181626722\/thumbnail\/image-thumbnail-256-b470e0e6348cb443ec1f675be15cbc4c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181626722\/thumbnail\/image-thumbnail-480-ca47f7c5d735f2dd4783b57d7773c2ff.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181626722\/thumbnail\/image-thumbnail-640-958c369a12da0511f8b4460d65b8288e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181626722\/thumbnail\/image-thumbnail-1280-3bf22b76333dd41577d5df32cc554831.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181626722\/user-images\/image-1919-6b58abc403280d0e2d98152338da4293.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181626722\/thumbnail\/image-thumbnail-640-958c369a12da0511f8b4460d65b8288e.jpg",
+        "type": "mp4",
+        "assetId": 181626722,
+        "assetTitle": "Fall Haul- The “It List”",
+        "assetTitleTextEncoded": "fall-haul-the-it-list",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181626722,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181626722\/080ad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

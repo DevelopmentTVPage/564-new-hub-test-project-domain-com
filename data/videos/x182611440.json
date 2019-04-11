@@ -1,0 +1,113 @@
+{
+    "title": "Inc international concept",
+    "description": "https:\/\/tvp.ag\/0AhDpZ0taw\/",
+    "referenceId": "90f7e9f5d2cc217417fe86bf489ff3ed",
+    "date_created": "1541490717",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "60",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213710",
+    "product_category": "women",
+    "id": "182611440",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc-international-concept",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 27,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 27,
+            "width": 162,
+            "height": 288
+        },
+        "mediaDuration": 27,
+        "prettyDuration": "00:00:27",
+        "automaticThumbnailsPattern": "1759121\/182611440\/6e848\/thumb-90f7e9f5d2cc217417fe86bf489ff3ed-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182611440\/user-images\/image-882-8373e42162c4534236e813fbf5c33ceb.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/thumb-90f7e9f5d2cc217417fe86bf489ff3ed-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/thumb-90f7e9f5d2cc217417fe86bf489ff3ed-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/thumb-90f7e9f5d2cc217417fe86bf489ff3ed-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/thumb-90f7e9f5d2cc217417fe86bf489ff3ed-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/thumb-90f7e9f5d2cc217417fe86bf489ff3ed-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/thumb-90f7e9f5d2cc217417fe86bf489ff3ed-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182611440\/thumbnail\/image-thumbnail-256-74e4268a1209e6697ea7447dae3ad09d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182611440\/thumbnail\/image-thumbnail-480-0694e990722c4f947265e0e3d43c5f9d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182611440\/thumbnail\/image-thumbnail-640-a6c9fb4332dde87fde81afe436825217.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611440\/user-images\/image-882-8373e42162c4534236e813fbf5c33ceb.jpg",
+        "type": "mp4",
+        "assetId": 182611440,
+        "assetTitle": "Inc international concept",
+        "assetTitleTextEncoded": "ea4d0c0a-c043-4ad9-8a60-783d75b9fc9e",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182611440,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 162,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 162,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 162,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 162,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611440\/6e848\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611440\/thumbnail\/image-thumbnail-640-a6c9fb4332dde87fde81afe436825217.jpg"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,115 @@
+{
+    "title": "Black Friday madness. Abh glow 40% off",
+    "description": "Get your glow on this holiday season with Anastasia Beverly Hills glow kits and liquid highlighters 40% off amazing deal #macysstylecrew .....ingrid_717",
+    "referenceId": "540f38dac3ff4654f7f274208059a9d7",
+    "date_created": "1542817100",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": null,
+    "id": "184011993",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-madness-abh-glow-40-off",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/184011993\/d2c43\/thumb-540f38dac3ff4654f7f274208059a9d7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184011993\/user-images\/image-4032-b2f7efc8f0035a8d114699fe56571dfd.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/thumb-540f38dac3ff4654f7f274208059a9d7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/thumb-540f38dac3ff4654f7f274208059a9d7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/thumb-540f38dac3ff4654f7f274208059a9d7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/thumb-540f38dac3ff4654f7f274208059a9d7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/thumb-540f38dac3ff4654f7f274208059a9d7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/thumb-540f38dac3ff4654f7f274208059a9d7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184011993\/thumbnail\/image-thumbnail-256-4d736c64e18961db7960cecfeb2ff594.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184011993\/thumbnail\/image-thumbnail-480-b8db0b47a1d210e7e632ad3ea192ee56.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184011993\/thumbnail\/image-thumbnail-640-7214ae29ee8bf024fb8c2420ae17fabe.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184011993\/thumbnail\/image-thumbnail-1280-d432ff4a592a7343f3f4fd458751554e.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184011993\/thumbnail\/image-thumbnail-1920-b784cfa65e082e7b069ac2a821d51d17.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184011993\/user-images\/image-4032-b2f7efc8f0035a8d114699fe56571dfd.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184011993\/thumbnail\/image-thumbnail-640-7214ae29ee8bf024fb8c2420ae17fabe.jpg",
+        "type": "mp4",
+        "assetId": 184011993,
+        "assetTitle": "1AB6811A-BBFB-4923-8FA7-250CBD643227",
+        "assetTitleTextEncoded": "1ab6811a-bbfb-4923-8fa7-250cbd643227",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184011993,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184011993\/d2c43\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

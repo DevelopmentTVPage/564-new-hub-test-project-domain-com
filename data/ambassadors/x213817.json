@@ -1,0 +1,21 @@
+{
+    "id": "213817",
+    "first_name": "Nicole",
+    "last_name": "Sandoval",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/437843135-0.7427517788019.jpg",
+        "job_title": "Regional Project Manager"
+    },
+    "last_login_timestamp": "1544113591",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-30 00:10:10",
+    "login_id": "1759121",
+    "user_id": "213817",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Nicole Sandoval",
+    "profile_picture": "\/api\/canvas\/logo\/437843135-0.7427517788019.jpg",
+    "titleTextEncoded": "nicole-sandoval",
+    "title": "Nicole Sandoval",
+    "videos_count": "1"
+}

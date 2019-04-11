@@ -1,0 +1,113 @@
+{
+    "title": "swarovski halo ring",
+    "description": "Beautiful 3 1\/2 carat tw halo engagement ring with Swarovski crystal set in 14k white gold",
+    "referenceId": "4c1b71114670e23793f680b5d4957c7b",
+    "date_created": "1544124917",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213744",
+    "product_category": "jewelry",
+    "id": "185513036",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "swarovski-halo-ring",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 80,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 80,
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": 80,
+        "prettyDuration": "00:01:20",
+        "automaticThumbnailsPattern": "1759121\/185513036\/875d3\/thumb-4c1b71114670e23793f680b5d4957c7b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/thumb-4c1b71114670e23793f680b5d4957c7b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/thumb-4c1b71114670e23793f680b5d4957c7b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/thumb-4c1b71114670e23793f680b5d4957c7b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/thumb-4c1b71114670e23793f680b5d4957c7b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/thumb-4c1b71114670e23793f680b5d4957c7b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/thumb-4c1b71114670e23793f680b5d4957c7b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185513036\/thumbnail\/image-thumbnail-256-f821f205388a29dfd684990abda124b9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/thumb-4c1b71114670e23793f680b5d4957c7b-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185513036\/thumbnail\/image-thumbnail-256-f821f205388a29dfd684990abda124b9.jpg",
+        "type": "mp4",
+        "assetId": 185513036,
+        "assetTitle": "56581762219__D424D6CF-ECA6-4FB8-86B2-DC3673F3274A",
+        "assetTitleTextEncoded": "56581762219-d424d6cf-eca6-4fb8-86b2-dc3673f3274a",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185513036,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513036\/875d3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

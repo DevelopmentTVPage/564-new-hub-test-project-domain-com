@@ -1,0 +1,117 @@
+{
+    "title": "Trend Alert! How to Style Leopard Print",
+    "description": "Learn how to style this season's hottest trend: leopard print!",
+    "referenceId": "1879f4c3f775eeac4f727f9e9a7f2ae3",
+    "date_created": "1544064093",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "62",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "5",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "185502413",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trend-alert-how-to-style-leopard-print",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 229,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 229,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 229,
+        "prettyDuration": "00:03:49",
+        "automaticThumbnailsPattern": "1759121\/185502413\/a58cf\/thumb-1879f4c3f775eeac4f727f9e9a7f2ae3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185502413\/user-images\/image-1919-db40f8c80aa503a55a48515ee8433417.jpg",
+            "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/thumb-1879f4c3f775eeac4f727f9e9a7f2ae3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/thumb-1879f4c3f775eeac4f727f9e9a7f2ae3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/thumb-1879f4c3f775eeac4f727f9e9a7f2ae3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/thumb-1879f4c3f775eeac4f727f9e9a7f2ae3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/thumb-1879f4c3f775eeac4f727f9e9a7f2ae3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/thumb-1879f4c3f775eeac4f727f9e9a7f2ae3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185502413\/thumbnail\/image-thumbnail-256-7ddfe04ddd0848d5e0be6ac58ca09d4f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185502413\/thumbnail\/image-thumbnail-480-64d491a775cce6781b31744da3d0e902.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185502413\/thumbnail\/image-thumbnail-640-75ac55657699e8591b9c1a3c2fb4f94d.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/185502413\/thumbnail\/image-thumbnail-1280-17fd2b12862e4971f18a77cb1477c58b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185502413\/user-images\/image-1919-db40f8c80aa503a55a48515ee8433417.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185502413\/thumbnail\/image-thumbnail-640-75ac55657699e8591b9c1a3c2fb4f94d.jpg",
+        "type": "mp4",
+        "assetId": 185502413,
+        "assetTitle": "Trend Alert! How to Style Leopard Print",
+        "assetTitleTextEncoded": "trend-alert-how-to-style-leopard-print",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185502413,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185502413\/a58cf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

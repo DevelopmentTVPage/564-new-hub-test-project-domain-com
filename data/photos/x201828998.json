@@ -1,0 +1,127 @@
+{
+    "title": "An American Classic Levi’s Jeans",
+    "description": "Can’t go wrong with this American Classic, Levi’s! Whether a dark skinny or a high waisted light wash! ",
+    "referenceId": null,
+    "date_created": "1549670695",
+    "date_modified": "1549671026",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213941",
+    "id": "201828998",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "an-american-classic-levis-jeans",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--1920.jpeg?v=1549670727213"
+            },
+            {
+                "width": 1280,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--1280.jpeg?v=1549670727004"
+            },
+            {
+                "width": 1200,
+                "height": 900,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--1200.jpeg?v=1549670726953"
+            },
+            {
+                "width": 1024,
+                "height": 768,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--1024.jpeg?v=1549670728023"
+            },
+            {
+                "width": 1080,
+                "height": 810,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--1080.jpeg?v=1549670726948"
+            },
+            {
+                "width": 960,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--960.jpeg?v=1549670727962"
+            },
+            {
+                "width": 640,
+                "height": 480,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--640.jpeg?v=1549670727929"
+            },
+            {
+                "width": 600,
+                "height": 450,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--600.jpeg?v=1549670728528"
+            },
+            {
+                "width": 256,
+                "height": 192,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-media--256.jpeg?v=1549670729015"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-thumbnail-1920.jpeg?v=1549670729888"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-thumbnail-1280.jpeg?v=1549670729735"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-thumbnail-640.jpeg?v=1549670729587"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-thumbnail-480.jpeg?v=1549670729570"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-thumbnail-256.jpeg?v=1549670730021"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-thumbnail-64.jpeg?v=1549670730471"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828998\/image-thumbnail-640.jpeg?v=1549670729587",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

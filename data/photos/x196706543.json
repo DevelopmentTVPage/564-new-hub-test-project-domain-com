@@ -1,0 +1,127 @@
+{
+    "title": "Renew. Refresh. Reset ",
+    "description": "Renew. Refresh. Reset. I always love a simple black and white outfit for the gym or for running errands. What's your go to gym look? ",
+    "referenceId": null,
+    "date_created": "1546913945",
+    "date_modified": "1546914139",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213740",
+    "id": "196706543",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "renew-refresh-reset",
+    "linkUrl": null,
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1617,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--1920.jpeg?v=1546913958723"
+            },
+            {
+                "width": 1280,
+                "height": 1078,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--1280.jpeg?v=1546913958567"
+            },
+            {
+                "width": 1200,
+                "height": 1011,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--1200.jpeg?v=1546913958519"
+            },
+            {
+                "width": 1024,
+                "height": 862,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--1024.jpeg?v=1546913959173"
+            },
+            {
+                "width": 1080,
+                "height": 910,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--1080.jpeg?v=1546913958538"
+            },
+            {
+                "width": 960,
+                "height": 808,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--960.jpeg?v=1546913959169"
+            },
+            {
+                "width": 640,
+                "height": 539,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--640.jpeg?v=1546913959168"
+            },
+            {
+                "width": 600,
+                "height": 505,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--600.jpeg?v=1546913959503"
+            },
+            {
+                "width": 256,
+                "height": 215,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-media--256.jpeg?v=1546913959725"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-thumbnail-1920.jpeg?v=1546913960167"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-thumbnail-1280.jpeg?v=1546913960051"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-thumbnail-640.jpeg?v=1546913959933"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-thumbnail-480.jpeg?v=1546913959914"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-thumbnail-256.jpeg?v=1546913960074"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-thumbnail-64.jpeg?v=1546913960250"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/196706543\/image-thumbnail-640.jpeg?v=1546913959933",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

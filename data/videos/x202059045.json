@@ -1,0 +1,103 @@
+{
+    "title": "Free gift with purchase. Ralph Lauren Romance",
+    "description": "With every large bottle of Ralph Lauren Romance perfume you get a complimentary teddy bear.",
+    "referenceId": "b5ed288022379c352f8995622920bc8e",
+    "date_created": "1549722150",
+    "date_modified": "1549723694",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213181",
+    "product_category": null,
+    "id": "202059045",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "free-gift-with-purchase-ralph-lauren-romance",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 21,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 21,
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": 21,
+        "prettyDuration": "00:00:21",
+        "automaticThumbnailsPattern": "1759121\/202059045\/07111\/thumb-b5ed288022379c352f8995622920bc8e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202059045\/07111\/thumb-b5ed288022379c352f8995622920bc8e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202059045\/07111\/thumb-b5ed288022379c352f8995622920bc8e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202059045\/07111\/thumb-b5ed288022379c352f8995622920bc8e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202059045\/07111\/thumb-b5ed288022379c352f8995622920bc8e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202059045\/07111\/thumb-b5ed288022379c352f8995622920bc8e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202059045\/07111\/thumb-b5ed288022379c352f8995622920bc8e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202059045\/thumbnail\/image-thumbnail-256-8c6ca2465dd987d802a7d6a683ecaf47.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202059045\/07111\/thumb-b5ed288022379c352f8995622920bc8e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202059045\/thumbnail\/image-thumbnail-256-8c6ca2465dd987d802a7d6a683ecaf47.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202059045\/07111\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202059045\/07111\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059045\/07111\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059045\/07111\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059045\/07111\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059045\/07111\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059045\/07111\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

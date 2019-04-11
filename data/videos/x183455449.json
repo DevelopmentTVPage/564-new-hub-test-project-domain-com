@@ -1,0 +1,118 @@
+{
+    "title": "Black Friday preview with tarte cosmetics",
+    "description": "Amazing deals from tarte. Whether you are shopping for yourself or holiday gifts for your loved ones. Tarte pro palette 50% oft and tartelette Amazonian clay matte palette 19.50$ . Amazonian clay foundation gives even coverage without looking heavy. 30% off during the Black Friday preview sale.",
+    "referenceId": "5bb4c8f7688b3976271c4929c354996b",
+    "date_created": "1542257160",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "45",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "beauty",
+    "id": "183455449",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-preview-with-tarte-cosmetics",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/183455449\/834f0\/thumb-5bb4c8f7688b3976271c4929c354996b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183455449\/user-images\/image-2208-f4d872ea9b3ff9f61d027d8f6b996d28.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/thumb-5bb4c8f7688b3976271c4929c354996b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/thumb-5bb4c8f7688b3976271c4929c354996b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/thumb-5bb4c8f7688b3976271c4929c354996b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/thumb-5bb4c8f7688b3976271c4929c354996b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/thumb-5bb4c8f7688b3976271c4929c354996b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/thumb-5bb4c8f7688b3976271c4929c354996b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183455449\/thumbnail\/image-thumbnail-256-4f6e94b83e57ac2c425261f57744fb3d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183455449\/thumbnail\/image-thumbnail-480-bd38a82b0468928333c232da42bd88c7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183455449\/thumbnail\/image-thumbnail-640-cd526419fdc81c6a8a2339d26bb00f24.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183455449\/thumbnail\/image-thumbnail-1280-c7dbaa9f2c76378b4411d18368ad09c5.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183455449\/thumbnail\/image-thumbnail-1920-227d92d874c878d83e59bcdabfd4a125.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455449\/user-images\/image-2208-f4d872ea9b3ff9f61d027d8f6b996d28.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455449\/thumbnail\/image-thumbnail-640-cd526419fdc81c6a8a2339d26bb00f24.jpg",
+        "type": "mp4",
+        "assetId": 183455449,
+        "assetTitle": "Black Friday preview with tarte cosmetics",
+        "assetTitleTextEncoded": "0cb84641-1d8d-4c23-89e1-01e64560d31e",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183455449,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455449\/834f0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

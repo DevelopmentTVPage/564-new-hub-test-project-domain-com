@@ -1,0 +1,103 @@
+{
+    "title": "Statement Sweater",
+    "description": "This falls newest trend is the statement sweater! This metallic chenille sweater from Alfani is a great way be warm, cozy, and stylish this holiday season! ",
+    "referenceId": null,
+    "date_created": "1542558974",
+    "date_modified": "1546466826",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213755",
+    "id": "183829542",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "statement-sweater",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1552,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-media--1200.jpeg?v=1542558982253"
+            },
+            {
+                "width": 1024,
+                "height": 1325,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-media--1024.jpeg?v=1542558982184"
+            },
+            {
+                "width": 1080,
+                "height": 1397,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-media--1080.jpeg?v=1542558982700"
+            },
+            {
+                "width": 960,
+                "height": 1242,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-media--960.jpeg?v=1542558982163"
+            },
+            {
+                "width": 640,
+                "height": 828,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-media--640.jpeg?v=1542558982527"
+            },
+            {
+                "width": 600,
+                "height": 776,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-media--600.jpeg?v=1542558982101"
+            },
+            {
+                "width": 256,
+                "height": 331,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-media--256.jpeg?v=1542558982369"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-thumbnail-640.jpeg?v=1542558983023"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-thumbnail-480.jpeg?v=1542558983016"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-thumbnail-256.jpeg?v=1542558983003"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-thumbnail-64.jpeg?v=1542558982997"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183829542\/image-thumbnail-640.jpeg?v=1542558983023",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

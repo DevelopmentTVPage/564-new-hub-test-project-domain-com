@@ -1,0 +1,116 @@
+{
+    "title": "Amazing Sweater Deals!",
+    "description": null,
+    "referenceId": "da4f16890f3103c2633a5fa885e0218a",
+    "date_created": "1542827726",
+    "date_modified": "1546466825",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "101",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "4",
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "women",
+    "id": "184012036",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "amazing-sweater-deals",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 60,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 60,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 60,
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/184012036\/9bbb9\/thumb-da4f16890f3103c2633a5fa885e0218a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/thumb-da4f16890f3103c2633a5fa885e0218a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/thumb-da4f16890f3103c2633a5fa885e0218a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/thumb-da4f16890f3103c2633a5fa885e0218a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/thumb-da4f16890f3103c2633a5fa885e0218a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/thumb-da4f16890f3103c2633a5fa885e0218a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/thumb-da4f16890f3103c2633a5fa885e0218a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184012036\/thumbnail\/image-thumbnail-256-6ae01b197e1a8fab6926685408c675ee.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184012036\/thumbnail\/image-thumbnail-480-19212bf16e59557b72055e7c0426dcb8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184012036\/thumbnail\/image-thumbnail-640-6e9636b980894fffe48973d553d866e4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184012036\/thumbnail\/image-thumbnail-1280-757b59afc057dcc02117bacb6b30123f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/thumb-da4f16890f3103c2633a5fa885e0218a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184012036\/thumbnail\/image-thumbnail-640-6e9636b980894fffe48973d553d866e4.jpg",
+        "type": "mp4",
+        "assetId": 184012036,
+        "assetTitle": "My Sweater Picks for Black Friday",
+        "assetTitleTextEncoded": "cf01c2c2-5b82-4521-8790-e20662efb939",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184012036,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012036\/9bbb9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

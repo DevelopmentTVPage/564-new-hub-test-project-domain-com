@@ -1,0 +1,103 @@
+{
+    "title": "Valentine's Day Fragrance,  Sí Passione",
+    "description": "Fragrance for her",
+    "referenceId": "29a40148cd1b3a4a21cd39133ab7196f",
+    "date_created": "1549994989",
+    "date_modified": "1549995673",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "202639125",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-day-fragrance-si-passione",
+    "category": "Fragrance for her",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 31,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 31,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 31,
+        "prettyDuration": "00:00:31",
+        "automaticThumbnailsPattern": "1759121\/202639125\/cffe5\/thumb-29a40148cd1b3a4a21cd39133ab7196f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/thumb-29a40148cd1b3a4a21cd39133ab7196f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/thumb-29a40148cd1b3a4a21cd39133ab7196f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/thumb-29a40148cd1b3a4a21cd39133ab7196f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/thumb-29a40148cd1b3a4a21cd39133ab7196f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/thumb-29a40148cd1b3a4a21cd39133ab7196f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/thumb-29a40148cd1b3a4a21cd39133ab7196f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202639125\/thumbnail\/image-thumbnail-256-00d7fd9a3ecff7d4404cb141b70f32df.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202639125\/thumbnail\/image-thumbnail-480-4018197e2d0d636154f2ad38965b6526.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202639125\/thumbnail\/image-thumbnail-640-fcffdcec2508dd565bd183db0c3ebcef.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/thumb-29a40148cd1b3a4a21cd39133ab7196f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639125\/thumbnail\/image-thumbnail-640-fcffdcec2508dd565bd183db0c3ebcef.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639125\/cffe5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

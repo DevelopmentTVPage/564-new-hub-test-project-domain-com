@@ -1,0 +1,21 @@
+{
+    "id": "213787",
+    "first_name": "Jeffery",
+    "last_name": "Huckleberry",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "District Merchant"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-27 20:09:14",
+    "login_id": "1759121",
+    "user_id": "213787",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jeffery Huckleberry",
+    "profile_picture": null,
+    "titleTextEncoded": "jeffery-huckleberry",
+    "title": "Jeffery Huckleberry",
+    "videos_count": "0"
+}

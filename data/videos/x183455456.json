@@ -1,0 +1,116 @@
+{
+    "title": "Friends & Family 30%off  Presale 11\/29 pick up",
+    "description": "Friends & Family 30% off Presale starts now,  11\/29 pick up  fragrance 15% off\nin store coupon til 12\/10",
+    "referenceId": "7bd3274ad4cb826529575564c06d2aca",
+    "date_created": "1542298948",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "449",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "54",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "183455456",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "friends-family-30-off-presale-11-29-pick-up",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 27,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 27,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 27,
+        "prettyDuration": "00:00:27",
+        "automaticThumbnailsPattern": "1759121\/183455456\/6387b\/thumb-7bd3274ad4cb826529575564c06d2aca-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183455456\/user-images\/image-1960-c0c05196a28d12898c2dc6e8f605ca15.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/thumb-7bd3274ad4cb826529575564c06d2aca-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/thumb-7bd3274ad4cb826529575564c06d2aca-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/thumb-7bd3274ad4cb826529575564c06d2aca-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/thumb-7bd3274ad4cb826529575564c06d2aca-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/thumb-7bd3274ad4cb826529575564c06d2aca-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/thumb-7bd3274ad4cb826529575564c06d2aca-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183455456\/thumbnail\/image-thumbnail-256-c367158ad69b93c48c13a114181ae321.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183455456\/thumbnail\/image-thumbnail-480-0beccc8ea2edf2a2ed71f00c95d413d3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/thumb-7bd3274ad4cb826529575564c06d2aca-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455456\/thumbnail\/image-thumbnail-480-0beccc8ea2edf2a2ed71f00c95d413d3.jpg",
+        "type": "mp4",
+        "assetId": 183455456,
+        "assetTitle": "presale_1",
+        "assetTitleTextEncoded": "presale-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183455456,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455456\/6387b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

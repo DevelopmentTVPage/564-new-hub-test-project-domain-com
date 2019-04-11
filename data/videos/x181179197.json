@@ -1,0 +1,100 @@
+{
+    "title": "Coat Weather",
+    "description": "Come to Macy's and find your perfect coat for the cold weather.",
+    "referenceId": "0067519fb4a082906e182b1f28e0e975",
+    "date_created": "1540449388",
+    "date_modified": "1546466787",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213525",
+    "product_category": null,
+    "id": "181179197",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "coat-weather",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/181179197\/54aa3\/thumb-0067519fb4a082906e182b1f28e0e975-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/thumb-0067519fb4a082906e182b1f28e0e975-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/thumb-0067519fb4a082906e182b1f28e0e975-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/thumb-0067519fb4a082906e182b1f28e0e975-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181179197\/thumbnail\/image-thumbnail-256-3766b175faed8e4d5070d4aa748c5224.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181179197\/thumbnail\/image-thumbnail-480-f8b8c7c4c2cae64902e4bc022aa95146.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/thumb-0067519fb4a082906e182b1f28e0e975-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181179197\/thumbnail\/image-thumbnail-480-f8b8c7c4c2cae64902e4bc022aa95146.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181179197\/54aa3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

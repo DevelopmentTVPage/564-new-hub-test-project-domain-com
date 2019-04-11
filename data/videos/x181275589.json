@@ -1,0 +1,108 @@
+{
+    "title": "Brow Day at Benefit - Macy’s Herald Square",
+    "description": "Getting my brows done and recruiting new friend to #joinourcrew #macysstylecrew",
+    "referenceId": "61bffd385992ffeb4cab2856e207ab59",
+    "date_created": "1540595289",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213627",
+    "product_category": "beauty",
+    "id": "181275589",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "brow-day-at-benefit-macys-herald-square",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/181275589\/c2f58\/thumb-61bffd385992ffeb4cab2856e207ab59-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/thumb-61bffd385992ffeb4cab2856e207ab59-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/thumb-61bffd385992ffeb4cab2856e207ab59-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/thumb-61bffd385992ffeb4cab2856e207ab59-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181275589\/thumbnail\/image-thumbnail-256-f5272e96f5e750fff9a2739b9d7ed38b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181275589\/thumbnail\/image-thumbnail-480-d5513f795be0df3668b4350251e8e3d9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/thumb-61bffd385992ffeb4cab2856e207ab59-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181275589\/thumbnail\/image-thumbnail-480-d5513f795be0df3668b4350251e8e3d9.jpg",
+        "type": "mp4",
+        "assetId": 181275589,
+        "assetTitle": "5780C91F-AA9E-48BA-A233-EC85125D9FE8",
+        "assetTitleTextEncoded": "5780c91f-aa9e-48ba-a233-ec85125d9fe8",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181275589,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181275589\/c2f58\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

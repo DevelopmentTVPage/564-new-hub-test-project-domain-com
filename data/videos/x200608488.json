@@ -1,0 +1,106 @@
+{
+    "title": "Marc Jacobs Sunshine Fragrance",
+    "description": "Feel the sun on you all day with Marc Jacobs new fragrance line in the Daisy collection! Inspired by sunny days and the sparkling spirit of daisy girls everywhere, Marc Jacobs brings a bright, sunny twist on the classic Daisy fragrances. Sunny marigold is wrapped in the radiant warmth of white woods while white strawberry adds a juicy touch. The #MJDaisy Marc Jacobs Sunshine Limited Editions transport daisy girls to a happy place where optimism overflows and the carefree spirit of daisy is celebrated.",
+    "referenceId": "7032b6d7c6cea1fe6a6bf2e171cfa15a",
+    "date_created": "1548894603",
+    "date_modified": "1548897703",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": null,
+    "id": "200608488",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "marc-jacobs-sunshine-fragrance",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "23",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "23",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/200608488\/cfd81\/thumb-7032b6d7c6cea1fe6a6bf2e171cfa15a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/thumb-7032b6d7c6cea1fe6a6bf2e171cfa15a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/thumb-7032b6d7c6cea1fe6a6bf2e171cfa15a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/thumb-7032b6d7c6cea1fe6a6bf2e171cfa15a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/thumb-7032b6d7c6cea1fe6a6bf2e171cfa15a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/thumb-7032b6d7c6cea1fe6a6bf2e171cfa15a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/thumb-7032b6d7c6cea1fe6a6bf2e171cfa15a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200608488\/thumbnail\/image-thumbnail-256-ed6bd08f5ec5a137ac1ad6aee488c127.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200608488\/thumbnail\/image-thumbnail-480-8d370e9513fefdac99c247be0b0acea5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/200608488\/thumbnail\/image-thumbnail-640-5336a1a5b43f169bf3cdedb416e1e7ab.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/200608488\/thumbnail\/image-thumbnail-1280-51bcfd1f75f566b108ebb17cb7a1c69b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/thumb-7032b6d7c6cea1fe6a6bf2e171cfa15a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200608488\/thumbnail\/image-thumbnail-640-5336a1a5b43f169bf3cdedb416e1e7ab.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200608488\/cfd81\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

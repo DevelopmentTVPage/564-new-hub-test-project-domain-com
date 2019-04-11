@@ -1,0 +1,116 @@
+{
+    "title": "@Mr_TJay Business Casual #FLY",
+    "description": "Join me in Fitting room Looks for YOU:  Business Casual edition. Showing you three ways to be ready for those not so casual Fridays', or maybe you just want to ride the wave during your work week. From the Khaki vest and pants combo with the velvet printed tie, for sure my favorite look, to being prepared for those chilly office days with the denim jacket, FALL FAV PLAID pants and bold T.H. Red silk tie, millennial are changing the rules of what it means to be business casual.   While the leaves may be falling the Floral print tie is a great fall accessories these are some my favorites WEB IDs (5604972, 6116035, 4691112, 5316216).  Don't even sweat that big meeting, your look is set and you will be great, be sure to follow @Mr_TJay!",
+    "referenceId": "8f18e5bf9330e0719f7ac9feb4a84f56",
+    "date_created": "1539911315",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "94",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "180533413",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-business-casual-fly",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 69,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 69,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 69,
+        "prettyDuration": "00:01:09",
+        "automaticThumbnailsPattern": "1759121\/180533413\/1b671\/thumb-8f18e5bf9330e0719f7ac9feb4a84f56-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/thumb-8f18e5bf9330e0719f7ac9feb4a84f56-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/thumb-8f18e5bf9330e0719f7ac9feb4a84f56-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/thumb-8f18e5bf9330e0719f7ac9feb4a84f56-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/thumb-8f18e5bf9330e0719f7ac9feb4a84f56-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/thumb-8f18e5bf9330e0719f7ac9feb4a84f56-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/thumb-8f18e5bf9330e0719f7ac9feb4a84f56-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180533413\/thumbnail\/image-thumbnail-256-12d74638cc360e248dc1bca8cccc5975.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180533413\/thumbnail\/image-thumbnail-480-f609f132592e0c910fd9d73a5c23c45b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180533413\/thumbnail\/image-thumbnail-640-cc3a602a59d94992891f63b0062aecb3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180533413\/thumbnail\/image-thumbnail-1280-5b5c304ae9b77888439a17b408a0a16b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/180533413\/thumbnail\/image-thumbnail-1920-b3cb2889809f756ab19123f72944a3cc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/thumb-8f18e5bf9330e0719f7ac9feb4a84f56-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180533413\/thumbnail\/image-thumbnail-640-cc3a602a59d94992891f63b0062aecb3.jpg",
+        "type": "mp4",
+        "assetId": 180533413,
+        "assetTitle": "@Mr_TJay Business Casual #FLY",
+        "assetTitleTextEncoded": "tj-haul-businesscasual-v2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180533413,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/180533413\/1b671\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

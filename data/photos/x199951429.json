@@ -1,0 +1,127 @@
+{
+    "title": "How do you relax?",
+    "description": "How do you relax after a long work week?  I take a hot bath, change into my comfy Nike sweats, pour a glass of wine and pop on a sheet mask.  Instant stress relief.... link in my bio for my hoodie and mask I am wearing tonight #macysbeauty #macysstylecrew",
+    "referenceId": null,
+    "date_created": "1548477004",
+    "date_modified": "1548518373",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213804",
+    "id": "199951429",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "how-do-you-relax",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2555,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--1920.jpeg?v=1548477011473"
+            },
+            {
+                "width": 1280,
+                "height": 1703,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--1280.jpeg?v=1548477012167"
+            },
+            {
+                "width": 1200,
+                "height": 1597,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--1200.jpeg?v=1548477011295"
+            },
+            {
+                "width": 1024,
+                "height": 1363,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--1024.jpeg?v=1548477011996"
+            },
+            {
+                "width": 1080,
+                "height": 1437,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--1080.jpeg?v=1548477011244"
+            },
+            {
+                "width": 960,
+                "height": 1277,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--960.jpeg?v=1548477011856"
+            },
+            {
+                "width": 640,
+                "height": 851,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--640.jpeg?v=1548477011106"
+            },
+            {
+                "width": 600,
+                "height": 798,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--600.jpeg?v=1548477011499"
+            },
+            {
+                "width": 256,
+                "height": 340,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-media--256.jpeg?v=1548477011771"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-thumbnail-1920.jpeg?v=1548477012784"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-thumbnail-1280.jpeg?v=1548477012757"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-thumbnail-640.jpeg?v=1548477012915"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-thumbnail-480.jpeg?v=1548477012686"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-thumbnail-256.jpeg?v=1548477012677"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-thumbnail-64.jpeg?v=1548477012799"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/199951429\/image-thumbnail-640.jpeg?v=1548477012915",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

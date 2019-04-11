@@ -1,0 +1,110 @@
+{
+    "title": "Renew. Refresh. Reset",
+    "description": "Renew your closet with the latest activewear from Macy’s, Refresh your resolutions and Reset yourself this 2019.",
+    "referenceId": "d13e6480e1f2795ed0bd83ce98638d60",
+    "date_created": "1546914125",
+    "date_modified": "1547064097",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": null,
+    "id": "196706544",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-refresh-reset",
+    "category": "Renew. Refresh. Reset ",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/196706544\/4f432\/thumb-d13e6480e1f2795ed0bd83ce98638d60-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/thumb-d13e6480e1f2795ed0bd83ce98638d60-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/thumb-d13e6480e1f2795ed0bd83ce98638d60-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/thumb-d13e6480e1f2795ed0bd83ce98638d60-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/thumb-d13e6480e1f2795ed0bd83ce98638d60-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/thumb-d13e6480e1f2795ed0bd83ce98638d60-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/thumb-d13e6480e1f2795ed0bd83ce98638d60-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/196706544\/thumbnail\/image-thumbnail-256-4e442955acef04db6ee26bf51653fb5b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/196706544\/thumbnail\/image-thumbnail-480-a9386501a7903af8045fe0250232ecfa.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/196706544\/thumbnail\/image-thumbnail-640-312b313466505bd766144632925e8794.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/196706544\/thumbnail\/image-thumbnail-1280-6a36adf7f86a23d8ecd048e6c095e28e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/thumb-d13e6480e1f2795ed0bd83ce98638d60-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/196706544\/thumbnail\/image-thumbnail-640-312b313466505bd766144632925e8794.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706544\/4f432\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

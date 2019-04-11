@@ -1,0 +1,108 @@
+{
+    "title": "Shades for someone special from Sunglass Hut",
+    "description": "Ready to throw some shade? On your eyes that is! Keep your peepers protected and look fabulous at the same time? Yes Please! Macy's has you covered with so many fabulous sunnies, from Dolce & Gabbana to Prada, Michael Kors, Coach, Ray-Ban and more! Head to your local Macy's to see the great selection on sunnies just waiting to be your new favorite accessory",
+    "referenceId": "7ac57daac98e41fefb95f4ec110579e0",
+    "date_created": "1550154849",
+    "date_modified": "1550235273",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "9",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": null,
+    "id": "203003074",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "shades-for-someone-special-from-sunglass-hut",
+    "category": "Ready to throw some shade? On your eyes that is! Keep your peepers protected and look fabulous at the same time? Yes Please! Macy's has you covered with so many fabulous sunnies, from Dolce & Gabbana to Prada, Michael Kors, Coach, Ray-Ban and more! Head to your local Macy's to see the great selection on sunnies just waiting to be your new favorite accessory",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 43,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 43,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 43,
+        "prettyDuration": "00:00:43",
+        "automaticThumbnailsPattern": "1759121\/203003074\/1b349\/thumb-7ac57daac98e41fefb95f4ec110579e0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203003074\/user-images\/image-1536-6755e0e9480806425368af3ca4dbe24f.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/thumb-7ac57daac98e41fefb95f4ec110579e0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/thumb-7ac57daac98e41fefb95f4ec110579e0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/thumb-7ac57daac98e41fefb95f4ec110579e0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/thumb-7ac57daac98e41fefb95f4ec110579e0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/thumb-7ac57daac98e41fefb95f4ec110579e0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/thumb-7ac57daac98e41fefb95f4ec110579e0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203003074\/thumbnail\/image-thumbnail-256-28f52b023568113e53899d9af6f1d430.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203003074\/thumbnail\/image-thumbnail-480-abb573ef6899a3d0bcc9b09764ca7993.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/203003074\/thumbnail\/image-thumbnail-640-16ad16c8cf54a3ee7ebb7ecb95064abd.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/203003074\/thumbnail\/image-thumbnail-1280-0cb1f14151f961361500190fe472f765.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203003074\/user-images\/image-1536-6755e0e9480806425368af3ca4dbe24f.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203003074\/thumbnail\/image-thumbnail-640-8385539b786363af49004309ca4256df.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003074\/1b349\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

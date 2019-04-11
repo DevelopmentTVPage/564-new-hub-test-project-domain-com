@@ -1,0 +1,102 @@
+{
+    "title": "LAUREN WILNER'S Mascara",
+    "description": "Get amazing eyelashes with Monsieur Big Mascara by Lancome.",
+    "referenceId": "cb7e308b23493d367442398cf8ce2934",
+    "date_created": "1524071433",
+    "date_modified": "1546466779",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "161420138",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lauren-wilners-mascara",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "36",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "36",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420138\/thumbnail\/image-thumbnail-480-bdf5c3a58eed97a66d8ce0c170b962a5.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161420138\/21359\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161420138\/21359\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420138\/21359\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420138\/21359\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420138\/21359\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420138\/21359\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420138\/21359\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/161420138\/21359\/thumb-cb7e308b23493d367442398cf8ce2934-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/161420138\/user-images\/image-480-211648a66daf575154677ece2a8cffab.jpg",
+            "\/\/v.tvpage.com\/1759121\/161420138\/21359\/thumb-cb7e308b23493d367442398cf8ce2934-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420138\/user-images\/image-480-211648a66daf575154677ece2a8cffab.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/161420138\/thumbnail\/image-thumbnail-256-15abe9dc0d7de80c652cd961de09c6eb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/161420138\/thumbnail\/image-thumbnail-480-bdf5c3a58eed97a66d8ce0c170b962a5.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

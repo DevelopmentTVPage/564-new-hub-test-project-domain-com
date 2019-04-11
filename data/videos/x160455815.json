@@ -1,0 +1,103 @@
+{
+    "title": "Lipstick Problems - Winter Lips",
+    "description": "Nicolette favorite lip items to use during the winter season.",
+    "referenceId": "ef431f5a4a34dd9ca9d7ebad5c80531f",
+    "date_created": "1523917465",
+    "date_modified": "1546466768",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160455815",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lipstick-problems-winter-lips",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "263",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "263",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "263",
+        "prettyDuration": "00:04:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455815\/thumbnail\/image-thumbnail-640-61ffb4e839dc3a958ecdb8b7af3fc4d4.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455815\/b479f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455815\/b479f\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455815\/b479f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455815\/b479f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455815\/b479f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455815\/b479f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455815\/b479f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/160455815\/b479f\/thumb-ef431f5a4a34dd9ca9d7ebad5c80531f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160455815\/user-images\/image-853-9439be112e097d7c3f2336eb9fd0de2e.jpg",
+            "\/\/v.tvpage.com\/1759121\/160455815\/b479f\/thumb-ef431f5a4a34dd9ca9d7ebad5c80531f-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455815\/user-images\/image-853-9439be112e097d7c3f2336eb9fd0de2e.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160455815\/thumbnail\/image-thumbnail-256-e1b054221b4a0177ff715bac992c2a79.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160455815\/thumbnail\/image-thumbnail-480-f74a2f172f1d8e4bb3020eb97462e287.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160455815\/thumbnail\/image-thumbnail-640-61ffb4e839dc3a958ecdb8b7af3fc4d4.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,105 @@
+{
+    "title": "I.N.C",
+    "description": "Spring",
+    "referenceId": "49919376533e3d6e5d311749b99f6b75",
+    "date_created": "1548047718",
+    "date_modified": "1548049540",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "121",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213710",
+    "product_category": null,
+    "id": "199087139",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "i-n-c",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "21",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "21",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "automaticThumbnailsPattern": "1759121\/199087139\/396ce\/thumb-49919376533e3d6e5d311749b99f6b75-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/thumb-49919376533e3d6e5d311749b99f6b75-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/thumb-49919376533e3d6e5d311749b99f6b75-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/thumb-49919376533e3d6e5d311749b99f6b75-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/thumb-49919376533e3d6e5d311749b99f6b75-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/thumb-49919376533e3d6e5d311749b99f6b75-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/thumb-49919376533e3d6e5d311749b99f6b75-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199087139\/thumbnail\/image-thumbnail-256-eb2c5f677aa893aa678aa2e5ffba1258.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199087139\/thumbnail\/image-thumbnail-480-1fdae67410423031ac50624e4d683f7c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199087139\/396ce\/thumb-49919376533e3d6e5d311749b99f6b75-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199087139\/thumbnail\/image-thumbnail-480-1fdae67410423031ac50624e4d683f7c.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-23"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

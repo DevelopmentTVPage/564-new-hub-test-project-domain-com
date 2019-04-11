@@ -1,0 +1,112 @@
+{
+    "title": "HOLIDAY BEAUTY CONTEST test_working?",
+    "description": "3 min mini makeup look for a holiday party",
+    "referenceId": "a7f51002de3506c4dfb04b1f445b9727",
+    "date_created": "1542077966",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "119",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213728",
+    "product_category": "beauty",
+    "id": "183313878",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "holiday-beauty-contest-test-working",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 173,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 173,
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": 173,
+        "prettyDuration": "00:02:53",
+        "automaticThumbnailsPattern": "1759121\/183313878\/dc873\/thumb-a7f51002de3506c4dfb04b1f445b9727-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/thumb-a7f51002de3506c4dfb04b1f445b9727-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/thumb-a7f51002de3506c4dfb04b1f445b9727-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/thumb-a7f51002de3506c4dfb04b1f445b9727-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/thumb-a7f51002de3506c4dfb04b1f445b9727-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/thumb-a7f51002de3506c4dfb04b1f445b9727-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/thumb-a7f51002de3506c4dfb04b1f445b9727-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183313878\/thumbnail\/image-thumbnail-256-60938dccf2643b81789797a50ddc7ce1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183313878\/thumbnail\/image-thumbnail-480-135c6ad0ab9a75b0d4d3d8126c7f8312.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/thumb-a7f51002de3506c4dfb04b1f445b9727-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183313878\/thumbnail\/image-thumbnail-480-135c6ad0ab9a75b0d4d3d8126c7f8312.jpg",
+        "type": "mp4",
+        "assetId": 183313878,
+        "assetTitle": "C7B19363-80BC-403D-8D8A-1081335855CC",
+        "assetTitleTextEncoded": "c7b19363-80bc-403d-8d8a-1081335855cc",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183313878,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183313878\/dc873\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

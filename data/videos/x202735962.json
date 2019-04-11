@@ -1,0 +1,101 @@
+{
+    "title": "FINALLY! So Long Winter Dry Skin!",
+    "description": "NEW Clinique iD Dramatically Different Hydrating Jelly With Active Cartridge Concentrate For Uneven Skin Tone \n\nA first-of-its-kind custom-blend hydrator that helps hydrate and treat your main skin concern, your way. Combines a hydration base of Dramatically Different Hydrating Jelly with Active Cartridge Concentrate For Uneven Skin Tone.",
+    "referenceId": "410a225473bf35dc2616c93fac13330d",
+    "date_created": "1550064285",
+    "date_modified": "1550068434",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213776",
+    "product_category": null,
+    "id": "202735962",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "finally-so-long-winter-dry-skin",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 3,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 3,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 3,
+        "prettyDuration": "00:00:03",
+        "automaticThumbnailsPattern": "1759121\/202735962\/73820\/thumb-410a225473bf35dc2616c93fac13330d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202735962\/user-images\/image-1242-40905c7f7249bd2b72028479535db3e7.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735962\/user-images\/image-3024-7f4e3849b46dc6f1e7a072f3a58801ca.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735962\/73820\/thumb-410a225473bf35dc2616c93fac13330d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735962\/73820\/thumb-410a225473bf35dc2616c93fac13330d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202735962\/thumbnail\/image-thumbnail-256-b26eb4e392f47240a37934b86a6c8a0a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202735962\/thumbnail\/image-thumbnail-480-4cfd2f0df4b660bfb54864cca49dcf31.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202735962\/thumbnail\/image-thumbnail-640-3690daf0ea894b6f161e1025f3cd568e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202735962\/user-images\/image-1242-40905c7f7249bd2b72028479535db3e7.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202735962\/thumbnail\/image-thumbnail-640-3690daf0ea894b6f161e1025f3cd568e.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735962\/73820\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735962\/73820\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735962\/73820\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735962\/73820\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735962\/73820\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

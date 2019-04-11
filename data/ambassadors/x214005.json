@@ -1,0 +1,21 @@
+{
+    "id": "214005",
+    "first_name": "Marlene",
+    "last_name": "Lopez",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Beauty Experience Lead"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-11 19:01:47",
+    "login_id": "1759121",
+    "user_id": "214005",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Marlene Lopez",
+    "profile_picture": null,
+    "titleTextEncoded": "marlene-lopez",
+    "title": "Marlene Lopez",
+    "videos_count": "0"
+}

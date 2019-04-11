@@ -1,0 +1,114 @@
+{
+    "title": "Red, Plaid and Metallic Trend",
+    "description": null,
+    "referenceId": "53c123aa411aecd3b0f1a471932014a7",
+    "date_created": "1540577577",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "women",
+    "id": "181274919",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "red-plaid-and-metallic-trend",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/181274919\/a97ed\/thumb-53c123aa411aecd3b0f1a471932014a7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/thumb-53c123aa411aecd3b0f1a471932014a7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/thumb-53c123aa411aecd3b0f1a471932014a7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/thumb-53c123aa411aecd3b0f1a471932014a7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/thumb-53c123aa411aecd3b0f1a471932014a7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/thumb-53c123aa411aecd3b0f1a471932014a7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/thumb-53c123aa411aecd3b0f1a471932014a7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181274919\/thumbnail\/image-thumbnail-256-c18b4e9ad821cb75f900d0e07d607b35.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181274919\/thumbnail\/image-thumbnail-480-0f66d03e92863b0de7e9220984e4c3b8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/thumb-53c123aa411aecd3b0f1a471932014a7-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181274919\/thumbnail\/image-thumbnail-480-0f66d03e92863b0de7e9220984e4c3b8.jpg",
+        "type": "mp4",
+        "assetId": 181274919,
+        "assetTitle": "DC2C2C97-1617-4037-8A4B-BC776A11C3BA",
+        "assetTitleTextEncoded": "dc2c2c97-1617-4037-8a4b-bc776a11c3ba",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181274919,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181274919\/a97ed\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

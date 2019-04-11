@@ -1,0 +1,112 @@
+{
+    "title": "Gladiador inspired",
+    "description": "This T-shirt brings me back to Athens.",
+    "referenceId": "f68700035df57f12eca697a89379a96c",
+    "date_created": "1541387144",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": "men",
+    "id": "182019278",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "gladiador-inspired",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/182019278\/c990f\/thumb-f68700035df57f12eca697a89379a96c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/thumb-f68700035df57f12eca697a89379a96c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/thumb-f68700035df57f12eca697a89379a96c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/thumb-f68700035df57f12eca697a89379a96c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182019278\/thumbnail\/image-thumbnail-256-587733e20e43d0ba0a54f9812fdfa18f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182019278\/thumbnail\/image-thumbnail-480-ce3bee8fafa575461b61e4d8a1de3dab.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182019278\/thumbnail\/image-thumbnail-640-bf3d89d4b2b892840299588883cae9cf.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182019278\/thumbnail\/image-thumbnail-1280-2ea72242a25ebe8a89adffcf6b2cfe15.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/thumb-f68700035df57f12eca697a89379a96c-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182019278\/thumbnail\/image-thumbnail-640-bf3d89d4b2b892840299588883cae9cf.jpg",
+        "type": "mp4",
+        "assetId": 182019278,
+        "assetTitle": "78928739-405E-4456-8334-EA53E9BD657F",
+        "assetTitleTextEncoded": "78928739-405e-4456-8334-ea53e9bd657f",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182019278,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/182019278\/c990f\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

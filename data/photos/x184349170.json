@@ -1,0 +1,115 @@
+{
+    "title": "Cyber week fashion finds",
+    "description": "Gorgeous INC jacket with a classic pair of Calvin Klein pants with sneakers from Finishline. ",
+    "referenceId": null,
+    "date_created": "1543363477",
+    "date_modified": "1546466795",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213202",
+    "id": "184349170",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "cyber-week-fashion-finds",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1280,
+                "height": 2044,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-media--1280.jpeg?v=1543363494580"
+            },
+            {
+                "width": 1200,
+                "height": 1916,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-media--1200.jpeg?v=1543363495377"
+            },
+            {
+                "width": 1024,
+                "height": 1635,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-media--1024.jpeg?v=1543363494439"
+            },
+            {
+                "width": 1080,
+                "height": 1724,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-media--1080.jpeg?v=1543363494491"
+            },
+            {
+                "width": 960,
+                "height": 1533,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-media--960.jpeg?v=1543363494491"
+            },
+            {
+                "width": 640,
+                "height": 1022,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-media--640.jpeg?v=1543363495201"
+            },
+            {
+                "width": 600,
+                "height": 958,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-media--600.jpeg?v=1543363495305"
+            },
+            {
+                "width": 256,
+                "height": 408,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-media--256.jpeg?v=1543363495560"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-thumbnail-1280.jpeg?v=1543363496052"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-thumbnail-640.jpeg?v=1543363495997"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-thumbnail-480.jpeg?v=1543363495978"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-thumbnail-256.jpeg?v=1543363495968"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-thumbnail-64.jpeg?v=1543363496105"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184349170\/image-thumbnail-640.jpeg?v=1543363495997",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

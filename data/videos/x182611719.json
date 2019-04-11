@@ -1,0 +1,110 @@
+{
+    "title": "INC",
+    "description": "I love INC International concepts ultimate shopping event 4o% + 30% off  and 15% cosmetics and fragrance. www.macys.com #macysstylecrew #mylook #Macys",
+    "referenceId": "40b1648c7b8864cb03f58823eee5733d",
+    "date_created": "1541513860",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213731",
+    "product_category": "women",
+    "id": "182611719",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 1280,
+            "height": 624
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/182611719\/0049c\/thumb-40b1648c7b8864cb03f58823eee5733d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/thumb-40b1648c7b8864cb03f58823eee5733d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/thumb-40b1648c7b8864cb03f58823eee5733d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/thumb-40b1648c7b8864cb03f58823eee5733d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182611719\/thumbnail\/image-thumbnail-256-f8af470fb084b97d9df729a424b00fbe.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182611719\/thumbnail\/image-thumbnail-480-6704d861be7ff2cf0ff298dc75e46c3d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182611719\/thumbnail\/image-thumbnail-640-6bb966429830333984355d1ce31665b6.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182611719\/thumbnail\/image-thumbnail-1280-123910b7574af96f71672e3cbac65fc4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/thumb-40b1648c7b8864cb03f58823eee5733d-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611719\/thumbnail\/image-thumbnail-640-6bb966429830333984355d1ce31665b6.jpg",
+        "type": "mp4",
+        "assetId": 182611719,
+        "assetTitle": "VID_20181105_164655",
+        "assetTitleTextEncoded": "vid-20181105-164655",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182611719,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 624
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 624
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 416
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 312
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611719\/0049c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 156
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

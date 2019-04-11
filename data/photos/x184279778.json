@@ -1,0 +1,91 @@
+{
+    "title": "Lancôme Matte Shakers $15",
+    "description": "Matte Shakers $15 during cyber week 11\/25 through 11\/28",
+    "referenceId": null,
+    "date_created": "1543183084",
+    "date_modified": "1546466796",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213750",
+    "id": "184279778",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "lancome-matte-shakers-15",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1024,
+                "height": 1821,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-media--1024.jpeg?v=1543183089499"
+            },
+            {
+                "width": 960,
+                "height": 1707,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-media--960.jpeg?v=1543183089619"
+            },
+            {
+                "width": 640,
+                "height": 1138,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-media--640.jpeg?v=1543183089544"
+            },
+            {
+                "width": 600,
+                "height": 1066,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-media--600.jpeg?v=1543183089529"
+            },
+            {
+                "width": 256,
+                "height": 455,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-media--256.jpeg?v=1543183089829"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-thumbnail-640.jpeg?v=1543183090056"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-thumbnail-480.jpeg?v=1543183090043"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-thumbnail-256.jpeg?v=1543183090030"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-thumbnail-64.jpeg?v=1543183090025"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279778\/image-thumbnail-640.jpeg?v=1543183090056",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

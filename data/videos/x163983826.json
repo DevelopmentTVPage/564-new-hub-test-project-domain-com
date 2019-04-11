@@ -1,0 +1,107 @@
+{
+    "title": "Style & Co Petite Bell-Sleeve Trapeze Dress",
+    "description": "Another Sunday Funday in this casual Style & Co dress. Perfect with sneakers or sandals and crossbody bag. Sneakers by BeBe and Crossbody by Steve Madden available at Macy's!",
+    "referenceId": "8de91aa26edd6a8733872ca9746fb4aa",
+    "date_created": "1526877298",
+    "date_modified": "1546466802",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "163983826",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-co-petite-bell-sleeve-trapeze-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "41",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "41",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163983826\/thumbnail\/image-thumbnail-480-38b9d1e7549ce141985f5731421d093d.jpg",
+        "type": "mp4",
+        "assetId": "163983826",
+        "assetTitle": "Style & Co Petite Bell-Sleeve Trapese Dress",
+        "assetTitleTextEncoded": "84031ab9-c512-44ad-a505-cfdaa0ca1ec1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163983826",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/163983826\/ca39b\/thumb-8de91aa26edd6a8733872ca9746fb4aa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/163983826\/user-images\/image-480-47cc5a8f51cce94d26265784123e3086.jpg",
+            "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/thumb-8de91aa26edd6a8733872ca9746fb4aa-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/163983826\/user-images\/image-480-47cc5a8f51cce94d26265784123e3086.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/163983826\/thumbnail\/image-thumbnail-256-3abc7b01806772373a33b52578b7239b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/163983826\/thumbnail\/image-thumbnail-480-38b9d1e7549ce141985f5731421d093d.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

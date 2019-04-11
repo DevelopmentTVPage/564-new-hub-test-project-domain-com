@@ -1,0 +1,127 @@
+{
+    "title": "My Gift List",
+    "description": "I made my list and I’m checking it twice!! I’ve curated the perfect gift list from Macy’s.  From novelty sweaters and velvet quilts to drinking games, there is something for everyone.  It features just a few of my favorite things that I’ll be gifting this year.  So the question is, have you been Naughty or Nice?!",
+    "referenceId": null,
+    "date_created": "1544700474",
+    "date_modified": "1546466829",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213712",
+    "id": "187902013",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-gift-list",
+    "linkUrl": null,
+    "category": "Men",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2902,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--1920.jpeg?v=1544700495462"
+            },
+            {
+                "width": 1280,
+                "height": 1935,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--1280.jpeg?v=1544700497062"
+            },
+            {
+                "width": 1200,
+                "height": 1814,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--1200.jpeg?v=1544700495844"
+            },
+            {
+                "width": 1024,
+                "height": 1548,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--1024.jpeg?v=1544700497063"
+            },
+            {
+                "width": 1080,
+                "height": 1632,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--1080.jpeg?v=1544700495033"
+            },
+            {
+                "width": 960,
+                "height": 1451,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--960.jpeg?v=1544700495833"
+            },
+            {
+                "width": 640,
+                "height": 967,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--640.jpeg?v=1544700494859"
+            },
+            {
+                "width": 600,
+                "height": 907,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--600.jpeg?v=1544700494853"
+            },
+            {
+                "width": 256,
+                "height": 387,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-media--256.jpeg?v=1544700495303"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-thumbnail-1920.jpeg?v=1544700497946"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-thumbnail-1280.jpeg?v=1544700497839"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-thumbnail-640.jpeg?v=1544700497766"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-thumbnail-480.jpeg?v=1544700497755"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-thumbnail-256.jpeg?v=1544700498000"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-thumbnail-64.jpeg?v=1544700497999"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187902013\/image-thumbnail-640.jpeg?v=1544700497766",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

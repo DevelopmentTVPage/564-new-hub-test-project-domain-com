@@ -1,0 +1,117 @@
+{
+    "title": "Zoe by Rachel Zoe Party Suit",
+    "description": "Hi guys! I’ve been waiting to share this video with you all for some time now and today is the day! With the holidays starting to roll around, I wanted to talk about my go to party look, inspired by my love of menswear. I’m featuring this gorgeous metallic black tuxedo suit from the exclusive to Macy’s, Zoe by Rachel Zoe, collection. I hope this inspires you to try something a little different than than the party dress this season!\n\nAll of the Product Web IDs: (searchable on Macys.com)\n6543118- Zoe by Rachel Zoe Shimmer Blazer\n6543119- Zoe by Rachel Zoe Shimmer Tuxedo Pants\n5769636- Nine West Strappy Heels (Michelle’s look)\n552584- Charter Club Crystal Drop Earrings (similar to the ones featured)",
+    "referenceId": "2a0854438271c6aa6e54c26c1d76e0c9",
+    "date_created": "1539314613",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "42",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "179870262",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "zoe-by-rachel-zoe-party-suit",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "200",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "200",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "200",
+        "prettyDuration": "00:03:20",
+        "automaticThumbnailsPattern": "1759121\/179870262\/a83f3\/thumb-2a0854438271c6aa6e54c26c1d76e0c9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179870262\/user-images\/image-3840-bb7ee01f4037b54784bc320654f65578.jpg",
+            "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/thumb-2a0854438271c6aa6e54c26c1d76e0c9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/thumb-2a0854438271c6aa6e54c26c1d76e0c9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/thumb-2a0854438271c6aa6e54c26c1d76e0c9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/thumb-2a0854438271c6aa6e54c26c1d76e0c9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/thumb-2a0854438271c6aa6e54c26c1d76e0c9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/thumb-2a0854438271c6aa6e54c26c1d76e0c9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179870262\/thumbnail\/image-thumbnail-256-94a0e2ec241d574858c224e4278c3931.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179870262\/thumbnail\/image-thumbnail-480-b7f62145c087ce3213f67e59ece953cd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179870262\/thumbnail\/image-thumbnail-640-95da4b86ae894549299d23e3c8b62156.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179870262\/thumbnail\/image-thumbnail-1280-6b64a5619cb0781167c49e188acbe3cb.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/179870262\/thumbnail\/image-thumbnail-1920-0a3a3cd973147b317de998a69b7ed0b7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179870262\/user-images\/image-3840-bb7ee01f4037b54784bc320654f65578.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179870262\/thumbnail\/image-thumbnail-640-95da4b86ae894549299d23e3c8b62156.jpg",
+        "type": "mp4",
+        "assetId": "179870262",
+        "assetTitle": "Zoe by Rachel Zoe Party Suit",
+        "assetTitleTextEncoded": "zoe-by-rachel-zoe-party-suit",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179870262",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/179870262\/a83f3\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

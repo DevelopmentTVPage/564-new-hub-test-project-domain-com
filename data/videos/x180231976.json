@@ -1,0 +1,116 @@
+{
+    "title": "Thalia Sodi Pink Tee",
+    "description": "Thalia Sodi Tee \nSupporting Breast Cancer Awareness",
+    "referenceId": "57910c168e208a33db4cb655942c3fad",
+    "date_created": "1539665509",
+    "date_modified": "1546466785",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "180231976",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "thalia-sodi-pink-tee",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/180231976\/76cf1\/thumb-57910c168e208a33db4cb655942c3fad-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180231976\/user-images\/image-1564-fee862575afa062044792228240beba2.jpg",
+            "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/thumb-57910c168e208a33db4cb655942c3fad-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/thumb-57910c168e208a33db4cb655942c3fad-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/thumb-57910c168e208a33db4cb655942c3fad-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/thumb-57910c168e208a33db4cb655942c3fad-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/thumb-57910c168e208a33db4cb655942c3fad-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/thumb-57910c168e208a33db4cb655942c3fad-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180231976\/thumbnail\/image-thumbnail-256-b64366532df4b7705005669afd8f15e0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180231976\/thumbnail\/image-thumbnail-480-30c27e67d36a04009afd2b29951c1a40.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180231976\/thumbnail\/image-thumbnail-640-fbc4ba337e8c95b48ab24e878afe4a23.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180231976\/thumbnail\/image-thumbnail-1280-f06c2a3c34774703e61ad092c313dfb8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180231976\/user-images\/image-1564-fee862575afa062044792228240beba2.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180231976\/thumbnail\/image-thumbnail-640-fbc4ba337e8c95b48ab24e878afe4a23.jpg",
+        "type": "mp4",
+        "assetId": 180231976,
+        "assetTitle": "pink1",
+        "assetTitleTextEncoded": "pink1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180231976,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/180231976\/76cf1\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,114 @@
+{
+    "title": "\"Fashion Office Hottest looks\"",
+    "description": "How to look amazing for the office this Holiday season.. #macysstylecrew #mystylist@macys\nclick on my link to shop for these amazing pieces www.macys.com\/style-crew\/a\/andrea-warner\/213345\/",
+    "referenceId": "f41979e00caa4d50cc7995d7445b9276",
+    "date_created": "1542230992",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "women",
+    "id": "183455433",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-looks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 8,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 8,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 8,
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/183455433\/e25fa\/thumb-f41979e00caa4d50cc7995d7445b9276-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/thumb-f41979e00caa4d50cc7995d7445b9276-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/thumb-f41979e00caa4d50cc7995d7445b9276-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/thumb-f41979e00caa4d50cc7995d7445b9276-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/thumb-f41979e00caa4d50cc7995d7445b9276-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183455433\/thumbnail\/image-thumbnail-256-142a44b969b1f6df8e7432cff5f4469a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183455433\/thumbnail\/image-thumbnail-480-2a4ad3967aabf1f67001e42113fabd3c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183455433\/thumbnail\/image-thumbnail-640-3696e129f12f22f9dead8fcd0254776a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183455433\/thumbnail\/image-thumbnail-1280-13f46be0643c70d2b2827140d55697f3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/thumb-f41979e00caa4d50cc7995d7445b9276-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455433\/thumbnail\/image-thumbnail-640-3696e129f12f22f9dead8fcd0254776a.jpg",
+        "type": "mp4",
+        "assetId": 183455433,
+        "assetTitle": "\"Fashion Office Hottest looks\"",
+        "assetTitleTextEncoded": "d942ce81-da61-4f9d-b60a-a9dcafaf3fa3",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183455433,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455433\/e25fa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

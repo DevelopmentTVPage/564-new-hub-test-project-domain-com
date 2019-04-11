@@ -1,0 +1,114 @@
+{
+    "title": "Fashion Office Hottest Looks: Holiday Party",
+    "description": "Holiday party season is in full swing, but what will you wear?!",
+    "referenceId": "7aa62272711d6976307a1ee9ac308d71",
+    "date_created": "1544821079",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "193",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": "women",
+    "id": "188198676",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-looks-holiday-party",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/188198676\/41503\/thumb-7aa62272711d6976307a1ee9ac308d71-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188198676\/41503\/thumb-7aa62272711d6976307a1ee9ac308d71-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198676\/41503\/thumb-7aa62272711d6976307a1ee9ac308d71-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198676\/41503\/thumb-7aa62272711d6976307a1ee9ac308d71-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198676\/41503\/thumb-7aa62272711d6976307a1ee9ac308d71-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198676\/41503\/thumb-7aa62272711d6976307a1ee9ac308d71-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198676\/41503\/thumb-7aa62272711d6976307a1ee9ac308d71-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188198676\/thumbnail\/image-thumbnail-256-8653f8b1dc809b46074196540c6e8463.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188198676\/thumbnail\/image-thumbnail-480-851be7faaff434556fa9ac34a227d17f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188198676\/thumbnail\/image-thumbnail-640-afa480bbaec8d85f449583cd1e4f475f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188198676\/thumbnail\/image-thumbnail-1280-663ca02cfb0fe3de18cbb8167b0ea974.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188198676\/thumbnail\/image-thumbnail-1920-15248ea33562b38f0040d653548edc18.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188198676\/41503\/thumb-7aa62272711d6976307a1ee9ac308d71-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188198676\/thumbnail\/image-thumbnail-640-afa480bbaec8d85f449583cd1e4f475f.jpg",
+        "type": "mp4",
+        "assetId": 188198676,
+        "assetTitle": "Fashion Office Hottest Looks Holiday Party",
+        "assetTitleTextEncoded": "fashion-office-hottest-looks-holiday-party",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188198676,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198676\/41503\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198676\/41503\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198676\/41503\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198676\/41503\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198676\/41503\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

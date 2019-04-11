@@ -1,0 +1,103 @@
+{
+    "title": "Macy's Style Crew_Dorthia Brown_Trattroria Event",
+    "description": null,
+    "referenceId": "e7b9f2236fe58aa89d9104163a15d917",
+    "date_created": "1550279000",
+    "date_modified": "1550279681",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213224",
+    "product_category": null,
+    "id": "203083556",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-dorthia-brown-trattroria-event",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "31",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "31",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "automaticThumbnailsPattern": "1759121\/203083556\/d75cc\/thumb-e7b9f2236fe58aa89d9104163a15d917-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/thumb-e7b9f2236fe58aa89d9104163a15d917-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/thumb-e7b9f2236fe58aa89d9104163a15d917-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/thumb-e7b9f2236fe58aa89d9104163a15d917-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/thumb-e7b9f2236fe58aa89d9104163a15d917-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/thumb-e7b9f2236fe58aa89d9104163a15d917-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/thumb-e7b9f2236fe58aa89d9104163a15d917-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203083556\/thumbnail\/image-thumbnail-256-9c232ae752b8781af865cd54bec48785.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203083556\/thumbnail\/image-thumbnail-480-b40d401b5e336fcebe917f2de0147701.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/203083556\/thumbnail\/image-thumbnail-640-026bb988e733f4c51eb1026d87cdd1ef.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/203083556\/thumbnail\/image-thumbnail-1280-22dbb520482e7ada4ad80fe8af620d96.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/203083556\/thumbnail\/image-thumbnail-1920-514a795be1e42aefc0c63c4aeaabbb22.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/thumb-e7b9f2236fe58aa89d9104163a15d917-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203083556\/thumbnail\/image-thumbnail-640-026bb988e733f4c51eb1026d87cdd1ef.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/203083556\/d75cc\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,104 @@
+{
+    "title": "@fashionistamila wearing BARIII sweater dress",
+    "description": "Want to know how to stay cute and cozy in the winter? Check out this BARIII cutout sweater dress exclusively sold at Macy’s!",
+    "referenceId": "2097c363e693a143e5853ec6d0abcc50",
+    "date_created": "1548022977",
+    "date_modified": "1548023097",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "69",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213295",
+    "product_category": null,
+    "id": "199070583",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashionistamila-wearing-bariii-sweater-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "38",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "automaticThumbnailsPattern": "1759121\/199070583\/81a70\/thumb-2097c363e693a143e5853ec6d0abcc50-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/thumb-2097c363e693a143e5853ec6d0abcc50-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/thumb-2097c363e693a143e5853ec6d0abcc50-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/thumb-2097c363e693a143e5853ec6d0abcc50-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/thumb-2097c363e693a143e5853ec6d0abcc50-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/thumb-2097c363e693a143e5853ec6d0abcc50-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/thumb-2097c363e693a143e5853ec6d0abcc50-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199070583\/thumbnail\/image-thumbnail-256-6bab8d87582721380532ff1d5c056df9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199070583\/thumbnail\/image-thumbnail-480-d4b7781771701d0ff18b9f04e0ff97d2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/199070583\/thumbnail\/image-thumbnail-640-5bd4d4448a0349d5d46e3f3c835d8d38.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/199070583\/thumbnail\/image-thumbnail-1280-59463d9b5f58fea4f574594ccbce01d9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199070583\/81a70\/thumb-2097c363e693a143e5853ec6d0abcc50-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199070583\/thumbnail\/image-thumbnail-640-5bd4d4448a0349d5d46e3f3c835d8d38.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

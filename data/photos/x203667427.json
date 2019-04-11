@@ -1,0 +1,127 @@
+{
+    "title": "Dickies hoodie",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1550446618",
+    "date_modified": "1550447174",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213700",
+    "id": "203667427",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "dickies-hoodie",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3856,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--1920.jpeg?v=1550446642293"
+            },
+            {
+                "width": 1280,
+                "height": 2571,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--1280.jpeg?v=1550446641478"
+            },
+            {
+                "width": 1200,
+                "height": 2410,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--1200.jpeg?v=1550446641288"
+            },
+            {
+                "width": 1024,
+                "height": 2057,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--1024.jpeg?v=1550446640901"
+            },
+            {
+                "width": 1080,
+                "height": 2169,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--1080.jpeg?v=1550446640986"
+            },
+            {
+                "width": 960,
+                "height": 1928,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--960.jpeg?v=1550446640800"
+            },
+            {
+                "width": 640,
+                "height": 1285,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--640.jpeg?v=1550446640492"
+            },
+            {
+                "width": 600,
+                "height": 1205,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--600.jpeg?v=1550446640486"
+            },
+            {
+                "width": 256,
+                "height": 514,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-media--256.jpeg?v=1550446642100"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-thumbnail-1920.jpeg?v=1550446644249"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-thumbnail-1280.jpeg?v=1550446644203"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-thumbnail-640.jpeg?v=1550446644098"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-thumbnail-480.jpeg?v=1550446644113"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-thumbnail-256.jpeg?v=1550446644105"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-thumbnail-64.jpeg?v=1550446644080"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667427\/image-thumbnail-640.jpeg?v=1550446644098",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

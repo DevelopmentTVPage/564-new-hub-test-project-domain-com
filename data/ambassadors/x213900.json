@@ -1,0 +1,21 @@
+{
+    "id": "213900",
+    "first_name": "Beatriz",
+    "last_name": "Valle",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/227048575-0.6135137539356.jpg",
+        "job_title": "Compensation Analsyt"
+    },
+    "last_login_timestamp": "1550076099",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-14 19:56:49",
+    "login_id": "1759121",
+    "user_id": "213900",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Beatriz Valle",
+    "profile_picture": "\/api\/canvas\/logo\/227048575-0.6135137539356.jpg",
+    "titleTextEncoded": "beatriz-valle",
+    "title": "Beatriz Valle",
+    "videos_count": "0"
+}

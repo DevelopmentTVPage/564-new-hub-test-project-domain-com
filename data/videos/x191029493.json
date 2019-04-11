@@ -1,0 +1,107 @@
+{
+    "title": "Red and Black",
+    "description": "Red and Black activewear",
+    "referenceId": "ad52deda6abfa3db746cdae2dbf480b2",
+    "date_created": "1545562480",
+    "date_modified": "1546534665",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": null,
+    "id": "191029493",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "red-and-black",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 28,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 28,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 28,
+        "prettyDuration": "00:00:28",
+        "automaticThumbnailsPattern": "1759121\/191029493\/ac4a7\/thumb-ad52deda6abfa3db746cdae2dbf480b2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/thumb-ad52deda6abfa3db746cdae2dbf480b2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/thumb-ad52deda6abfa3db746cdae2dbf480b2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/thumb-ad52deda6abfa3db746cdae2dbf480b2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/thumb-ad52deda6abfa3db746cdae2dbf480b2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/thumb-ad52deda6abfa3db746cdae2dbf480b2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/thumb-ad52deda6abfa3db746cdae2dbf480b2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191029493\/thumbnail\/image-thumbnail-256-40a947dc5447f44152dbb8f1112a3cab.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191029493\/thumbnail\/image-thumbnail-480-ebc04813ab7ccf2a7ab5d3b3f0e6de0e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191029493\/thumbnail\/image-thumbnail-640-7a58df7e7b804b35bcda52e192ef2283.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/191029493\/thumbnail\/image-thumbnail-1280-9fdff0906d7d5245e282951fdbfb5ec4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/thumb-ad52deda6abfa3db746cdae2dbf480b2-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191029493\/thumbnail\/image-thumbnail-640-7a58df7e7b804b35bcda52e192ef2283.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029493\/ac4a7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

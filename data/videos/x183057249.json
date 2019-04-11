@@ -1,0 +1,111 @@
+{
+    "title": "Almost Famous",
+    "description": "Sku 651913 almost famous blazer style wrap jumpsuit!!",
+    "referenceId": "299361cb83408af9363991c3b0906e54",
+    "date_created": "1541801031",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213739",
+    "product_category": "juniors",
+    "id": "183057249",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "almost-famous",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/183057249\/01139\/thumb-299361cb83408af9363991c3b0906e54-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183057249\/user-images\/image-1125-e6c44753f832cd4262aa8c4d8bbb3a6d.jpg",
+            "\/\/v.tvpage.com\/1759121\/183057249\/01139\/thumb-299361cb83408af9363991c3b0906e54-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183057249\/01139\/thumb-299361cb83408af9363991c3b0906e54-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183057249\/01139\/thumb-299361cb83408af9363991c3b0906e54-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183057249\/thumbnail\/image-thumbnail-256-91367427a34346fbcf577d1e230ec0b3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183057249\/thumbnail\/image-thumbnail-480-d8a078b3acd9a6d76da41f634d096889.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183057249\/thumbnail\/image-thumbnail-640-e66183399a5757da985b82e6a1636f27.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183057249\/user-images\/image-1125-e6c44753f832cd4262aa8c4d8bbb3a6d.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183057249\/thumbnail\/image-thumbnail-640-e66183399a5757da985b82e6a1636f27.jpg",
+        "type": "mp4",
+        "assetId": 183057249,
+        "assetTitle": "E90B8AC1-13FD-4E7C-A5A1-7C83B5128A01",
+        "assetTitleTextEncoded": "e90b8ac1-13fd-4e7c-a5a1-7c83b5128a01",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183057249,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183057249\/01139\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183057249\/01139\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183057249\/01139\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183057249\/01139\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183057249\/01139\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

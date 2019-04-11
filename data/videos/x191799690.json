@@ -1,0 +1,103 @@
+{
+    "title": "NEW CliniqueID",
+    "description": "New CliniqueID moisturizer and concentrate costumized for your skin needs",
+    "referenceId": "7028109216f9ceb32e50941e6ee3fcbe",
+    "date_created": "1546112938",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213181",
+    "product_category": null,
+    "id": "191799690",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "new-cliniqueid",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "78",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "78",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "automaticThumbnailsPattern": "1759121\/191799690\/4df7c\/thumb-7028109216f9ceb32e50941e6ee3fcbe-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/thumb-7028109216f9ceb32e50941e6ee3fcbe-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/thumb-7028109216f9ceb32e50941e6ee3fcbe-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/thumb-7028109216f9ceb32e50941e6ee3fcbe-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/thumb-7028109216f9ceb32e50941e6ee3fcbe-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/thumb-7028109216f9ceb32e50941e6ee3fcbe-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/thumb-7028109216f9ceb32e50941e6ee3fcbe-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191799690\/thumbnail\/image-thumbnail-256-dc2c2dd102581dd40146d6d42a3bb679.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/thumb-7028109216f9ceb32e50941e6ee3fcbe-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191799690\/thumbnail\/image-thumbnail-256-dc2c2dd102581dd40146d6d42a3bb679.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191799690\/4df7c\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

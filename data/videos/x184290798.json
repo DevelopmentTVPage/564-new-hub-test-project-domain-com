@@ -1,0 +1,111 @@
+{
+    "title": "Madden Girl Kirra Rhinestone Boots",
+    "description": "Twinkle toes!",
+    "referenceId": "8fa10f2c4f7db43cad63b4a710583cd5",
+    "date_created": "1543199259",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213741",
+    "product_category": "shoes",
+    "id": "184290798",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "madden-girl-kirra-rhinestone-boots",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 4,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 4,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 4,
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/184290798\/969ac\/thumb-8fa10f2c4f7db43cad63b4a710583cd5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184290798\/user-images\/image-581-1ab3112d983afe19be6360f246e9267e.jpg",
+            "\/\/v.tvpage.com\/1759121\/184290798\/969ac\/thumb-8fa10f2c4f7db43cad63b4a710583cd5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184290798\/969ac\/thumb-8fa10f2c4f7db43cad63b4a710583cd5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184290798\/thumbnail\/image-thumbnail-256-0b8cc827883ffcdf4f992c1f36a1cdad.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184290798\/thumbnail\/image-thumbnail-480-769b90016b1596b273ca0508bbf21efd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184290798\/user-images\/image-581-1ab3112d983afe19be6360f246e9267e.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184290798\/thumbnail\/image-thumbnail-480-769b90016b1596b273ca0508bbf21efd.jpg",
+        "type": "mp4",
+        "assetId": 184290798,
+        "assetTitle": "FC585711-F373-4F9B-B638-A91BDBD79F56",
+        "assetTitleTextEncoded": "fc585711-f373-4f9b-b638-a91bdbd79f56",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184290798,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184290798\/969ac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184290798\/969ac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184290798\/969ac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184290798\/969ac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184290798\/969ac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

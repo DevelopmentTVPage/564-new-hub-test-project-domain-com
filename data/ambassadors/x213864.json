@@ -1,0 +1,21 @@
+{
+    "id": "213864",
+    "first_name": "Cody",
+    "last_name": "Graham",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/200495473-0.7404665740206.jpg",
+        "job_title": "Beauty Advisor"
+    },
+    "last_login_timestamp": "1549902088",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-16 06:02:02",
+    "login_id": "1759121",
+    "user_id": "213864",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Cody Graham",
+    "profile_picture": "\/api\/canvas\/logo\/200495473-0.7404665740206.jpg",
+    "titleTextEncoded": "cody-graham",
+    "title": "Cody Graham",
+    "videos_count": "0"
+}

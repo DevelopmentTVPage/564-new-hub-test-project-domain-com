@@ -1,0 +1,112 @@
+{
+    "title": "Bar III- Sequin Slip Dress",
+    "description": "Great dress for the holidays.",
+    "referenceId": "067286ae1fd9831d2557a2ce65026092",
+    "date_created": "1544107199",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "39",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213714",
+    "product_category": "women",
+    "id": "185511715",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "bar-iii-sequin-slip-dress",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/185511715\/294ac\/thumb-067286ae1fd9831d2557a2ce65026092-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/thumb-067286ae1fd9831d2557a2ce65026092-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/thumb-067286ae1fd9831d2557a2ce65026092-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/thumb-067286ae1fd9831d2557a2ce65026092-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185511715\/thumbnail\/image-thumbnail-256-be85df4a694b1a09e0d4558d5785949e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185511715\/thumbnail\/image-thumbnail-480-bf4ecca8f80e4fda255f1e75c60e7414.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/thumb-067286ae1fd9831d2557a2ce65026092-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185511715\/thumbnail\/image-thumbnail-480-bf4ecca8f80e4fda255f1e75c60e7414.jpg",
+        "type": "mp4",
+        "assetId": 185511715,
+        "assetTitle": "Bar III- Sequin Slip Dress",
+        "assetTitleTextEncoded": "bar-iii-sparkle-dress",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185511715,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185511715\/294ac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

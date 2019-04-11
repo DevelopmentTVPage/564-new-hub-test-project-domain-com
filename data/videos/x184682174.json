@@ -1,0 +1,114 @@
+{
+    "title": "It List - Sleep Foundations and Trips Luggage",
+    "description": "I'm obsessed with finding ways to have a better night's sleep so we've spent the last several months working with our vendors to bring you a collection of products that will help you get the most out of your zzz's.",
+    "referenceId": "3ead632e1016d3a7f3fd0460054aeaa9",
+    "date_created": "1543582275",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "96",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213463",
+    "product_category": "home",
+    "id": "184682174",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "it-list-sleep-foundations-and-trips-luggage",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 138,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 138,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 138,
+        "prettyDuration": "00:02:18",
+        "automaticThumbnailsPattern": "1759121\/184682174\/cba4a\/thumb-3ead632e1016d3a7f3fd0460054aeaa9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/thumb-3ead632e1016d3a7f3fd0460054aeaa9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/thumb-3ead632e1016d3a7f3fd0460054aeaa9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/thumb-3ead632e1016d3a7f3fd0460054aeaa9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/thumb-3ead632e1016d3a7f3fd0460054aeaa9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/thumb-3ead632e1016d3a7f3fd0460054aeaa9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/thumb-3ead632e1016d3a7f3fd0460054aeaa9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184682174\/thumbnail\/image-thumbnail-256-20ab26ac0560d5529a6173412f5d6989.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184682174\/thumbnail\/image-thumbnail-480-e946f5aa8f27439a2815a11454f00cc9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184682174\/thumbnail\/image-thumbnail-640-f77bddbb80410be7675de9ec85d9eb16.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184682174\/thumbnail\/image-thumbnail-1280-607470519b4bf6097734557d788dc92d.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184682174\/thumbnail\/image-thumbnail-1920-0b22bb860ba86a7e6aa535329b4ff1e1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/thumb-3ead632e1016d3a7f3fd0460054aeaa9-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184682174\/thumbnail\/image-thumbnail-640-f77bddbb80410be7675de9ec85d9eb16.jpg",
+        "type": "mp4",
+        "assetId": 184682174,
+        "assetTitle": "05 Spring Preview 2",
+        "assetTitleTextEncoded": "05-spring-preview-2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184682174,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184682174\/cba4a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

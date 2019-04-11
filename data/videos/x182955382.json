@@ -1,0 +1,118 @@
+{
+    "title": "Holiday Beauty Contest-Perfect Office Party Look!",
+    "description": null,
+    "referenceId": "38e57a2d2b93625c0fdced97e795af00",
+    "date_created": "1541726357",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "51",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "beauty",
+    "id": "182955382",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "holiday-beauty-contest-perfect-office-party-look",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 182,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 182,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 182,
+        "prettyDuration": "00:03:02",
+        "automaticThumbnailsPattern": "1759121\/182955382\/40058\/thumb-38e57a2d2b93625c0fdced97e795af00-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182955382\/40058\/thumb-38e57a2d2b93625c0fdced97e795af00-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182955382\/40058\/thumb-38e57a2d2b93625c0fdced97e795af00-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182955382\/40058\/thumb-38e57a2d2b93625c0fdced97e795af00-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182955382\/40058\/thumb-38e57a2d2b93625c0fdced97e795af00-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182955382\/40058\/thumb-38e57a2d2b93625c0fdced97e795af00-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182955382\/40058\/thumb-38e57a2d2b93625c0fdced97e795af00-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182955382\/thumbnail\/image-thumbnail-256-6847ace6d269bc31b12613dd6cb79478.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182955382\/thumbnail\/image-thumbnail-480-4f12fc606a046d8f23b56de889de7543.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182955382\/thumbnail\/image-thumbnail-640-a344a5e86f2892e334a6cbc198947d18.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182955382\/thumbnail\/image-thumbnail-1280-7ce4e79b2430ed0e2c9e1bc1ff130baf.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182955382\/40058\/thumb-38e57a2d2b93625c0fdced97e795af00-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182955382\/thumbnail\/image-thumbnail-640-a344a5e86f2892e334a6cbc198947d18.jpg",
+        "type": "mp4",
+        "assetId": 182955382,
+        "assetTitle": "AAE6DB44-5D7A-4585-B7B9-5C283C397D93",
+        "assetTitleTextEncoded": "aae6db44-5d7a-4585-b7b9-5c283c397d93",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182955382,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182955382\/40058\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182955382\/40058\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182955382\/40058\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182955382\/40058\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182955382\/40058\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/182955382\/40058\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/182955382\/40058\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Meet the Crew!",
+    "description": "Meet your Macy's Style Crew members",
+    "referenceId": "2cc0e67912e348c15ea0c48a8002e2d1",
+    "date_created": "1528405388",
+    "date_modified": "1546466801",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213135",
+    "product_category": "women",
+    "id": "164680548",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "meet-the-crew",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "17",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "17",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164680548\/thumbnail\/image-thumbnail-640-1edffcddbd9ea8674fecafc1e65cfcef.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": "164680548",
+        "assetTitle": "Modern Opener",
+        "assetTitleTextEncoded": "modern-opener",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164680548",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680548\/f9ac9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680548\/f9ac9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680548\/f9ac9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680548\/f9ac9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680548\/f9ac9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164680548\/f9ac9\/thumb-2cc0e67912e348c15ea0c48a8002e2d1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164680548\/user-images\/image-1920-ba348c451969ad4893da768740f9752d.jpg",
+            "\/\/v.tvpage.com\/1759121\/164680548\/f9ac9\/thumb-2cc0e67912e348c15ea0c48a8002e2d1-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164680548\/user-images\/image-1920-ba348c451969ad4893da768740f9752d.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164680548\/thumbnail\/image-thumbnail-256-45c84da983e53aaf7080c56146709313.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164680548\/thumbnail\/image-thumbnail-480-e6187d777ebbaccc1fa6f5be2b312400.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164680548\/thumbnail\/image-thumbnail-640-1edffcddbd9ea8674fecafc1e65cfcef.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164680548\/thumbnail\/image-thumbnail-1280-1343ac788e16f4e0096f8f5d12a59d0e.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164680548\/thumbnail\/image-thumbnail-1920-1e05742260cd93cec9a66c976bfa85b5.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,114 @@
+{
+    "title": "My Stylist Jonathan’s Favorite Holiday Gifts ",
+    "description": "Frango chocolate gifts for the holidays.",
+    "referenceId": "fb59277526212dbca1b15ebb286fcca0",
+    "date_created": "1541482806",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213247",
+    "product_category": "home",
+    "id": "182611323",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-stylist-jonathans-favorite-holiday-gifts",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 60,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 60,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 60,
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/182611323\/f6408\/thumb-fb59277526212dbca1b15ebb286fcca0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182611323\/user-images\/image-1280-4fca6dc2ea54e29351e6ae00da9e2b2d.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/thumb-fb59277526212dbca1b15ebb286fcca0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/thumb-fb59277526212dbca1b15ebb286fcca0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/thumb-fb59277526212dbca1b15ebb286fcca0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/thumb-fb59277526212dbca1b15ebb286fcca0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/thumb-fb59277526212dbca1b15ebb286fcca0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/thumb-fb59277526212dbca1b15ebb286fcca0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182611323\/thumbnail\/image-thumbnail-256-3f18b0993f960a680478e51638ec7963.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182611323\/thumbnail\/image-thumbnail-480-a8caca73440f5024ef266705caece99f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182611323\/thumbnail\/image-thumbnail-640-c21f560866b8faeedb6c275b2f8dad90.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182611323\/thumbnail\/image-thumbnail-1280-cf89fa5a742493d499013b0b19ab7acf.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611323\/user-images\/image-1280-4fca6dc2ea54e29351e6ae00da9e2b2d.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611323\/thumbnail\/image-thumbnail-640-c21f560866b8faeedb6c275b2f8dad90.jpg",
+        "type": "mp4",
+        "assetId": 182611323,
+        "assetTitle": "My Stylist Jonathan’s Favorite Holiday Gifts ",
+        "assetTitleTextEncoded": "jonathan-franco-s-chocolate-landscape2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182611323,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611323\/f6408\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

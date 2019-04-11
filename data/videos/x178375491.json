@@ -1,0 +1,114 @@
+{
+    "title": "Macy’s Style Crew Sweet Dreams",
+    "description": "Ladies Pajamas",
+    "referenceId": "8ce9487a1c9d584b87b4693b3f963bb6",
+    "date_created": "1537996397",
+    "date_modified": "1546466782",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "178375491",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-sweet-dreams",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "146",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "146",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "146",
+        "prettyDuration": "00:02:26",
+        "automaticThumbnailsPattern": "1759121\/178375491\/008c8\/thumb-8ce9487a1c9d584b87b4693b3f963bb6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/thumb-8ce9487a1c9d584b87b4693b3f963bb6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/thumb-8ce9487a1c9d584b87b4693b3f963bb6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/thumb-8ce9487a1c9d584b87b4693b3f963bb6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/thumb-8ce9487a1c9d584b87b4693b3f963bb6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/thumb-8ce9487a1c9d584b87b4693b3f963bb6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/thumb-8ce9487a1c9d584b87b4693b3f963bb6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178375491\/thumbnail\/image-thumbnail-256-33e84b01ccb52ee3740e65f60fb81de3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178375491\/thumbnail\/image-thumbnail-480-197a8f594d7b846633c8f698782d2014.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/thumb-8ce9487a1c9d584b87b4693b3f963bb6-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178375491\/thumbnail\/image-thumbnail-480-197a8f594d7b846633c8f698782d2014.jpg",
+        "type": "mp4",
+        "assetId": "178375491",
+        "assetTitle": "4578D53E-5699-4FE2-B51D-3143F2509050",
+        "assetTitleTextEncoded": "4578d53e-5699-4fe2-b51d-3143f2509050",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178375491",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375491\/008c8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-10-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "A Procession to Celebrate the Emperor's Jubilee 1848-1908, End of the 16th Century",
+    "tvp_enhanced_transcript": null
+}

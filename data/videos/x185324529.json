@@ -1,0 +1,113 @@
+{
+    "title": "Get scrubbin' with the Foreo Luna Mini 2!",
+    "description": "The Foreo Luna Mini 2 is an enhanced T-Sonic face brush. The \"T\" in T-Sonic stands for transdermal, which means the pulsations that the device has are designed to work deep into the layers of the skin. This helps to give a deep cleansing, but very gently at the same time, thanks to the its soft silicon makeup. The Luna Mini 2 is able to remove 99.5% of dirt and impurities, as well as makeup residue and dead skin cells. I think my favorite part is that you can use your own trusted face wash with the brush, so you're getting an even deeper clean than usual don't need to worry about any reaction to a new product!",
+    "referenceId": "4b67ce7bc1fd57f4176abee2d01adf83",
+    "date_created": "1544048336",
+    "date_modified": "1546466822",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213214",
+    "product_category": "beauty",
+    "id": "185324529",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "get-scrubbin-with-the-foreo-luna-mini-2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/185324529\/23441\/thumb-4b67ce7bc1fd57f4176abee2d01adf83-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185324529\/user-images\/image-847-efd70d130e79382ed15c2ab9f9cc13de.jpg",
+            "\/\/v.tvpage.com\/1759121\/185324529\/23441\/thumb-4b67ce7bc1fd57f4176abee2d01adf83-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185324529\/23441\/thumb-4b67ce7bc1fd57f4176abee2d01adf83-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185324529\/23441\/thumb-4b67ce7bc1fd57f4176abee2d01adf83-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185324529\/23441\/thumb-4b67ce7bc1fd57f4176abee2d01adf83-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185324529\/23441\/thumb-4b67ce7bc1fd57f4176abee2d01adf83-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185324529\/23441\/thumb-4b67ce7bc1fd57f4176abee2d01adf83-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185324529\/thumbnail\/image-thumbnail-256-8a345ce534fc807fe1f2931f9057dc4b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185324529\/thumbnail\/image-thumbnail-480-18e42318c11134dccc225043ca04767f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185324529\/thumbnail\/image-thumbnail-640-201056646a037cadaeaeff777a75e954.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185324529\/user-images\/image-847-efd70d130e79382ed15c2ab9f9cc13de.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185324529\/thumbnail\/image-thumbnail-640-201056646a037cadaeaeff777a75e954.jpg",
+        "type": "mp4",
+        "assetId": 185324529,
+        "assetTitle": "Get scrubbin' with the Foreo Luna Mini 2!",
+        "assetTitleTextEncoded": "foreo",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185324529,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185324529\/23441\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185324529\/23441\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185324529\/23441\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185324529\/23441\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185324529\/23441\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

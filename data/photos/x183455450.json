@@ -1,0 +1,55 @@
+{
+    "title": "My Thanksgiving Day Outfit! ",
+    "description": "I’m loving this I.N.C, one sleeve sweater! I know it’s not the most practical item in the closet but who cares?!  It’s such a cool statement piece for any wardrobe. \nIt says, “my arm is cold...but I’m still cute!” LoL",
+    "referenceId": null,
+    "date_created": "1542258728",
+    "date_modified": "1546466790",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213734",
+    "id": "183455450",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-thanksgiving-day-outfit",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 256,
+                "height": 547,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455450\/image-media--256.jpeg?v=1542258729902"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455450\/image-thumbnail-256.jpeg?v=1542258730031"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455450\/image-thumbnail-64.jpeg?v=1542258730029"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455450\/image-thumbnail-256.jpeg?v=1542258730031",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

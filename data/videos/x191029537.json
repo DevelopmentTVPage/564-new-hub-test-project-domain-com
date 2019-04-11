@@ -1,0 +1,98 @@
+{
+    "title": "Clinique ID ",
+    "description": "#CliniqueID #AGiftFromClinique #MacysStyleCrew",
+    "referenceId": "95a2ac819bb1493b2d70af3e0d6b5bd9",
+    "date_created": "1545604246",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": null,
+    "id": "191029537",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "clinique-id",
+    "category": "#CliniqueID #AGiftFromClinique #MacysStyleCrew",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 4,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 4,
+            "width": 558,
+            "height": 1080
+        },
+        "mediaDuration": 4,
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/191029537\/85ef4\/thumb-95a2ac819bb1493b2d70af3e0d6b5bd9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191029537\/85ef4\/thumb-95a2ac819bb1493b2d70af3e0d6b5bd9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191029537\/85ef4\/thumb-95a2ac819bb1493b2d70af3e0d6b5bd9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191029537\/thumbnail\/image-thumbnail-256-4e43bb99dbeca3a51ac17cc83cafe92c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191029537\/thumbnail\/image-thumbnail-480-0e5889580fc9a4ad0b97151d3bc0d71b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191029537\/85ef4\/thumb-95a2ac819bb1493b2d70af3e0d6b5bd9-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191029537\/thumbnail\/image-thumbnail-480-0e5889580fc9a4ad0b97151d3bc0d71b.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029537\/85ef4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 558,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029537\/85ef4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 372,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029537\/85ef4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 248,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029537\/85ef4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 186,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191029537\/85ef4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 124,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

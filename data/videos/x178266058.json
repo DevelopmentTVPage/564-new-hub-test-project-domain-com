@@ -1,0 +1,113 @@
+{
+    "title": "Summer to Fall",
+    "description": "In today’s video I’m showing you three pieces that transition from summer to fall!",
+    "referenceId": "7dade183e7002594fef5691974bcfa1f",
+    "date_created": "1537789108",
+    "date_modified": "1546466816",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "39",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "women",
+    "id": "178266058",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "summer-to-fall",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "142",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "142",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "142",
+        "prettyDuration": "00:02:22",
+        "automaticThumbnailsPattern": "1759121\/178266058\/72eb2\/thumb-7dade183e7002594fef5691974bcfa1f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/thumb-7dade183e7002594fef5691974bcfa1f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/thumb-7dade183e7002594fef5691974bcfa1f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/thumb-7dade183e7002594fef5691974bcfa1f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/thumb-7dade183e7002594fef5691974bcfa1f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/thumb-7dade183e7002594fef5691974bcfa1f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/thumb-7dade183e7002594fef5691974bcfa1f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178266058\/thumbnail\/image-thumbnail-256-c253537fc6093995820b3411d090381d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178266058\/thumbnail\/image-thumbnail-480-efdc3ec6403e3ddaa10a414b81bcde0b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178266058\/thumbnail\/image-thumbnail-640-180682af0e191f8a87982c012ed3383f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178266058\/thumbnail\/image-thumbnail-1280-3058b479f1d793deff05ee61800457e4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/thumb-7dade183e7002594fef5691974bcfa1f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266058\/thumbnail\/image-thumbnail-640-180682af0e191f8a87982c012ed3383f.jpg",
+        "type": "mp4",
+        "assetId": "178266058",
+        "assetTitle": "0671D8AF-6C99-40F9-B75F-5D32E1F7151A",
+        "assetTitleTextEncoded": "0671d8af-6c99-40f9-b75f-5d32e1f7151a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178266058",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266058\/72eb2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Sky Sports",
+    "tvp_enhanced_transcript": null
+}

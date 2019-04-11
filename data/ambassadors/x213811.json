@@ -1,0 +1,21 @@
+{
+    "id": "213811",
+    "first_name": "Laura",
+    "last_name": "Laufer",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/783825991-0.6421760368626.jpg",
+        "job_title": "Digital Assistant Merchant, Women's Day Dresses"
+    },
+    "last_login_timestamp": "1544446001",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-29 19:20:09",
+    "login_id": "1759121",
+    "user_id": "213811",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Laura Laufer",
+    "profile_picture": "\/api\/canvas\/logo\/783825991-0.6421760368626.jpg",
+    "titleTextEncoded": "laura-laufer",
+    "title": "Laura Laufer",
+    "videos_count": "0"
+}

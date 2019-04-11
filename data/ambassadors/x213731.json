@@ -1,0 +1,21 @@
+{
+    "id": "213731",
+    "first_name": "Sherly",
+    "last_name": "Perry",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/736411969-0.2823007236234.jpg",
+        "job_title": "retail sales associate"
+    },
+    "last_login_timestamp": "1541443541",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 20:32:55",
+    "login_id": "1759121",
+    "user_id": "213731",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sherly Perry",
+    "profile_picture": "\/api\/canvas\/logo\/736411969-0.2823007236234.jpg",
+    "titleTextEncoded": "sherly-perry",
+    "title": "Sherly Perry",
+    "videos_count": "5"
+}

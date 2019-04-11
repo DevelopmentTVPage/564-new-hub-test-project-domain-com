@@ -1,0 +1,113 @@
+{
+    "title": "Urban Decay  Glitter Eyeliner",
+    "description": "Urban Decay Glitter Eyeliner",
+    "referenceId": "564be604d7000503323ddcf17ee78d12",
+    "date_created": "1538585841",
+    "date_modified": "1546466817",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "beauty",
+    "id": "178789318",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "urban-decay-glitter-eyeliner",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "19",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "19",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "19",
+        "prettyDuration": "00:00:19",
+        "automaticThumbnailsPattern": "1759121\/178789318\/105c3\/thumb-564be604d7000503323ddcf17ee78d12-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/thumb-564be604d7000503323ddcf17ee78d12-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/thumb-564be604d7000503323ddcf17ee78d12-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/thumb-564be604d7000503323ddcf17ee78d12-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/thumb-564be604d7000503323ddcf17ee78d12-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/thumb-564be604d7000503323ddcf17ee78d12-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/thumb-564be604d7000503323ddcf17ee78d12-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178789318\/thumbnail\/image-thumbnail-256-7504589f86c0895f12550779fc6ec2bc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178789318\/thumbnail\/image-thumbnail-480-9f7a94be77c4e518e53e0dee79e2d854.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/thumb-564be604d7000503323ddcf17ee78d12-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178789318\/thumbnail\/image-thumbnail-480-9f7a94be77c4e518e53e0dee79e2d854.jpg",
+        "type": "mp4",
+        "assetId": "178789318",
+        "assetTitle": "Urban Decay  glitter eyeliner",
+        "assetTitleTextEncoded": "eyes-1-v",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178789318",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178789318\/105c3\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

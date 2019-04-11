@@ -1,0 +1,104 @@
+{
+    "title": "My Must Have Beauty Products for Winter!",
+    "description": "The winter is harsh on your skin so I’m sharing my favorite products to keep my skin glowing and hydrated all winter long! ",
+    "referenceId": "a0b82ef569c045cebff235f4466854ee",
+    "date_created": "1548452145",
+    "date_modified": "1548452390",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": null,
+    "id": "199869475",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-must-have-beauty-products-for-winter",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 320,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 320,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 320,
+        "prettyDuration": "00:05:20",
+        "automaticThumbnailsPattern": "1759121\/199869475\/83043\/thumb-a0b82ef569c045cebff235f4466854ee-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199869475\/83043\/thumb-a0b82ef569c045cebff235f4466854ee-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869475\/83043\/thumb-a0b82ef569c045cebff235f4466854ee-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869475\/83043\/thumb-a0b82ef569c045cebff235f4466854ee-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869475\/83043\/thumb-a0b82ef569c045cebff235f4466854ee-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869475\/83043\/thumb-a0b82ef569c045cebff235f4466854ee-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869475\/83043\/thumb-a0b82ef569c045cebff235f4466854ee-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199869475\/thumbnail\/image-thumbnail-256-77e0564357bed513740efede7e53e390.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199869475\/thumbnail\/image-thumbnail-480-f6db10e7e683f86c690fde88696da6bc.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/199869475\/thumbnail\/image-thumbnail-640-36893fca8c4015745b9f358698a0dc2c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/199869475\/thumbnail\/image-thumbnail-1280-bbd22c860851b06fb78b549796c82a16.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199869475\/83043\/thumb-a0b82ef569c045cebff235f4466854ee-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199869475\/thumbnail\/image-thumbnail-640-36893fca8c4015745b9f358698a0dc2c.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869475\/83043\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869475\/83043\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869475\/83043\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869475\/83043\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869475\/83043\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

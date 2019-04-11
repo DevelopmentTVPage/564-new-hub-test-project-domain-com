@@ -1,0 +1,115 @@
+{
+    "title": "My Gift List",
+    "description": "Check out some of my favorite picks from #TheGiftList at Macy’s! Click any of the links to shop these items! XO",
+    "referenceId": "7a47720897b2db7fa8119f3f74b31dc8",
+    "date_created": "1544755982",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213173",
+    "product_category": null,
+    "id": "188178206",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-gift-list",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 160,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 160,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 160,
+        "prettyDuration": "00:02:40",
+        "automaticThumbnailsPattern": "1759121\/188178206\/365b8\/thumb-7a47720897b2db7fa8119f3f74b31dc8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188178206\/user-images\/image-3024-68d34e1454d954862de3edc4e8367694.jpg",
+            "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/thumb-7a47720897b2db7fa8119f3f74b31dc8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/thumb-7a47720897b2db7fa8119f3f74b31dc8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/thumb-7a47720897b2db7fa8119f3f74b31dc8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/thumb-7a47720897b2db7fa8119f3f74b31dc8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/thumb-7a47720897b2db7fa8119f3f74b31dc8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/thumb-7a47720897b2db7fa8119f3f74b31dc8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188178206\/thumbnail\/image-thumbnail-256-1a2bf43953f7988317a9f47959ed2f2d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188178206\/thumbnail\/image-thumbnail-480-e96d91c575749721de112f810bd9c2ed.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188178206\/thumbnail\/image-thumbnail-640-3d2d5951d13ba9e266ccc5386a77e438.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188178206\/thumbnail\/image-thumbnail-1280-51072aa2bf0edd11d020f9e523843ff7.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188178206\/thumbnail\/image-thumbnail-1920-360a45bba5f0ba7047d475ebf9cd3cdc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188178206\/user-images\/image-3024-68d34e1454d954862de3edc4e8367694.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188178206\/thumbnail\/image-thumbnail-640-3d2d5951d13ba9e266ccc5386a77e438.jpg",
+        "type": "mp4",
+        "assetId": 188178206,
+        "assetTitle": "998E91BC-91DA-4B25-BA0F-E87013C704E1",
+        "assetTitleTextEncoded": "998e91bc-91da-4b25-ba0f-e87013c704e1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188178206,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188178206\/365b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

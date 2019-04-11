@@ -1,0 +1,21 @@
+{
+    "id": "213701",
+    "first_name": "Biserka",
+    "last_name": "Gega",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/548196141-0.2075656113214.jpg",
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1541615380",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 01:21:24",
+    "login_id": "1759121",
+    "user_id": "213701",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Biserka Gega",
+    "profile_picture": "\/api\/canvas\/logo\/548196141-0.2075656113214.jpg",
+    "titleTextEncoded": "biserka-gega",
+    "title": "Biserka Gega",
+    "videos_count": "1"
+}

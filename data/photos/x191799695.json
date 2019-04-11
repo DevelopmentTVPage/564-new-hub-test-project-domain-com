@@ -1,0 +1,127 @@
+{
+    "title": "Countdown to Glam!",
+    "description": "Join us on NYE @ Macy’s Northridge for our in-store special!! Purchase any full-priced gown from our dress department and get a complimentary make over on New Years Eve! Please call (818) 885-6611 for any questions! Anastasia Matte Lipstick in Rosewood. Anastasia lipgloss in Vamp. ",
+    "referenceId": null,
+    "date_created": "1546120514",
+    "date_modified": "1546466829",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213865",
+    "id": "191799695",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "countdown-to-glam",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3487,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--1920.jpeg?v=1546120518466"
+            },
+            {
+                "width": 1280,
+                "height": 2325,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--1280.jpeg?v=1546120518211"
+            },
+            {
+                "width": 1200,
+                "height": 2179,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--1200.jpeg?v=1546120518188"
+            },
+            {
+                "width": 1024,
+                "height": 1860,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--1024.jpeg?v=1546120519504"
+            },
+            {
+                "width": 1080,
+                "height": 1961,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--1080.jpeg?v=1546120518152"
+            },
+            {
+                "width": 960,
+                "height": 1743,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--960.jpeg?v=1546120519384"
+            },
+            {
+                "width": 640,
+                "height": 1162,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--640.jpeg?v=1546120519483"
+            },
+            {
+                "width": 600,
+                "height": 1089,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--600.jpeg?v=1546120519734"
+            },
+            {
+                "width": 256,
+                "height": 465,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-media--256.jpeg?v=1546120519901"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-thumbnail-1920.jpeg?v=1546120520447"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-thumbnail-1280.jpeg?v=1546120520414"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-thumbnail-640.jpeg?v=1546120520378"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-thumbnail-480.jpeg?v=1546120520371"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-thumbnail-256.jpeg?v=1546120520473"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-thumbnail-64.jpeg?v=1546120520513"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/191799695\/image-thumbnail-640.jpeg?v=1546120520378",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

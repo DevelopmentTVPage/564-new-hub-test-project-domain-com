@@ -1,0 +1,127 @@
+{
+    "title": "Nike Men's Quarter-Zip!",
+    "description": "This Men's Nike Quarter-Zip pullover is only $20 today! (Originally $40) This would make a great Valentines Day gift for your special guy! Still plenty of colors and sizes available!",
+    "referenceId": null,
+    "date_created": "1549471126",
+    "date_modified": "1549471853",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213932",
+    "id": "201549333",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "nike-mens-quarter-zip",
+    "linkUrl": null,
+    "category": "Men",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2350,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--1920.jpeg?v=1549471128816"
+            },
+            {
+                "width": 1280,
+                "height": 1566,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--1280.jpeg?v=1549471129403"
+            },
+            {
+                "width": 1200,
+                "height": 1468,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--1200.jpeg?v=1549471128608"
+            },
+            {
+                "width": 1024,
+                "height": 1253,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--1024.jpeg?v=1549471129207"
+            },
+            {
+                "width": 1080,
+                "height": 1321,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--1080.jpeg?v=1549471128586"
+            },
+            {
+                "width": 960,
+                "height": 1175,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--960.jpeg?v=1549471129071"
+            },
+            {
+                "width": 640,
+                "height": 783,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--640.jpeg?v=1549471128519"
+            },
+            {
+                "width": 600,
+                "height": 734,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--600.jpeg?v=1549471128800"
+            },
+            {
+                "width": 256,
+                "height": 313,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-media--256.jpeg?v=1549471128989"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-thumbnail-1920.jpeg?v=1549471129945"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-thumbnail-1280.jpeg?v=1549471129911"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-thumbnail-640.jpeg?v=1549471129861"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-thumbnail-480.jpeg?v=1549471129855"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-thumbnail-256.jpeg?v=1549471129909"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-thumbnail-64.jpeg?v=1549471129976"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549333\/image-thumbnail-640.jpeg?v=1549471129861",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

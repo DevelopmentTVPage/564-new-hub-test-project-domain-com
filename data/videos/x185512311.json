@@ -1,0 +1,116 @@
+{
+    "title": "Lab Grown Diamond exclusively from Grow With Love",
+    "description": "2 carat round brilliant cut Lab Grown diamond available at Macy’s for the first time ever! These are 100% natural diamond! Follow me to start learning all about this new age diamond. This is a test video upload...more to follow!",
+    "referenceId": "8b7dd38671c4ceb3e3a09d01787c3341",
+    "date_created": "1544117065",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213744",
+    "product_category": "jewelry",
+    "id": "185512311",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lab-grown-diamond-exclusively-from-grow-with-love",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 127,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 127,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 127,
+        "prettyDuration": "00:02:07",
+        "automaticThumbnailsPattern": "1759121\/185512311\/53b5a\/thumb-8b7dd38671c4ceb3e3a09d01787c3341-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185512311\/user-images\/image-805-7c1e32d6280f75db279e790d7b7c063e.jpg",
+            "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/thumb-8b7dd38671c4ceb3e3a09d01787c3341-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/thumb-8b7dd38671c4ceb3e3a09d01787c3341-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/thumb-8b7dd38671c4ceb3e3a09d01787c3341-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/thumb-8b7dd38671c4ceb3e3a09d01787c3341-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/thumb-8b7dd38671c4ceb3e3a09d01787c3341-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/thumb-8b7dd38671c4ceb3e3a09d01787c3341-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185512311\/thumbnail\/image-thumbnail-256-75dd7c51e53e3723fa4a70e85b245171.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185512311\/thumbnail\/image-thumbnail-480-3d8cd37dafc71ab19ea78e5064dcdfda.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185512311\/thumbnail\/image-thumbnail-640-9141ffa23077e020f1ac32bad12e1dab.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185512311\/user-images\/image-805-7c1e32d6280f75db279e790d7b7c063e.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185512311\/thumbnail\/image-thumbnail-640-9141ffa23077e020f1ac32bad12e1dab.jpg",
+        "type": "mp4",
+        "assetId": 185512311,
+        "assetTitle": "B6F80A5D-83F4-4253-8049-8634CDF816B1",
+        "assetTitleTextEncoded": "b6f80a5d-83f4-4253-8049-8634cdf816b1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185512311,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185512311\/53b5a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

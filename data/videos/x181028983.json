@@ -1,0 +1,114 @@
+{
+    "title": "WithinUrMeans - Dickies",
+    "description": "The perfect combination of utility and fashion.",
+    "referenceId": "c93a8a6eccdb3753a19bd84da8488515",
+    "date_created": "1540296104",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213101",
+    "product_category": "women",
+    "id": "181028983",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "withinurmeans-dickies",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/181028983\/66d70\/thumb-c93a8a6eccdb3753a19bd84da8488515-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181028983\/user-images\/image-3024-4fd73ee0c230a604c712ed5bb6fdd3cc.jpg",
+            "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/thumb-c93a8a6eccdb3753a19bd84da8488515-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/thumb-c93a8a6eccdb3753a19bd84da8488515-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/thumb-c93a8a6eccdb3753a19bd84da8488515-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181028983\/thumbnail\/image-thumbnail-256-150ee233befe3ec695e62bef51b99295.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181028983\/thumbnail\/image-thumbnail-480-3a1714b8c81a086743f0e5a0de9e9555.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181028983\/thumbnail\/image-thumbnail-640-a42f9b875bf4c236126a2c5180cfdf00.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181028983\/thumbnail\/image-thumbnail-1280-55dcdc7bb9dd823b061ce0a211dc012f.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181028983\/thumbnail\/image-thumbnail-1920-031afa3ecaeb126d186af69ea4a1d4ed.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181028983\/user-images\/image-3024-4fd73ee0c230a604c712ed5bb6fdd3cc.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181028983\/thumbnail\/image-thumbnail-640-a42f9b875bf4c236126a2c5180cfdf00.jpg",
+        "type": "mp4",
+        "assetId": 181028983,
+        "assetTitle": "WithinUrMeans - Dickies",
+        "assetTitleTextEncoded": "mvwg7906",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181028983,
+            "li": 1759121
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181028983\/66d70\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

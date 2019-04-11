@@ -1,0 +1,103 @@
+{
+    "title": "LYDIA KIRSCH On Floral",
+    "description": "Floral is in this season",
+    "referenceId": "866dcf3ab5e5fa29a038f6b5635fa6c8",
+    "date_created": "1523983187",
+    "date_modified": "1546466769",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160477584",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lydia-kirsch-on-floral",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "125",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "125",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "125",
+        "prettyDuration": "00:02:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160477584\/thumbnail\/image-thumbnail-640-5f0dbfc0f4d7bd7602ddd155c3144ccd.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160477584\/39832\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160477584\/39832\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160477584\/39832\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160477584\/39832\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160477584\/39832\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160477584\/39832\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160477584\/39832\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/160477584\/39832\/thumb-866dcf3ab5e5fa29a038f6b5635fa6c8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160477584\/user-images\/image-853-1463b6a779ab5e0d13c971aab8eef2d0.jpg",
+            "\/\/v.tvpage.com\/1759121\/160477584\/39832\/thumb-866dcf3ab5e5fa29a038f6b5635fa6c8-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160477584\/user-images\/image-853-1463b6a779ab5e0d13c971aab8eef2d0.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160477584\/thumbnail\/image-thumbnail-256-90f05439184b151de103a96a3e55cc2e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160477584\/thumbnail\/image-thumbnail-480-1deb00a8b5927ae4f85f00285b9ddbfc.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160477584\/thumbnail\/image-thumbnail-640-5f0dbfc0f4d7bd7602ddd155c3144ccd.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

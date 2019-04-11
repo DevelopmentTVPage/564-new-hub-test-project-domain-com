@@ -1,0 +1,114 @@
+{
+    "title": "gifting",
+    "description": "All assorted giftable items",
+    "referenceId": "e59b364d316fece3daa1729f5b92d776",
+    "date_created": "1542386233",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "183630847",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "gifting",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 42,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 42,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 42,
+        "prettyDuration": "00:00:42",
+        "automaticThumbnailsPattern": "1759121\/183630847\/39515\/thumb-e59b364d316fece3daa1729f5b92d776-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183630847\/user-images\/image-423-4cfe8c4055642f53f1db28693240e72c.jpg",
+            "\/\/v.tvpage.com\/1759121\/183630847\/user-images\/image-939-ce45c5993f0c17950f7d6fe60a28b98c.jpg",
+            "\/\/v.tvpage.com\/1759121\/183630847\/39515\/thumb-e59b364d316fece3daa1729f5b92d776-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183630847\/39515\/thumb-e59b364d316fece3daa1729f5b92d776-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183630847\/39515\/thumb-e59b364d316fece3daa1729f5b92d776-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183630847\/39515\/thumb-e59b364d316fece3daa1729f5b92d776-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183630847\/39515\/thumb-e59b364d316fece3daa1729f5b92d776-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183630847\/39515\/thumb-e59b364d316fece3daa1729f5b92d776-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183630847\/thumbnail\/image-thumbnail-256-9e71f596389196d4ab7261b450d6b3c5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183630847\/thumbnail\/image-thumbnail-480-7b4c4aa171705c5d8bb3e6cbddb5fba0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183630847\/thumbnail\/image-thumbnail-640-1b278ef5569981e9774bebce28ef9db8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183630847\/user-images\/image-939-ce45c5993f0c17950f7d6fe60a28b98c.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183630847\/thumbnail\/image-thumbnail-640-1b278ef5569981e9774bebce28ef9db8.jpg",
+        "type": "mp4",
+        "assetId": 183630847,
+        "assetTitle": "Gift it List",
+        "assetTitleTextEncoded": "gift",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183630847,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183630847\/39515\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183630847\/39515\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183630847\/39515\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183630847\/39515\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183630847\/39515\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

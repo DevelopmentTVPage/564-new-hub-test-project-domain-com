@@ -1,0 +1,113 @@
+{
+    "title": "MK Holiday Outfit",
+    "description": "Be the one to shine this holiday season with the perfect MK outfit. This week you get an extra 25% off on all MK.",
+    "referenceId": "35a821c47adb42b990d1d0e7ca08ced9",
+    "date_created": "1543337343",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": "women",
+    "id": "184348761",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mk-holiday-outfit",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 33,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 33,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 33,
+        "prettyDuration": "00:00:33",
+        "automaticThumbnailsPattern": "1759121\/184348761\/793e1\/thumb-35a821c47adb42b990d1d0e7ca08ced9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/thumb-35a821c47adb42b990d1d0e7ca08ced9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/thumb-35a821c47adb42b990d1d0e7ca08ced9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/thumb-35a821c47adb42b990d1d0e7ca08ced9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/thumb-35a821c47adb42b990d1d0e7ca08ced9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/thumb-35a821c47adb42b990d1d0e7ca08ced9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/thumb-35a821c47adb42b990d1d0e7ca08ced9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184348761\/thumbnail\/image-thumbnail-256-daf7aa15fd4e647496caf31e40a24901.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184348761\/thumbnail\/image-thumbnail-480-124e929108525eeba00970d5c5a767b6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184348761\/thumbnail\/image-thumbnail-640-cb073996acfa11b75be875fa0b12f14f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184348761\/thumbnail\/image-thumbnail-1280-4e3dbacf8f652e7a24a9c69cd56439f1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/thumb-35a821c47adb42b990d1d0e7ca08ced9-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184348761\/thumbnail\/image-thumbnail-640-cb073996acfa11b75be875fa0b12f14f.jpg",
+        "type": "mp4",
+        "assetId": 184348761,
+        "assetTitle": "50055B8D-D467-4060-965B-BE4CD35DD919",
+        "assetTitleTextEncoded": "50055b8d-d467-4060-965b-be4cd35dd919",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184348761,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184348761\/793e1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

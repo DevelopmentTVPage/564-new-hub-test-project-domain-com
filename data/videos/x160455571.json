@@ -1,0 +1,99 @@
+{
+    "title": "Best of Baby!",
+    "description": "Nicolette talks about her favorite baby products.",
+    "referenceId": "76214130fb6efa03a1412e8bfc09e753",
+    "date_created": "1523905293",
+    "date_modified": "1546466764",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160455571",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "best-of-baby",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "149",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "149",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "149",
+        "prettyDuration": "00:02:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455571\/thumbnail\/image-thumbnail-640-071fb142bca0a024e2d73323ed2b99dd.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455571\/d41dd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455571\/d41dd\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455571\/d41dd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455571\/d41dd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455571\/d41dd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455571\/d41dd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455571\/d41dd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/160455571\/d41dd\/thumb-76214130fb6efa03a1412e8bfc09e753-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160455571\/user-images\/image-853-953bac44b908fc9d61e2b0e757ae68d2.jpg",
+            "\/\/v.tvpage.com\/1759121\/160455571\/d41dd\/thumb-76214130fb6efa03a1412e8bfc09e753-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455571\/user-images\/image-853-953bac44b908fc9d61e2b0e757ae68d2.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160455571\/thumbnail\/image-thumbnail-256-4c8e7eca7f44fe5c51d52b9a72c72cee.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160455571\/thumbnail\/image-thumbnail-480-8ce0d60e60e76d61d13560573ad48945.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160455571\/thumbnail\/image-thumbnail-640-071fb142bca0a024e2d73323ed2b99dd.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

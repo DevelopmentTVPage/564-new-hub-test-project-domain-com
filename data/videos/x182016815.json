@@ -1,0 +1,115 @@
+{
+    "title": "Men’s fragrances",
+    "description": "Cologne is always a great gift idea for any holiday & at Macy’s we’ve got you covered. We have some great sets from prestige brands. Check out some of my favs.",
+    "referenceId": "574f473a31ba2203c825f6a7be473152",
+    "date_created": "1541380078",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "men",
+    "id": "182016815",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mens-fragrances",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 27,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 27,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 27,
+        "prettyDuration": "00:00:27",
+        "automaticThumbnailsPattern": "1759121\/182016815\/b693b\/thumb-574f473a31ba2203c825f6a7be473152-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182016815\/user-images\/image-3024-db75c7d9f422655a42e39d8b9edb2f2f.jpg",
+            "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/thumb-574f473a31ba2203c825f6a7be473152-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/thumb-574f473a31ba2203c825f6a7be473152-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/thumb-574f473a31ba2203c825f6a7be473152-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/thumb-574f473a31ba2203c825f6a7be473152-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/thumb-574f473a31ba2203c825f6a7be473152-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/thumb-574f473a31ba2203c825f6a7be473152-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182016815\/thumbnail\/image-thumbnail-256-8953e5500e61c95ed68bf20b4a2cf437.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182016815\/thumbnail\/image-thumbnail-480-1af9db26d619949c174d1cead8c7ff7e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/thumb-574f473a31ba2203c825f6a7be473152-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182016815\/thumbnail\/image-thumbnail-480-1af9db26d619949c174d1cead8c7ff7e.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/media.m3u8",
+        "uploadAsset": false,
+        "assetId": 182016815,
+        "assetTitle": "What's your scent?",
+        "assetTitleTextEncoded": "e90ffac7-582b-4f97-9ae8-2aa846cdaad1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182016815,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182016815\/b693b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

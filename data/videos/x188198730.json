@@ -1,0 +1,111 @@
+{
+    "title": "digital detox do you love me?",
+    "description": "A first in the industry, digital detox of the eyes",
+    "referenceId": "6ceba2d6ef8f1ed332f5a633e33ac8b2",
+    "date_created": "1544830301",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213644",
+    "product_category": "beauty",
+    "id": "188198730",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "digital-detox-do-you-love-me",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 37,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 37,
+            "width": 480,
+            "height": 272
+        },
+        "mediaDuration": 37,
+        "prettyDuration": "00:00:37",
+        "automaticThumbnailsPattern": "1759121\/188198730\/32b0f\/thumb-6ceba2d6ef8f1ed332f5a633e33ac8b2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/thumb-6ceba2d6ef8f1ed332f5a633e33ac8b2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/thumb-6ceba2d6ef8f1ed332f5a633e33ac8b2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/thumb-6ceba2d6ef8f1ed332f5a633e33ac8b2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/thumb-6ceba2d6ef8f1ed332f5a633e33ac8b2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/thumb-6ceba2d6ef8f1ed332f5a633e33ac8b2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/thumb-6ceba2d6ef8f1ed332f5a633e33ac8b2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188198730\/thumbnail\/image-thumbnail-256-8f0a1bd536fec5555a119cb1f505d1e0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188198730\/thumbnail\/image-thumbnail-480-4b4290e263fe85c3a34d0916c4dc6417.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/thumb-6ceba2d6ef8f1ed332f5a633e33ac8b2-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188198730\/thumbnail\/image-thumbnail-480-4b4290e263fe85c3a34d0916c4dc6417.jpg",
+        "type": "mp4",
+        "assetId": 188198730,
+        "assetTitle": "3B278653-4D1E-454D-9538-04B4150F2088",
+        "assetTitleTextEncoded": "3b278653-4d1e-454d-9538-04b4150f2088",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188198730,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188198730\/32b0f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

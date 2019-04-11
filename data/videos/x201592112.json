@@ -1,0 +1,106 @@
+{
+    "title": "Valentine’s Day Fragrances",
+    "description": "Don’t know what to get the young lady in your life for Valentine’s Day... take my suggestion of this popular fragrance. And of course if you’re celebrating “Galentine’s” choose this for your BFF! ",
+    "referenceId": "c337f391864e5e2aa6837c8e4ed98cfb",
+    "date_created": "1549594247",
+    "date_modified": "1549594799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "82",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213271",
+    "product_category": null,
+    "id": "201592112",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-day-fragrances",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 30,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 30,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/201592112\/98060\/thumb-c337f391864e5e2aa6837c8e4ed98cfb-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201592112\/98060\/thumb-c337f391864e5e2aa6837c8e4ed98cfb-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/201592112\/98060\/thumb-c337f391864e5e2aa6837c8e4ed98cfb-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/201592112\/98060\/thumb-c337f391864e5e2aa6837c8e4ed98cfb-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/201592112\/98060\/thumb-c337f391864e5e2aa6837c8e4ed98cfb-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201592112\/98060\/thumb-c337f391864e5e2aa6837c8e4ed98cfb-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201592112\/98060\/thumb-c337f391864e5e2aa6837c8e4ed98cfb-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201592112\/thumbnail\/image-thumbnail-256-640847239e5d459c74cfa9b6242c7cd7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/201592112\/thumbnail\/image-thumbnail-480-252b57ae677d0b40190ad743e5c9532c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/201592112\/thumbnail\/image-thumbnail-640-5068582ff144c8f3a21175fbdc6eef2b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/201592112\/thumbnail\/image-thumbnail-1280-f29d1b18bf9b521e2c9bf2d4a7d49fd7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201592112\/98060\/thumb-c337f391864e5e2aa6837c8e4ed98cfb-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201592112\/thumbnail\/image-thumbnail-640-5068582ff144c8f3a21175fbdc6eef2b.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/201592112\/98060\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/201592112\/98060\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201592112\/98060\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201592112\/98060\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201592112\/98060\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201592112\/98060\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201592112\/98060\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

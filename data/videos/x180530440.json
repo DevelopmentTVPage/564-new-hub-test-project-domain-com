@@ -1,0 +1,115 @@
+{
+    "title": "Join Macy’s Style Crew",
+    "description": "INC striped top and skirt",
+    "referenceId": "16d571cc85f1231cf757d594e02129da",
+    "date_created": "1539900823",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213624",
+    "product_category": "women",
+    "id": "180530440",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "join-macys-style-crew",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/180530440\/449a7\/thumb-16d571cc85f1231cf757d594e02129da-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/thumb-16d571cc85f1231cf757d594e02129da-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/thumb-16d571cc85f1231cf757d594e02129da-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/thumb-16d571cc85f1231cf757d594e02129da-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/thumb-16d571cc85f1231cf757d594e02129da-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/thumb-16d571cc85f1231cf757d594e02129da-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/thumb-16d571cc85f1231cf757d594e02129da-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180530440\/thumbnail\/image-thumbnail-256-4933c8f3ecbd4047a28e2a5ff37a65eb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180530440\/thumbnail\/image-thumbnail-480-4aa9fa411b87adf1a3c3857f8b0af108.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/thumb-16d571cc85f1231cf757d594e02129da-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180530440\/thumbnail\/image-thumbnail-480-4aa9fa411b87adf1a3c3857f8b0af108.jpg",
+        "type": "mp4",
+        "assetId": 180530440,
+        "assetTitle": "0D91924D-D234-43E1-A7C6-D121547B4FD4",
+        "assetTitleTextEncoded": "0d91924d-d234-43e1-a7c6-d121547b4fd4",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180530440,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530440\/449a7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

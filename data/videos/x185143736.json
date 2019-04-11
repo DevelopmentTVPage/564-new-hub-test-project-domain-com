@@ -1,0 +1,118 @@
+{
+    "title": "Fashion Office Hottest Looks",
+    "description": "Take care of business with a power suit that's perfect for the holidays!",
+    "referenceId": "69358733897f4ab7e776b21dd00a563d",
+    "date_created": "1543935120",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "185143736",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-looks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/185143736\/822cf\/thumb-69358733897f4ab7e776b21dd00a563d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185143736\/user-images\/image-1280-97d48d0cc158b7d8918a139a70a2b664.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143736\/user-images\/image-1280-f2dc78861ea635f3991da2be5f003706.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/thumb-69358733897f4ab7e776b21dd00a563d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/thumb-69358733897f4ab7e776b21dd00a563d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/thumb-69358733897f4ab7e776b21dd00a563d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/thumb-69358733897f4ab7e776b21dd00a563d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/thumb-69358733897f4ab7e776b21dd00a563d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/thumb-69358733897f4ab7e776b21dd00a563d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185143736\/thumbnail\/image-thumbnail-256-f37eccc481ad86d63d45942c1ba1dc13.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185143736\/thumbnail\/image-thumbnail-480-374f417642745e8753dd8b8ffb8a81d4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185143736\/thumbnail\/image-thumbnail-640-2a6a9b53923c55fdad05237a0c4820fd.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/185143736\/thumbnail\/image-thumbnail-1280-05252c1e9b51ead91ca0bd34374ca45f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143736\/user-images\/image-1280-97d48d0cc158b7d8918a139a70a2b664.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143736\/thumbnail\/image-thumbnail-640-2a6a9b53923c55fdad05237a0c4820fd.jpg",
+        "type": "mp4",
+        "assetId": 185143736,
+        "assetTitle": "Fashion Office Hottest Looks",
+        "assetTitleTextEncoded": "fashion-office-hottest-looks",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185143736,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143736\/822cf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

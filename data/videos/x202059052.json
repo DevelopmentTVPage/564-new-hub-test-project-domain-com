@@ -1,0 +1,102 @@
+{
+    "title": "My Macy’s Valentine’s Day Pick: INC Watercolor-print shirt",
+    "description": "Love love love!",
+    "referenceId": "b700732ca000ce02cfc5e2a3aa704daa",
+    "date_created": "1549734348",
+    "date_modified": "1549736654",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213929",
+    "product_category": null,
+    "id": "202059052",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-macys-valentines-day-pick-inc-watercolor-print-shirt",
+    "category": "Men",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 3,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 3,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 3,
+        "prettyDuration": "00:00:03",
+        "automaticThumbnailsPattern": "1759121\/202059052\/362d1\/thumb-b700732ca000ce02cfc5e2a3aa704daa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202059052\/user-images\/image-2320-e2b418a19d4d9b46ffd53a75018825ce.jpg",
+            "\/\/v.tvpage.com\/1759121\/202059052\/362d1\/thumb-b700732ca000ce02cfc5e2a3aa704daa-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202059052\/362d1\/thumb-b700732ca000ce02cfc5e2a3aa704daa-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202059052\/thumbnail\/image-thumbnail-256-f688c432008b0d659afa87831c98b1aa.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202059052\/thumbnail\/image-thumbnail-480-495158ee2b816db4572ba1bd561a69de.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202059052\/thumbnail\/image-thumbnail-640-8ab5ebd66650368e0358ca415ce7fc05.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/202059052\/thumbnail\/image-thumbnail-1280-41203ddebc9d47076f61d0f9dc6f3ea2.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/202059052\/thumbnail\/image-thumbnail-1920-d6073f403312afe47cbba87c802d8041.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202059052\/user-images\/image-2320-e2b418a19d4d9b46ffd53a75018825ce.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202059052\/thumbnail\/image-thumbnail-640-8ab5ebd66650368e0358ca415ce7fc05.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059052\/362d1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059052\/362d1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059052\/362d1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059052\/362d1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202059052\/362d1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

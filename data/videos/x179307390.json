@@ -1,0 +1,118 @@
+{
+    "title": "BEAUTY ON DISPLAY AT HERALD SQUARE",
+    "description": "Calling all beauty lovers! Make sure to check out the new Beauty on Display at Macy’s Herald Square and shop your beauty favorites!",
+    "referenceId": "26fa172b72f24d7149c0f39364fb9bad",
+    "date_created": "1538690052",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "504",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213366",
+    "product_category": "beauty",
+    "id": "179307390",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "beauty-on-display-at-herald-square",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "17",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "17",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "automaticThumbnailsPattern": "1759121\/179307390\/df9b8\/thumb-26fa172b72f24d7149c0f39364fb9bad-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179307390\/user-images\/image-4032-814b26606658d8a4f89faf1f5a903a8b.jpg",
+            "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/thumb-26fa172b72f24d7149c0f39364fb9bad-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/thumb-26fa172b72f24d7149c0f39364fb9bad-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/thumb-26fa172b72f24d7149c0f39364fb9bad-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/thumb-26fa172b72f24d7149c0f39364fb9bad-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/thumb-26fa172b72f24d7149c0f39364fb9bad-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/thumb-26fa172b72f24d7149c0f39364fb9bad-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179307390\/thumbnail\/image-thumbnail-256-195b0e6dc5b5b28f6afbe05435bc6395.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179307390\/thumbnail\/image-thumbnail-480-152cf3f34a52aaabf1652ec0014210ff.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179307390\/thumbnail\/image-thumbnail-640-8953e90d891632053a9c53a45be262fb.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179307390\/thumbnail\/image-thumbnail-1280-a31ecae136c5b5e00b86f23c3144bf0f.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/179307390\/thumbnail\/image-thumbnail-1920-7db0b3ed9af707347817b1006b87edca.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179307390\/user-images\/image-4032-814b26606658d8a4f89faf1f5a903a8b.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179307390\/thumbnail\/image-thumbnail-640-8953e90d891632053a9c53a45be262fb.jpg",
+        "type": "mp4",
+        "assetId": "179307390",
+        "assetTitle": "6B69D438-BADB-4B8C-A00E-76CE16565D95",
+        "assetTitleTextEncoded": "6b69d438-badb-4b8c-a00e-76ce16565d95",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179307390",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179307390\/df9b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-10-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,102 @@
+{
+    "title": "The White Ankle Boot is Modly Groovy",
+    "description": "My Macy’s Star ",
+    "referenceId": "874b35585c229d12dceb1283ca83ba4d",
+    "date_created": "1549009826",
+    "date_modified": "1549032880",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "59",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "9",
+    "video_type": null,
+    "user_id": "213144",
+    "product_category": null,
+    "id": "200760893",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-white-ankle-boot-is-modly-groovy",
+    "category": "My Macy’s Star ?? Pick: The One Ankle Boot Style That's In It for the Long Haul-@whowhatwear the white ankle boot ?? #macysstylecrew  #linkinbio??I’m wearing @rebeccataylornyc ??and #jacket paired with this #thriftstorefindoftheday #skirt from @triciacampbellstylist for my #birthdayoutfit @calvinklein #whiteankleboots #incinternationalconcepts #longbeadednecklace",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200760893\/25760\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200760893\/25760\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200760893\/25760\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200760893\/25760\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200760893\/25760\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "4",
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/200760893\/25760\/thumb-874b35585c229d12dceb1283ca83ba4d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200760893\/25760\/thumb-874b35585c229d12dceb1283ca83ba4d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200760893\/25760\/thumb-874b35585c229d12dceb1283ca83ba4d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200760893\/thumbnail\/image-thumbnail-256-1bd9b1be2885822903bf4bc31c97f321.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200760893\/25760\/thumb-874b35585c229d12dceb1283ca83ba4d-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200760893\/thumbnail\/image-thumbnail-256-1bd9b1be2885822903bf4bc31c97f321.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200760893\/25760\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200760893\/25760\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

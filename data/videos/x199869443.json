@@ -1,0 +1,103 @@
+{
+    "title": "Fancy Options",
+    "description": "Fancy options for a night out.",
+    "referenceId": "e4b1015647313baba4eb14603bf9717a",
+    "date_created": "1548446234",
+    "date_modified": "1548695328",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213924",
+    "product_category": null,
+    "id": "199869443",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fancy-options",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 37,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 37,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 37,
+        "prettyDuration": "00:00:37",
+        "automaticThumbnailsPattern": "1759121\/199869443\/9de18\/thumb-e4b1015647313baba4eb14603bf9717a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/thumb-e4b1015647313baba4eb14603bf9717a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/thumb-e4b1015647313baba4eb14603bf9717a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/thumb-e4b1015647313baba4eb14603bf9717a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/thumb-e4b1015647313baba4eb14603bf9717a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/thumb-e4b1015647313baba4eb14603bf9717a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/thumb-e4b1015647313baba4eb14603bf9717a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199869443\/thumbnail\/image-thumbnail-256-9258463316e400208f035321a257a012.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199869443\/thumbnail\/image-thumbnail-480-134f6b7f15f1b14fc43f88db942fde7c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/thumb-e4b1015647313baba4eb14603bf9717a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199869443\/thumbnail\/image-thumbnail-480-134f6b7f15f1b14fc43f88db942fde7c.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199869443\/9de18\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

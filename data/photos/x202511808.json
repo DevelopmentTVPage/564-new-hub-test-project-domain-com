@@ -1,0 +1,127 @@
+{
+    "title": "I.N.C International Concepts",
+    "description": "I love these new styles and colors from I.N.C ! It’s the perfect update for your spring wardrobe! The pump is called Kenjay D’Orsay in the Floral Mesh and Black Fishnet color and the sandal is called the Kivah in Fuchsia Suede, Cobalt, and Lemon. Check out the tags for more info!",
+    "referenceId": null,
+    "date_created": "1549850308",
+    "date_modified": "1549851324",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213914",
+    "id": "202511808",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "i-n-c-international-concepts",
+    "linkUrl": null,
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1906,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--1920.jpeg?v=1549850320959"
+            },
+            {
+                "width": 1280,
+                "height": 1271,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--1280.jpeg?v=1549850321775"
+            },
+            {
+                "width": 1200,
+                "height": 1191,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--1200.jpeg?v=1549850320725"
+            },
+            {
+                "width": 1024,
+                "height": 1017,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--1024.jpeg?v=1549850321455"
+            },
+            {
+                "width": 1080,
+                "height": 1072,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--1080.jpeg?v=1549850320673"
+            },
+            {
+                "width": 960,
+                "height": 953,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--960.jpeg?v=1549850321240"
+            },
+            {
+                "width": 640,
+                "height": 635,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--640.jpeg?v=1549850320593"
+            },
+            {
+                "width": 600,
+                "height": 595,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--600.jpeg?v=1549850321046"
+            },
+            {
+                "width": 256,
+                "height": 254,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-media--256.jpeg?v=1549850321333"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-thumbnail-1920.jpeg?v=1549850322468"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-thumbnail-1280.jpeg?v=1549850322364"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-thumbnail-640.jpeg?v=1549850322654"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-thumbnail-480.jpeg?v=1549850322288"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-thumbnail-256.jpeg?v=1549850322263"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-thumbnail-64.jpeg?v=1549850322459"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202511808\/image-thumbnail-640.jpeg?v=1549850322654",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

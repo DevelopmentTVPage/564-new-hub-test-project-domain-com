@@ -1,0 +1,103 @@
+{
+    "title": "A day off with family and friends",
+    "description": "Casual wear for the weekend  with Jacqueline.",
+    "referenceId": "a3ade3d5df502c5282528840d81d8ca1",
+    "date_created": "1523909730",
+    "date_modified": "1546466764",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "160455592",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a-day-off-with-family-and-friends",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "81",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "81",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455592\/thumbnail\/image-thumbnail-640-c5dd5e3eba2b02a6db1d7e4975e115e4.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455592\/d594f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455592\/d594f\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455592\/d594f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455592\/d594f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455592\/d594f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455592\/d594f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455592\/d594f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/160455592\/d594f\/thumb-a3ade3d5df502c5282528840d81d8ca1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/160455592\/user-images\/image-853-df9cccf3f78f875c6920560d9b29f6c7.jpg",
+            "\/\/v.tvpage.com\/1759121\/160455592\/d594f\/thumb-a3ade3d5df502c5282528840d81d8ca1-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455592\/user-images\/image-853-df9cccf3f78f875c6920560d9b29f6c7.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/160455592\/thumbnail\/image-thumbnail-256-77b948f12dcc01e39ded7390bded4c6f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/160455592\/thumbnail\/image-thumbnail-480-6b75d5db067788eed445b05dd49bbb5a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/160455592\/thumbnail\/image-thumbnail-640-c5dd5e3eba2b02a6db1d7e4975e115e4.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

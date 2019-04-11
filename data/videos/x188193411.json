@@ -1,0 +1,115 @@
+{
+    "title": "Starry Eyed Makeup Tutorial",
+    "description": "In this video I'm walking you through my favorite look of the holiday season: a metallic, halo smokey eye! I promise once you master this new technique, this is going to become your new go to party look. Enjoy!",
+    "referenceId": "3f02138e163d9b64acdbf1f95467e2c0",
+    "date_created": "1544808396",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "beauty",
+    "id": "188193411",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "starry-eyed-makeup-tutorial",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 1117,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 1117,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 1117,
+        "prettyDuration": "00:18:37",
+        "automaticThumbnailsPattern": "1759121\/188193411\/56d9b\/thumb-3f02138e163d9b64acdbf1f95467e2c0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188193411\/user-images\/image-3839-66a70b1112354ae62e31c64dda21c642.jpg",
+            "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/thumb-3f02138e163d9b64acdbf1f95467e2c0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/thumb-3f02138e163d9b64acdbf1f95467e2c0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/thumb-3f02138e163d9b64acdbf1f95467e2c0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/thumb-3f02138e163d9b64acdbf1f95467e2c0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/thumb-3f02138e163d9b64acdbf1f95467e2c0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/thumb-3f02138e163d9b64acdbf1f95467e2c0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188193411\/thumbnail\/image-thumbnail-256-35348c6394ad080ee741a33e70bc63c1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188193411\/thumbnail\/image-thumbnail-480-d3d35c704e7de3ed815d1e259d726d52.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188193411\/thumbnail\/image-thumbnail-640-f5b16aeba9e2bf1005fe40871fd45c80.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188193411\/thumbnail\/image-thumbnail-1280-de5bcc9ba836d5b2c8d7b61b2995a3a2.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188193411\/thumbnail\/image-thumbnail-1920-dda32905627494b15b39f081cbc494f3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188193411\/user-images\/image-3839-66a70b1112354ae62e31c64dda21c642.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188193411\/thumbnail\/image-thumbnail-640-f5b16aeba9e2bf1005fe40871fd45c80.jpg",
+        "type": "mp4",
+        "assetId": 188193411,
+        "assetTitle": "Starry Eyed Makeup Tutorial",
+        "assetTitleTextEncoded": "starry-eyed-makeup-tutorial",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188193411,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188193411\/56d9b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

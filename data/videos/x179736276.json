@@ -1,0 +1,116 @@
+{
+    "title": "@Mr_TJay Bomber Jacket",
+    "description": "When you walking and just so happen to fall, what do you do? Well DANCE through the rain! Especially, when you feeling nostalgic in your Adidas Continental 80s (6627773) and no hooded Nude Bomber Jacket! Have some fun without the SUN! Be sure to follow @Mr_TJay",
+    "referenceId": "fe36ee8b6b6b70415d9d9b60f22a7fbb",
+    "date_created": "1539218153",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "179736276",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-bomber-jacket",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "22",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "22",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "automaticThumbnailsPattern": "1759121\/179736276\/33909\/thumb-fe36ee8b6b6b70415d9d9b60f22a7fbb-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179736276\/33909\/thumb-fe36ee8b6b6b70415d9d9b60f22a7fbb-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179736276\/33909\/thumb-fe36ee8b6b6b70415d9d9b60f22a7fbb-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179736276\/33909\/thumb-fe36ee8b6b6b70415d9d9b60f22a7fbb-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179736276\/33909\/thumb-fe36ee8b6b6b70415d9d9b60f22a7fbb-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179736276\/33909\/thumb-fe36ee8b6b6b70415d9d9b60f22a7fbb-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179736276\/33909\/thumb-fe36ee8b6b6b70415d9d9b60f22a7fbb-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179736276\/thumbnail\/image-thumbnail-256-b6d9320522bda22f0aafce832df629e9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179736276\/thumbnail\/image-thumbnail-480-e110588ba30721915c20ffdc20232317.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179736276\/thumbnail\/image-thumbnail-640-3e49d8acd788c7b3b407291097e1e86e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179736276\/thumbnail\/image-thumbnail-1280-e9e9a4b2cf2d2283bbf1890188df9c89.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/179736276\/thumbnail\/image-thumbnail-1920-57ba61c5624215e72ac3a9a26a1edecb.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179736276\/33909\/thumb-fe36ee8b6b6b70415d9d9b60f22a7fbb-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179736276\/thumbnail\/image-thumbnail-640-3e49d8acd788c7b3b407291097e1e86e.jpg",
+        "type": "mp4",
+        "assetId": "179736276",
+        "assetTitle": "@Mr_TJay Bomber Jacket",
+        "assetTitleTextEncoded": "tj-danceoff-crosswalk-v2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179736276",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179736276\/33909\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179736276\/33909\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179736276\/33909\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179736276\/33909\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179736276\/33909\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/179736276\/33909\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/179736276\/33909\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

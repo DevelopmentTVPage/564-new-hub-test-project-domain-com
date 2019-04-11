@@ -1,0 +1,21 @@
+{
+    "id": "213743",
+    "first_name": "Melanie",
+    "last_name": "Thomas",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/835160447-0.6323838675860.jpg",
+        "job_title": "Sales "
+    },
+    "last_login_timestamp": "1542054746",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-03 22:04:54",
+    "login_id": "1759121",
+    "user_id": "213743",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Melanie Thomas",
+    "profile_picture": "\/api\/canvas\/logo\/835160447-0.6323838675860.jpg",
+    "titleTextEncoded": "melanie-thomas",
+    "title": "Melanie Thomas",
+    "videos_count": "0"
+}

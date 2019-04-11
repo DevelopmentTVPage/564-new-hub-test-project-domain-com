@@ -1,0 +1,104 @@
+{
+    "title": "Leopard never slinks out of fashion",
+    "description": "If you want to highlight your outfit, pair leopard prints with red. You will have a sexy, glamorous look.",
+    "referenceId": "b3053329f6403a3bed4ed277d9582a10",
+    "date_created": "1546978570",
+    "date_modified": "1547085329",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "47",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": null,
+    "id": "196757980",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "leopard-never-slinks-out-of-fashion",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 17,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 17,
+            "width": 602,
+            "height": 1080
+        },
+        "mediaDuration": 17,
+        "prettyDuration": "00:00:17",
+        "automaticThumbnailsPattern": "1759121\/196757980\/ad83f\/thumb-b3053329f6403a3bed4ed277d9582a10-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/thumb-b3053329f6403a3bed4ed277d9582a10-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/thumb-b3053329f6403a3bed4ed277d9582a10-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/thumb-b3053329f6403a3bed4ed277d9582a10-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/thumb-b3053329f6403a3bed4ed277d9582a10-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/thumb-b3053329f6403a3bed4ed277d9582a10-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/thumb-b3053329f6403a3bed4ed277d9582a10-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/196757980\/thumbnail\/image-thumbnail-256-4fad0682be0b5d403c8aaefec8e1786a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/196757980\/thumbnail\/image-thumbnail-480-2456acd98c1c7b25c253055cb5896010.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/thumb-b3053329f6403a3bed4ed277d9582a10-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/196757980\/thumbnail\/image-thumbnail-480-2456acd98c1c7b25c253055cb5896010.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 602,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 402,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 268,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 200,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757980\/ad83f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

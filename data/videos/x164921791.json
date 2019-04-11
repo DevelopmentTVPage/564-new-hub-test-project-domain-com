@@ -1,0 +1,105 @@
+{
+    "title": "Daisy by Marc Jacobs",
+    "description": "Beautiful fresh scent that last hours! \n\nThe gift set includes:\n• Eau de Toilette Spray, 4.2 fl oz\n• Bodylotion, 2.5 fl oz\n• Rollerball, 0.33 oz",
+    "referenceId": "68785a217545983362664b008ac61402",
+    "date_created": "1529115099",
+    "date_modified": "1549596351",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213287",
+    "product_category": "beauty",
+    "id": "164921791",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "daisy-by-marc-jacobs",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164921791\/thumbnail\/image-thumbnail-480-3d6c83f4e58291c764cd310191fdce58.jpg",
+        "type": "mp4",
+        "assetId": 164921791,
+        "assetTitle": "Daisy by Marc Jacobs",
+        "assetTitleTextEncoded": "36359c7c-22a4-4767-ab9f-c3ad43785a3d",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164921791,
+            "li": 1759121
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164921791\/d6046\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164921791\/d6046\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/164921791\/d6046\/thumb-68785a217545983362664b008ac61402-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164921791\/user-images\/image-608-60b80c4a261264f42cf833f5244a2702.jpg",
+            "\/\/v.tvpage.com\/1759121\/164921791\/d6046\/thumb-68785a217545983362664b008ac61402-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164921791\/user-images\/image-608-60b80c4a261264f42cf833f5244a2702.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164921791\/thumbnail\/image-thumbnail-256-dbb919dc7f4c81b2b58be3e6d24753d5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164921791\/thumbnail\/image-thumbnail-480-3d6c83f4e58291c764cd310191fdce58.jpg"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164921791\/d6046\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164921791\/d6046\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164921791\/d6046\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164921791\/d6046\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164921791\/d6046\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

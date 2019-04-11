@@ -1,0 +1,112 @@
+{
+    "title": "INC Fall Fashion",
+    "description": "It's time to go Fall Shopping. The new INC. donate $5 to the pink pony breast cancer awareness and save 25 percent. The Columbus sale and the great shoe sale! Get your fall fashion soon!",
+    "referenceId": "3ca65ad05fb041e6ab9332307034e037",
+    "date_created": "1538409086",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "54",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "women",
+    "id": "178695941",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc-fall-fashion",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "42",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "42",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "automaticThumbnailsPattern": "1759121\/178695941\/7a4ca\/thumb-3ca65ad05fb041e6ab9332307034e037-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/thumb-3ca65ad05fb041e6ab9332307034e037-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/thumb-3ca65ad05fb041e6ab9332307034e037-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/thumb-3ca65ad05fb041e6ab9332307034e037-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/thumb-3ca65ad05fb041e6ab9332307034e037-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/thumb-3ca65ad05fb041e6ab9332307034e037-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/thumb-3ca65ad05fb041e6ab9332307034e037-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178695941\/thumbnail\/image-thumbnail-256-839a171cd559d90f30488eb0bb611511.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178695941\/thumbnail\/image-thumbnail-480-a074b9de09db5c94aa535aef13bf493d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/thumb-3ca65ad05fb041e6ab9332307034e037-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178695941\/thumbnail\/image-thumbnail-480-a074b9de09db5c94aa535aef13bf493d.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": "178695941",
+        "assetTitle": "Fall Fashion",
+        "assetTitleTextEncoded": "0ee21635-ce38-4d65-b82b-fd59e9a39b84",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178695941",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178695941\/7a4ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

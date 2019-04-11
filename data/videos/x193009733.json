@@ -1,0 +1,108 @@
+{
+    "title": "@Mr_TJay New Year Camel Coat Vibes",
+    "description": "It's a New Year, but it is still cold out. The Camel Coat top coat is a great accessory that will mature a look.  Rather you are heading out to the club or a day of brunching, a Camel Coat is perfect.  Winter is in full swing don't be stuck in the house, layer up and live it up! Be sure to follow @Mr_TJay.",
+    "referenceId": "740765a4839a4a08c294f69fb725357b",
+    "date_created": "1546694241",
+    "date_modified": "1546694599",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "51",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": null,
+    "id": "193009733",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-new-year-camel-coat-vibes",
+    "category": "It's a New Year, but it is still cold out. The Camel Coat top coat is a great accessory that will mature a look.  Rather you are heading out to the club or a day of brunching, a Camel Coat is perfect.  Winter is in full swing don't be stuck in the house, layer up and live it up! Be sure to follow @Mr_TJay.",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 19,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 19,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 19,
+        "prettyDuration": "00:00:19",
+        "automaticThumbnailsPattern": "1759121\/193009733\/1c87e\/thumb-740765a4839a4a08c294f69fb725357b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/thumb-740765a4839a4a08c294f69fb725357b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/thumb-740765a4839a4a08c294f69fb725357b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/thumb-740765a4839a4a08c294f69fb725357b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/thumb-740765a4839a4a08c294f69fb725357b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/thumb-740765a4839a4a08c294f69fb725357b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/thumb-740765a4839a4a08c294f69fb725357b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/193009733\/thumbnail\/image-thumbnail-256-464d41b0bc52ac6d2c1ad16c0d22aaa9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/193009733\/thumbnail\/image-thumbnail-480-4cc32f445cfdf4edc24a75721c0c93f0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/193009733\/thumbnail\/image-thumbnail-640-24cd4d542d5f21f5a88a594ff77ace01.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/193009733\/thumbnail\/image-thumbnail-1280-28ae47c555ed6e7708b6f8c5e3a87eb8.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/193009733\/thumbnail\/image-thumbnail-1920-2f026cb3acd17e280dc0738c93845ecc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/thumb-740765a4839a4a08c294f69fb725357b-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/193009733\/thumbnail\/image-thumbnail-640-24cd4d542d5f21f5a88a594ff77ace01.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193009733\/1c87e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

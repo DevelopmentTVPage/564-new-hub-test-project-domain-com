@@ -1,0 +1,21 @@
+{
+    "id": "213745",
+    "first_name": "Indya",
+    "last_name": "Biyo",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/310230175-0.2760524339042.jpg",
+        "job_title": "Jewlry Consultant "
+    },
+    "last_login_timestamp": "1541296005",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-04 01:37:29",
+    "login_id": "1759121",
+    "user_id": "213745",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Indya Biyo",
+    "profile_picture": "\/api\/canvas\/logo\/310230175-0.2760524339042.jpg",
+    "titleTextEncoded": "indya-biyo",
+    "title": "Indya Biyo",
+    "videos_count": "0"
+}

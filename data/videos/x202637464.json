@@ -1,0 +1,97 @@
+{
+    "title": "Advance night repair",
+    "description": "Glow baby glow ",
+    "referenceId": "60d780293230e78ababf5fc15e5b8f29",
+    "date_created": "1549953298",
+    "date_modified": "1549953354",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213650",
+    "product_category": null,
+    "id": "202637464",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "advance-night-repair",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "6",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/202637464\/240e1\/thumb-60d780293230e78ababf5fc15e5b8f29-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/thumb-60d780293230e78ababf5fc15e5b8f29-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/thumb-60d780293230e78ababf5fc15e5b8f29-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/thumb-60d780293230e78ababf5fc15e5b8f29-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/thumb-60d780293230e78ababf5fc15e5b8f29-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202637464\/thumbnail\/image-thumbnail-256-a2231c360eef4336e1d31b9e89ba636f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/thumb-60d780293230e78ababf5fc15e5b8f29-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202637464\/thumbnail\/image-thumbnail-256-a2231c360eef4336e1d31b9e89ba636f.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202637464\/240e1\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,116 @@
+{
+    "title": "Art of Cool Fest Inspired Makeup Looks",
+    "description": "A couple of my favorite  looks and products from Urban Decay, Too Faced and Smashbox for concert inspired makeup. I NEVER leave home without setting my face with Urban Decay’s All Nighter Setting Spray. It’s honestly the ONLY thing that makes my makeup last all day and night.",
+    "referenceId": "c984a68e80bf0d107ee4b3c208bad2d5",
+    "date_created": "1538095869",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "beauty",
+    "id": "178449649",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "art-of-cool-fest-inspired-makeup-looks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "17",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "17",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "automaticThumbnailsPattern": "1759121\/178449649\/8451a\/thumb-c984a68e80bf0d107ee4b3c208bad2d5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/thumb-c984a68e80bf0d107ee4b3c208bad2d5-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/thumb-c984a68e80bf0d107ee4b3c208bad2d5-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/thumb-c984a68e80bf0d107ee4b3c208bad2d5-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/thumb-c984a68e80bf0d107ee4b3c208bad2d5-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/thumb-c984a68e80bf0d107ee4b3c208bad2d5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/thumb-c984a68e80bf0d107ee4b3c208bad2d5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178449649\/thumbnail\/image-thumbnail-256-0987860d0642b81c5b1bf0309532ac90.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178449649\/thumbnail\/image-thumbnail-480-b3ecc36ad3eabc9bdabb000e9549344d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/thumb-c984a68e80bf0d107ee4b3c208bad2d5-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178449649\/thumbnail\/image-thumbnail-480-b3ecc36ad3eabc9bdabb000e9549344d.jpg",
+        "type": "mp4",
+        "assetId": "178449649",
+        "assetTitle": "Art of Cool Fest Inspired Makeup Looks",
+        "assetTitleTextEncoded": "cfb37bee-2e84-4244-bf64-dcdf69ad11a1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178449649",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178449649\/8451a\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-10-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,116 @@
+{
+    "title": "Anastasia Beverly Hills Norvina Palette Tutorial",
+    "description": "I'm using the new Norvina palette from Anastasia Beverly Hills to create a fun rose gold eye look!",
+    "referenceId": "f4682b07ad89a5f7b0e6ce4029ecb869",
+    "date_created": "1537884559",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1229",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213366",
+    "product_category": "beauty",
+    "id": "178304614",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "anastasia-beverly-hills-norvina-palette-tutorial",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "59",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "59",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "automaticThumbnailsPattern": "1759121\/178304614\/c5dba\/thumb-f4682b07ad89a5f7b0e6ce4029ecb869-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/thumb-f4682b07ad89a5f7b0e6ce4029ecb869-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/thumb-f4682b07ad89a5f7b0e6ce4029ecb869-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/thumb-f4682b07ad89a5f7b0e6ce4029ecb869-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/thumb-f4682b07ad89a5f7b0e6ce4029ecb869-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/thumb-f4682b07ad89a5f7b0e6ce4029ecb869-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/thumb-f4682b07ad89a5f7b0e6ce4029ecb869-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178304614\/thumbnail\/image-thumbnail-256-8701893fa5beafb9949574bb5d85eb89.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178304614\/thumbnail\/image-thumbnail-480-c12248b1ff28723efe4acadbb46ff204.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178304614\/thumbnail\/image-thumbnail-640-d342cca7fd0f8255b06e0271cc547d14.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178304614\/thumbnail\/image-thumbnail-1280-7c280baf0fdb673d2d913f15ddefce85.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/thumb-f4682b07ad89a5f7b0e6ce4029ecb869-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178304614\/thumbnail\/image-thumbnail-640-d342cca7fd0f8255b06e0271cc547d14.jpg",
+        "type": "mp4",
+        "assetId": "178304614",
+        "assetTitle": "Anastasia Beverly Hills Norvina Palette Tutorial",
+        "assetTitleTextEncoded": "fey-mejias-norvina-1-0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178304614",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304614\/c5dba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "ReverbNation Beverly Hills Florida",
+    "tvp_enhanced_transcript": null
+}

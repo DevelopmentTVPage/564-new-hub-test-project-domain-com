@@ -1,0 +1,127 @@
+{
+    "title": "Graphic Liner",
+    "description": "I have a hooded lid so I ALWAYS have to draw my liner on with a graphic spin. Check out our Customer Top Rated picks for some amazing liners that stay in place and create the best cat eye. Perfect to pair with a red lip!",
+    "referenceId": null,
+    "date_created": "1545317591",
+    "date_modified": "1546466827",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213118",
+    "id": "189069158",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "graphic-liner",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2400,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--1920.jpeg?v=1545317595041"
+            },
+            {
+                "width": 1280,
+                "height": 1600,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--1280.jpeg?v=1545317595736"
+            },
+            {
+                "width": 1200,
+                "height": 1500,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--1200.jpeg?v=1545317594834"
+            },
+            {
+                "width": 1024,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--1024.jpeg?v=1545317594825"
+            },
+            {
+                "width": 1080,
+                "height": 1350,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--1080.jpeg?v=1545317594739"
+            },
+            {
+                "width": 960,
+                "height": 1200,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--960.jpeg?v=1545317595402"
+            },
+            {
+                "width": 640,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--640.jpeg?v=1545317595295"
+            },
+            {
+                "width": 600,
+                "height": 750,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--600.jpeg?v=1545317595357"
+            },
+            {
+                "width": 256,
+                "height": 320,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-media--256.jpeg?v=1545317595511"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-thumbnail-1920.jpeg?v=1545317596261"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-thumbnail-1280.jpeg?v=1545317596221"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-thumbnail-640.jpeg?v=1545317596317"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-thumbnail-480.jpeg?v=1545317596153"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-thumbnail-256.jpeg?v=1545317596151"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-thumbnail-64.jpeg?v=1545317596221"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/189069158\/image-thumbnail-640.jpeg?v=1545317596317",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

@@ -1,0 +1,115 @@
+{
+    "title": "It's Teddy Coat Season!",
+    "description": "It's my very first Macy's Style Crew (MSC) video! I promise to chat next time but I wanted to share with you my outfit from this weekend. The weather was perfect to wear my Teddy coat and this season's trend item - the snakeskin bootie! \n\nFollow me on IG @WanderlustEla!",
+    "referenceId": "677ef0c8e3d1f9638edd509fc4e75d84",
+    "date_created": "1541436465",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213406",
+    "product_category": "women",
+    "id": "182045868",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "its-teddy-coat-season",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/182045868\/e4e6b\/thumb-677ef0c8e3d1f9638edd509fc4e75d84-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182045868\/user-images\/image-1505-0e44dde018ba3a837ae2dcbc233ca0f8.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/thumb-677ef0c8e3d1f9638edd509fc4e75d84-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/thumb-677ef0c8e3d1f9638edd509fc4e75d84-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/thumb-677ef0c8e3d1f9638edd509fc4e75d84-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/thumb-677ef0c8e3d1f9638edd509fc4e75d84-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/thumb-677ef0c8e3d1f9638edd509fc4e75d84-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/thumb-677ef0c8e3d1f9638edd509fc4e75d84-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182045868\/thumbnail\/image-thumbnail-256-2f0a2b2a622fe2f755611994795d3082.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182045868\/thumbnail\/image-thumbnail-480-8875e083cfba2d6ccddbebcd2136e9e0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182045868\/thumbnail\/image-thumbnail-640-e3499e7eb1aebe25ec55eee3fd0957bc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182045868\/thumbnail\/image-thumbnail-1280-2195e8a72bebe41d031245d197861e17.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182045868\/user-images\/image-1505-0e44dde018ba3a837ae2dcbc233ca0f8.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182045868\/thumbnail\/image-thumbnail-640-e3499e7eb1aebe25ec55eee3fd0957bc.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": 182045868,
+        "assetTitle": "It's Teddy Coat Season!",
+        "assetTitleTextEncoded": "2018-11-4-16-1-12",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182045868,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045868\/e4e6b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

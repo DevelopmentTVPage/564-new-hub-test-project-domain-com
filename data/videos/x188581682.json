@@ -1,0 +1,117 @@
+{
+    "title": "Lauren Ralph Lauren Stonegate Crossbody Handbag: NOW 40% OFF!",
+    "description": "This RL cross body bag is pure luxury! I love the velvet and rich merlot color. The gold hardware is the perfect accent. It screams holiday and GLAM! Plus, it's 40% off right now. You need this bag.",
+    "referenceId": "477825be1913a27505a5abcaab532c27",
+    "date_created": "1545057890",
+    "date_modified": "1546466824",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "188581682",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lauren-ralph-lauren-stonegate-crossbody-handbag-now-40-off",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/188581682\/2c5f9\/thumb-477825be1913a27505a5abcaab532c27-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188581682\/user-images\/image-1280-3a31bf2c94a4b64fcde024cce07eede7.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/thumb-477825be1913a27505a5abcaab532c27-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/thumb-477825be1913a27505a5abcaab532c27-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/thumb-477825be1913a27505a5abcaab532c27-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/thumb-477825be1913a27505a5abcaab532c27-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/thumb-477825be1913a27505a5abcaab532c27-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/thumb-477825be1913a27505a5abcaab532c27-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188581682\/thumbnail\/image-thumbnail-256-1022761ff86262a9a3b3b498974c136f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188581682\/thumbnail\/image-thumbnail-480-abbd41364090c46776496db812448bc9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188581682\/thumbnail\/image-thumbnail-640-921552cacb1714b5f1a0996fdfb8b0a7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188581682\/thumbnail\/image-thumbnail-1280-a12f509450e728adbec2f95585a54402.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188581682\/user-images\/image-1280-3a31bf2c94a4b64fcde024cce07eede7.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188581682\/thumbnail\/image-thumbnail-640-921552cacb1714b5f1a0996fdfb8b0a7.jpg",
+        "type": "mp4",
+        "assetId": 188581682,
+        "assetTitle": "Lauren Ralph Lauren Stonegate Crossbody",
+        "assetTitleTextEncoded": "lauren-ralph-lauren-stonegate-crossbody",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188581682,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188581682\/2c5f9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

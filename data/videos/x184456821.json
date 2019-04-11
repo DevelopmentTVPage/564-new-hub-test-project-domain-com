@@ -1,0 +1,116 @@
+{
+    "title": "Clinique’s 3 Step Skin Care ?",
+    "description": "After so many skin care routines, I finally found the one! I have very oily skin, and this helps me control my oils throughout the day. This set also comes in for dry skin! Having clear skin is always a win!",
+    "referenceId": "d1c0421b65fa4788d44ee58625064e74",
+    "date_created": "1543387383",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "82",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "7",
+    "video_type": null,
+    "user_id": "213709",
+    "product_category": "beauty",
+    "id": "184456821",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cliniques-3-step-skin-care",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 29,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 29,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 29,
+        "prettyDuration": "00:00:29",
+        "automaticThumbnailsPattern": "1759121\/184456821\/0744f\/thumb-d1c0421b65fa4788d44ee58625064e74-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184456821\/user-images\/image-1241-bd8ab37a5baae859d1dc67e68e17020a.jpg",
+            "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/thumb-d1c0421b65fa4788d44ee58625064e74-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/thumb-d1c0421b65fa4788d44ee58625064e74-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/thumb-d1c0421b65fa4788d44ee58625064e74-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/thumb-d1c0421b65fa4788d44ee58625064e74-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/thumb-d1c0421b65fa4788d44ee58625064e74-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/thumb-d1c0421b65fa4788d44ee58625064e74-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184456821\/thumbnail\/image-thumbnail-256-50ee0bbfb5e01a42da1205474cab40b3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184456821\/thumbnail\/image-thumbnail-480-9e3aa3af9d5222da0dbf3114ff0efaba.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184456821\/thumbnail\/image-thumbnail-640-e29d020fb67d3f62da3640b17b437fc2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184456821\/user-images\/image-1241-bd8ab37a5baae859d1dc67e68e17020a.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184456821\/thumbnail\/image-thumbnail-640-e29d020fb67d3f62da3640b17b437fc2.jpg",
+        "type": "mp4",
+        "assetId": 184456821,
+        "assetTitle": "1C32FBA0-8DF0-4BB4-87F6-7ABA74CCE2D5",
+        "assetTitleTextEncoded": "1c32fba0-8df0-4bb4-87f6-7aba74cce2d5",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184456821,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184456821\/0744f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

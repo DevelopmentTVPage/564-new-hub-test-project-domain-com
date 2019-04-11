@@ -1,0 +1,115 @@
+{
+    "title": "Q&A with Michelle Kunz",
+    "description": "All of your questions about fashion, styling for your body type, cruelty-free beauty brands, how I find brunch spots in the city, taking insta pics and my job; answered in this video!",
+    "referenceId": "bc9a418bc417f0b6b0a4fdf0ba4371a4",
+    "date_created": "1542406555",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "70",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "183633337",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "q-a-with-michelle-kunz",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 804,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 804,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 804,
+        "prettyDuration": "00:13:24",
+        "automaticThumbnailsPattern": "1759121\/183633337\/3dcd0\/thumb-bc9a418bc417f0b6b0a4fdf0ba4371a4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183633337\/user-images\/image-1919-3a919fc360fd82bd9981c120673c4280.jpg",
+            "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/thumb-bc9a418bc417f0b6b0a4fdf0ba4371a4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/thumb-bc9a418bc417f0b6b0a4fdf0ba4371a4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/thumb-bc9a418bc417f0b6b0a4fdf0ba4371a4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/thumb-bc9a418bc417f0b6b0a4fdf0ba4371a4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/thumb-bc9a418bc417f0b6b0a4fdf0ba4371a4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/thumb-bc9a418bc417f0b6b0a4fdf0ba4371a4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183633337\/thumbnail\/image-thumbnail-256-be8fb150e05eceda1ec20c36a864ed82.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183633337\/thumbnail\/image-thumbnail-480-5b0bac8202034fc2d32181225b6ede05.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183633337\/thumbnail\/image-thumbnail-640-ff690ea693f21a73b5b648c152a99c54.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183633337\/thumbnail\/image-thumbnail-1280-ad107b90e90c5bffc83180248d4bf80c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183633337\/user-images\/image-1919-3a919fc360fd82bd9981c120673c4280.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183633337\/thumbnail\/image-thumbnail-640-ff690ea693f21a73b5b648c152a99c54.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": 183633337,
+        "assetTitle": "Q&A with Michelle Kunz",
+        "assetTitleTextEncoded": "q-a",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183633337,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183633337\/3dcd0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Let’s talk about teeth......",
+    "description": "They’re such an integral part of our look! What do you do to keep them smile ready? I use smile direct aligners and brightening kit! ",
+    "referenceId": null,
+    "date_created": "1543879892",
+    "date_modified": "1546466795",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213684",
+    "id": "184986227",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "lets-talk-about-teeth",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2357,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--1920.jpeg?v=1543879902759"
+            },
+            {
+                "width": 1280,
+                "height": 1571,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--1280.jpeg?v=1543879902517"
+            },
+            {
+                "width": 1200,
+                "height": 1473,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--1200.jpeg?v=1543879902538"
+            },
+            {
+                "width": 1024,
+                "height": 1257,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--1024.jpeg?v=1543879903290"
+            },
+            {
+                "width": 1080,
+                "height": 1326,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--1080.jpeg?v=1543879902505"
+            },
+            {
+                "width": 960,
+                "height": 1178,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--960.jpeg?v=1543879903152"
+            },
+            {
+                "width": 640,
+                "height": 785,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--640.jpeg?v=1543879903214"
+            },
+            {
+                "width": 600,
+                "height": 736,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--600.jpeg?v=1543879903564"
+            },
+            {
+                "width": 256,
+                "height": 314,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-media--256.jpeg?v=1543879903518"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-thumbnail-1920.jpeg?v=1543879904036"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-thumbnail-1280.jpeg?v=1543879903943"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-thumbnail-640.jpeg?v=1543879904101"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-thumbnail-480.jpeg?v=1543879903894"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-thumbnail-256.jpeg?v=1543879903881"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-thumbnail-64.jpeg?v=1543879904000"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184986227\/image-thumbnail-640.jpeg?v=1543879904101",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

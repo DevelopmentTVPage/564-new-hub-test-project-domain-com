@@ -1,0 +1,21 @@
+{
+    "id": "213939",
+    "first_name": "Tachani",
+    "last_name": "Quarles",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/757257190-0.3007728100288.jpg",
+        "job_title": "Design Assistant"
+    },
+    "last_login_timestamp": "1549590822",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-29 16:47:46",
+    "login_id": "1759121",
+    "user_id": "213939",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Tachani Quarles",
+    "profile_picture": "\/api\/canvas\/logo\/757257190-0.3007728100288.jpg",
+    "titleTextEncoded": "tachani-quarles",
+    "title": "Tachani Quarles",
+    "videos_count": "0"
+}

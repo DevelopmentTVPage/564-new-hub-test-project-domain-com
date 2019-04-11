@@ -1,0 +1,117 @@
+{
+    "title": "Fall Florals: Just A Taste Of Fashion",
+    "description": "Am I the only one who feels like we missed Fall and went straight to Winter? Don't be afraid step outside of the box and wear pieces you think are only for summer during the Fall\/Winter months.\nToday I am showing you how to wear a floral dress when the temperature drops. In the video I paired my INC dress with a suede mustard jacket and my absolutely favorite booties. When true Winter hits,I style my floral dress with a big chunky sweater and hot coffee in my hand.\nDress Web ID: 6727285",
+    "referenceId": "14ac6240630836d28908f038e2cb52aa",
+    "date_created": "1543269509",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "184294539",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-florals-just-a-taste-of-fashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 96,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 96,
+            "width": 1920,
+            "height": 1012
+        },
+        "mediaDuration": 96,
+        "prettyDuration": "00:01:36",
+        "automaticThumbnailsPattern": "1759121\/184294539\/5228e\/thumb-14ac6240630836d28908f038e2cb52aa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184294539\/user-images\/image-712-d4fbf6881e92d6602cd67724edee1d38.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294539\/user-images\/image-559-5b72edf709617a38849d377639b6ed82.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/thumb-14ac6240630836d28908f038e2cb52aa-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/thumb-14ac6240630836d28908f038e2cb52aa-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/thumb-14ac6240630836d28908f038e2cb52aa-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/thumb-14ac6240630836d28908f038e2cb52aa-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/thumb-14ac6240630836d28908f038e2cb52aa-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/thumb-14ac6240630836d28908f038e2cb52aa-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184294539\/thumbnail\/image-thumbnail-256-289c46c5109f7db149cb77b7b5c06e07.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184294539\/thumbnail\/image-thumbnail-480-77b8d2b88d4534b9e2d3438cec179ea4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184294539\/thumbnail\/image-thumbnail-640-3f13b565ea8bf582114fc98a54a08bb3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184294539\/user-images\/image-712-d4fbf6881e92d6602cd67724edee1d38.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184294539\/thumbnail\/image-thumbnail-640-3f13b565ea8bf582114fc98a54a08bb3.jpg",
+        "type": "mp4",
+        "assetId": 184294539,
+        "assetTitle": "Fall Florals: Just A Taste Of Fashion",
+        "assetTitleTextEncoded": "5-fall-floral-2-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184294539,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1012
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 674
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 450
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 338
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184294539\/5228e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 168
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

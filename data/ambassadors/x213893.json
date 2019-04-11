@@ -1,0 +1,21 @@
+{
+    "id": "213893",
+    "first_name": "Suzy",
+    "last_name": "Fritz",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Assistant Buyer - Trend Skincare, Tools, and Hair"
+    },
+    "last_login_timestamp": "1547821634",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-09 22:38:55",
+    "login_id": "1759121",
+    "user_id": "213893",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Suzy Fritz",
+    "profile_picture": null,
+    "titleTextEncoded": "suzy-fritz",
+    "title": "Suzy Fritz",
+    "videos_count": "0"
+}

@@ -1,0 +1,116 @@
+{
+    "title": "Winter Holiday Feast",
+    "description": "A winter wonderland holiday setting using barware and serveware. It encompasses pieces from the collections of Hotel, Martha Stewart, Thirstystone and Lenox.",
+    "referenceId": "3ec2f597f665e84a08df0dfcb34f648c",
+    "date_created": "1542285685",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "173",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "18",
+    "video_type": null,
+    "user_id": "213381",
+    "product_category": "home",
+    "id": "183455451",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "winter-holiday-feast",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 45,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 45,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 45,
+        "prettyDuration": "00:00:45",
+        "automaticThumbnailsPattern": "1759121\/183455451\/41a69\/thumb-3ec2f597f665e84a08df0dfcb34f648c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/thumb-3ec2f597f665e84a08df0dfcb34f648c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/thumb-3ec2f597f665e84a08df0dfcb34f648c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/thumb-3ec2f597f665e84a08df0dfcb34f648c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/thumb-3ec2f597f665e84a08df0dfcb34f648c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/thumb-3ec2f597f665e84a08df0dfcb34f648c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/thumb-3ec2f597f665e84a08df0dfcb34f648c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183455451\/thumbnail\/image-thumbnail-256-9bf2df8b6c40b1425f0356a40087f25d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183455451\/thumbnail\/image-thumbnail-480-35f8ccf5f341bfc7250cd46466564bd6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183455451\/thumbnail\/image-thumbnail-640-2d98055081e0a684fe6d24ebbea56dff.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183455451\/thumbnail\/image-thumbnail-1280-9846c020ff12bb3a9032a86210f8cccf.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/thumb-3ec2f597f665e84a08df0dfcb34f648c-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183455451\/thumbnail\/image-thumbnail-640-2d98055081e0a684fe6d24ebbea56dff.jpg",
+        "type": "mp4",
+        "assetId": 183455451,
+        "assetTitle": "Winter Holiday Feast",
+        "assetTitleTextEncoded": "954d3869-3d4e-4456-9235-63520ab7c353",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183455451,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183455451\/41a69\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

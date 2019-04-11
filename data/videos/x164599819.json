@@ -1,0 +1,111 @@
+{
+    "title": "Jacqueline Palmer\/Style Crew",
+    "description": "Color Trend for summer! Try a little yellow, and some fun to your wardrobe. #macysstylecrew #macystylecrewjacqueline #guess #kasper #Thenorthface #calvinklien #tommyhilfiger #summer #fashion #trend",
+    "referenceId": "7cd1dbc3de46336a4d3c3bd686c6b999",
+    "date_created": "1527646963",
+    "date_modified": "1546466773",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "124",
+    "engagement_score": "13",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "164599819",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-style-crew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "222",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "222",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "222",
+        "prettyDuration": "00:03:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164599819\/thumbnail\/image-thumbnail-640-c9a0a001c08eefd0a518d5819a8564e2.jpg",
+        "type": "mp4",
+        "assetId": "164599819",
+        "assetTitle": "39507E26-D483-4194-9E14-B165BDFC30F3",
+        "assetTitleTextEncoded": "39507e26-d483-4194-9e14-b165bdfc30f3",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164599819",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/164599819\/42b3d\/thumb-7cd1dbc3de46336a4d3c3bd686c6b999-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164599819\/user-images\/image-1280-6aba18919d1dd520dd091e42fe1b44be.jpg",
+            "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/thumb-7cd1dbc3de46336a4d3c3bd686c6b999-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164599819\/user-images\/image-1280-6aba18919d1dd520dd091e42fe1b44be.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164599819\/thumbnail\/image-thumbnail-256-edd0e23e0af07d2001097b497987cb5d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164599819\/thumbnail\/image-thumbnail-480-c6d03c3da9d6a6476eb9756a850b1ff8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164599819\/thumbnail\/image-thumbnail-640-c9a0a001c08eefd0a518d5819a8564e2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164599819\/thumbnail\/image-thumbnail-1280-ddb30304255106f43fc3205d851f1df4.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

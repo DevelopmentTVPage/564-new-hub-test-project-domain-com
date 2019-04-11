@@ -1,0 +1,115 @@
+{
+    "title": "My Gift List",
+    "description": "A musical video set to the tune of \"Let it Snow\" because shopping for gifts can be hard and stressful.",
+    "referenceId": "7097f7b6d09c6a4be072139e6df2d2f1",
+    "date_created": "1544903641",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "90",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "watches",
+    "id": "188358408",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-gift-list",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 97,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 97,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 97,
+        "prettyDuration": "00:01:37",
+        "automaticThumbnailsPattern": "1759121\/188358408\/b8953\/thumb-7097f7b6d09c6a4be072139e6df2d2f1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/thumb-7097f7b6d09c6a4be072139e6df2d2f1-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/thumb-7097f7b6d09c6a4be072139e6df2d2f1-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/thumb-7097f7b6d09c6a4be072139e6df2d2f1-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/thumb-7097f7b6d09c6a4be072139e6df2d2f1-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/thumb-7097f7b6d09c6a4be072139e6df2d2f1-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/thumb-7097f7b6d09c6a4be072139e6df2d2f1-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188358408\/thumbnail\/image-thumbnail-256-3d09a34138678bf0d984c4b88d4fabfa.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188358408\/thumbnail\/image-thumbnail-480-9aa1f91992725732a538821ac4c9deb7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188358408\/thumbnail\/image-thumbnail-640-1a3c3fb6f1e88b7413f1738ce56f560e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/thumb-7097f7b6d09c6a4be072139e6df2d2f1-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188358408\/thumbnail\/image-thumbnail-640-1a3c3fb6f1e88b7413f1738ce56f560e.jpg",
+        "type": "mp4",
+        "assetId": 188358408,
+        "assetTitle": "My Gift List",
+        "assetTitleTextEncoded": "thegiftlist",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188358408,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188358408\/b8953\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

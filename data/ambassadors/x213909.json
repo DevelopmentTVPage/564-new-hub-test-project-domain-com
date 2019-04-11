@@ -1,0 +1,21 @@
+{
+    "id": "213909",
+    "first_name": "Nikki",
+    "last_name": "Cohen",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/406513760-0.1791186930146.jpg",
+        "job_title": "My Sylist@Macys"
+    },
+    "last_login_timestamp": "1548314073",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-18 05:16:26",
+    "login_id": "1759121",
+    "user_id": "213909",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Nikki Cohen",
+    "profile_picture": "\/api\/canvas\/logo\/406513760-0.1791186930146.jpg",
+    "titleTextEncoded": "nikki-cohen",
+    "title": "Nikki Cohen",
+    "videos_count": "0"
+}

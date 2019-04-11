@@ -1,0 +1,110 @@
+{
+    "title": "My Holiday Journey - Will Workout for Cupcakes",
+    "description": "Will trade squats for cupcakes \nOver the last year I moved to a new state and had to join a new gym after leaving the one I worked and worked out in, for almost 16 years.  This time last year, I hired a personal trainer to help me adjust fitness and nutrition to a life style, instead of falling flat for fad diets and workout trends. Mixing it up from calisthenics, strength training, HIIT cardio and even boxing, I needed my clothes withstand vigorous movements and keep certain body parts in place (ladies, you know what i mean ) The DKNY active collection @macys totally has me sold. I love their sports bras that, while cute, maintain their functionality for low impact, mobility and cool comfort. \nShop this  iconic DKNY look and others like it, now @macys! \n#fitnessfriday#mystyle#macys#macysstylecrew#Nike\n#DKNY\nShop the LINK in my bio to get these awesome items!",
+    "referenceId": "daf86438de5c51ef772b5bba036b4839",
+    "date_created": "1545148174",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "51",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213813",
+    "product_category": "active",
+    "id": "188724440",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-will-workout-for-cupcakes",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/188724440\/3736f\/thumb-daf86438de5c51ef772b5bba036b4839-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/thumb-daf86438de5c51ef772b5bba036b4839-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/thumb-daf86438de5c51ef772b5bba036b4839-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/thumb-daf86438de5c51ef772b5bba036b4839-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/thumb-daf86438de5c51ef772b5bba036b4839-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/thumb-daf86438de5c51ef772b5bba036b4839-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188724440\/thumbnail\/image-thumbnail-256-6efff548963b39bbaa92d4d6bc1da5ba.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188724440\/thumbnail\/image-thumbnail-480-510197d45ee1f84813cbb8f93f316fb6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/thumb-daf86438de5c51ef772b5bba036b4839-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188724440\/thumbnail\/image-thumbnail-480-510197d45ee1f84813cbb8f93f316fb6.jpg",
+        "type": "mp4",
+        "assetId": 188724440,
+        "assetTitle": "CC9A9E91-115E-4680-9841-132050053E2E",
+        "assetTitleTextEncoded": "cc9a9e91-115e-4680-9841-132050053e2e",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188724440,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724440\/3736f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

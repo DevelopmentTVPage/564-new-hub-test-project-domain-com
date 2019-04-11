@@ -1,0 +1,127 @@
+{
+    "title": "Monday Pick-ME-up",
+    "description": "Happy (day after the Superbowl) Monday.  Is anyone else tired??? I know I am not alone...my skin definitely needed a pick-me-up this morning.  M-61 has a 2-minute vitamin C mask that will instantly brighten your skin!  Two minutes is all you need and you're on your way to brighter skin.",
+    "referenceId": null,
+    "date_created": "1549282102",
+    "date_modified": "1549286787",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "201454302",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "monday-pick-me-up",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3117,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--1920.jpeg?v=1549282124957"
+            },
+            {
+                "width": 1280,
+                "height": 2078,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--1280.jpeg?v=1549282124528"
+            },
+            {
+                "width": 1200,
+                "height": 1948,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--1200.jpeg?v=1549282124562"
+            },
+            {
+                "width": 1024,
+                "height": 1662,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--1024.jpeg?v=1549282125915"
+            },
+            {
+                "width": 1080,
+                "height": 1753,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--1080.jpeg?v=1549282124466"
+            },
+            {
+                "width": 960,
+                "height": 1558,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--960.jpeg?v=1549282125834"
+            },
+            {
+                "width": 640,
+                "height": 1039,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--640.jpeg?v=1549282125903"
+            },
+            {
+                "width": 600,
+                "height": 974,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--600.jpeg?v=1549282126974"
+            },
+            {
+                "width": 256,
+                "height": 415,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-media--256.jpeg?v=1549282127535"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-thumbnail-1920.jpeg?v=1549282128188"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-thumbnail-1280.jpeg?v=1549282128095"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-thumbnail-640.jpeg?v=1549282128612"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-thumbnail-480.jpeg?v=1549282127976"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-thumbnail-256.jpeg?v=1549282127955"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-thumbnail-64.jpeg?v=1549282128344"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201454302\/image-thumbnail-640.jpeg?v=1549282128612",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

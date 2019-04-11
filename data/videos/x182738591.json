@@ -1,0 +1,114 @@
+{
+    "title": "Plus size looks that SHINE!",
+    "description": "When I think about dressing for the holidays, I always come back to shine, whether it's sequins, patent leathers or metallic sweaters, there is something for every occasion in my life! This season i'm showing you some of my favorite pieces that shine from the Macy's plus size department. Check out the links to shop all of my favorite looks from Adrianna Papell to INC International concepts",
+    "referenceId": "4ef3a962be8ad72aa03d928a7a775b7e",
+    "date_created": "1541611806",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "99",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "182738591",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "plus-size-looks-that-shine",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 166,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 166,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 166,
+        "prettyDuration": "00:02:46",
+        "automaticThumbnailsPattern": "1759121\/182738591\/6f68a\/thumb-4ef3a962be8ad72aa03d928a7a775b7e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/thumb-4ef3a962be8ad72aa03d928a7a775b7e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/thumb-4ef3a962be8ad72aa03d928a7a775b7e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/thumb-4ef3a962be8ad72aa03d928a7a775b7e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/thumb-4ef3a962be8ad72aa03d928a7a775b7e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/thumb-4ef3a962be8ad72aa03d928a7a775b7e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/thumb-4ef3a962be8ad72aa03d928a7a775b7e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182738591\/thumbnail\/image-thumbnail-256-85f0880d228745a5aa510ec7f6d8e46f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182738591\/thumbnail\/image-thumbnail-480-c531d5690ec31408b8224b263ea0be19.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182738591\/thumbnail\/image-thumbnail-640-f5c4ca286979e641030ee44d629e73d6.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182738591\/thumbnail\/image-thumbnail-1280-aa304c8dc1a3268bf23a87c61f0fd2d6.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/182738591\/thumbnail\/image-thumbnail-1920-ad56a3e27d1e78b311d94a9385484b92.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/thumb-4ef3a962be8ad72aa03d928a7a775b7e-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182738591\/thumbnail\/image-thumbnail-640-f5c4ca286979e641030ee44d629e73d6.jpg",
+        "type": "mp4",
+        "assetId": 182738591,
+        "assetTitle": "Plus size looks that SHINE!",
+        "assetTitleTextEncoded": "jill-haul-shine-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182738591,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182738591\/6f68a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

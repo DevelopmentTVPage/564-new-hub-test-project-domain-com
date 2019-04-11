@@ -1,0 +1,21 @@
+{
+    "id": "213729",
+    "first_name": "Jay",
+    "last_name": "C",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/898419876-0.2659336788579.jpg",
+        "job_title": "Sales Supervisor"
+    },
+    "last_login_timestamp": "1549550173",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 20:21:37",
+    "login_id": "1759121",
+    "user_id": "213729",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jay C",
+    "profile_picture": "\/api\/canvas\/logo\/898419876-0.2659336788579.jpg",
+    "titleTextEncoded": "jay-c",
+    "title": "Jay C",
+    "videos_count": "0"
+}

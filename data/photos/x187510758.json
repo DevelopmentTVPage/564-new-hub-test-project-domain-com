@@ -1,0 +1,127 @@
+{
+    "title": "Sleigh the Holidays ",
+    "description": "#SLEIGH the holidays this season with these amazing gift sets @macys from your favorite Fragrance and Cosmetic Brands like Clinique, Bobbi Brown, Donna Karen, IT Cosmetics and more. Take 15% during the Friends and Family event, but hurry, it ends today! \nmystyle#macys#macysstylecrew\n.\n.\n.\nGifts in Pic:\nClinique -  3 pc. “Happy” treats \nIT Cosmetics - Makeup Wipes, Heavenly Lixe Airbrush Powder and Bronzer brush, Heavenly Skin One Sweep Wonder brush, BYE BYE Under Eye, Confidence in a Cleanser\nBobbi Brown - lipsticks \nDonna Karen - Cashmere Mist Set\nMini Fragrance Set",
+    "referenceId": null,
+    "date_created": "1544449555",
+    "date_modified": "1546466797",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213813",
+    "id": "187510758",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "sleigh-the-holidays",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2562,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--1920.jpeg?v=1544449559957"
+            },
+            {
+                "width": 1280,
+                "height": 1708,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--1280.jpeg?v=1544449560205"
+            },
+            {
+                "width": 1200,
+                "height": 1601,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--1200.jpeg?v=1544449560206"
+            },
+            {
+                "width": 1024,
+                "height": 1366,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--1024.jpeg?v=1544449560812"
+            },
+            {
+                "width": 1080,
+                "height": 1441,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--1080.jpeg?v=1544449559746"
+            },
+            {
+                "width": 960,
+                "height": 1281,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--960.jpeg?v=1544449560300"
+            },
+            {
+                "width": 640,
+                "height": 854,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--640.jpeg?v=1544449559649"
+            },
+            {
+                "width": 600,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--600.jpeg?v=1544449559639"
+            },
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-media--256.jpeg?v=1544449559896"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-thumbnail-1920.jpeg?v=1544449561322"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-thumbnail-1280.jpeg?v=1544449561277"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-thumbnail-640.jpeg?v=1544449561402"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-thumbnail-480.jpeg?v=1544449561195"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-thumbnail-256.jpeg?v=1544449561185"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-thumbnail-64.jpeg?v=1544449561264"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510758\/image-thumbnail-640.jpeg?v=1544449561402",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

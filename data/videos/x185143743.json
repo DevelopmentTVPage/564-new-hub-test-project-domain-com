@@ -1,0 +1,108 @@
+{
+    "title": "Great Holiday Gift!",
+    "description": "Need some ideas for a fabulous gift this holiday season??? Well you’re in luck—grab a beautiful Oversized Charter Club Cashmere Scarf today! Super soft, available in various colors and at a great price point—what’s not to love?",
+    "referenceId": "c6cd6ecfd9e3641624192f59aaeb24dc",
+    "date_created": "1543936150",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213443",
+    "product_category": "women",
+    "id": "185143743",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "great-holiday-gift",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/185143743\/8cbd3\/thumb-c6cd6ecfd9e3641624192f59aaeb24dc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/thumb-c6cd6ecfd9e3641624192f59aaeb24dc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/thumb-c6cd6ecfd9e3641624192f59aaeb24dc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/thumb-c6cd6ecfd9e3641624192f59aaeb24dc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185143743\/thumbnail\/image-thumbnail-256-10536fa53277c4b2639a6f70f06a4937.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185143743\/thumbnail\/image-thumbnail-480-b2d90a9c44e971b0824a0a50b211379f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/thumb-c6cd6ecfd9e3641624192f59aaeb24dc-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143743\/thumbnail\/image-thumbnail-480-b2d90a9c44e971b0824a0a50b211379f.jpg",
+        "type": "mp4",
+        "assetId": 185143743,
+        "assetTitle": "3FF8A3F1-D018-4994-B7D2-705630E2A5FA",
+        "assetTitleTextEncoded": "3ff8a3f1-d018-4994-b7d2-705630e2a5fa",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185143743,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143743\/8cbd3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

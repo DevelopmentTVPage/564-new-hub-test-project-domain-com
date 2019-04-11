@@ -1,0 +1,114 @@
+{
+    "title": "The Red Handbag",
+    "description": "Is anyone else completely obsessed with The Red Handbag Trend?! There’s so many different varieties... ",
+    "referenceId": "30518cac2b0e25042aab55efd4e8e8bf",
+    "date_created": "1538249640",
+    "date_modified": "1546466817",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "57",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "handbags",
+    "id": "178595451",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-red-handbag",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "automaticThumbnailsPattern": "1759121\/178595451\/a93de\/thumb-30518cac2b0e25042aab55efd4e8e8bf-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/thumb-30518cac2b0e25042aab55efd4e8e8bf-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/thumb-30518cac2b0e25042aab55efd4e8e8bf-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/thumb-30518cac2b0e25042aab55efd4e8e8bf-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/thumb-30518cac2b0e25042aab55efd4e8e8bf-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/thumb-30518cac2b0e25042aab55efd4e8e8bf-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/thumb-30518cac2b0e25042aab55efd4e8e8bf-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178595451\/thumbnail\/image-thumbnail-256-b95b79270dc3b96ef881c76412cc1a62.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178595451\/thumbnail\/image-thumbnail-480-087ac7b673ae27d3493ee7bd530efff6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/thumb-30518cac2b0e25042aab55efd4e8e8bf-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178595451\/thumbnail\/image-thumbnail-480-087ac7b673ae27d3493ee7bd530efff6.jpg",
+        "type": "mp4",
+        "assetId": "178595451",
+        "assetTitle": "7EACE73F-CDDC-4499-91F3-3C24796BD336",
+        "assetTitleTextEncoded": "7eace73f-cddc-4499-91f3-3c24796bd336",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178595451",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178595451\/a93de\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

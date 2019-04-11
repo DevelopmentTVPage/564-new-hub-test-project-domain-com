@@ -1,0 +1,113 @@
+{
+    "title": "Fashion Office Hottest Looks",
+    "description": "For the perfect New Years Eve look, try mixing and matching sequins and metallics with faux fur! \nSophie is wearing a sequin jumpsuit by Donna Ricco, Web ID 6987297 with a faux fur shrug by Betsy Johnson, Web ID 7056798. And I’m rocking INC metallic jacquard tuxedo Web ID 7454870.",
+    "referenceId": "e4420c860e2423df4d5f84d3b39c9cd9",
+    "date_created": "1543941843",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213234",
+    "product_category": "women",
+    "id": "185143760",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-looks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 3,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 3,
+            "width": 810,
+            "height": 1080
+        },
+        "mediaDuration": 3,
+        "prettyDuration": "00:00:03",
+        "automaticThumbnailsPattern": "1759121\/185143760\/187ef\/thumb-e4420c860e2423df4d5f84d3b39c9cd9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185143760\/user-images\/image-760-411c5785de497d463aa0f3f0ae4e7c30.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143760\/user-images\/image-760-5a1b112785e65aa6dd5f1c4111098e0f.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143760\/187ef\/thumb-e4420c860e2423df4d5f84d3b39c9cd9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185143760\/187ef\/thumb-e4420c860e2423df4d5f84d3b39c9cd9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185143760\/thumbnail\/image-thumbnail-256-05a816771022acb29f992e19fb19e274.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185143760\/thumbnail\/image-thumbnail-480-ea9b3ef7624698d0ee05b6d38efbdea6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185143760\/thumbnail\/image-thumbnail-640-eea0e9e1aee5f3dfe798ae398ac19bdc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143760\/user-images\/image-760-411c5785de497d463aa0f3f0ae4e7c30.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185143760\/thumbnail\/image-thumbnail-640-eea0e9e1aee5f3dfe798ae398ac19bdc.jpg",
+        "type": "mp4",
+        "assetId": 185143760,
+        "assetTitle": "4CB8BF40-A83A-44D8-BC7F-261842393566",
+        "assetTitleTextEncoded": "4cb8bf40-a83a-44d8-bc7f-261842393566",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185143760,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143760\/187ef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 810,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143760\/187ef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143760\/187ef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143760\/187ef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185143760\/187ef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "“The Big Give Back: Buy a Coat and We’ll Donate One”",
+    "description": "brands including: 32 Degrees, Calvin Klein, Celebrity Pink, DKNY, GUESS, Hawke & Co. Outfitter, Kensie, Laundry by Shelli Segal, Lauren Ralph Lauren, London Fog, Michael Michael Kors, Nautica, S. Rothschild, Sebby and Weatherproof.",
+    "referenceId": "38cef851ccf435f4a8a1b6ca9b197c9b",
+    "date_created": "1541111910",
+    "date_modified": "1546466826",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "active",
+    "id": "181627282",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-big-give-back-buy-a-coat-and-well-donate-one",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 23,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 23,
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/181627282\/78671\/thumb-38cef851ccf435f4a8a1b6ca9b197c9b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181627282\/user-images\/image-1080-fa36338a45296f13c84f3d9395440420.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627282\/78671\/thumb-38cef851ccf435f4a8a1b6ca9b197c9b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627282\/78671\/thumb-38cef851ccf435f4a8a1b6ca9b197c9b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627282\/78671\/thumb-38cef851ccf435f4a8a1b6ca9b197c9b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627282\/78671\/thumb-38cef851ccf435f4a8a1b6ca9b197c9b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627282\/78671\/thumb-38cef851ccf435f4a8a1b6ca9b197c9b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627282\/78671\/thumb-38cef851ccf435f4a8a1b6ca9b197c9b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181627282\/thumbnail\/image-thumbnail-256-85c402069154f402d3c9d13bbcd8c2e0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181627282\/thumbnail\/image-thumbnail-480-d884be8dd2d983b23fb40f349cc8a6df.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181627282\/thumbnail\/image-thumbnail-640-d860a8065c05f46e0231a2458f3111a0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181627282\/user-images\/image-1080-fa36338a45296f13c84f3d9395440420.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181627282\/thumbnail\/image-thumbnail-640-d860a8065c05f46e0231a2458f3111a0.jpg",
+        "type": "mp4",
+        "assetId": 181627282,
+        "assetTitle": "“The Big Give Back: Buy a Coat and We’ll Donate One”",
+        "assetTitleTextEncoded": "buy-a-coat-2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181627282,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627282\/78671\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627282\/78671\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627282\/78671\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627282\/78671\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627282\/78671\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

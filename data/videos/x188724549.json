@@ -1,0 +1,105 @@
+{
+    "title": "Snapchat",
+    "description": null,
+    "referenceId": "d60bf6eb41b7bbf68e30158b9bfc8ac6",
+    "date_created": "1545167134",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213829",
+    "product_category": null,
+    "id": "188724549",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "snapchat",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 9,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 9,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 9,
+        "prettyDuration": "00:00:09",
+        "automaticThumbnailsPattern": "1759121\/188724549\/0bb0a\/thumb-d60bf6eb41b7bbf68e30158b9bfc8ac6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/thumb-d60bf6eb41b7bbf68e30158b9bfc8ac6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/thumb-d60bf6eb41b7bbf68e30158b9bfc8ac6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/thumb-d60bf6eb41b7bbf68e30158b9bfc8ac6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/thumb-d60bf6eb41b7bbf68e30158b9bfc8ac6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/thumb-d60bf6eb41b7bbf68e30158b9bfc8ac6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188724549\/thumbnail\/image-thumbnail-256-6d8eaf07e9dd7121a605a99e16e5143e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188724549\/thumbnail\/image-thumbnail-480-0af4df483de0e41371b81f86a5977a17.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/thumb-d60bf6eb41b7bbf68e30158b9bfc8ac6-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188724549\/thumbnail\/image-thumbnail-480-0af4df483de0e41371b81f86a5977a17.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724549\/0bb0a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

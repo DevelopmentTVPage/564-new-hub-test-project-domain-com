@@ -1,0 +1,21 @@
+{
+    "id": "213710",
+    "first_name": "nadia",
+    "last_name": "kurdi",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/827308488-0.9464479104150.jpg",
+        "job_title": "sales associate"
+    },
+    "last_login_timestamp": "1542615354",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 05:30:04",
+    "login_id": "1759121",
+    "user_id": "213710",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "nadia kurdi",
+    "profile_picture": "\/api\/canvas\/logo\/827308488-0.9464479104150.jpg",
+    "titleTextEncoded": "nadia-kurdi",
+    "title": "nadia kurdi",
+    "videos_count": "5"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213744",
+    "first_name": "Erin",
+    "last_name": "Soule",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/620377595-0.3187881426420.jpg",
+        "job_title": "Fine Jewelry Sales Associate"
+    },
+    "last_login_timestamp": "1544116443",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-03 23:33:57",
+    "login_id": "1759121",
+    "user_id": "213744",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Erin Soule",
+    "profile_picture": "\/api\/canvas\/logo\/620377595-0.3187881426420.jpg",
+    "titleTextEncoded": "erin-soule",
+    "title": "Erin Soule",
+    "videos_count": "5"
+}

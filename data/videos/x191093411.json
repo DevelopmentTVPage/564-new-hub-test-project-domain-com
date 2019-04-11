@@ -1,0 +1,105 @@
+{
+    "title": "@fashionistamila wearing INC latest dress design",
+    "description": "This beautiful dress was designed by Jamila and her design team and is now featured in Macy’s holiday mailer!",
+    "referenceId": "41bc0211c65d07b6ba50548676b40dc0",
+    "date_created": "1545645575",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213295",
+    "product_category": null,
+    "id": "191093411",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashionistamila-wearing-inc-latest-dress-design",
+    "category": "Women",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 69,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 69,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 69,
+        "prettyDuration": "00:01:09",
+        "automaticThumbnailsPattern": "1759121\/191093411\/8e92d\/thumb-41bc0211c65d07b6ba50548676b40dc0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/thumb-41bc0211c65d07b6ba50548676b40dc0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/thumb-41bc0211c65d07b6ba50548676b40dc0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/thumb-41bc0211c65d07b6ba50548676b40dc0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/thumb-41bc0211c65d07b6ba50548676b40dc0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/thumb-41bc0211c65d07b6ba50548676b40dc0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/thumb-41bc0211c65d07b6ba50548676b40dc0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191093411\/thumbnail\/image-thumbnail-256-fcf8f40cf6c662d7c5dc4aa73c7012b3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191093411\/thumbnail\/image-thumbnail-480-024f70d93a45949fe6fd70af362c646b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/thumb-41bc0211c65d07b6ba50548676b40dc0-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191093411\/thumbnail\/image-thumbnail-480-024f70d93a45949fe6fd70af362c646b.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191093411\/8e92d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

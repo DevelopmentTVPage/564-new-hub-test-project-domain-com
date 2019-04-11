@@ -1,0 +1,109 @@
+{
+    "title": "friends and famimy fragrance discount",
+    "description": "15% off on selected brands",
+    "referenceId": "21d58e94663a253df12c57dbbe53c559",
+    "date_created": "1543984408",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": "beauty",
+    "id": "185315824",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "friends-and-famimy-fragrance-discount",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/185315824\/b6914\/thumb-21d58e94663a253df12c57dbbe53c559-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/thumb-21d58e94663a253df12c57dbbe53c559-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/thumb-21d58e94663a253df12c57dbbe53c559-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/thumb-21d58e94663a253df12c57dbbe53c559-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185315824\/thumbnail\/image-thumbnail-256-54cd22ced4b4626f7d9f84e1c41f95d7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185315824\/thumbnail\/image-thumbnail-480-21f06dc06665cf58f68f3af4a9cc75df.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185315824\/thumbnail\/image-thumbnail-640-1e433d86f55916b049cde482b17a609c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/thumb-21d58e94663a253df12c57dbbe53c559-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185315824\/thumbnail\/image-thumbnail-640-1e433d86f55916b049cde482b17a609c.jpg",
+        "type": "mp4",
+        "assetId": 185315824,
+        "assetTitle": "Video_2018_12_04_10_32_06_PM",
+        "assetTitleTextEncoded": "video-2018-12-04-10-32-06-pm",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185315824,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185315824\/b6914\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

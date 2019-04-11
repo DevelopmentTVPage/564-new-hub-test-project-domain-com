@@ -1,0 +1,110 @@
+{
+    "title": "Effy New Signature collection of wild cats",
+    "description": "All new Effy signature collection of panthers. Diamonds with emerald accents",
+    "referenceId": "937bdaa30008ec1e41b6d572e06a6787",
+    "date_created": "1538004761",
+    "date_modified": "1549596384",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "108",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213287",
+    "product_category": "jewelry",
+    "id": "178375573",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "effy-new-signature-collection-of-wild-cats",
+    "category": "Jewelry",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/178375573\/082b8\/thumb-937bdaa30008ec1e41b6d572e06a6787-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178375573\/user-images\/image-2303-9b6e0f90cc5323d35ae2129800b3f93f.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375573\/user-images\/image-1644-c4cb3a64cc94a3779831f2628951d412.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/thumb-937bdaa30008ec1e41b6d572e06a6787-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/thumb-937bdaa30008ec1e41b6d572e06a6787-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/thumb-937bdaa30008ec1e41b6d572e06a6787-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178375573\/thumbnail\/image-thumbnail-256-b130df92e7d691e33b92481e90764e2d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178375573\/thumbnail\/image-thumbnail-480-e8da2e248383961e98523e2c371d45af.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/thumb-937bdaa30008ec1e41b6d572e06a6787-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178375573\/thumbnail\/image-thumbnail-480-e8da2e248383961e98523e2c371d45af.jpg",
+        "type": "mp4",
+        "assetId": 178375573,
+        "assetTitle": "Effy Signature Panther diamonds with accent emeralds",
+        "assetTitleTextEncoded": "9e76a529-6752-40c8-a3a7-13a244861f0d",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178375573,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375573\/082b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

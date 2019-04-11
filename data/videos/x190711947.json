@@ -1,0 +1,104 @@
+{
+    "title": "After Christmas Sale ",
+    "description": "Hello!! \nHope you all had an amazing holiday. A couple of weeks ago I went to Mexico City for my birthday and spent the day in Xochimilco. It’s known to be the Venice of Mexico. We rented a Gondola and took it down the canal while enjoying Mariachi and delicious food. You must add this beautiful city to your bucket list. Now that Christmas is over, it’s time to enjoy the After Christmas Sales. I added some of my favorite items! Enjoy! \n\nHola! \nEspero que hayan tenido unos días festivos maravillosos. Hace unas semanas fui a la Ciudad de México a pasar mi cumpleaños y pase un día en Xochimilco. Ahí rentamos un barco que nos llevo por el canal donde disfrutamos de Mariachi y comida deliciosa. Tienen que visitar esta hermosa ciudad. Ahora que ya se acabaron las fiestas navideñas es tiempo de disfrutar las ofertas. Aquí agregué unos de mis piezas favoritas. ",
+    "referenceId": "25f64a5efe6961a5035cbf568eeb33d3",
+    "date_created": "1545499595",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213216",
+    "product_category": null,
+    "id": "190711947",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "after-christmas-sale",
+    "category": "Hello!! \nHope you all had an amazing holiday. A couple of weeks ago I went to Mexico City for my birthday and spent the day in Xochimilco. It’s known to be the Venice of Mexico. We rented a Gondola and took it down the canal while enjoying Mariachi and delicious food. You must add this beautiful city to your bucket list. Now that Christmas is over, it’s time to enjoy the After Christmas Sales. I added some of my favorite items! Enjoy! \n\nHola! \nEspero que hayan tenido unos días festivos maravillosos. Hace unas semanas fui a la Ciudad de México a pasar mi cumpleaños y pase un día en Xochimilco. Ahí rentamos un barco que nos llevo por el canal donde disfrutamos de Mariachi y comida deliciosa. Tienen que visitar esta hermosa ciudad. Ahora que ya se acabaron las fiestas navideñas es tiempo de disfrutar las ofertas. Aquí agregué unos de mis piezas favoritas. ",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 44,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 44,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 44,
+        "prettyDuration": "00:00:44",
+        "automaticThumbnailsPattern": "1759121\/190711947\/c990d\/thumb-25f64a5efe6961a5035cbf568eeb33d3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/thumb-25f64a5efe6961a5035cbf568eeb33d3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/thumb-25f64a5efe6961a5035cbf568eeb33d3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/thumb-25f64a5efe6961a5035cbf568eeb33d3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/thumb-25f64a5efe6961a5035cbf568eeb33d3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/thumb-25f64a5efe6961a5035cbf568eeb33d3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/thumb-25f64a5efe6961a5035cbf568eeb33d3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/190711947\/thumbnail\/image-thumbnail-256-e4ed2f71f3477634a90bb13920bab45b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/190711947\/thumbnail\/image-thumbnail-480-070bd3f733bf09bc5a181419c8b950cf.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/190711947\/thumbnail\/image-thumbnail-640-09fa2d302d1083d068be5e28143b775a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/190711947\/thumbnail\/image-thumbnail-1280-3eef340f5773282815aab607675c5ab5.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/thumb-25f64a5efe6961a5035cbf568eeb33d3-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/190711947\/thumbnail\/image-thumbnail-640-09fa2d302d1083d068be5e28143b775a.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190711947\/c990d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

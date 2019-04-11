@@ -1,0 +1,98 @@
+{
+    "title": "Athleisure Material Girl",
+    "description": "Material Girl offers a great selection of AthLeisure like this great Material Girl Active Zip Front Jumpsuit! Great for the weekend! Check out some other Material Girl Active options!\n",
+    "referenceId": "100d79b110b4c9f97d98e0eb4e120e2e",
+    "date_created": "1550424518",
+    "date_modified": "1550425554",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": null,
+    "id": "203667422",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "athleisure-material-girl",
+    "category": "Material Girl offers a great selection of AthLeisure like this great Material Girl Active Zip Front Jumpsuit! Great for the weekend! Check out some other Material Girl Active options!\n",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/203667422\/22a68\/thumb-100d79b110b4c9f97d98e0eb4e120e2e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/thumb-100d79b110b4c9f97d98e0eb4e120e2e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/thumb-100d79b110b4c9f97d98e0eb4e120e2e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/thumb-100d79b110b4c9f97d98e0eb4e120e2e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/thumb-100d79b110b4c9f97d98e0eb4e120e2e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/thumb-100d79b110b4c9f97d98e0eb4e120e2e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/thumb-100d79b110b4c9f97d98e0eb4e120e2e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203667422\/thumbnail\/image-thumbnail-256-a90ec81083a0f91bc52236d596b12375.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203667422\/thumbnail\/image-thumbnail-480-29687d1dd3268ceeae687c5f8220b09c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/thumb-100d79b110b4c9f97d98e0eb4e120e2e-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203667422\/thumbnail\/image-thumbnail-480-29687d1dd3268ceeae687c5f8220b09c.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203667422\/22a68\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,112 @@
+{
+    "title": "#FirstTake",
+    "description": null,
+    "referenceId": "5f9b7b712e9a2ecb7937d8e78b07a360",
+    "date_created": "1545141030",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213101",
+    "product_category": null,
+    "id": "188724416",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "firsttake",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 42,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 42,
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": 42,
+        "prettyDuration": "00:00:42",
+        "automaticThumbnailsPattern": "1759121\/188724416\/5596e\/thumb-5f9b7b712e9a2ecb7937d8e78b07a360-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/thumb-5f9b7b712e9a2ecb7937d8e78b07a360-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/thumb-5f9b7b712e9a2ecb7937d8e78b07a360-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/thumb-5f9b7b712e9a2ecb7937d8e78b07a360-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/thumb-5f9b7b712e9a2ecb7937d8e78b07a360-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/thumb-5f9b7b712e9a2ecb7937d8e78b07a360-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/thumb-5f9b7b712e9a2ecb7937d8e78b07a360-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188724416\/thumbnail\/image-thumbnail-256-87f7e569a40f051b915a97a9d058dbaf.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188724416\/thumbnail\/image-thumbnail-480-e5ac75bc32e4627313e15ad8b3e25803.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188724416\/thumbnail\/image-thumbnail-640-9f451302137a55ff1eba900393dd1d8e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/thumb-5f9b7b712e9a2ecb7937d8e78b07a360-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188724416\/thumbnail\/image-thumbnail-640-9f451302137a55ff1eba900393dd1d8e.jpg",
+        "type": "mp4",
+        "assetId": 188724416,
+        "assetTitle": "#FirstTake",
+        "assetTitleTextEncoded": "clinique",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188724416,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188724416\/5596e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

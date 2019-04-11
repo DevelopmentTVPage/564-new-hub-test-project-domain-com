@@ -1,0 +1,111 @@
+{
+    "title": "The Gift List",
+    "description": "The same pullover but two different outfits",
+    "referenceId": "44e90628fb0ac239eedc34549799b1cc",
+    "date_created": "1545082115",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": "women",
+    "id": "188582761",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-gift-list",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 26,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 26,
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": 26,
+        "prettyDuration": "00:00:26",
+        "automaticThumbnailsPattern": "1759121\/188582761\/e2996\/thumb-44e90628fb0ac239eedc34549799b1cc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/thumb-44e90628fb0ac239eedc34549799b1cc-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/thumb-44e90628fb0ac239eedc34549799b1cc-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/thumb-44e90628fb0ac239eedc34549799b1cc-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/thumb-44e90628fb0ac239eedc34549799b1cc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/thumb-44e90628fb0ac239eedc34549799b1cc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/thumb-44e90628fb0ac239eedc34549799b1cc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188582761\/thumbnail\/image-thumbnail-256-6d67482e03ad853f0f5b070ed5ee3a08.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188582761\/thumbnail\/image-thumbnail-480-416cf86c97725155eff4b8630fd1b9e2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/thumb-44e90628fb0ac239eedc34549799b1cc-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188582761\/thumbnail\/image-thumbnail-480-416cf86c97725155eff4b8630fd1b9e2.jpg",
+        "type": "mp4",
+        "assetId": 188582761,
+        "assetTitle": "A classic pullover is a city girl’s essential",
+        "assetTitleTextEncoded": "12cf780e-3e67-491b-9d69-6ec914d089de",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188582761,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582761\/e2996\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213844",
+    "first_name": "Llenn",
+    "last_name": "Kohlman",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1550374244",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-07 21:59:16",
+    "login_id": "1759121",
+    "user_id": "213844",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Llenn Kohlman",
+    "profile_picture": null,
+    "titleTextEncoded": "llenn-kohlman",
+    "title": "Llenn Kohlman",
+    "videos_count": "1"
+}

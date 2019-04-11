@@ -1,0 +1,104 @@
+{
+    "title": "Refresh Your Skincare with the New Clinique ID!",
+    "description": "I’ve been using the new Clinique ID skincare routnine for a few weeks and I love it! ",
+    "referenceId": "edd76233b77467ef98737a9c3c6616dd",
+    "date_created": "1548019709",
+    "date_modified": "1548023232",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "53",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": null,
+    "id": "199070578",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "refresh-your-skincare-with-the-new-clinique-id",
+    "category": "Refresh Your Skincare with the New Clinique ID!",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 227,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 227,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 227,
+        "prettyDuration": "00:03:47",
+        "automaticThumbnailsPattern": "1759121\/199070578\/3200f\/thumb-edd76233b77467ef98737a9c3c6616dd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/thumb-edd76233b77467ef98737a9c3c6616dd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/thumb-edd76233b77467ef98737a9c3c6616dd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/thumb-edd76233b77467ef98737a9c3c6616dd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/thumb-edd76233b77467ef98737a9c3c6616dd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/thumb-edd76233b77467ef98737a9c3c6616dd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/thumb-edd76233b77467ef98737a9c3c6616dd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199070578\/thumbnail\/image-thumbnail-256-7823099a64e3f82608d4b42d38a132c0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/199070578\/thumbnail\/image-thumbnail-480-e294b5d6a0bb6cf978eecb5f47f17332.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/199070578\/thumbnail\/image-thumbnail-640-7a75b1b4438e036924d5562f0b33fe9b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/199070578\/thumbnail\/image-thumbnail-1280-0c2ce024a09bc3df9f914d61fab11734.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/thumb-edd76233b77467ef98737a9c3c6616dd-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199070578\/thumbnail\/image-thumbnail-640-7a75b1b4438e036924d5562f0b33fe9b.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199070578\/3200f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

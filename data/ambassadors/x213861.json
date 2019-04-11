@@ -1,0 +1,21 @@
+{
+    "id": "213861",
+    "first_name": "Vanessa",
+    "last_name": "Urueta",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/315412811-0.1251783658284.jpg",
+        "job_title": "Design Assistant "
+    },
+    "last_login_timestamp": "1548022940",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-14 19:45:21",
+    "login_id": "1759121",
+    "user_id": "213861",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Vanessa Urueta",
+    "profile_picture": "\/api\/canvas\/logo\/315412811-0.1251783658284.jpg",
+    "titleTextEncoded": "vanessa-urueta",
+    "title": "Vanessa Urueta",
+    "videos_count": "0"
+}

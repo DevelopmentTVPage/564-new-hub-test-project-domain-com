@@ -1,0 +1,111 @@
+{
+    "title": "The Gift List",
+    "description": "Is not early to start doing your gift list. Christmas is around the corner and I’m showing you some of the amazing festive outfits and gift items for men.",
+    "referenceId": "563ffae45b98a3cba2a4296a75ae90ff",
+    "date_created": "1541285266",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": "men",
+    "id": "181910333",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-gift-list",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/181910333\/74a86\/thumb-563ffae45b98a3cba2a4296a75ae90ff-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/thumb-563ffae45b98a3cba2a4296a75ae90ff-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/thumb-563ffae45b98a3cba2a4296a75ae90ff-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/thumb-563ffae45b98a3cba2a4296a75ae90ff-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/thumb-563ffae45b98a3cba2a4296a75ae90ff-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/thumb-563ffae45b98a3cba2a4296a75ae90ff-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/thumb-563ffae45b98a3cba2a4296a75ae90ff-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181910333\/thumbnail\/image-thumbnail-256-5585ce62394e25c97f83daa33567c408.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181910333\/thumbnail\/image-thumbnail-480-52279be5be0d2fadd7d70b4670af85b1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/thumb-563ffae45b98a3cba2a4296a75ae90ff-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181910333\/thumbnail\/image-thumbnail-480-52279be5be0d2fadd7d70b4670af85b1.jpg",
+        "type": "mp4",
+        "assetId": 181910333,
+        "assetTitle": "E2F5D7C4-E2A4-4B89-AF76-028934D54239",
+        "assetTitleTextEncoded": "e2f5d7c4-e2a4-4b89-af76-028934d54239",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181910333,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910333\/74a86\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

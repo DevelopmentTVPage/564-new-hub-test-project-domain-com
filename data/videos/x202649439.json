@@ -1,0 +1,106 @@
+{
+    "title": "@Mr_TJay CHAMPION x CAMO",
+    "description": null,
+    "referenceId": "fa601d0154f88a4e2ddacdfca6f5deab",
+    "date_created": "1550020670",
+    "date_modified": "1550021175",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": null,
+    "id": "202649439",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-champion-x-camo",
+    "category": "@Mr_TJay CHAMPION x CAMO",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/202649439\/8c718\/thumb-fa601d0154f88a4e2ddacdfca6f5deab-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/thumb-fa601d0154f88a4e2ddacdfca6f5deab-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/thumb-fa601d0154f88a4e2ddacdfca6f5deab-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/thumb-fa601d0154f88a4e2ddacdfca6f5deab-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/thumb-fa601d0154f88a4e2ddacdfca6f5deab-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/thumb-fa601d0154f88a4e2ddacdfca6f5deab-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202649439\/thumbnail\/image-thumbnail-256-5e9457152b652baf7600512513c6d0e2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202649439\/thumbnail\/image-thumbnail-480-99790bc6ac8f076c2c0afca5b4d22e19.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202649439\/thumbnail\/image-thumbnail-640-bf1b3dd509fa5938d6dc85b4647ae061.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/202649439\/thumbnail\/image-thumbnail-1280-b0e79177d24124d5428eed5abb6c0a05.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/202649439\/thumbnail\/image-thumbnail-1920-7723565c6513b41f3033f0ae6ef4a59f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/thumb-fa601d0154f88a4e2ddacdfca6f5deab-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202649439\/thumbnail\/image-thumbnail-640-bf1b3dd509fa5938d6dc85b4647ae061.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202649439\/8c718\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

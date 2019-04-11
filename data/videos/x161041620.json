@@ -1,0 +1,106 @@
+{
+    "title": "Spring Shoes",
+    "description": "Here's a quick view of Spring shoes .",
+    "referenceId": "5ce2283823a7d32917654841d9b7ef91",
+    "date_created": "1523987182",
+    "date_modified": "1546466765",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "53",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "161041620",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "spring-shoes",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "37",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161041620\/thumbnail\/image-thumbnail-640-75930d05ba5885a72dfb05502f81eaa2.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161041620\/9ced2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161041620\/9ced2\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041620\/9ced2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041620\/9ced2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041620\/9ced2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041620\/9ced2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041620\/9ced2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/161041620\/user-images\/image-1920-0320125c5b41ea2d4d17d1d0ecfc6691.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/161041620\/user-images\/image-1920-0320125c5b41ea2d4d17d1d0ecfc6691.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/161041620\/thumbnail\/image-thumbnail-256-db3f1d23df39f9eac7b9c5897a87d10c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/161041620\/thumbnail\/image-thumbnail-480-2ff67f792c2f47f66cb5a837ebc90a61.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/161041620\/thumbnail\/image-thumbnail-640-75930d05ba5885a72dfb05502f81eaa2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/161041620\/thumbnail\/image-thumbnail-1280-ac1dadf0d1777056beb424f4e6ea0c11.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/161041620\/thumbnail\/image-thumbnail-1920-c135f6bfe942f1ed24755fe400715258.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

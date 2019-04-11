@@ -1,0 +1,21 @@
+{
+    "id": "213847",
+    "first_name": "Brian",
+    "last_name": "Williams",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Field Business Associate Planner"
+    },
+    "last_login_timestamp": "1544556553",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-10 15:47:16",
+    "login_id": "1759121",
+    "user_id": "213847",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Brian Williams",
+    "profile_picture": null,
+    "titleTextEncoded": "brian-williams",
+    "title": "Brian Williams",
+    "videos_count": "0"
+}

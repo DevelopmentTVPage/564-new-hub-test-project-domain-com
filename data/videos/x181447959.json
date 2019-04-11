@@ -1,0 +1,113 @@
+{
+    "title": "jacqueline Palmer\/Calvin Klein petite dresses",
+    "description": "Fall fashion is at its best with Calvin Klein’s petite dress collection! I’ve paired this micro knit dress with the perfect pair of ox blood riding boots from inc. #fallfashion #boots #dresses #petitefashion #incstyle #macysstylecrew #macysmystylist",
+    "referenceId": "c903dcc5611340ef651fec76786623be",
+    "date_created": "1540829203",
+    "date_modified": "1546466794",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "46",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "181447959",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-calvin-klein-petite-dresses",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 20,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 20,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 20,
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/181447959\/50124\/thumb-c903dcc5611340ef651fec76786623be-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181447959\/50124\/thumb-c903dcc5611340ef651fec76786623be-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447959\/50124\/thumb-c903dcc5611340ef651fec76786623be-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447959\/50124\/thumb-c903dcc5611340ef651fec76786623be-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447959\/50124\/thumb-c903dcc5611340ef651fec76786623be-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447959\/50124\/thumb-c903dcc5611340ef651fec76786623be-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181447959\/50124\/thumb-c903dcc5611340ef651fec76786623be-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181447959\/thumbnail\/image-thumbnail-256-5d80cb1e21fcff4bea017c04c5bf1817.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181447959\/thumbnail\/image-thumbnail-480-b28910e746b320f6b95abe82389ad330.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181447959\/thumbnail\/image-thumbnail-640-074caa4b273ae98d48cef6d0148d438e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181447959\/thumbnail\/image-thumbnail-1280-8d9ec51e7ecb1818762a6a1ed7f4a3a5.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181447959\/50124\/thumb-c903dcc5611340ef651fec76786623be-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181447959\/thumbnail\/image-thumbnail-640-074caa4b273ae98d48cef6d0148d438e.jpg",
+        "type": "mp4",
+        "assetId": 181447959,
+        "assetTitle": "78DD7036-8E07-4EB1-BFE8-DF0E9952826E",
+        "assetTitleTextEncoded": "78dd7036-8e07-4eb1-bfe8-df0e9952826e",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181447959,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447959\/50124\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447959\/50124\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447959\/50124\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447959\/50124\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181447959\/50124\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

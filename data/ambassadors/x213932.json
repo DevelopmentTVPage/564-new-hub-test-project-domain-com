@@ -1,0 +1,21 @@
+{
+    "id": "213932",
+    "first_name": "Jessie",
+    "last_name": "Schloemer",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/118585618-0.7588520912919.jpg",
+        "job_title": "Sr. Analyst, Compensation"
+    },
+    "last_login_timestamp": "1550539183",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-25 16:47:14",
+    "login_id": "1759121",
+    "user_id": "213932",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jessie Schloemer",
+    "profile_picture": "\/api\/canvas\/logo\/118585618-0.7588520912919.jpg",
+    "titleTextEncoded": "jessie-schloemer",
+    "title": "Jessie Schloemer",
+    "videos_count": "0"
+}

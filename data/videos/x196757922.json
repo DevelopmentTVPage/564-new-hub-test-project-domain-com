@@ -1,0 +1,107 @@
+{
+    "title": "Winter Weekend Look- Just a Taste of Fashion",
+    "description": "I personally love when New York apartments leave up their holiday decor up during January.\n\n The next few months will be a bit boring with nothing to look forward to but that doesn't mean your outfits have to be blah. My outfit is a perfect winter weekend look to grab drinks with friends or visit an art museum. The bag was gifted from one of my old co-workers and is a perfect backpack to fit all your necessities but still small enough to carry around. My favorite piece is the Bar III patent jacket. I can style the jacket with jeans and a graphic tee or dress it up like what i am wearing in the video.\n\nWeb IDs:\nJacket: 6939241\nBag: 7093240\n\n\nThanks for watching :)",
+    "referenceId": "2fe99ff7fbc2bd2dd96056661e453eb5",
+    "date_created": "1546974184",
+    "date_modified": "1546975536",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "58",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": null,
+    "id": "196757922",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "winter-weekend-look-just-a-taste-of-fashion",
+    "category": "I personally love when New York apartments leave up their holiday decor up during January.\n\n The next few months will be a bit boring with nothing to look forward to but that doesn't mean your outfits have to be blah. My outfit is a perfect winter weekend look to grab drinks with friends or visit an art museum. The bag was gifted from one of my old co-workers and is a perfect backpack to fit all your necessities but still small enough to carry around. My favorite piece is the Bar III patent jacket. I can style the jacket with jeans and a graphic tee or dress it up like what i am wearing in the video.\n\nWeb IDs:\nJacket: 6939241\nBag: 7093240\n\n\nThanks for watching :)",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 30,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 30,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/196757922\/12340\/thumb-2fe99ff7fbc2bd2dd96056661e453eb5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/196757922\/12340\/thumb-2fe99ff7fbc2bd2dd96056661e453eb5-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757922\/12340\/thumb-2fe99ff7fbc2bd2dd96056661e453eb5-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757922\/12340\/thumb-2fe99ff7fbc2bd2dd96056661e453eb5-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757922\/12340\/thumb-2fe99ff7fbc2bd2dd96056661e453eb5-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757922\/12340\/thumb-2fe99ff7fbc2bd2dd96056661e453eb5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/196757922\/12340\/thumb-2fe99ff7fbc2bd2dd96056661e453eb5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/196757922\/thumbnail\/image-thumbnail-256-20ff1c74099949754579244b5be19b67.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/196757922\/thumbnail\/image-thumbnail-480-dd3a68348187206598610a656479b927.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/196757922\/thumbnail\/image-thumbnail-640-53a077207e1572fe507725a41d3e2f6b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/196757922\/thumbnail\/image-thumbnail-1280-c51df4dd8610e8fbf00e78270e94fe7e.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/196757922\/thumbnail\/image-thumbnail-1920-458e99336c59becea9b6cba11bc07406.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/196757922\/12340\/thumb-2fe99ff7fbc2bd2dd96056661e453eb5-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/196757922\/thumbnail\/image-thumbnail-640-53a077207e1572fe507725a41d3e2f6b.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/196757922\/12340\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/196757922\/12340\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757922\/12340\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757922\/12340\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757922\/12340\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757922\/12340\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196757922\/12340\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

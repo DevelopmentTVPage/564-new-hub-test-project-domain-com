@@ -1,0 +1,21 @@
+{
+    "id": "213750",
+    "first_name": "Kimberly ",
+    "last_name": "Berry",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/116938703-0.2193412012420.jpg",
+        "job_title": "Lancôme Counter Manager"
+    },
+    "last_login_timestamp": "1545664874",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-05 01:50:15",
+    "login_id": "1759121",
+    "user_id": "213750",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Kimberly  Berry",
+    "profile_picture": "\/api\/canvas\/logo\/116938703-0.2193412012420.jpg",
+    "titleTextEncoded": "kimberly-berry",
+    "title": "Kimberly  Berry",
+    "videos_count": "5"
+}

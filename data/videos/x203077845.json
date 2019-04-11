@@ -1,0 +1,100 @@
+{
+    "title": "Pretty in Purple ",
+    "description": "@fashionistamila \nWearing this beautiful INC purple floral dress wishing for warmer days! ",
+    "referenceId": "f76b2c6f3b9b1aaf25c5a51e58d2a80f",
+    "date_created": "1550272962",
+    "date_modified": "1550273152",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213295",
+    "product_category": null,
+    "id": "203077845",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "pretty-in-purple",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "37",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "automaticThumbnailsPattern": "1759121\/203077845\/cb19d\/thumb-f76b2c6f3b9b1aaf25c5a51e58d2a80f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/thumb-f76b2c6f3b9b1aaf25c5a51e58d2a80f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/thumb-f76b2c6f3b9b1aaf25c5a51e58d2a80f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/thumb-f76b2c6f3b9b1aaf25c5a51e58d2a80f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/thumb-f76b2c6f3b9b1aaf25c5a51e58d2a80f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/thumb-f76b2c6f3b9b1aaf25c5a51e58d2a80f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/thumb-f76b2c6f3b9b1aaf25c5a51e58d2a80f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203077845\/thumbnail\/image-thumbnail-256-a09f0d9c8b4bbca551fd925fbd261e23.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203077845\/thumbnail\/image-thumbnail-480-317582ec8eeefb61bce2bd5582ecd4ae.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/203077845\/thumbnail\/image-thumbnail-640-e1a0e7feb52ef7fd42cb43666699417f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/203077845\/thumbnail\/image-thumbnail-1280-819ac75873b3f36080190a0b80d857cd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203077845\/cb19d\/thumb-f76b2c6f3b9b1aaf25c5a51e58d2a80f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203077845\/thumbnail\/image-thumbnail-640-e1a0e7feb52ef7fd42cb43666699417f.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

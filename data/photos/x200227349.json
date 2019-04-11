@@ -1,0 +1,127 @@
+{
+    "title": "Womens INC International Concepts",
+    "description": "Womens INC International Concepts Clothing - Macy's\nShop Online for the Latest Collection of Women's Apparel by INC International Concepts at Macys.com. FREE SHIPPING AVAILABLE!",
+    "referenceId": null,
+    "date_created": "1548573567",
+    "date_modified": "1548574196",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213738",
+    "id": "200227349",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "womens-inc-international-concepts",
+    "linkUrl": null,
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2365,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--1920.jpeg?v=1548573580924"
+            },
+            {
+                "width": 1280,
+                "height": 1577,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--1280.jpeg?v=1548573580701"
+            },
+            {
+                "width": 1200,
+                "height": 1478,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--1200.jpeg?v=1548573580677"
+            },
+            {
+                "width": 1024,
+                "height": 1261,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--1024.jpeg?v=1548573581502"
+            },
+            {
+                "width": 1080,
+                "height": 1330,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--1080.jpeg?v=1548573580691"
+            },
+            {
+                "width": 960,
+                "height": 1182,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--960.jpeg?v=1548573581407"
+            },
+            {
+                "width": 640,
+                "height": 788,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--640.jpeg?v=1548573581475"
+            },
+            {
+                "width": 600,
+                "height": 739,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--600.jpeg?v=1548573581806"
+            },
+            {
+                "width": 256,
+                "height": 315,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-media--256.jpeg?v=1548573582014"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-thumbnail-1920.jpeg?v=1548573582385"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-thumbnail-1280.jpeg?v=1548573582289"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-thumbnail-640.jpeg?v=1548573582519"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-thumbnail-480.jpeg?v=1548573582231"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-thumbnail-256.jpeg?v=1548573582211"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-thumbnail-64.jpeg?v=1548573582381"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/200227349\/image-thumbnail-640.jpeg?v=1548573582519",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

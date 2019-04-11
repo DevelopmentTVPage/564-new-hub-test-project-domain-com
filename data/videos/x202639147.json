@@ -1,0 +1,108 @@
+{
+    "title": "Taco Tuesday brought to you by Instant Pot",
+    "description": "Who doesn't love a delicious, fast and easy Taco Tuesday? I know I do! These yummy turkey tacos were made in about 20 minutes with my favorite kitchen tool, the instant pot! Every at home \"chef\" needs one in their lives! ",
+    "referenceId": "9d49a4653a22fb65f0a9e4df446c7776",
+    "date_created": "1549999793",
+    "date_modified": "1550093948",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": null,
+    "id": "202639147",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "taco-tuesday-brought-to-you-by-instant-pot",
+    "category": "Home",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 136,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 136,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 136,
+        "prettyDuration": "00:02:16",
+        "automaticThumbnailsPattern": "1759121\/202639147\/6b657\/thumb-9d49a4653a22fb65f0a9e4df446c7776-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202639147\/user-images\/image-1280-77e4a807506291684a8941c178ca88a9.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639147\/user-images\/image-1280-13a3491d45a3a474e443ee10af58caa1.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/thumb-9d49a4653a22fb65f0a9e4df446c7776-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/thumb-9d49a4653a22fb65f0a9e4df446c7776-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/thumb-9d49a4653a22fb65f0a9e4df446c7776-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/thumb-9d49a4653a22fb65f0a9e4df446c7776-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/thumb-9d49a4653a22fb65f0a9e4df446c7776-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/thumb-9d49a4653a22fb65f0a9e4df446c7776-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202639147\/thumbnail\/image-thumbnail-256-aab5fa13247397527ed45d319bc34884.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202639147\/thumbnail\/image-thumbnail-480-5785f63a22a27a7bf2721ff0cfdc6c0f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202639147\/thumbnail\/image-thumbnail-640-af3595442de97dba53ee8b54dc18b216.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/202639147\/thumbnail\/image-thumbnail-1280-2ffb58fa260e95fec03abf703b38457f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639147\/user-images\/image-1280-77e4a807506291684a8941c178ca88a9.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639147\/thumbnail\/image-thumbnail-640-1c2caca757022e2374fc83deadf4fe48.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639147\/6b657\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

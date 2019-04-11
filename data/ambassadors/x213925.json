@@ -1,0 +1,21 @@
+{
+    "id": "213925",
+    "first_name": "Victoria",
+    "last_name": "Medina",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": "1548455879",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-23 21:52:01",
+    "login_id": "1759121",
+    "user_id": "213925",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Victoria Medina",
+    "profile_picture": null,
+    "titleTextEncoded": "victoria-medina",
+    "title": "Victoria Medina",
+    "videos_count": "0"
+}

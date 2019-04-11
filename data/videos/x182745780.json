@@ -1,0 +1,100 @@
+{
+    "title": "Inspiration",
+    "description": "Macy's has the best style Inspiration.",
+    "referenceId": "0066f9781fbfaf5b2b0e2fe1e471cd36",
+    "date_created": "1541627815",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213731",
+    "product_category": null,
+    "id": "182745780",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inspiration",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 526,
+            "height": 1080
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/182745780\/92f5e\/thumb-0066f9781fbfaf5b2b0e2fe1e471cd36-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/thumb-0066f9781fbfaf5b2b0e2fe1e471cd36-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/thumb-0066f9781fbfaf5b2b0e2fe1e471cd36-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/thumb-0066f9781fbfaf5b2b0e2fe1e471cd36-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182745780\/thumbnail\/image-thumbnail-256-ded093e2ead814cd30f789be6976b9da.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182745780\/thumbnail\/image-thumbnail-480-f7d2543a3509cc20b52d3ca8562284de.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/thumb-0066f9781fbfaf5b2b0e2fe1e471cd36-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182745780\/thumbnail\/image-thumbnail-480-f7d2543a3509cc20b52d3ca8562284de.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 526,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 350,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 234,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745780\/92f5e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 116,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

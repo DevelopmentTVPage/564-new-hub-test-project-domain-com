@@ -1,0 +1,21 @@
+{
+    "id": "213699",
+    "first_name": "Ingrid",
+    "last_name": "Mendez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/226412630-0.2322273832745.jpg",
+        "job_title": "Trend shop manager "
+    },
+    "last_login_timestamp": "1543017978",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 00:40:14",
+    "login_id": "1759121",
+    "user_id": "213699",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Ingrid Mendez",
+    "profile_picture": "\/api\/canvas\/logo\/226412630-0.2322273832745.jpg",
+    "titleTextEncoded": "ingrid-mendez",
+    "title": "Ingrid Mendez",
+    "videos_count": "21"
+}

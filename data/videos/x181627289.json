@@ -1,0 +1,116 @@
+{
+    "title": "@Mr_TJay Layering #FLY",
+    "description": "Join me in Fitting room Looks for YOU: denim jacket Layering edition. Showing you three ways to layer up this fall, especially those chilly days. Teaming it with black skinny jeans, and my Calvin Klein Dad Sneakers, I couldn't feel more fall ready. The Calvin Klein colored blocked denim jacket (6815009) has to be added to your closet, I'm a sucker for a good hoodie and this Buckhorn Brown Puma hoodie (4746511) fulfilled that obsession.  Fall fashion is really super dope and the layering has to be my favorite, be sure to follow @Mr_TJay!",
+    "referenceId": "2b69c6bd6ed01b0ccde7b81c04922b86",
+    "date_created": "1541117771",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "181627289",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-layering-fly",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 71,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 71,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 71,
+        "prettyDuration": "00:01:11",
+        "automaticThumbnailsPattern": "1759121\/181627289\/a9ec8\/thumb-2b69c6bd6ed01b0ccde7b81c04922b86-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/thumb-2b69c6bd6ed01b0ccde7b81c04922b86-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/thumb-2b69c6bd6ed01b0ccde7b81c04922b86-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/thumb-2b69c6bd6ed01b0ccde7b81c04922b86-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/thumb-2b69c6bd6ed01b0ccde7b81c04922b86-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/thumb-2b69c6bd6ed01b0ccde7b81c04922b86-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/thumb-2b69c6bd6ed01b0ccde7b81c04922b86-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181627289\/thumbnail\/image-thumbnail-256-f64d3828bf8d1468bde997c60b56bf6e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181627289\/thumbnail\/image-thumbnail-480-fe903953845513aa16062fecdc0e15de.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181627289\/thumbnail\/image-thumbnail-640-359eb223fb0e8db05f89f6f73ba1f179.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181627289\/thumbnail\/image-thumbnail-1280-401cdff82c548764887005b17d7ad423.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181627289\/thumbnail\/image-thumbnail-1920-f628d3efa85ae8569ecb5a4a5898c550.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/thumb-2b69c6bd6ed01b0ccde7b81c04922b86-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181627289\/thumbnail\/image-thumbnail-640-359eb223fb0e8db05f89f6f73ba1f179.jpg",
+        "type": "mp4",
+        "assetId": 181627289,
+        "assetTitle": "@Mr_TJay Layering #FLY",
+        "assetTitleTextEncoded": "tj-haul-layering-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181627289,
+            "li": 1759121
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181627289\/a9ec8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

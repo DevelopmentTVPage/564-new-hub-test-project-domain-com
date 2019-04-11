@@ -1,0 +1,104 @@
+{
+    "title": "Hi from the My Stylist at The Mall at Millenia ",
+    "description": "Introducing myself, my office and some looks I created to show some trends for 2019!",
+    "referenceId": "33c823cc2ca9f6868726fa052e2560ec",
+    "date_created": "1546897642",
+    "date_modified": "1546898239",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213836",
+    "product_category": null,
+    "id": "194565902",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "hi-from-the-my-stylist-at-the-mall-at-millenia",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 45,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 45,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 45,
+        "prettyDuration": "00:00:45",
+        "automaticThumbnailsPattern": "1759121\/194565902\/52f88\/thumb-33c823cc2ca9f6868726fa052e2560ec-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/thumb-33c823cc2ca9f6868726fa052e2560ec-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/thumb-33c823cc2ca9f6868726fa052e2560ec-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/thumb-33c823cc2ca9f6868726fa052e2560ec-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/thumb-33c823cc2ca9f6868726fa052e2560ec-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/thumb-33c823cc2ca9f6868726fa052e2560ec-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/thumb-33c823cc2ca9f6868726fa052e2560ec-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/194565902\/thumbnail\/image-thumbnail-256-cdf5b4411d964f8334e28bf39a1753aa.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/194565902\/thumbnail\/image-thumbnail-480-75eb1dcf8ef225586860fb48058d2014.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/thumb-33c823cc2ca9f6868726fa052e2560ec-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/194565902\/thumbnail\/image-thumbnail-480-75eb1dcf8ef225586860fb48058d2014.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/194565902\/52f88\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

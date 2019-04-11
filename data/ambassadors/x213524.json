@@ -1,0 +1,21 @@
+{
+    "id": "213524",
+    "first_name": "Mataya",
+    "last_name": "Jackson",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/160158437-0.2852205436676.jpg",
+        "job_title": "Digital Assistant - Contemporary Collections"
+    },
+    "last_login_timestamp": "1547756420",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-07-19 15:12:41",
+    "login_id": "1759121",
+    "user_id": "213524",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Mataya Jackson",
+    "profile_picture": "\/api\/canvas\/logo\/160158437-0.2852205436676.jpg",
+    "titleTextEncoded": "mataya-jackson",
+    "title": "Mataya Jackson",
+    "videos_count": "0"
+}

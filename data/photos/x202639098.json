@@ -1,0 +1,127 @@
+{
+    "title": "Morning Coffee with #WEWOREWHAT",
+    "description": "So fun meeting other #macysstylecrew members during Fashion Week!  ",
+    "referenceId": null,
+    "date_created": "1549977393",
+    "date_modified": "1549977604",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213119",
+    "id": "202639098",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "morning-coffee-with-weworewhat",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2542,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--1920.jpeg?v=1549977396638"
+            },
+            {
+                "width": 1280,
+                "height": 1694,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--1280.jpeg?v=1549977396099"
+            },
+            {
+                "width": 1200,
+                "height": 1588,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--1200.jpeg?v=1549977396082"
+            },
+            {
+                "width": 1024,
+                "height": 1355,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--1024.jpeg?v=1549977397108"
+            },
+            {
+                "width": 1080,
+                "height": 1430,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--1080.jpeg?v=1549977396058"
+            },
+            {
+                "width": 960,
+                "height": 1271,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--960.jpeg?v=1549977397113"
+            },
+            {
+                "width": 640,
+                "height": 847,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--640.jpeg?v=1549977397227"
+            },
+            {
+                "width": 600,
+                "height": 794,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--600.jpeg?v=1549977397457"
+            },
+            {
+                "width": 256,
+                "height": 338,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-media--256.jpeg?v=1549977397732"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-thumbnail-1920.jpeg?v=1549977397906"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-thumbnail-1280.jpeg?v=1549977397842"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-thumbnail-640.jpeg?v=1549977397913"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-thumbnail-480.jpeg?v=1549977397798"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-thumbnail-256.jpeg?v=1549977397791"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-thumbnail-64.jpeg?v=1549977397852"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639098\/image-thumbnail-640.jpeg?v=1549977397913",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

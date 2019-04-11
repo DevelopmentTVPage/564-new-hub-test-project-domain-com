@@ -1,0 +1,102 @@
+{
+    "title": "Bad gal bang 50% off",
+    "description": "1 day only. Lash specials. ",
+    "referenceId": "ac6ed05ce06cb7aa57606ed90c391ad5",
+    "date_created": "1550594819",
+    "date_modified": "1550595286",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": null,
+    "id": "203720011",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "bad-gal-bang-50-off",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/203720011\/df8a0\/thumb-ac6ed05ce06cb7aa57606ed90c391ad5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203720011\/user-images\/image-2338-d31ba0632182b5b668eb51a466b4f251.jpg",
+            "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/thumb-ac6ed05ce06cb7aa57606ed90c391ad5-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/thumb-ac6ed05ce06cb7aa57606ed90c391ad5-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/thumb-ac6ed05ce06cb7aa57606ed90c391ad5-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/thumb-ac6ed05ce06cb7aa57606ed90c391ad5-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/thumb-ac6ed05ce06cb7aa57606ed90c391ad5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/thumb-ac6ed05ce06cb7aa57606ed90c391ad5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203720011\/thumbnail\/image-thumbnail-256-d1559a3ef4b601d402b048741ab442cf.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203720011\/thumbnail\/image-thumbnail-480-9d0c7d7a4fda39da684b8f436bbee991.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/203720011\/thumbnail\/image-thumbnail-640-14493d02874b1c3146110b560b60df4b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/203720011\/thumbnail\/image-thumbnail-1280-65ad1880f3d3576773462433ec720ddf.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/203720011\/thumbnail\/image-thumbnail-1920-9fd775cb70791012e512cb30ec2c3ba8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203720011\/user-images\/image-2338-d31ba0632182b5b668eb51a466b4f251.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203720011\/thumbnail\/image-thumbnail-640-14493d02874b1c3146110b560b60df4b.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203720011\/df8a0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

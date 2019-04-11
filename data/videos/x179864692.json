@@ -1,0 +1,118 @@
+{
+    "title": "Shopping Vlog + Haul at Macy's Herald Sqaure",
+    "description": "Come shopping with me as I search for my fall must haves!",
+    "referenceId": "365736238550c5d6a77ca49072b89a28",
+    "date_created": "1539274051",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213174",
+    "product_category": "women",
+    "id": "179864692",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "shopping-vlog-haul-at-macys-herald-sqaure",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "806",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "806",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "806",
+        "prettyDuration": "00:13:26",
+        "automaticThumbnailsPattern": "1759121\/179864692\/947e5\/thumb-365736238550c5d6a77ca49072b89a28-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179864692\/user-images\/image-1920-5b58afcfb6cb819a3788ca0bf9aeb3e0.jpg",
+            "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/thumb-365736238550c5d6a77ca49072b89a28-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/thumb-365736238550c5d6a77ca49072b89a28-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/thumb-365736238550c5d6a77ca49072b89a28-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/thumb-365736238550c5d6a77ca49072b89a28-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/thumb-365736238550c5d6a77ca49072b89a28-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/thumb-365736238550c5d6a77ca49072b89a28-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179864692\/thumbnail\/image-thumbnail-256-ce51f0a4c5c5f5676b242d040f027243.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179864692\/thumbnail\/image-thumbnail-480-7d1524eabaeb51a71e54ebcd92e2fbc1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179864692\/thumbnail\/image-thumbnail-640-460d57f43e3a2d549abb5e90715d4ee5.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179864692\/thumbnail\/image-thumbnail-1280-4e95ee9c1b939bb34d11ac2e1cab6853.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/179864692\/thumbnail\/image-thumbnail-1920-161b9df47bcf367eeecde6ee5775ec27.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179864692\/user-images\/image-1920-5b58afcfb6cb819a3788ca0bf9aeb3e0.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179864692\/thumbnail\/image-thumbnail-640-460d57f43e3a2d549abb5e90715d4ee5.jpg",
+        "type": "mp4",
+        "assetId": "179864692",
+        "assetTitle": "Shopping Vlog + Haul at Macy's Herald Sqaure",
+        "assetTitleTextEncoded": "qyle1992-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179864692",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179864692\/947e5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

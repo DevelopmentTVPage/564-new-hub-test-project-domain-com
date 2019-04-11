@@ -1,0 +1,127 @@
+{
+    "title": "Eileen Fisher - Oversized Trend",
+    "description": "If you can't stop thinking about it then you should probably buy it, right???  I sized up 2 sizes to achieve the oversized look I wanted!  Function and style!",
+    "referenceId": null,
+    "date_created": "1545185224",
+    "date_modified": "1546466823",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213119",
+    "id": "188749720",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "eileen-fisher-oversized-trend",
+    "linkUrl": null,
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2558,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--1920.jpeg?v=1545185653836"
+            },
+            {
+                "width": 1280,
+                "height": 1705,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--1280.jpeg?v=1545185653658"
+            },
+            {
+                "width": 1200,
+                "height": 1599,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--1200.jpeg?v=1545185653640"
+            },
+            {
+                "width": 1024,
+                "height": 1364,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--1024.jpeg?v=1545185654272"
+            },
+            {
+                "width": 1080,
+                "height": 1439,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--1080.jpeg?v=1545185653615"
+            },
+            {
+                "width": 960,
+                "height": 1279,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--960.jpeg?v=1545185654222"
+            },
+            {
+                "width": 640,
+                "height": 852,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--640.jpeg?v=1545185654310"
+            },
+            {
+                "width": 600,
+                "height": 799,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--600.jpeg?v=1545185654545"
+            },
+            {
+                "width": 256,
+                "height": 341,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-media--256.jpeg?v=1545185654691"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-thumbnail-1920.jpeg?v=1545185655036"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-thumbnail-1280.jpeg?v=1545185654975"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-thumbnail-640.jpeg?v=1545185654948"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-thumbnail-480.jpeg?v=1545185654944"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-thumbnail-256.jpeg?v=1545185655014"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-thumbnail-64.jpeg?v=1545185655066"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/188749720\/image-thumbnail-640.jpeg?v=1545185654948",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

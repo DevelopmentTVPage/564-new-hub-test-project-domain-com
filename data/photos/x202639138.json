@@ -1,0 +1,127 @@
+{
+    "title": "Cozy and Warm",
+    "description": "This winter has been a brutal one so if you are still looking for that perfect coat or jacket to keep you warm! Check out this awesome moto jacket from BCBGeneration and some options similar from some of your favorite brands!",
+    "referenceId": null,
+    "date_created": "1549997851",
+    "date_modified": "1549998508",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "214000",
+    "id": "202639138",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "cozy-and-warm",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--1920.jpeg?v=1549997900805"
+            },
+            {
+                "width": 1280,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--1280.jpeg?v=1549997900713"
+            },
+            {
+                "width": 1200,
+                "height": 900,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--1200.jpeg?v=1549997900668"
+            },
+            {
+                "width": 1024,
+                "height": 768,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--1024.jpeg?v=1549997901197"
+            },
+            {
+                "width": 1080,
+                "height": 810,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--1080.jpeg?v=1549997900636"
+            },
+            {
+                "width": 960,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--960.jpeg?v=1549997901113"
+            },
+            {
+                "width": 640,
+                "height": 480,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--640.jpeg?v=1549997901175"
+            },
+            {
+                "width": 600,
+                "height": 450,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--600.jpeg?v=1549997901397"
+            },
+            {
+                "width": 256,
+                "height": 192,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-media--256.jpeg?v=1549997901644"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-thumbnail-1920.jpeg?v=1549997901910"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-thumbnail-1280.jpeg?v=1549997901809"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-thumbnail-640.jpeg?v=1549997901925"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-thumbnail-480.jpeg?v=1549997901744"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-thumbnail-256.jpeg?v=1549997901723"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-thumbnail-64.jpeg?v=1549997901813"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202639138\/image-thumbnail-640.jpeg?v=1549997901925",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

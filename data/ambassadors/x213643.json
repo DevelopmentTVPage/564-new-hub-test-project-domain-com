@@ -1,0 +1,21 @@
+{
+    "id": "213643",
+    "first_name": "Jaime",
+    "last_name": "Weise",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/380100889-0.5618066708557.jpg",
+        "job_title": "Account Coordinator Dior"
+    },
+    "last_login_timestamp": "1548203314",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-10 18:18:08",
+    "login_id": "1759121",
+    "user_id": "213643",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jaime Weise",
+    "profile_picture": "\/api\/canvas\/logo\/380100889-0.5618066708557.jpg",
+    "titleTextEncoded": "jaime-weise",
+    "title": "Jaime Weise",
+    "videos_count": "0"
+}

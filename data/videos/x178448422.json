@@ -1,0 +1,113 @@
+{
+    "title": "Michael Kors Week",
+    "description": "Fall Fashion with Michael Kors",
+    "referenceId": "ce02f37056569121b5098dadaf1b2254",
+    "date_created": "1538060696",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "57",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213147",
+    "product_category": "women",
+    "id": "178448422",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-kors-week",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "16",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "16",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/178448422\/858d9\/thumb-ce02f37056569121b5098dadaf1b2254-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/thumb-ce02f37056569121b5098dadaf1b2254-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/thumb-ce02f37056569121b5098dadaf1b2254-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/thumb-ce02f37056569121b5098dadaf1b2254-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/thumb-ce02f37056569121b5098dadaf1b2254-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/thumb-ce02f37056569121b5098dadaf1b2254-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/thumb-ce02f37056569121b5098dadaf1b2254-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178448422\/thumbnail\/image-thumbnail-256-82f4f867c0f1074abcb46b43e7129358.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178448422\/thumbnail\/image-thumbnail-480-14c4e1c56eaeee4456aad9766344a8e1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178448422\/thumbnail\/image-thumbnail-640-3a2b1130da51e9db6f9c3ef49d7d3319.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178448422\/thumbnail\/image-thumbnail-1280-443d93083c319750aa1e74b2b4a72982.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/thumb-ce02f37056569121b5098dadaf1b2254-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178448422\/thumbnail\/image-thumbnail-640-3a2b1130da51e9db6f9c3ef49d7d3319.jpg",
+        "type": "mp4",
+        "assetId": 178448422,
+        "assetTitle": "Michael Kors Week",
+        "assetTitleTextEncoded": "9c5e163e-019b-49fd-891b-5f7a33cdc18e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178448422,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178448422\/858d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

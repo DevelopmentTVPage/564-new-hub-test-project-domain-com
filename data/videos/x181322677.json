@@ -1,0 +1,108 @@
+{
+    "title": "Red and Denim",
+    "description": "My husband and I are definitely INC fanatics... I promise, he loves every piece that Macy’s comes out with. EVERY! Like this red bomber jacket that’s perfect in any weather.",
+    "referenceId": "65d34356445aca99f389f122cc306b31",
+    "date_created": "1540655273",
+    "date_modified": "1546466819",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "men",
+    "id": "181322677",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "red-and-denim",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/181322677\/a17d9\/thumb-65d34356445aca99f389f122cc306b31-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/thumb-65d34356445aca99f389f122cc306b31-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/thumb-65d34356445aca99f389f122cc306b31-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/thumb-65d34356445aca99f389f122cc306b31-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181322677\/thumbnail\/image-thumbnail-256-23dcbacecce4d047bf035bb9cc4f7afc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181322677\/thumbnail\/image-thumbnail-480-99582a4ea3b9e4b23f48ba6886b9df2c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/thumb-65d34356445aca99f389f122cc306b31-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181322677\/thumbnail\/image-thumbnail-480-99582a4ea3b9e4b23f48ba6886b9df2c.jpg",
+        "type": "mp4",
+        "assetId": 181322677,
+        "assetTitle": "Red and Denim",
+        "assetTitleTextEncoded": "a4a1c8ff-f2b2-47fc-bf03-736e4b9fa8b3",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181322677,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181322677\/a17d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

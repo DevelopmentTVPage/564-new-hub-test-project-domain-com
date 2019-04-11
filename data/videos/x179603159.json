@@ -1,0 +1,116 @@
+{
+    "title": "I.N.C. Green Faux Wrap Dress",
+    "description": "Striped green faux wrap dress",
+    "referenceId": "388da06f45a86b49544e599bb860cdb2",
+    "date_created": "1539092210",
+    "date_modified": "1546466793",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "179603159",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "i-n-c-green-faux-wrap-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/179603159\/d6656\/thumb-388da06f45a86b49544e599bb860cdb2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179603159\/user-images\/image-1080-d59240bb7e5d5345f7bda6f71232eda7.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/thumb-388da06f45a86b49544e599bb860cdb2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/thumb-388da06f45a86b49544e599bb860cdb2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/thumb-388da06f45a86b49544e599bb860cdb2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/thumb-388da06f45a86b49544e599bb860cdb2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/thumb-388da06f45a86b49544e599bb860cdb2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/thumb-388da06f45a86b49544e599bb860cdb2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179603159\/thumbnail\/image-thumbnail-256-1733336e06d067a361e2bfcec193c3c7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179603159\/thumbnail\/image-thumbnail-480-7ff127fabf3395778762b50f4a6fcf2b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179603159\/thumbnail\/image-thumbnail-640-c986de46db1524ed29ae5603988a26fd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179603159\/user-images\/image-1080-d59240bb7e5d5345f7bda6f71232eda7.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179603159\/thumbnail\/image-thumbnail-640-c986de46db1524ed29ae5603988a26fd.jpg",
+        "type": "mp4",
+        "assetId": "179603159",
+        "assetTitle": "2018-10-9-8-34-28",
+        "assetTitleTextEncoded": "2018-10-9-8-34-28",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179603159",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603159\/d6656\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

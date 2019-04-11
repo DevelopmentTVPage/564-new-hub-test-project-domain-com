@@ -1,0 +1,119 @@
+{
+    "title": "A COZY LOOK WITH A NEON PUFFER - A WINTER 2018 MUST",
+    "description": null,
+    "referenceId": "31fe924321d25d5561b503c9db14854b",
+    "date_created": "1543540229",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "women",
+    "id": "184581898",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a-cozy-look-with-a-neon-puffer-a-winter-2018-must",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/184581898\/99951\/thumb-31fe924321d25d5561b503c9db14854b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184581898\/99951\/thumb-31fe924321d25d5561b503c9db14854b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184581898\/99951\/thumb-31fe924321d25d5561b503c9db14854b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184581898\/99951\/thumb-31fe924321d25d5561b503c9db14854b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184581898\/99951\/thumb-31fe924321d25d5561b503c9db14854b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184581898\/99951\/thumb-31fe924321d25d5561b503c9db14854b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184581898\/99951\/thumb-31fe924321d25d5561b503c9db14854b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184581898\/thumbnail\/image-thumbnail-256-7c161a9b3e4db7c1508f4344d34e02e3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184581898\/thumbnail\/image-thumbnail-480-16fa9e657cd3e0327d483bb6f3712555.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184581898\/thumbnail\/image-thumbnail-640-3a29a4add9648f68d5f981cef9fa3e2c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184581898\/thumbnail\/image-thumbnail-1280-698de4731c8e7aa304956113052cfbc8.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184581898\/thumbnail\/image-thumbnail-1920-a2886fd700f893c03104c0417209643a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184581898\/99951\/thumb-31fe924321d25d5561b503c9db14854b-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184581898\/thumbnail\/image-thumbnail-640-3a29a4add9648f68d5f981cef9fa3e2c.jpg",
+        "type": "mp4",
+        "assetId": 184581898,
+        "assetTitle": "Layla - Modeling - Times Square V1",
+        "assetTitleTextEncoded": "layla-modeling-times-square-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184581898,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184581898\/99951\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184581898\/99951\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184581898\/99951\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184581898\/99951\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184581898\/99951\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/184581898\/99951\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/184581898\/99951\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

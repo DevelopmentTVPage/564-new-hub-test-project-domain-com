@@ -1,0 +1,21 @@
+{
+    "id": "213957",
+    "first_name": "Jill",
+    "last_name": "VonGortler",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "AST Supervisor"
+    },
+    "last_login_timestamp": "1549911499",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-05 23:49:47",
+    "login_id": "1759121",
+    "user_id": "213957",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jill VonGortler",
+    "profile_picture": null,
+    "titleTextEncoded": "jill-vongortler",
+    "title": "Jill VonGortler",
+    "videos_count": "0"
+}

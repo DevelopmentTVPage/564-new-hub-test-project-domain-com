@@ -1,0 +1,112 @@
+{
+    "title": "Fashion Week trends",
+    "description": "Fashion week was filled with trends and partnerships with Marie Claire magazine",
+    "referenceId": "848930c5ee9d8bf2c8f70929f7c2b485",
+    "date_created": "1537573900",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "35",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213302",
+    "product_category": "women",
+    "id": "178092907",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-week-trends",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 640,
+            "height": 800
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/178092907\/b4444\/thumb-848930c5ee9d8bf2c8f70929f7c2b485-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/thumb-848930c5ee9d8bf2c8f70929f7c2b485-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/thumb-848930c5ee9d8bf2c8f70929f7c2b485-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/thumb-848930c5ee9d8bf2c8f70929f7c2b485-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/thumb-848930c5ee9d8bf2c8f70929f7c2b485-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/thumb-848930c5ee9d8bf2c8f70929f7c2b485-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/thumb-848930c5ee9d8bf2c8f70929f7c2b485-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178092907\/thumbnail\/image-thumbnail-256-545b443720d3eeba21d20068e9048807.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178092907\/thumbnail\/image-thumbnail-480-1e9a6a8aefb944d9aad9b155ae8b6dcc.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178092907\/thumbnail\/image-thumbnail-640-0403c4ce07ac3770c0516e779b3df105.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/thumb-848930c5ee9d8bf2c8f70929f7c2b485-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178092907\/thumbnail\/image-thumbnail-640-0403c4ce07ac3770c0516e779b3df105.jpg",
+        "type": "mp4",
+        "assetId": 178092907,
+        "assetTitle": "Fashion Week trends",
+        "assetTitleTextEncoded": "marie-claire-cover-21",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178092907,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 800
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178092907\/b4444\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Marie Claire",
+    "tvp_enhanced_transcript": null
+}

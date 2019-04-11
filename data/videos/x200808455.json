@@ -1,0 +1,104 @@
+{
+    "title": "Young love playground",
+    "description": "Don’t you just love buying gorgeous dresses and know you are helping raise awareness for the American Heart Association.  ",
+    "referenceId": "2f24bedc47ac88a817379533d14002c2",
+    "date_created": "1549119233",
+    "date_modified": "1549221740",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": null,
+    "id": "200808455",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "young-love-playground",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200808455\/84210\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200808455\/84210\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200808455\/84210\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200808455\/84210\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200808455\/84210\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "6",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/200808455\/84210\/thumb-2f24bedc47ac88a817379533d14002c2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200808455\/84210\/thumb-2f24bedc47ac88a817379533d14002c2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200808455\/84210\/thumb-2f24bedc47ac88a817379533d14002c2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200808455\/84210\/thumb-2f24bedc47ac88a817379533d14002c2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200808455\/thumbnail\/image-thumbnail-256-f3421dbc9c0d8ec72af9f97c7fb2ccb2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200808455\/thumbnail\/image-thumbnail-480-d7f4eb9249c2ac89c27780157c916edc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200808455\/84210\/thumb-2f24bedc47ac88a817379533d14002c2-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200808455\/thumbnail\/image-thumbnail-480-d7f4eb9249c2ac89c27780157c916edc.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200808455\/84210\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200808455\/84210\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

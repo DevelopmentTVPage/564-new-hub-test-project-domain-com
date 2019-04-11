@@ -1,0 +1,107 @@
+{
+    "title": "Macy’s Fine Jewelry trunk shows",
+    "description": "Have you ever wanted to try on beautiful bespoke jewelry pieces that aren’t sold in stores? Well Macy’s has fine jewelry trunk shows that travel around to our more than 500 stores around the country! You can find beautiful gifts for you or that special someone in your life, need a Valentine's day present that sparkles and shines? We've got you covered, from white gold to rose gold, diamonds to pearls and everything in between! Check out some of these gorgeous pieces from Effy, available at a trunk show near you! Upcoming dates and locations are listed at the end of this video so you can easily shop this exclusive jewelry trunk show at Macy's. <3",
+    "referenceId": "b78415c247d1fb06bcf205b47dfebfef",
+    "date_created": "1549981760",
+    "date_modified": "1549983071",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "6",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": null,
+    "id": "202639101",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-fine-jewelry-trunk-shows",
+    "category": "Jewelry",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 13,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 13,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 13,
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/202639101\/b08b2\/thumb-b78415c247d1fb06bcf205b47dfebfef-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/thumb-b78415c247d1fb06bcf205b47dfebfef-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/thumb-b78415c247d1fb06bcf205b47dfebfef-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/thumb-b78415c247d1fb06bcf205b47dfebfef-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/thumb-b78415c247d1fb06bcf205b47dfebfef-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/thumb-b78415c247d1fb06bcf205b47dfebfef-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/thumb-b78415c247d1fb06bcf205b47dfebfef-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202639101\/thumbnail\/image-thumbnail-256-d6325bbd06279ee867faf14913766be8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202639101\/thumbnail\/image-thumbnail-480-b903dc1fdb377c8de9f38af5a8a34c9d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202639101\/thumbnail\/image-thumbnail-640-c0f783c5f732d469b06f4eb0b60539c7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/202639101\/thumbnail\/image-thumbnail-1280-b7185af79691e73eca968aa32cdabaa7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/thumb-b78415c247d1fb06bcf205b47dfebfef-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639101\/thumbnail\/image-thumbnail-640-c0f783c5f732d469b06f4eb0b60539c7.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639101\/b08b2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

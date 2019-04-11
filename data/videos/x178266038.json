@@ -1,0 +1,112 @@
+{
+    "title": "MACYSSTYLECREW  DORTHIABROWN",
+    "description": "Back Stage: Dress; Gracia; Scarf; Calvin Klein\nEarrings: Adrienne A.",
+    "referenceId": "056463e188995b240fb55485c8f51892",
+    "date_created": "1537763767",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213224",
+    "product_category": "women",
+    "id": "178266038",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macysstylecrew-dorthiabrown",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 640,
+            "height": 640
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/178266038\/5b4c0\/thumb-056463e188995b240fb55485c8f51892-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/thumb-056463e188995b240fb55485c8f51892-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/thumb-056463e188995b240fb55485c8f51892-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/thumb-056463e188995b240fb55485c8f51892-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/thumb-056463e188995b240fb55485c8f51892-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/thumb-056463e188995b240fb55485c8f51892-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/thumb-056463e188995b240fb55485c8f51892-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178266038\/thumbnail\/image-thumbnail-256-924ba4b713bfcb2cd5410bdc5c2e1d00.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178266038\/thumbnail\/image-thumbnail-480-8898481bbd7ef208ed0d6b6f433243bc.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178266038\/thumbnail\/image-thumbnail-640-9a6d70abe65e4c7eed0722df970e36e4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/thumb-056463e188995b240fb55485c8f51892-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266038\/thumbnail\/image-thumbnail-640-9a6d70abe65e4c7eed0722df970e36e4.jpg",
+        "type": "mp4",
+        "assetId": "178266038",
+        "assetTitle": "bcbg macys_19-1",
+        "assetTitleTextEncoded": "bcbg-macys-19-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178266038",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266038\/5b4c0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's BCBG",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Renew",
+    "description": "Experience sports, training, shopping and everything else that's new at Nike from any Macy’s store.",
+    "referenceId": "57f99c5163d5dfd389f993355f430325",
+    "date_created": "1547618782",
+    "date_modified": "1547619630",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213738",
+    "product_category": null,
+    "id": "198149314",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew",
+    "category": "Renew ",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 21,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 21,
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": 21,
+        "prettyDuration": "00:00:21",
+        "automaticThumbnailsPattern": "1759121\/198149314\/4e5f5\/thumb-57f99c5163d5dfd389f993355f430325-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/thumb-57f99c5163d5dfd389f993355f430325-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/thumb-57f99c5163d5dfd389f993355f430325-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/thumb-57f99c5163d5dfd389f993355f430325-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/thumb-57f99c5163d5dfd389f993355f430325-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/thumb-57f99c5163d5dfd389f993355f430325-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/thumb-57f99c5163d5dfd389f993355f430325-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198149314\/thumbnail\/image-thumbnail-256-48f516ed9f84aac83e79e6be9c64332b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/thumb-57f99c5163d5dfd389f993355f430325-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198149314\/thumbnail\/image-thumbnail-256-48f516ed9f84aac83e79e6be9c64332b.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198149314\/4e5f5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213929",
+    "first_name": "Anton Carlo",
+    "last_name": "Fabregar",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/288769015-0.1844742467626.jpg",
+        "job_title": "MyStylist"
+    },
+    "last_login_timestamp": "1549734306",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-25 02:14:15",
+    "login_id": "1759121",
+    "user_id": "213929",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Anton Carlo Fabregar",
+    "profile_picture": "\/api\/canvas\/logo\/288769015-0.1844742467626.jpg",
+    "titleTextEncoded": "anton-carlo-fabregar",
+    "title": "Anton Carlo Fabregar",
+    "videos_count": "1"
+}

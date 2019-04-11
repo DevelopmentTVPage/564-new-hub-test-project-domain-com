@@ -1,0 +1,21 @@
+{
+    "id": "213118",
+    "first_name": "Emily",
+    "last_name": "Johnson",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/152810428-0.2665159679949.jpg",
+        "job_title": "CHANEL Beauty Advisor"
+    },
+    "last_login_timestamp": "1550590041",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:54:56",
+    "login_id": "1759121",
+    "user_id": "213118",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Emily Johnson",
+    "profile_picture": "\/api\/canvas\/logo\/152810428-0.2665159679949.jpg",
+    "titleTextEncoded": "emily-johnson",
+    "title": "Emily Johnson",
+    "videos_count": "25"
+}

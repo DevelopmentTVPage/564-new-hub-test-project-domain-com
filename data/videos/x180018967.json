@@ -1,0 +1,110 @@
+{
+    "title": "Glam Day 2 - Smashbox",
+    "description": "50% off the Smashbox Camera Ready Brush Collection only at Macy's!",
+    "referenceId": "be4adb7887d9014995adbedef50e8114",
+    "date_created": "1539395672",
+    "date_modified": "1546466819",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "510",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": "beauty",
+    "id": "180018967",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "glam-day-2-smashbox",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/180018967\/b59d1\/thumb-be4adb7887d9014995adbedef50e8114-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/thumb-be4adb7887d9014995adbedef50e8114-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/thumb-be4adb7887d9014995adbedef50e8114-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/thumb-be4adb7887d9014995adbedef50e8114-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/thumb-be4adb7887d9014995adbedef50e8114-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/thumb-be4adb7887d9014995adbedef50e8114-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/thumb-be4adb7887d9014995adbedef50e8114-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180018967\/thumbnail\/image-thumbnail-256-0f9cc6788eb960e415e1768af5431ab6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/thumb-be4adb7887d9014995adbedef50e8114-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180018967\/thumbnail\/image-thumbnail-256-0f9cc6788eb960e415e1768af5431ab6.jpg",
+        "type": "mp4",
+        "assetId": "180018967",
+        "assetTitle": "Glam Day 2 - Smashbox",
+        "assetTitleTextEncoded": "glam-day-2-smashbox",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "180018967",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180018967\/b59d1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

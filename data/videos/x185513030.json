@@ -1,0 +1,115 @@
+{
+    "title": "guess heart lock and key earrings",
+    "description": "Guess heart lock and key crystal earrings",
+    "referenceId": "eaf72f8ca4606c16ed1ae883ec7d62f9",
+    "date_created": "1544122841",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213744",
+    "product_category": "jewelry",
+    "id": "185513030",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "guess-heart-lock-and-key-earrings",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 52,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 52,
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": 52,
+        "prettyDuration": "00:00:52",
+        "automaticThumbnailsPattern": "1759121\/185513030\/c186a\/thumb-eaf72f8ca4606c16ed1ae883ec7d62f9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/thumb-eaf72f8ca4606c16ed1ae883ec7d62f9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/thumb-eaf72f8ca4606c16ed1ae883ec7d62f9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/thumb-eaf72f8ca4606c16ed1ae883ec7d62f9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/thumb-eaf72f8ca4606c16ed1ae883ec7d62f9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/thumb-eaf72f8ca4606c16ed1ae883ec7d62f9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/thumb-eaf72f8ca4606c16ed1ae883ec7d62f9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185513030\/thumbnail\/image-thumbnail-256-2270839f770159918964f81bcfd6573b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/thumb-eaf72f8ca4606c16ed1ae883ec7d62f9-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185513030\/thumbnail\/image-thumbnail-256-2270839f770159918964f81bcfd6573b.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/media.m3u8",
+        "assetId": 185513030,
+        "assetTitle": "56581556141__86898AFE-0761-413D-81B4-F21F71FA6F19",
+        "assetTitleTextEncoded": "56581556141-86898afe-0761-413d-81b4-f21f71fa6f19",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185513030,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185513030\/c186a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

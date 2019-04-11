@@ -1,0 +1,21 @@
+{
+    "id": "213754",
+    "first_name": "heather",
+    "last_name": "clark",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "my stylist"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-06 20:34:04",
+    "login_id": "1759121",
+    "user_id": "213754",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "heather clark",
+    "profile_picture": null,
+    "titleTextEncoded": "heather-clark",
+    "title": "heather clark",
+    "videos_count": "0"
+}

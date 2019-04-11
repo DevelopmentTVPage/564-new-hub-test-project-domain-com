@@ -1,0 +1,21 @@
+{
+    "id": "213646",
+    "first_name": "Casey",
+    "last_name": "Finn",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Beauty Advisor"
+    },
+    "last_login_timestamp": "1539310259",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-10 19:19:31",
+    "login_id": "1759121",
+    "user_id": "213646",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Casey Finn",
+    "profile_picture": null,
+    "titleTextEncoded": "casey-finn",
+    "title": "Casey Finn",
+    "videos_count": "0"
+}

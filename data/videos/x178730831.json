@@ -1,0 +1,116 @@
+{
+    "title": "5 Ways to Wear a Silk Scarf- Just a Taste of Fashion",
+    "description": "Web IDs Below\nMichael Kor's Purse: 3042290\nFree People Top: 6498329\nFree People Skirt:2888816",
+    "referenceId": "92b30d67fadaba07f4803d20e64837bf",
+    "date_created": "1538516572",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "178730831",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5-ways-to-wear-a-silk-scarf-just-a-taste-of-fashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "196",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "196",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "196",
+        "prettyDuration": "00:03:16",
+        "automaticThumbnailsPattern": "1759121\/178730831\/8dfdc\/thumb-92b30d67fadaba07f4803d20e64837bf-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178730831\/user-images\/image-1182-64e99154eb9119c8f56ed3093d6df523.jpg",
+            "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/thumb-92b30d67fadaba07f4803d20e64837bf-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/thumb-92b30d67fadaba07f4803d20e64837bf-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/thumb-92b30d67fadaba07f4803d20e64837bf-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/thumb-92b30d67fadaba07f4803d20e64837bf-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/thumb-92b30d67fadaba07f4803d20e64837bf-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/thumb-92b30d67fadaba07f4803d20e64837bf-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178730831\/thumbnail\/image-thumbnail-256-76b253af5cd002dec06201524f555464.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178730831\/thumbnail\/image-thumbnail-480-76cb828346f1e0da77fa05075f36c4f3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178730831\/thumbnail\/image-thumbnail-640-2940c8e1069ec1c704aeb36f845d1ed5.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178730831\/user-images\/image-1182-64e99154eb9119c8f56ed3093d6df523.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178730831\/thumbnail\/image-thumbnail-640-2940c8e1069ec1c704aeb36f845d1ed5.jpg",
+        "type": "mp4",
+        "assetId": 178730831,
+        "assetTitle": "5 Ways to Wear a Silk Scarf- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "16-5-ways-to-wear-a-silk-scarf-1080p",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178730831,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178730831\/8dfdc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-14"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-10-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

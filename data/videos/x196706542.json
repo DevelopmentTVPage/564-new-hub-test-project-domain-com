@@ -1,0 +1,104 @@
+{
+    "title": "Renew Refresh Reset",
+    "description": "It's that time of year where we start off on a clean slate and set our goals\/intentions for the year! \n\nI've challenged myself to workout M-F and eat clean! And, I'm doing so in my cutest workout outfits! \n\nPick out an outfit you feel confident in and get moving! I believe in you",
+    "referenceId": "9de5f3c8c8728c06169aa96db6c13021",
+    "date_created": "1546913114",
+    "date_modified": "1546971658",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "44",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213406",
+    "product_category": null,
+    "id": "196706542",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-refresh-reset",
+    "category": "Active",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 16,
+            "width": 360,
+            "height": 640
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/196706542\/a2803\/thumb-9de5f3c8c8728c06169aa96db6c13021-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/thumb-9de5f3c8c8728c06169aa96db6c13021-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/thumb-9de5f3c8c8728c06169aa96db6c13021-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/thumb-9de5f3c8c8728c06169aa96db6c13021-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/thumb-9de5f3c8c8728c06169aa96db6c13021-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/thumb-9de5f3c8c8728c06169aa96db6c13021-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/thumb-9de5f3c8c8728c06169aa96db6c13021-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/196706542\/thumbnail\/image-thumbnail-256-f9385cea83e5df6ae2cba56970273a80.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/thumb-9de5f3c8c8728c06169aa96db6c13021-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/196706542\/thumbnail\/image-thumbnail-256-f9385cea83e5df6ae2cba56970273a80.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/196706542\/a2803\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

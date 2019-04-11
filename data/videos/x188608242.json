@@ -1,0 +1,115 @@
+{
+    "title": "Clinique ID- Just a Taste of Fashion",
+    "description": "So excited to share with you guys the new CliniqueID product that just launched. I am very basic with my skin products so I love how light the jelly base is and can easily apply with my makeup in the morning.",
+    "referenceId": "85c2ebb39ed7793a0f3392a83b416359",
+    "date_created": "1545098507",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "50",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "beauty",
+    "id": "188608242",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "clinique-id-just-a-taste-of-fashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 102,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 102,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 102,
+        "prettyDuration": "00:01:42",
+        "automaticThumbnailsPattern": "1759121\/188608242\/4918a\/thumb-85c2ebb39ed7793a0f3392a83b416359-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188608242\/user-images\/image-2170-62c658828b90e71e9beef4519499787f.jpg",
+            "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/thumb-85c2ebb39ed7793a0f3392a83b416359-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/thumb-85c2ebb39ed7793a0f3392a83b416359-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/thumb-85c2ebb39ed7793a0f3392a83b416359-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/thumb-85c2ebb39ed7793a0f3392a83b416359-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/thumb-85c2ebb39ed7793a0f3392a83b416359-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/thumb-85c2ebb39ed7793a0f3392a83b416359-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188608242\/thumbnail\/image-thumbnail-256-d40709797681364e7505e6bd1e5dca0c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188608242\/thumbnail\/image-thumbnail-480-62ef7c757932b1dceef8a182ee508ba5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188608242\/thumbnail\/image-thumbnail-640-6be7fba8f52ef588e1be06f336124b96.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188608242\/thumbnail\/image-thumbnail-1280-c06a093a655d928203835cc1b17b54d1.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/188608242\/thumbnail\/image-thumbnail-1920-3d95fc09bfb0d66a9760c4e45fc01f9b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188608242\/user-images\/image-2170-62c658828b90e71e9beef4519499787f.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188608242\/thumbnail\/image-thumbnail-640-6be7fba8f52ef588e1be06f336124b96.jpg",
+        "type": "mp4",
+        "assetId": 188608242,
+        "assetTitle": "Clinique ID",
+        "assetTitleTextEncoded": "46215780-6fa5-4f66-8833-bd7facf61c7d",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188608242,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188608242\/4918a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Michael Kors fur vest",
+    "description": "Fur Vest by Michael Kors",
+    "referenceId": "45900bc1ef117850a898cb363bc79f19",
+    "date_created": "1541424232",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "182045849",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-kors-fur-vest",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 3,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 3,
+            "width": 526,
+            "height": 1080
+        },
+        "mediaDuration": 3,
+        "prettyDuration": "00:00:03",
+        "automaticThumbnailsPattern": "1759121\/182045849\/b0eb8\/thumb-45900bc1ef117850a898cb363bc79f19-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182045849\/user-images\/image-1080-ced380179794f3535827341811882586.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045849\/b0eb8\/thumb-45900bc1ef117850a898cb363bc79f19-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045849\/b0eb8\/thumb-45900bc1ef117850a898cb363bc79f19-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182045849\/thumbnail\/image-thumbnail-256-3d983675dbb167cfd5624cc74801c95f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182045849\/thumbnail\/image-thumbnail-480-2b6645b55573ec1651a9490f12541a56.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182045849\/thumbnail\/image-thumbnail-640-7629f284f855ae0f0586e03066c086bb.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182045849\/user-images\/image-1080-ced380179794f3535827341811882586.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182045849\/thumbnail\/image-thumbnail-640-7629f284f855ae0f0586e03066c086bb.jpg",
+        "type": "mp4",
+        "assetId": 182045849,
+        "assetTitle": "VID_92660806_202242_835",
+        "assetTitleTextEncoded": "vid-92660806-202242-835",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182045849,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045849\/b0eb8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 526,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045849\/b0eb8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 350,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045849\/b0eb8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 234,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045849\/b0eb8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045849\/b0eb8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 116,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

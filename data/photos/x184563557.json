@@ -1,0 +1,103 @@
+{
+    "title": "15% off Beauty\/Fragrance during Macy’s Friends & Family",
+    "description": " What could be better than friends and family beginning Today?? 15% off beauty and fragrance!!",
+    "referenceId": null,
+    "date_created": "1543507555",
+    "date_modified": "1546466795",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213750",
+    "id": "184563557",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "15-off-beauty-fragrance-during-macys-friends-family",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1247,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-media--1200.jpeg?v=1543525912519"
+            },
+            {
+                "width": 1024,
+                "height": 1064,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-media--1024.jpeg?v=1543525912472"
+            },
+            {
+                "width": 1080,
+                "height": 1122,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-media--1080.jpeg?v=1543525912908"
+            },
+            {
+                "width": 960,
+                "height": 997,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-media--960.jpeg?v=1543525912455"
+            },
+            {
+                "width": 640,
+                "height": 665,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-media--640.jpeg?v=1543525912756"
+            },
+            {
+                "width": 600,
+                "height": 623,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-media--600.jpeg?v=1543525912411"
+            },
+            {
+                "width": 256,
+                "height": 266,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-media--256.jpeg?v=1543525912712"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-thumbnail-640.jpeg?v=1543525913177"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-thumbnail-480.jpeg?v=1543525913166"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-thumbnail-256.jpeg?v=1543525913146"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-thumbnail-64.jpeg?v=1543525913145"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563557\/image-thumbnail-640.jpeg?v=1543525913177",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

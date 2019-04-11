@@ -1,0 +1,113 @@
+{
+    "title": "Holiday pajamas for the family.",
+    "description": "Holiday pjs for the whole family. Use code friend and get 30% off till dec 10th. Under 20$ pjs for the fam.",
+    "referenceId": "d582a2c527151333e431adc0c55f1180",
+    "date_created": "1543975313",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "kids",
+    "id": "185168865",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "holiday-pajamas-for-the-family",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 23,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 23,
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/185168865\/34df6\/thumb-d582a2c527151333e431adc0c55f1180-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/185168865\/user-images\/image-1242-67b2c1a5175bc8c4b124b234409423b1.jpg",
+            "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/thumb-d582a2c527151333e431adc0c55f1180-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/thumb-d582a2c527151333e431adc0c55f1180-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/thumb-d582a2c527151333e431adc0c55f1180-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/thumb-d582a2c527151333e431adc0c55f1180-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/thumb-d582a2c527151333e431adc0c55f1180-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/thumb-d582a2c527151333e431adc0c55f1180-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/185168865\/thumbnail\/image-thumbnail-256-63aa720cc01f6fffef8612e38905e8cd.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/185168865\/thumbnail\/image-thumbnail-480-f1aeef76f3675982c21467d691e53be5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/185168865\/thumbnail\/image-thumbnail-640-80db81b0a8c1e1a0a20052300c82acb8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/185168865\/user-images\/image-1242-67b2c1a5175bc8c4b124b234409423b1.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/185168865\/thumbnail\/image-thumbnail-640-80db81b0a8c1e1a0a20052300c82acb8.jpg",
+        "type": "mp4",
+        "assetId": 185168865,
+        "assetTitle": "Holiday pajamas for the family.",
+        "assetTitleTextEncoded": "f142a43d-37a0-4898-80cd-12cd7e274dc2",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 185168865,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/185168865\/34df6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

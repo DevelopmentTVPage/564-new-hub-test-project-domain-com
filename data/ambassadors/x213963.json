@@ -1,0 +1,21 @@
+{
+    "id": "213963",
+    "first_name": "Monica",
+    "last_name": "Gamez",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Assistant Inventory Planner"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-06 20:48:27",
+    "login_id": "1759121",
+    "user_id": "213963",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Monica Gamez",
+    "profile_picture": null,
+    "titleTextEncoded": "monica-gamez",
+    "title": "Monica Gamez",
+    "videos_count": "0"
+}

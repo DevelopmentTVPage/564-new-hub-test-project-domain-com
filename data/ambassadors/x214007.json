@@ -1,0 +1,21 @@
+{
+    "id": "214007",
+    "first_name": "Nicole",
+    "last_name": "Smith",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Visual Merchandiser"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-12 01:00:29",
+    "login_id": "1759121",
+    "user_id": "214007",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Nicole Smith",
+    "profile_picture": null,
+    "titleTextEncoded": "nicole-smith",
+    "title": "Nicole Smith",
+    "videos_count": "0"
+}

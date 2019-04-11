@@ -1,0 +1,104 @@
+{
+    "title": "Variety Styles",
+    "description": "This shows you that you don't have to limit yourself to one style.",
+    "referenceId": "14d0ab045630c743768eacb300cbfbb6",
+    "date_created": "1541970130",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213710",
+    "product_category": null,
+    "id": "183274356",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "variety-styles",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 800,
+            "height": 800
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/183274356\/83c19\/thumb-14d0ab045630c743768eacb300cbfbb6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/thumb-14d0ab045630c743768eacb300cbfbb6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/thumb-14d0ab045630c743768eacb300cbfbb6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/thumb-14d0ab045630c743768eacb300cbfbb6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/thumb-14d0ab045630c743768eacb300cbfbb6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/thumb-14d0ab045630c743768eacb300cbfbb6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/thumb-14d0ab045630c743768eacb300cbfbb6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183274356\/thumbnail\/image-thumbnail-256-60e646db4b0eee3851e377d05cf866e6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183274356\/thumbnail\/image-thumbnail-480-4a0f2db9ff79bd784ece67510105bca3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183274356\/thumbnail\/image-thumbnail-640-fad1eb939d706006db2ad60262b46233.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/thumb-14d0ab045630c743768eacb300cbfbb6-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183274356\/thumbnail\/image-thumbnail-640-fad1eb939d706006db2ad60262b46233.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 800
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183274356\/83c19\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

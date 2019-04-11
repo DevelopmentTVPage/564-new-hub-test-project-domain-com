@@ -1,0 +1,21 @@
+{
+    "id": "213688",
+    "first_name": "Gabrielle",
+    "last_name": "Prowell",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/164996073-0.7840392476413.jpg",
+        "job_title": "Signer"
+    },
+    "last_login_timestamp": "1547670529",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-31 22:01:24",
+    "login_id": "1759121",
+    "user_id": "213688",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Gabrielle Prowell",
+    "profile_picture": "\/api\/canvas\/logo\/164996073-0.7840392476413.jpg",
+    "titleTextEncoded": "gabrielle-prowell",
+    "title": "Gabrielle Prowell",
+    "videos_count": "0"
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Beauty deals of the day 02\/08-02\/09",
+    "description": "48 hour sale specials in beauty ",
+    "referenceId": "f5c2235eecdc9e76c340c8ce320de731",
+    "date_created": "1549645857",
+    "date_modified": "1549646349",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": null,
+    "id": "201828928",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "beauty-deals-of-the-day-02-08-02-09",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "36",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "36",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "automaticThumbnailsPattern": "1759121\/201828928\/5b6da\/thumb-f5c2235eecdc9e76c340c8ce320de731-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/thumb-f5c2235eecdc9e76c340c8ce320de731-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/thumb-f5c2235eecdc9e76c340c8ce320de731-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/thumb-f5c2235eecdc9e76c340c8ce320de731-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/thumb-f5c2235eecdc9e76c340c8ce320de731-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/thumb-f5c2235eecdc9e76c340c8ce320de731-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/thumb-f5c2235eecdc9e76c340c8ce320de731-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201828928\/thumbnail\/image-thumbnail-256-4be86cd7920caf75a7da0c604eebaa74.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/201828928\/thumbnail\/image-thumbnail-480-ac224072c102bdd18cbeca64ec4e277e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/201828928\/thumbnail\/image-thumbnail-640-5238294cc8852e4894dec6d7243be8aa.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/201828928\/thumbnail\/image-thumbnail-1280-78406f40c7cad127f88539d2ed343905.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/thumb-f5c2235eecdc9e76c340c8ce320de731-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201828928\/thumbnail\/image-thumbnail-640-5238294cc8852e4894dec6d7243be8aa.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828928\/5b6da\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

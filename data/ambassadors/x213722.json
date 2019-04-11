@@ -1,0 +1,21 @@
+{
+    "id": "213722",
+    "first_name": "joan",
+    "last_name": "DeArmon",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/672851290-0.9575574298854.jpg",
+        "job_title": "Associate"
+    },
+    "last_login_timestamp": "1543721487",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 16:13:37",
+    "login_id": "1759121",
+    "user_id": "213722",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "joan DeArmon",
+    "profile_picture": "\/api\/canvas\/logo\/672851290-0.9575574298854.jpg",
+    "titleTextEncoded": "joan-dearmon",
+    "title": "joan DeArmon",
+    "videos_count": "4"
+}

@@ -1,0 +1,116 @@
+{
+    "title": "My Holiday Journey with a Blue Yeti 1",
+    "description": "The end of the year is supposed to be filled with lots of family time. But due to my scratchy throat, I've been quarantined in my home office with no one to keep me company except my Blue Yeti.",
+    "referenceId": "ce76daf3997dd7894b20b1fdce0dd212",
+    "date_created": "1545364337",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "119",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "home",
+    "id": "189405700",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-with-a-blue-yeti-1",
+    "category": "My Holiday Journey with a Blue Yeti 1",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 75,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 75,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 75,
+        "prettyDuration": "00:01:15",
+        "automaticThumbnailsPattern": "1759121\/189405700\/638e7\/thumb-ce76daf3997dd7894b20b1fdce0dd212-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/thumb-ce76daf3997dd7894b20b1fdce0dd212-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/thumb-ce76daf3997dd7894b20b1fdce0dd212-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/thumb-ce76daf3997dd7894b20b1fdce0dd212-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/thumb-ce76daf3997dd7894b20b1fdce0dd212-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/thumb-ce76daf3997dd7894b20b1fdce0dd212-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/thumb-ce76daf3997dd7894b20b1fdce0dd212-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/189405700\/thumbnail\/image-thumbnail-256-954f2234de666e914e8a5920c61869ca.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/189405700\/thumbnail\/image-thumbnail-480-7370b699917369252fa94be1d5ceebb5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/189405700\/thumbnail\/image-thumbnail-640-de30aae3c68d7216da495facf67b0895.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/thumb-ce76daf3997dd7894b20b1fdce0dd212-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/189405700\/thumbnail\/image-thumbnail-640-de30aae3c68d7216da495facf67b0895.jpg",
+        "type": "mp4",
+        "assetId": 189405700,
+        "assetTitle": "My Holiday Journey with a Blue Yeti 1",
+        "assetTitleTextEncoded": "my-holiday-journey-with-a-blue-yeti-1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 189405700,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189405700\/638e7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

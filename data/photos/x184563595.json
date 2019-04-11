@@ -1,0 +1,115 @@
+{
+    "title": "Michael Kors Holiday Look",
+    "description": "A PERFECT wrist stack for the holidays. Lots of silver, gold, AND SHIMMER!  ",
+    "referenceId": null,
+    "date_created": "1543513910",
+    "date_modified": "1546466828",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213171",
+    "id": "184563595",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "michael-kors-holiday-look",
+    "linkUrl": null,
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1280,
+                "height": 1599,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-media--1280.jpeg?v=1543513920828"
+            },
+            {
+                "width": 1200,
+                "height": 1499,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-media--1200.jpeg?v=1543513920784"
+            },
+            {
+                "width": 1024,
+                "height": 1279,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-media--1024.jpeg?v=1543513920773"
+            },
+            {
+                "width": 1080,
+                "height": 1349,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-media--1080.jpeg?v=1543513921451"
+            },
+            {
+                "width": 960,
+                "height": 1199,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-media--960.jpeg?v=1543513920737"
+            },
+            {
+                "width": 640,
+                "height": 799,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-media--640.jpeg?v=1543513921296"
+            },
+            {
+                "width": 600,
+                "height": 749,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-media--600.jpeg?v=1543513921467"
+            },
+            {
+                "width": 256,
+                "height": 319,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-media--256.jpeg?v=1543513921535"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-thumbnail-1280.jpeg?v=1543513921900"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-thumbnail-640.jpeg?v=1543513921833"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-thumbnail-480.jpeg?v=1543513921822"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-thumbnail-256.jpeg?v=1543513921804"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-thumbnail-64.jpeg?v=1543513921918"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184563595\/image-thumbnail-640.jpeg?v=1543513921833",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

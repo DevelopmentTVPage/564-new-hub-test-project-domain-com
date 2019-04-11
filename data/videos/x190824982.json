@@ -1,0 +1,106 @@
+{
+    "title": "Last minute beauty gift ideas ",
+    "description": "Beauty gift ideas ",
+    "referenceId": "50dd52dfaeb53df942547c30adbcb1a2",
+    "date_created": "1545542417",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": null,
+    "id": "190824982",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "last-minute-beauty-gift-ideas",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "63",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "63",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "automaticThumbnailsPattern": "1759121\/190824982\/c775d\/thumb-50dd52dfaeb53df942547c30adbcb1a2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/thumb-50dd52dfaeb53df942547c30adbcb1a2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/thumb-50dd52dfaeb53df942547c30adbcb1a2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/thumb-50dd52dfaeb53df942547c30adbcb1a2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/thumb-50dd52dfaeb53df942547c30adbcb1a2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/thumb-50dd52dfaeb53df942547c30adbcb1a2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/thumb-50dd52dfaeb53df942547c30adbcb1a2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/190824982\/thumbnail\/image-thumbnail-256-6e5704d6bbcb09d0a7d3f199e9cad5a6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/190824982\/thumbnail\/image-thumbnail-480-856f903c9d5582031debdeec8cd20fd2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/190824982\/thumbnail\/image-thumbnail-640-449ad578e8fdc9969b40d5c9768021c2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/190824982\/thumbnail\/image-thumbnail-1280-6431afd79d2148908c9b2a0693541c19.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/thumb-50dd52dfaeb53df942547c30adbcb1a2-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/190824982\/thumbnail\/image-thumbnail-640-449ad578e8fdc9969b40d5c9768021c2.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/190824982\/c775d\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213757",
+    "first_name": "Victoria",
+    "last_name": "Armstrong ",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/123083245-0.6077586289960.jpg",
+        "job_title": "Sales Associate "
+    },
+    "last_login_timestamp": "1542845998",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-08 03:51:42",
+    "login_id": "1759121",
+    "user_id": "213757",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Victoria Armstrong ",
+    "profile_picture": "\/api\/canvas\/logo\/123083245-0.6077586289960.jpg",
+    "titleTextEncoded": "victoria-armstrong",
+    "title": "Victoria Armstrong ",
+    "videos_count": "2"
+}

@@ -1,0 +1,108 @@
+{
+    "title": "A PERFECT gift for Valentine's Day! Flowerbomb - Top Seller & 5 STAR REVIEW!!",
+    "description": "The 5 Star reviews on this product are unmatched!! It is a customer favorite! Product assortments are varied and there are MANY options for all price ranges! Flowerbomb is a floral explosion! \n\nTop Notes: Bergamot, Tea, Osmanthus\nMiddle Notes: Jasmine, African Orange Flower, Freesia, Orchid, Rose\nBase Notes: Musk, Patchouli",
+    "referenceId": "d4622e65720083e18e4552bb42cd736b",
+    "date_created": "1549381433",
+    "date_modified": "1549381868",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213936",
+    "product_category": null,
+    "id": "201547382",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a-perfect-gift-for-valentines-day-flowerbomb-top-seller-5-star-review",
+    "category": "The 5 Star reviews on this product are unmatched!! It is a customer favorite! Product assortments are varied and there are MANY options for all price ranges! Flowerbomb is a floral explosion! \n\nTop Notes: Bergamot, Tea, Osmanthus\nMiddle Notes: Jasmine, African Orange Flower, Freesia, Orchid, Rose\nBase Notes: Musk, Patchouli",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 26,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 26,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 26,
+        "prettyDuration": "00:00:26",
+        "automaticThumbnailsPattern": "1759121\/201547382\/e43d7\/thumb-d4622e65720083e18e4552bb42cd736b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/thumb-d4622e65720083e18e4552bb42cd736b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/thumb-d4622e65720083e18e4552bb42cd736b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/thumb-d4622e65720083e18e4552bb42cd736b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/thumb-d4622e65720083e18e4552bb42cd736b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/thumb-d4622e65720083e18e4552bb42cd736b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/thumb-d4622e65720083e18e4552bb42cd736b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201547382\/thumbnail\/image-thumbnail-256-2389cba6b4d3519cd641304617d01ca7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/201547382\/thumbnail\/image-thumbnail-480-cffe85b33b8d24400c1993fc9bf94185.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/201547382\/thumbnail\/image-thumbnail-640-fc99bff62fef6455736f7ca50a7cb850.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/thumb-d4622e65720083e18e4552bb42cd736b-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201547382\/thumbnail\/image-thumbnail-640-fc99bff62fef6455736f7ca50a7cb850.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201547382\/e43d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

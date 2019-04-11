@@ -1,0 +1,79 @@
+{
+    "title": "Sparkle through winter ",
+    "description": "These gorgeous inc booties will have everyone looking at you. They’re comfortable and just the right amount of heel. These booties are great for a night out or if you’re like me and just need that extra sparkle to wear everywhere.",
+    "referenceId": null,
+    "date_created": "1542130034",
+    "date_modified": "1546466824",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213760",
+    "id": "183347194",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "sparkle-through-winter",
+    "linkUrl": null,
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 640,
+                "height": 1138,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347194\/image-media--640.jpeg?v=1542130037398"
+            },
+            {
+                "width": 600,
+                "height": 1067,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347194\/image-media--600.jpeg?v=1542130037367"
+            },
+            {
+                "width": 256,
+                "height": 455,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347194\/image-media--256.jpeg?v=1542130037349"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347194\/image-thumbnail-640.jpeg?v=1542130037602"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347194\/image-thumbnail-480.jpeg?v=1542130037591"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347194\/image-thumbnail-256.jpeg?v=1542130037582"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347194\/image-thumbnail-64.jpeg?v=1542130037577"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347194\/image-thumbnail-640.jpeg?v=1542130037602",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

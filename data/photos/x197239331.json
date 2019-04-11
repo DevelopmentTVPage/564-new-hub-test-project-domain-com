@@ -1,0 +1,127 @@
+{
+    "title": "My New Year's Resolution || #Clinique",
+    "description": "My resolution is to take better care of my skin! I've been using Clinique ID everyday this year, and my skin is already so much better!! ",
+    "referenceId": null,
+    "date_created": "1547157878",
+    "date_modified": "1547157960",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213274",
+    "id": "197239331",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-new-years-resolution-clinique",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--1920.jpeg?v=1547157880400"
+            },
+            {
+                "width": 1280,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--1280.jpeg?v=1547157880867"
+            },
+            {
+                "width": 1200,
+                "height": 900,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--1200.jpeg?v=1547157880568"
+            },
+            {
+                "width": 1024,
+                "height": 768,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--1024.jpeg?v=1547157880813"
+            },
+            {
+                "width": 1080,
+                "height": 810,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--1080.jpeg?v=1547157880259"
+            },
+            {
+                "width": 960,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--960.jpeg?v=1547157880582"
+            },
+            {
+                "width": 640,
+                "height": 480,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--640.jpeg?v=1547157880267"
+            },
+            {
+                "width": 600,
+                "height": 450,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--600.jpeg?v=1547157880262"
+            },
+            {
+                "width": 256,
+                "height": 192,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-media--256.jpeg?v=1547157880466"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-thumbnail-1920.jpeg?v=1547157881290"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-thumbnail-1280.jpeg?v=1547157881242"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-thumbnail-640.jpeg?v=1547157881167"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-thumbnail-480.jpeg?v=1547157881149"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-thumbnail-256.jpeg?v=1547157881213"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-thumbnail-64.jpeg?v=1547157881279"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/197239331\/image-thumbnail-640.jpeg?v=1547157881167",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

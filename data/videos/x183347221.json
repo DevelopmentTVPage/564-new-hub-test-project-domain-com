@@ -1,0 +1,113 @@
+{
+    "title": "Thanksgiving Outfit",
+    "description": "INC has a huge selection of party clothes for men and here I show you my Thanksgiving outfit. Is all about the velvet from top to bottom.",
+    "referenceId": "831fe21c8e7b48ad66621af149d18ceb",
+    "date_created": "1542134367",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": "men",
+    "id": "183347221",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "thanksgiving-outfit",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/183347221\/dceb9\/thumb-831fe21c8e7b48ad66621af149d18ceb-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/thumb-831fe21c8e7b48ad66621af149d18ceb-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/thumb-831fe21c8e7b48ad66621af149d18ceb-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/thumb-831fe21c8e7b48ad66621af149d18ceb-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/thumb-831fe21c8e7b48ad66621af149d18ceb-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/thumb-831fe21c8e7b48ad66621af149d18ceb-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/thumb-831fe21c8e7b48ad66621af149d18ceb-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183347221\/thumbnail\/image-thumbnail-256-598f00f3ecddacd01836da6674afcc5c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183347221\/thumbnail\/image-thumbnail-480-9647ffa7fd93a70e28bb05ee294f51ef.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183347221\/thumbnail\/image-thumbnail-640-59d2a00539c6746f76bbad64d11d64dc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183347221\/thumbnail\/image-thumbnail-1280-74cf97c9abf3a31c8ddc49720f78f1e8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/thumb-831fe21c8e7b48ad66621af149d18ceb-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183347221\/thumbnail\/image-thumbnail-640-59d2a00539c6746f76bbad64d11d64dc.jpg",
+        "type": "mp4",
+        "assetId": 183347221,
+        "assetTitle": "CD60DB07-EEFF-495E-AC0A-0BE556A19587",
+        "assetTitleTextEncoded": "cd60db07-eeff-495e-ac0a-0be556a19587",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183347221,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183347221\/dceb9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

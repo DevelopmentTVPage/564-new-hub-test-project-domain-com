@@ -1,0 +1,127 @@
+{
+    "title": "Nike workout outfit",
+    "description": "Nike dri-fit technology top and leggings. Perfect for high intensity workouts. Legging have a high waist and stay in place during workouts!",
+    "referenceId": null,
+    "date_created": "1550431100",
+    "date_modified": "1550431438",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213746",
+    "id": "203667423",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "nike-workout-outfit",
+    "linkUrl": null,
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2555,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--1920.jpeg?v=1550431125823"
+            },
+            {
+                "width": 1280,
+                "height": 1703,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--1280.jpeg?v=1550431124897"
+            },
+            {
+                "width": 1200,
+                "height": 1597,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--1200.jpeg?v=1550431124398"
+            },
+            {
+                "width": 1024,
+                "height": 1362,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--1024.jpeg?v=1550431124604"
+            },
+            {
+                "width": 1080,
+                "height": 1437,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--1080.jpeg?v=1550431124996"
+            },
+            {
+                "width": 960,
+                "height": 1277,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--960.jpeg?v=1550431125590"
+            },
+            {
+                "width": 640,
+                "height": 851,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--640.jpeg?v=1550431124089"
+            },
+            {
+                "width": 600,
+                "height": 798,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--600.jpeg?v=1550431124203"
+            },
+            {
+                "width": 256,
+                "height": 340,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-media--256.jpeg?v=1550431124089"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-thumbnail-1920.jpeg?v=1550431127534"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-thumbnail-1280.jpeg?v=1550431127395"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-thumbnail-640.jpeg?v=1550431127295"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-thumbnail-480.jpeg?v=1550431127535"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-thumbnail-256.jpeg?v=1550431127000"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-thumbnail-64.jpeg?v=1550431127517"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203667423\/image-thumbnail-640.jpeg?v=1550431127295",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

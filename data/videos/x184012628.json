@@ -1,0 +1,113 @@
+{
+    "title": "Macy’s Style Crew",
+    "description": "A selection of goodies you’ll find at Macy’s this holiday season!  Shop with me anytime via Macy’s Style Crew #macysstylecrew",
+    "referenceId": "00f33fde99e8c540a16913b4230f0f07",
+    "date_created": "1542844181",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213741",
+    "product_category": "women",
+    "id": "184012628",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/184012628\/35f77\/thumb-00f33fde99e8c540a16913b4230f0f07-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/thumb-00f33fde99e8c540a16913b4230f0f07-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/thumb-00f33fde99e8c540a16913b4230f0f07-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/thumb-00f33fde99e8c540a16913b4230f0f07-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/thumb-00f33fde99e8c540a16913b4230f0f07-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/thumb-00f33fde99e8c540a16913b4230f0f07-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/thumb-00f33fde99e8c540a16913b4230f0f07-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184012628\/thumbnail\/image-thumbnail-256-f9b83528fd81df6f515a581eb16c2af0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184012628\/thumbnail\/image-thumbnail-480-ca8b03b16e82727ce3d8255af5e6c12b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184012628\/thumbnail\/image-thumbnail-640-04433d7e68d67fc0bc6e53e73dd7119c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184012628\/thumbnail\/image-thumbnail-1280-13c41a415926d3d65f347152f83adeda.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/thumb-00f33fde99e8c540a16913b4230f0f07-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184012628\/thumbnail\/image-thumbnail-640-04433d7e68d67fc0bc6e53e73dd7119c.jpg",
+        "type": "mp4",
+        "assetId": 184012628,
+        "assetTitle": "9C4E0EE3-A2B4-43B7-9223-FB7AD7E63BC6",
+        "assetTitleTextEncoded": "9c4e0ee3-a2b4-43b7-9223-fb7ad7e63bc6",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184012628,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184012628\/35f77\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

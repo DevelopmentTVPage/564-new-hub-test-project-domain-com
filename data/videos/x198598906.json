@@ -1,0 +1,103 @@
+{
+    "title": "Vince Camuto Fringe Vest is a center piece of this outfit.",
+    "description": "Fringe adds flair to a cozy Vince Camuto vest in a stylish high-low length.",
+    "referenceId": "1c265db756993944483f8ac77e83d136",
+    "date_created": "1547840782",
+    "date_modified": "1547843614",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": null,
+    "id": "198598906",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vince-camuto-fringe-vest-is-a-center-piece-of-this-outfit",
+    "category": "Vince Camuto Fringe Vest is a center piece of this outfit.",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 602,
+            "height": 1080
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/198598906\/faafa\/thumb-1c265db756993944483f8ac77e83d136-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/thumb-1c265db756993944483f8ac77e83d136-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/thumb-1c265db756993944483f8ac77e83d136-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/thumb-1c265db756993944483f8ac77e83d136-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/thumb-1c265db756993944483f8ac77e83d136-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198598906\/thumbnail\/image-thumbnail-256-65093fc230da9f53949a90038b540199.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/198598906\/thumbnail\/image-thumbnail-480-612dceb38436e60673acd6014e74afc0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/thumb-1c265db756993944483f8ac77e83d136-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198598906\/thumbnail\/image-thumbnail-480-612dceb38436e60673acd6014e74afc0.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 602,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 402,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 268,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 200,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198598906\/faafa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-23"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

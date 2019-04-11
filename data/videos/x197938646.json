@@ -1,0 +1,108 @@
+{
+    "title": "Renew. Refresh. Reset.",
+    "description": "FunnyBread of the Macy's Style Crew meets Samir of the Pharmacy Counter Crew!",
+    "referenceId": "05a59935e4d3726be05ba7d6fcbc5243",
+    "date_created": "1547402678",
+    "date_modified": "1547402974",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "58",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "4",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": null,
+    "id": "197938646",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "renew-refresh-reset",
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 142,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 142,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 142,
+        "prettyDuration": "00:02:22",
+        "automaticThumbnailsPattern": "1759121\/197938646\/1b990\/thumb-05a59935e4d3726be05ba7d6fcbc5243-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/thumb-05a59935e4d3726be05ba7d6fcbc5243-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/thumb-05a59935e4d3726be05ba7d6fcbc5243-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/thumb-05a59935e4d3726be05ba7d6fcbc5243-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/thumb-05a59935e4d3726be05ba7d6fcbc5243-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/thumb-05a59935e4d3726be05ba7d6fcbc5243-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/thumb-05a59935e4d3726be05ba7d6fcbc5243-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197938646\/thumbnail\/image-thumbnail-256-9aaa5270190e167340ed0143798dec98.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197938646\/thumbnail\/image-thumbnail-480-3183fcd648e6c9cbe4f58e1f03edc988.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/197938646\/thumbnail\/image-thumbnail-640-586fde146d0fd23e1038a1dc9eb41cea.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/thumb-05a59935e4d3726be05ba7d6fcbc5243-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197938646\/thumbnail\/image-thumbnail-640-586fde146d0fd23e1038a1dc9eb41cea.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938646\/1b990\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

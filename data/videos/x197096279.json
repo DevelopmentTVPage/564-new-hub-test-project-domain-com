@@ -1,0 +1,106 @@
+{
+    "title": "Beauty Playground Q1 It List Looks ",
+    "description": "Showcasing the 2019 Q1 It List Looks: Prismatic & Cosmic Metals! Produced by the Beauty team at Macy’s West Park! ",
+    "referenceId": "9039d12b04c0a5d8c0e901017eb75b91",
+    "date_created": "1547081142",
+    "date_modified": "1547083780",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "80",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213339",
+    "product_category": null,
+    "id": "197096279",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "beauty-playground-q1-it-list-looks",
+    "category": "Beauty Playground Q1 It List Looks ",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 122,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 122,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 122,
+        "prettyDuration": "00:02:02",
+        "automaticThumbnailsPattern": "1759121\/197096279\/3eff2\/thumb-9039d12b04c0a5d8c0e901017eb75b91-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/thumb-9039d12b04c0a5d8c0e901017eb75b91-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/thumb-9039d12b04c0a5d8c0e901017eb75b91-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/thumb-9039d12b04c0a5d8c0e901017eb75b91-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/thumb-9039d12b04c0a5d8c0e901017eb75b91-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/thumb-9039d12b04c0a5d8c0e901017eb75b91-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/thumb-9039d12b04c0a5d8c0e901017eb75b91-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197096279\/thumbnail\/image-thumbnail-256-f96b36b36619ae5ae9dda59164f6bf6c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197096279\/thumbnail\/image-thumbnail-480-5d52527b4575e8556d9bb5e0b9aaa01c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/197096279\/thumbnail\/image-thumbnail-640-02ce6522f5a03912383aeffc757e3921.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/197096279\/thumbnail\/image-thumbnail-1280-dbf958b5d7001b44bfa6136e2e35d3a2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/thumb-9039d12b04c0a5d8c0e901017eb75b91-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197096279\/thumbnail\/image-thumbnail-640-02ce6522f5a03912383aeffc757e3921.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197096279\/3eff2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

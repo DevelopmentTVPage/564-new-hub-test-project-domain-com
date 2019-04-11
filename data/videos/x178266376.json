@@ -1,0 +1,118 @@
+{
+    "title": "Effy Jewelry Haul - The Best of the Best Fine Jewelry",
+    "description": "Favorite Effy Jewelry pieces.",
+    "referenceId": "b4e9996815281100ee32a5c7e731c56b",
+    "date_created": "1537825615",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "jewelry",
+    "id": "178266376",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "effy-jewelry-haul-the-best-of-the-best-fine-jewelry",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "56",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "56",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "56",
+        "prettyDuration": "00:00:56",
+        "automaticThumbnailsPattern": "1759121\/178266376\/6940f\/thumb-b4e9996815281100ee32a5c7e731c56b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/thumb-b4e9996815281100ee32a5c7e731c56b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/thumb-b4e9996815281100ee32a5c7e731c56b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/thumb-b4e9996815281100ee32a5c7e731c56b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/thumb-b4e9996815281100ee32a5c7e731c56b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/thumb-b4e9996815281100ee32a5c7e731c56b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/thumb-b4e9996815281100ee32a5c7e731c56b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178266376\/thumbnail\/image-thumbnail-256-6df72e08b1f04211d4a057ae9d22f8cb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178266376\/thumbnail\/image-thumbnail-480-53f89a3a1c9b67b570d19c77d229ae8b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178266376\/thumbnail\/image-thumbnail-640-a38ab0e47400e8be390d991b7889ca33.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178266376\/thumbnail\/image-thumbnail-1280-beb62f738d16bb317867253f5ff24477.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/178266376\/thumbnail\/image-thumbnail-1920-592a52eeb68b32c2f58d20eb956e6240.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/thumb-b4e9996815281100ee32a5c7e731c56b-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266376\/thumbnail\/image-thumbnail-640-a38ab0e47400e8be390d991b7889ca33.jpg",
+        "type": "mp4",
+        "assetId": "178266376",
+        "assetTitle": "Effy Jewelry Haul - The Best of the Best Fine Jewelry",
+        "assetTitleTextEncoded": "layla-hauljewelry-v2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178266376",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266376\/6940f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

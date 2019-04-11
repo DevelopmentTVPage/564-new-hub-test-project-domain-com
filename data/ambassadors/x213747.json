@@ -1,0 +1,21 @@
+{
+    "id": "213747",
+    "first_name": "Sandra",
+    "last_name": "Castano",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Sales associate"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-04 13:20:20",
+    "login_id": "1759121",
+    "user_id": "213747",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sandra Castano",
+    "profile_picture": null,
+    "titleTextEncoded": "sandra-castano",
+    "title": "Sandra Castano",
+    "videos_count": "0"
+}

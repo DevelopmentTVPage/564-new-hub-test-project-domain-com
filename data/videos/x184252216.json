@@ -1,0 +1,117 @@
+{
+    "title": "@Mr_TJay #FLY Athleisure",
+    "description": "Join me in Fitting room Looks for YOU: Travel-Leisure edition. Rather you are going home for the holidays or taking a mini vacay, Adidas has the travel wear for you. One thing you never want to be is uncomfortable while traveling so get some breathable fashion and travel with ease.   Adidas Track Pants (4953206) are never a bad idea, I chose orange but any color works perfect. Go to TIP, get the color to match the Adidas shoes you already own! Traveling can be exhausting, use this as a guide on how to travel and still be relaxed, and be sure to follow @Mr_TJay!",
+    "referenceId": "90ba2a5806ed6713aaa08ed6652c9d77",
+    "date_created": "1543066006",
+    "date_modified": "1546466794",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "73",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "184252216",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-fly-athleisure",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 67,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 67,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 67,
+        "prettyDuration": "00:01:07",
+        "automaticThumbnailsPattern": "1759121\/184252216\/7d084\/thumb-90ba2a5806ed6713aaa08ed6652c9d77-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/thumb-90ba2a5806ed6713aaa08ed6652c9d77-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/thumb-90ba2a5806ed6713aaa08ed6652c9d77-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/thumb-90ba2a5806ed6713aaa08ed6652c9d77-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/thumb-90ba2a5806ed6713aaa08ed6652c9d77-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/thumb-90ba2a5806ed6713aaa08ed6652c9d77-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/thumb-90ba2a5806ed6713aaa08ed6652c9d77-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184252216\/thumbnail\/image-thumbnail-256-4c4f88258f2d125ee7850e7581681ead.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184252216\/thumbnail\/image-thumbnail-480-7ec5cd66aa1ea26d654e3954bf21b95d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184252216\/thumbnail\/image-thumbnail-640-e1aaf7c310156a86869c3e2660fc65a5.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184252216\/thumbnail\/image-thumbnail-1280-aeaa74695a3cad17e99f2dc2fbda6ea2.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184252216\/thumbnail\/image-thumbnail-1920-96d5331b90519eee907fc8be10979003.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/thumb-90ba2a5806ed6713aaa08ed6652c9d77-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184252216\/thumbnail\/image-thumbnail-640-e1aaf7c310156a86869c3e2660fc65a5.jpg",
+        "type": "mp4",
+        "assetId": 184252216,
+        "assetTitle": "@Mr_TJay #FLY Athleisure",
+        "assetTitleTextEncoded": "tjay-haul-travel-wear-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184252216,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184252216\/7d084\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

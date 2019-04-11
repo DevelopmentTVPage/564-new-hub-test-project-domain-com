@@ -1,0 +1,98 @@
+{
+    "title": "How to Wear a Jumpsuit",
+    "description": "Ladies jumpsuits are perfect for travel or anywhere you need to go",
+    "referenceId": "760f5a8c4356fb6ec50d830dd61da569",
+    "date_created": "1524011558",
+    "date_modified": "1546466769",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "161073076",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "how-to-wear-a-jumpsuit",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "48",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "48",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161073076\/thumbnail\/image-thumbnail-480-3aa50abea9c9b14f10aaff9c162aaf48.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161073076\/707e6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161073076\/707e6\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073076\/707e6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073076\/707e6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073076\/707e6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073076\/707e6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073076\/707e6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/161073076\/707e6\/thumb-760f5a8c4356fb6ec50d830dd61da569-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/161073076\/user-images\/image-480-c4ed1df7a49544bae920d143fbcd3749.jpg",
+            "\/\/v.tvpage.com\/1759121\/161073076\/707e6\/thumb-760f5a8c4356fb6ec50d830dd61da569-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/161073076\/user-images\/image-480-c4ed1df7a49544bae920d143fbcd3749.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/161073076\/thumbnail\/image-thumbnail-256-e98f6d2dae85ce046b1d130c71603a22.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/161073076\/thumbnail\/image-thumbnail-480-3aa50abea9c9b14f10aaff9c162aaf48.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

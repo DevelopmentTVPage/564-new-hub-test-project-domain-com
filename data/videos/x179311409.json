@@ -1,0 +1,116 @@
+{
+    "title": "@Mr_TJay Plaid #FLY",
+    "description": "Join me in Fitting room Looks for YOU: Plaid edition. Showing you four ways to add a little PLAID, to your wardrobe.  Teaming it with black skinny jeans, black t-shirt and vans these are easy, fast, seemingly effortless choices.  Step out this Fall in your plaid.  The Red Plaid shirt (6538941), and Levi's Blue Plaid Shirt Jacket (6791540) were for sure my favorites.  Can't wait to enjoy Fall Fashion, be sure to follow @Mr_TJay!",
+    "referenceId": "221210d5857565e33e5d5508ede6d9b8",
+    "date_created": "1538703977",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "133",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "179311409",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-plaid-fly",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "49",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "automaticThumbnailsPattern": "1759121\/179311409\/8cb1f\/thumb-221210d5857565e33e5d5508ede6d9b8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/thumb-221210d5857565e33e5d5508ede6d9b8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/thumb-221210d5857565e33e5d5508ede6d9b8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/thumb-221210d5857565e33e5d5508ede6d9b8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/thumb-221210d5857565e33e5d5508ede6d9b8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/thumb-221210d5857565e33e5d5508ede6d9b8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/thumb-221210d5857565e33e5d5508ede6d9b8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179311409\/thumbnail\/image-thumbnail-256-3eca06af7bb4fd7b364409053493ad0e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179311409\/thumbnail\/image-thumbnail-480-07463642783d764fa5d7fa29e692a05d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179311409\/thumbnail\/image-thumbnail-640-8e1837efb17bfb02195a9a8c2bf7fd0b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179311409\/thumbnail\/image-thumbnail-1280-458d5e19e8a5f36af041aaaf3a4e06df.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/179311409\/thumbnail\/image-thumbnail-1920-892c03da27c96826a38f2b10ffd795f4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/thumb-221210d5857565e33e5d5508ede6d9b8-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179311409\/thumbnail\/image-thumbnail-640-8e1837efb17bfb02195a9a8c2bf7fd0b.jpg",
+        "type": "mp4",
+        "assetId": 179311409,
+        "assetTitle": "@Mr_TJay Plaid #FLY",
+        "assetTitleTextEncoded": "msc-fly-plaid",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 179311409,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/179311409\/8cb1f\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-26"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Simple Swagg",
+    "tvp_enhanced_transcript": null
+}

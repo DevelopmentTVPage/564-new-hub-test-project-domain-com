@@ -1,0 +1,114 @@
+{
+    "title": "Calvin Klein open front sweater",
+    "description": "Calvin Klein \ncozy sweater",
+    "referenceId": "8e2045d814eb95d5f9fe1c1d5a8ccff3",
+    "date_created": "1541519492",
+    "date_modified": "1546466798",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "women",
+    "id": "182611733",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "calvin-klein-open-front-sweater",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 35,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 35,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 35,
+        "prettyDuration": "00:00:35",
+        "automaticThumbnailsPattern": "1759121\/182611733\/3b5a0\/thumb-8e2045d814eb95d5f9fe1c1d5a8ccff3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/thumb-8e2045d814eb95d5f9fe1c1d5a8ccff3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/thumb-8e2045d814eb95d5f9fe1c1d5a8ccff3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/thumb-8e2045d814eb95d5f9fe1c1d5a8ccff3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/thumb-8e2045d814eb95d5f9fe1c1d5a8ccff3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/thumb-8e2045d814eb95d5f9fe1c1d5a8ccff3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/thumb-8e2045d814eb95d5f9fe1c1d5a8ccff3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182611733\/thumbnail\/image-thumbnail-256-5d63f7c125162b71276604e79cce0a88.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182611733\/thumbnail\/image-thumbnail-480-831142a8f84224c82629b537dcad28fa.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182611733\/thumbnail\/image-thumbnail-640-b710267116fc188d45932e74b205c8f8.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182611733\/thumbnail\/image-thumbnail-1280-919d67da8c6abbd92291f96780d8a7c5.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/182611733\/thumbnail\/image-thumbnail-1920-64d0176909ac9b7bb5b5d44a40489f42.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/thumb-8e2045d814eb95d5f9fe1c1d5a8ccff3-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182611733\/thumbnail\/image-thumbnail-640-b710267116fc188d45932e74b205c8f8.jpg",
+        "type": "mp4",
+        "assetId": 182611733,
+        "assetTitle": "2018-11-6-8-56-4",
+        "assetTitleTextEncoded": "2018-11-6-8-56-4",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182611733,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182611733\/3b5a0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

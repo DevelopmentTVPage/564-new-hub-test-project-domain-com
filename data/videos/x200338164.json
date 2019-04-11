@@ -1,0 +1,104 @@
+{
+    "title": "MY MACY’S STAR PICK: ADIDAS NMDS $80!",
+    "description": "Deal of the day: ADIDAS NMDS $80, Size 8!",
+    "referenceId": "e4f8614a3b64eeca4fe6a55ebd717386",
+    "date_created": "1548754821",
+    "date_modified": "1548755022",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": null,
+    "id": "200338164",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-macys-star-pick-adidas-nmds-80",
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 23,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 23,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 23,
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/200338164\/80558\/thumb-e4f8614a3b64eeca4fe6a55ebd717386-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200338164\/80558\/thumb-e4f8614a3b64eeca4fe6a55ebd717386-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338164\/80558\/thumb-e4f8614a3b64eeca4fe6a55ebd717386-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338164\/80558\/thumb-e4f8614a3b64eeca4fe6a55ebd717386-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338164\/80558\/thumb-e4f8614a3b64eeca4fe6a55ebd717386-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338164\/80558\/thumb-e4f8614a3b64eeca4fe6a55ebd717386-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200338164\/80558\/thumb-e4f8614a3b64eeca4fe6a55ebd717386-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200338164\/thumbnail\/image-thumbnail-256-06610f08d041038175327f580a36c7d5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200338164\/thumbnail\/image-thumbnail-480-b2036b679f233a058c89d3630fc29aff.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200338164\/80558\/thumb-e4f8614a3b64eeca4fe6a55ebd717386-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200338164\/thumbnail\/image-thumbnail-480-b2036b679f233a058c89d3630fc29aff.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200338164\/80558\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200338164\/80558\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338164\/80558\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338164\/80558\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338164\/80558\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338164\/80558\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200338164\/80558\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

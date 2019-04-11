@@ -1,0 +1,21 @@
+{
+    "id": "213860",
+    "first_name": "Julie",
+    "last_name": "Ziegenhorn",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/449432354-0.4271611273754.jpg",
+        "job_title": "Assistant Store Manager"
+    },
+    "last_login_timestamp": "1546877177",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-14 19:26:56",
+    "login_id": "1759121",
+    "user_id": "213860",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Julie Ziegenhorn",
+    "profile_picture": "\/api\/canvas\/logo\/449432354-0.4271611273754.jpg",
+    "titleTextEncoded": "julie-ziegenhorn",
+    "title": "Julie Ziegenhorn",
+    "videos_count": "0"
+}

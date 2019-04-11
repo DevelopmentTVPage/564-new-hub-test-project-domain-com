@@ -1,0 +1,111 @@
+{
+    "title": "God's light",
+    "description": "Sunday Morning Outfit",
+    "referenceId": "3ae40d46a36da17deb50104835ca9ba2",
+    "date_created": "1539103293",
+    "date_modified": "1546466789",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213256",
+    "product_category": "men",
+    "id": "179603220",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "gods-light",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "13",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "13",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/179603220\/635ad\/thumb-3ae40d46a36da17deb50104835ca9ba2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/thumb-3ae40d46a36da17deb50104835ca9ba2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/thumb-3ae40d46a36da17deb50104835ca9ba2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/thumb-3ae40d46a36da17deb50104835ca9ba2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/thumb-3ae40d46a36da17deb50104835ca9ba2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/thumb-3ae40d46a36da17deb50104835ca9ba2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/thumb-3ae40d46a36da17deb50104835ca9ba2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179603220\/thumbnail\/image-thumbnail-256-17c03d746668bbe97b0fc61e456cc081.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179603220\/thumbnail\/image-thumbnail-480-3a8770de42f7f177e122b03f5f8eb075.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/thumb-3ae40d46a36da17deb50104835ca9ba2-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179603220\/thumbnail\/image-thumbnail-480-3a8770de42f7f177e122b03f5f8eb075.jpg",
+        "type": "mp4",
+        "assetId": "179603220",
+        "assetTitle": "A1F141C5-50B4-4342-B32E-217C43A86840",
+        "assetTitleTextEncoded": "a1f141c5-50b4-4342-b32e-217c43a86840",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179603220",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179603220\/635ad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

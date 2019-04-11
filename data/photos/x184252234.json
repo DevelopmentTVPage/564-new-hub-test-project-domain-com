@@ -1,0 +1,103 @@
+{
+    "title": "Lancôme Black Friday Doorbuster",
+    "description": "Juicy Tubes Duo",
+    "referenceId": null,
+    "date_created": "1543078155",
+    "date_modified": "1546466793",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213750",
+    "id": "184252234",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "lancome-black-friday-doorbuster",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1454,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-media--1200.jpeg?v=1543078164556"
+            },
+            {
+                "width": 1024,
+                "height": 1240,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-media--1024.jpeg?v=1543078164495"
+            },
+            {
+                "width": 1080,
+                "height": 1308,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-media--1080.jpeg?v=1543078164986"
+            },
+            {
+                "width": 960,
+                "height": 1163,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-media--960.jpeg?v=1543078164476"
+            },
+            {
+                "width": 640,
+                "height": 775,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-media--640.jpeg?v=1543078164817"
+            },
+            {
+                "width": 600,
+                "height": 727,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-media--600.jpeg?v=1543078164423"
+            },
+            {
+                "width": 256,
+                "height": 310,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-media--256.jpeg?v=1543078164704"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-thumbnail-640.jpeg?v=1543078165325"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-thumbnail-480.jpeg?v=1543078165319"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-thumbnail-256.jpeg?v=1543078165307"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-thumbnail-64.jpeg?v=1543078165299"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252234\/image-thumbnail-640.jpeg?v=1543078165325",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213951",
+    "first_name": "TVP-Test-Delete",
+    "last_name": "TVP-Test-Delete",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Test"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-05 00:46:05",
+    "login_id": "1759121",
+    "user_id": "213951",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "TVP-Test-Delete TVP-Test-Delete",
+    "profile_picture": null,
+    "titleTextEncoded": "tvp-test-delete-tvp-test-delete",
+    "title": "TVP-Test-Delete TVP-Test-Delete",
+    "videos_count": "0"
+}

@@ -1,0 +1,113 @@
+{
+    "title": "betsy johnson mesh dress, web id 6504848",
+    "description": null,
+    "referenceId": "18c961bd9a2cd223b35ac032fc7f4a9f",
+    "date_created": "1542482519",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": "women",
+    "id": "183747152",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "betsy-johnson-mesh-dress-web-id-6504848",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 7,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 7,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "automaticThumbnailsPattern": "1759121\/183747152\/dee21\/thumb-18c961bd9a2cd223b35ac032fc7f4a9f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/thumb-18c961bd9a2cd223b35ac032fc7f4a9f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/thumb-18c961bd9a2cd223b35ac032fc7f4a9f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/thumb-18c961bd9a2cd223b35ac032fc7f4a9f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/thumb-18c961bd9a2cd223b35ac032fc7f4a9f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183747152\/thumbnail\/image-thumbnail-256-80ec00e2a22b324242935b86e9920639.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183747152\/thumbnail\/image-thumbnail-480-1bb4557e8d32c1804c318b97f669ae88.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183747152\/thumbnail\/image-thumbnail-640-6dfba5cd55717178c667ad4b09d5ae9e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/thumb-18c961bd9a2cd223b35ac032fc7f4a9f-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183747152\/thumbnail\/image-thumbnail-640-6dfba5cd55717178c667ad4b09d5ae9e.jpg",
+        "type": "mp4",
+        "assetId": 183747152,
+        "assetTitle": "betsy johnson mesh dress, web id 6504848",
+        "assetTitleTextEncoded": "video-2018-11-17-01-10-39-pm",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183747152,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183747152\/dee21\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

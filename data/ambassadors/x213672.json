@@ -1,0 +1,21 @@
+{
+    "id": "213672",
+    "first_name": "Sokha",
+    "last_name": "Sok",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/780078160-0.6211472558323.jpg",
+        "job_title": "  Account coordinator for Clinique "
+    },
+    "last_login_timestamp": "1544764535",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-17 02:36:37",
+    "login_id": "1759121",
+    "user_id": "213672",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sokha Sok",
+    "profile_picture": "\/api\/canvas\/logo\/780078160-0.6211472558323.jpg",
+    "titleTextEncoded": "sokha-sok",
+    "title": "Sokha Sok",
+    "videos_count": "1"
+}

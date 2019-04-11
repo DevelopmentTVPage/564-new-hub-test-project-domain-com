@@ -1,0 +1,97 @@
+{
+    "title": "Same of my favorite items ! ",
+    "description": "Advance Night Repair \nColor envy liquid lipstick \nBronze goddess highlight \nBronze goddess bronzer \nrevitalizing  supreme wake up balm ",
+    "referenceId": null,
+    "date_created": "1542304714",
+    "date_modified": "1546466826",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213650",
+    "id": "183455465",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "same-of-my-favorite-items",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1024,
+                "height": 1259,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-media--1024.jpeg?v=1542304719120"
+            },
+            {
+                "width": 1080,
+                "height": 1328,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-media--1080.jpeg?v=1542304719141"
+            },
+            {
+                "width": 960,
+                "height": 1181,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-media--960.jpeg?v=1542304719480"
+            },
+            {
+                "width": 640,
+                "height": 787,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-media--640.jpeg?v=1542304719033"
+            },
+            {
+                "width": 600,
+                "height": 738,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-media--600.jpeg?v=1542304719021"
+            },
+            {
+                "width": 256,
+                "height": 314,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-media--256.jpeg?v=1542304719287"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-thumbnail-640.jpeg?v=1542304719773"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-thumbnail-480.jpeg?v=1542304719764"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-thumbnail-256.jpeg?v=1542304719756"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-thumbnail-64.jpeg?v=1542304719748"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455465\/image-thumbnail-640.jpeg?v=1542304719773",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

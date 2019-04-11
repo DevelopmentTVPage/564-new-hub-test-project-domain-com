@@ -1,0 +1,21 @@
+{
+    "id": "213935",
+    "first_name": "Mervat",
+    "last_name": "Adams",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/170808361-0.2468391887843.jpg",
+        "job_title": "Mystylist"
+    },
+    "last_login_timestamp": "1548919912",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-26 03:27:29",
+    "login_id": "1759121",
+    "user_id": "213935",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Mervat Adams",
+    "profile_picture": "\/api\/canvas\/logo\/170808361-0.2468391887843.jpg",
+    "titleTextEncoded": "mervat-adams",
+    "title": "Mervat Adams",
+    "videos_count": "0"
+}

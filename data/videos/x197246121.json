@@ -1,0 +1,103 @@
+{
+    "title": "Suburban style new beauty products!!",
+    "description": "Beauty ",
+    "referenceId": "46e2162dd24ac1840468a0ddbf40a8c7",
+    "date_created": "1547170670",
+    "date_modified": "1547171252",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": null,
+    "id": "197246121",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "suburban-style-new-beauty-products",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "42",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "42",
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "automaticThumbnailsPattern": "1759121\/197246121\/3b16a\/thumb-46e2162dd24ac1840468a0ddbf40a8c7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/thumb-46e2162dd24ac1840468a0ddbf40a8c7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/thumb-46e2162dd24ac1840468a0ddbf40a8c7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/thumb-46e2162dd24ac1840468a0ddbf40a8c7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/thumb-46e2162dd24ac1840468a0ddbf40a8c7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/thumb-46e2162dd24ac1840468a0ddbf40a8c7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/thumb-46e2162dd24ac1840468a0ddbf40a8c7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197246121\/thumbnail\/image-thumbnail-256-727740450f09e51aea430d36c84a825e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/thumb-46e2162dd24ac1840468a0ddbf40a8c7-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197246121\/thumbnail\/image-thumbnail-256-727740450f09e51aea430d36c84a825e.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/197246121\/3b16a\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

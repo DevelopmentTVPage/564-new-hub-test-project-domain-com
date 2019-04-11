@@ -1,0 +1,21 @@
+{
+    "id": "213773",
+    "first_name": "Julia",
+    "last_name": "Ludington",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/244720843-0.3725930069573.jpg",
+        "job_title": "Digital Assistant Merchant"
+    },
+    "last_login_timestamp": "1545434202",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-18 15:17:01",
+    "login_id": "1759121",
+    "user_id": "213773",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Julia Ludington",
+    "profile_picture": "\/api\/canvas\/logo\/244720843-0.3725930069573.jpg",
+    "titleTextEncoded": "julia-ludington",
+    "title": "Julia Ludington",
+    "videos_count": "0"
+}

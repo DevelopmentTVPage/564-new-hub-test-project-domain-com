@@ -1,0 +1,21 @@
+{
+    "id": "213856",
+    "first_name": "john",
+    "last_name": "doe",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "None"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-13 22:19:39",
+    "login_id": "1759121",
+    "user_id": "213856",
+    "role_id": "2",
+    "status": "3",
+    "fullName": "john doe",
+    "profile_picture": null,
+    "titleTextEncoded": "john-doe",
+    "title": "john doe",
+    "videos_count": "0"
+}

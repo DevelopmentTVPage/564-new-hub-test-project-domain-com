@@ -1,0 +1,102 @@
+{
+    "title": "Dear Valentine",
+    "description": "Perfect Bracelets at Macy's for your Valentine",
+    "referenceId": "ee6d27b7339e6294a1597e505c5639b1",
+    "date_created": "1550077863",
+    "date_modified": "1550078680",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213111",
+    "product_category": null,
+    "id": "202735987",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dear-valentine",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 4,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 4,
+            "width": 658,
+            "height": 1080
+        },
+        "mediaDuration": 4,
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/202735987\/9e967\/thumb-ee6d27b7339e6294a1597e505c5639b1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/thumb-ee6d27b7339e6294a1597e505c5639b1-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/thumb-ee6d27b7339e6294a1597e505c5639b1-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202735987\/thumbnail\/image-thumbnail-256-b5a87dfcbd1099843a8f1eb1165d7279.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202735987\/thumbnail\/image-thumbnail-480-912a2e82184cbcac353b5cdf0ce752a4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202735987\/thumbnail\/image-thumbnail-640-5840599e22b437c5d15e6c91aa3e1f66.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/thumb-ee6d27b7339e6294a1597e505c5639b1-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202735987\/thumbnail\/image-thumbnail-640-5840599e22b437c5d15e6c91aa3e1f66.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 658,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 440,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 292,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 220,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202735987\/9e967\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 146,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

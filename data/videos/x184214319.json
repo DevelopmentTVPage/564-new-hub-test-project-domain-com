@@ -1,0 +1,111 @@
+{
+    "title": "Black Friday Madness - $19.99 Boots!",
+    "description": "Shop our  winter boots on sale for $19.99! From Americans Rag and more. Tall and Short Winter Boots for all !",
+    "referenceId": "fd3fa6e9cfed5237518ba1b1766f655e",
+    "date_created": "1543003321",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213259",
+    "product_category": "women",
+    "id": "184214319",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-madness-19-99-boots",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/184214319\/3c22e\/thumb-fd3fa6e9cfed5237518ba1b1766f655e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/thumb-fd3fa6e9cfed5237518ba1b1766f655e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/thumb-fd3fa6e9cfed5237518ba1b1766f655e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/thumb-fd3fa6e9cfed5237518ba1b1766f655e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/thumb-fd3fa6e9cfed5237518ba1b1766f655e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/thumb-fd3fa6e9cfed5237518ba1b1766f655e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/thumb-fd3fa6e9cfed5237518ba1b1766f655e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184214319\/thumbnail\/image-thumbnail-256-e4a9464d4339299936f0cb4192edb851.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184214319\/thumbnail\/image-thumbnail-480-6a7238d11fba4bfd0f24906ae56a810b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/thumb-fd3fa6e9cfed5237518ba1b1766f655e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214319\/thumbnail\/image-thumbnail-480-6a7238d11fba4bfd0f24906ae56a810b.jpg",
+        "type": "mp4",
+        "assetId": 184214319,
+        "assetTitle": "CD2AD595-EC17-4427-B973-87BAE984C5AA",
+        "assetTitleTextEncoded": "cd2ad595-ec17-4427-b973-87bae984c5aa",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184214319,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214319\/3c22e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

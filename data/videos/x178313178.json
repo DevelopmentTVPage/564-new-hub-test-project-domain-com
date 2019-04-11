@@ -1,0 +1,113 @@
+{
+    "title": "Macys Style Crew Dream Inspiration",
+    "description": "Ladies clothes, jewelry, and coasters with inspirational sayings",
+    "referenceId": "6952a5664761a37af3b689f2a2cac65d",
+    "date_created": "1537933582",
+    "date_modified": "1546466782",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "178313178",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-dream-inspiration",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "66",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "66",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "automaticThumbnailsPattern": "1759121\/178313178\/3ed01\/thumb-6952a5664761a37af3b689f2a2cac65d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/thumb-6952a5664761a37af3b689f2a2cac65d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/thumb-6952a5664761a37af3b689f2a2cac65d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/thumb-6952a5664761a37af3b689f2a2cac65d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/thumb-6952a5664761a37af3b689f2a2cac65d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/thumb-6952a5664761a37af3b689f2a2cac65d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/thumb-6952a5664761a37af3b689f2a2cac65d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178313178\/thumbnail\/image-thumbnail-256-bf5b0932ea8cdd262ba577dd38f75f78.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178313178\/thumbnail\/image-thumbnail-480-9c6b6309c1b756ed408c98794342fb68.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/thumb-6952a5664761a37af3b689f2a2cac65d-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178313178\/thumbnail\/image-thumbnail-480-9c6b6309c1b756ed408c98794342fb68.jpg",
+        "type": "mp4",
+        "assetId": "178313178",
+        "assetTitle": "8007783A-4788-499D-ADCC-B46E68059DFD",
+        "assetTitleTextEncoded": "8007783a-4788-499d-adcc-b46e68059dfd",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178313178",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178313178\/3ed01\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Selectcamp CQ Weekly Arabella Salon BNS",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "214023",
+    "first_name": "Amanda",
+    "last_name": "Johnson",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "BEL"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-13 17:23:36",
+    "login_id": "1759121",
+    "user_id": "214023",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Amanda Johnson",
+    "profile_picture": null,
+    "titleTextEncoded": "amanda-johnson",
+    "title": "Amanda Johnson",
+    "videos_count": "0"
+}

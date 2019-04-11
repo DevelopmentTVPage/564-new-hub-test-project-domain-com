@@ -1,0 +1,21 @@
+{
+    "id": "213841",
+    "first_name": "Brandon",
+    "last_name": "Gross",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/264902724-0.8380438782740.jpg",
+        "job_title": "Seasonal Nesting Coach "
+    },
+    "last_login_timestamp": "1546445769",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-12-06 00:44:13",
+    "login_id": "1759121",
+    "user_id": "213841",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Brandon Gross",
+    "profile_picture": "\/api\/canvas\/logo\/264902724-0.8380438782740.jpg",
+    "titleTextEncoded": "brandon-gross",
+    "title": "Brandon Gross",
+    "videos_count": "0"
+}

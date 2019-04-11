@@ -1,0 +1,127 @@
+{
+    "title": "Halloween in Vince Camuto",
+    "description": "This year, I dressed up as board game icon, Miss Scarlett, from Clue! The second that I decided on this look, I already knew the perfect gown to nail the look. This Vince Camuto Velvet Open Back Gown! This gown will also be perfect for any Holiday parties you have coming up! Check out the link to this gown below.",
+    "referenceId": null,
+    "date_created": "1544455066",
+    "date_modified": "1546466829",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213524",
+    "id": "187510769",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "halloween-in-vince-camuto",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2388,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--1920.jpeg?v=1544455069325"
+            },
+            {
+                "width": 1280,
+                "height": 1592,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--1280.jpeg?v=1544455069159"
+            },
+            {
+                "width": 1200,
+                "height": 1492,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--1200.jpeg?v=1544455069126"
+            },
+            {
+                "width": 1024,
+                "height": 1273,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--1024.jpeg?v=1544455069764"
+            },
+            {
+                "width": 1080,
+                "height": 1343,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--1080.jpeg?v=1544455069101"
+            },
+            {
+                "width": 960,
+                "height": 1194,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--960.jpeg?v=1544455069649"
+            },
+            {
+                "width": 640,
+                "height": 796,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--640.jpeg?v=1544455069762"
+            },
+            {
+                "width": 600,
+                "height": 746,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--600.jpeg?v=1544455070017"
+            },
+            {
+                "width": 256,
+                "height": 318,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-media--256.jpeg?v=1544455070184"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-thumbnail-1920.jpeg?v=1544455070426"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-thumbnail-1280.jpeg?v=1544455070368"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-thumbnail-640.jpeg?v=1544455070436"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-thumbnail-480.jpeg?v=1544455070321"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-thumbnail-256.jpeg?v=1544455070313"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-thumbnail-64.jpeg?v=1544455070356"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/187510769\/image-thumbnail-640.jpeg?v=1544455070436",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

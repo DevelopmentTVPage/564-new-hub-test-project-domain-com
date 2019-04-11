@@ -1,0 +1,114 @@
+{
+    "title": "@Saystheart: Rockin' Out!",
+    "description": "Honestly, I could stay at home with my records all day! It would be easy in these high rise jeans, they're so comfy!",
+    "referenceId": "4fde5f2caed101da5ff2677e3878067f",
+    "date_created": "1538891719",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": "juniors",
+    "id": "179534494",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "saystheart-rockin-out",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "25",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "25",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "automaticThumbnailsPattern": "1759121\/179534494\/49210\/thumb-4fde5f2caed101da5ff2677e3878067f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179534494\/49210\/thumb-4fde5f2caed101da5ff2677e3878067f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179534494\/49210\/thumb-4fde5f2caed101da5ff2677e3878067f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179534494\/49210\/thumb-4fde5f2caed101da5ff2677e3878067f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179534494\/49210\/thumb-4fde5f2caed101da5ff2677e3878067f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179534494\/49210\/thumb-4fde5f2caed101da5ff2677e3878067f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179534494\/49210\/thumb-4fde5f2caed101da5ff2677e3878067f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179534494\/thumbnail\/image-thumbnail-256-1edc5968eef70019aa34c7574ffaa7eb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179534494\/thumbnail\/image-thumbnail-480-d0acba41a09e2bda7c250e056575d9a9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179534494\/thumbnail\/image-thumbnail-640-645f68fc36e8157a464f7323aebbea52.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179534494\/thumbnail\/image-thumbnail-1280-51a3ce7eca3751c4fbd793f1618a6244.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/179534494\/thumbnail\/image-thumbnail-1920-1d96d48e9f6bfd667457941f5e0d0043.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179534494\/49210\/thumb-4fde5f2caed101da5ff2677e3878067f-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179534494\/thumbnail\/image-thumbnail-640-645f68fc36e8157a464f7323aebbea52.jpg",
+        "type": "mp4",
+        "assetId": "179534494",
+        "assetTitle": "@Saystheart: Rockin' Out!",
+        "assetTitleTextEncoded": "macys-style-crew-2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179534494",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179534494\/49210\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179534494\/49210\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179534494\/49210\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179534494\/49210\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179534494\/49210\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

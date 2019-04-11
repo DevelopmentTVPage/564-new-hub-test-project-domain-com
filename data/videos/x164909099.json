@@ -1,0 +1,109 @@
+{
+    "title": "Father’s Day gift ideas",
+    "description": "Some gift ideas for Fathers Day",
+    "referenceId": "5a4ab76d226d743134f63f874a2e95f4",
+    "date_created": "1529031042",
+    "date_modified": "1546466809",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "men",
+    "id": "164909099",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fathers-day-gift-ideas",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "69",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "69",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "69",
+        "prettyDuration": "00:01:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164909099\/thumbnail\/image-thumbnail-480-403f053a45c588dfc3968746401e0a24.jpg",
+        "type": "mp4",
+        "assetId": 164909099,
+        "assetTitle": "Father’s Day gift ideas",
+        "assetTitleTextEncoded": "be0f9862-5583-426a-9adb-18b2cfb096bd",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164909099,
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164909099\/fea4b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164909099\/fea4b\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164909099\/fea4b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164909099\/fea4b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164909099\/fea4b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164909099\/fea4b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164909099\/fea4b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164909099\/fea4b\/thumb-5a4ab76d226d743134f63f874a2e95f4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164909099\/user-images\/image-568-71800e59648b2e307195f3f2e2eb28ba.jpg",
+            "\/\/v.tvpage.com\/1759121\/164909099\/fea4b\/thumb-5a4ab76d226d743134f63f874a2e95f4-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164909099\/user-images\/image-568-71800e59648b2e307195f3f2e2eb28ba.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164909099\/thumbnail\/image-thumbnail-256-77691a5449bed5020a66f2bccad1604d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164909099\/thumbnail\/image-thumbnail-480-403f053a45c588dfc3968746401e0a24.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "St. Louis Cardinals Clinique",
+    "tvp_enhanced_transcript": null
+}

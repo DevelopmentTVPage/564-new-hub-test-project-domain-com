@@ -1,0 +1,102 @@
+{
+    "title": "Macy’s Michael by Michael Kors look",
+    "description": "All Michael by Michael Kors blue trench, blue patterned snake skin dress, and acorn booties.",
+    "referenceId": "78d25d2521ab531ee284f3a50f65399d",
+    "date_created": "1549484678",
+    "date_modified": "1549485621",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213941",
+    "product_category": null,
+    "id": "201549423",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-michael-by-michael-kors-look",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/201549423\/cea58\/thumb-78d25d2521ab531ee284f3a50f65399d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/thumb-78d25d2521ab531ee284f3a50f65399d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/thumb-78d25d2521ab531ee284f3a50f65399d-00001.jpg",
+            "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/thumb-78d25d2521ab531ee284f3a50f65399d-00001.jpg",
+            "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/thumb-78d25d2521ab531ee284f3a50f65399d-00002.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201549423\/thumbnail\/image-thumbnail-256-153e8030973268a42de296bb2da5beeb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/201549423\/thumbnail\/image-thumbnail-480-58a19632b31dafd4e37e3d07aca5699b.jpg"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/thumb-78d25d2521ab531ee284f3a50f65399d-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201549423\/thumbnail\/image-thumbnail-480-58a19632b31dafd4e37e3d07aca5699b.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/201549423\/cea58\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

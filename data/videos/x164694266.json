@@ -1,0 +1,109 @@
+{
+    "title": "Charter Club Cold-Shoulder Gingham Shirt",
+    "description": "The Gingham Print and Cold-Shoulder Cut-Outs make this shirty tunic great to dress up or down. It has a button up closure and generous sizing for the perfect fit. Come is regular and plus sizes. I paired it with some Levi's Mid-Rise Skinny Jeans in Soulful Dark.",
+    "referenceId": "9773821f7658402438f5590fea26c358",
+    "date_created": "1528426656",
+    "date_modified": "1546466774",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "164694266",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "charter-club-cold-shoulder-gingham-shirt",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "46",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "46",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "46",
+        "prettyDuration": "00:00:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164694266\/thumbnail\/image-thumbnail-640-53867fad80309ef4ee7362ecf3654d1c.jpg",
+        "type": "mp4",
+        "assetId": "164694266",
+        "assetTitle": "Charter Club Cold-Shoulder Gingham Shirt",
+        "assetTitleTextEncoded": "c9ea1e15-7cbc-4223-9830-563c55acf6ba",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164694266",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164694266\/user-images\/image-1920-c6b390ac0abe16cfc57735201179667a.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164694266\/user-images\/image-1920-c6b390ac0abe16cfc57735201179667a.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164694266\/thumbnail\/image-thumbnail-256-ec0f71b0de4a0294ed7de761d03a7fea.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164694266\/thumbnail\/image-thumbnail-480-5cbd89002c302dbcd61fcbddec0d9657.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164694266\/thumbnail\/image-thumbnail-640-53867fad80309ef4ee7362ecf3654d1c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164694266\/thumbnail\/image-thumbnail-1280-7cadd256ae57ae93a5c7bbf37504f671.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164694266\/thumbnail\/image-thumbnail-1920-c1f9d3a66c437440c82ab8f3dee8788e.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

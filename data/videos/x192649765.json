@@ -1,0 +1,108 @@
+{
+    "title": "Macy's Runway",
+    "description": "Macy's Runway to show the beautiful dress.",
+    "referenceId": "a717052db90e51a34e6cfe95e4675865",
+    "date_created": "1546482607",
+    "date_modified": "1550283978",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213844",
+    "product_category": null,
+    "id": "192649765",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-runway",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 11,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 11,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 11,
+        "prettyDuration": "00:00:11",
+        "automaticThumbnailsPattern": "1759121\/192649765\/33c29\/thumb-a717052db90e51a34e6cfe95e4675865-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/thumb-a717052db90e51a34e6cfe95e4675865-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/thumb-a717052db90e51a34e6cfe95e4675865-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/thumb-a717052db90e51a34e6cfe95e4675865-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/thumb-a717052db90e51a34e6cfe95e4675865-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/thumb-a717052db90e51a34e6cfe95e4675865-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/thumb-a717052db90e51a34e6cfe95e4675865-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192649765\/thumbnail\/image-thumbnail-256-1569e1580bb202964953dcd95964cae5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192649765\/thumbnail\/image-thumbnail-480-4eec96fb85674d8e2dec1365a7e4494a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/thumb-a717052db90e51a34e6cfe95e4675865-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192649765\/thumbnail\/image-thumbnail-480-4eec96fb85674d8e2dec1365a7e4494a.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649765\/33c29\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

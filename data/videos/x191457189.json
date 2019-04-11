@@ -1,0 +1,105 @@
+{
+    "title": "My Holiday Journey\/ Christmas Eve",
+    "description": "Red with black are always the great combo!",
+    "referenceId": "48665b7e5087bcc372426e8d6b76411f",
+    "date_created": "1545854505",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": null,
+    "id": "191457189",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-christmas-eve",
+    "category": "Women",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/191457189\/3e503\/thumb-48665b7e5087bcc372426e8d6b76411f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/thumb-48665b7e5087bcc372426e8d6b76411f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/thumb-48665b7e5087bcc372426e8d6b76411f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/thumb-48665b7e5087bcc372426e8d6b76411f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/thumb-48665b7e5087bcc372426e8d6b76411f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/thumb-48665b7e5087bcc372426e8d6b76411f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/thumb-48665b7e5087bcc372426e8d6b76411f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191457189\/thumbnail\/image-thumbnail-256-41c9eda20ad4f82a19e4ad7045630a82.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191457189\/thumbnail\/image-thumbnail-480-f6fd8e98b1382940e1fe4241754bec57.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/thumb-48665b7e5087bcc372426e8d6b76411f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191457189\/thumbnail\/image-thumbnail-480-f6fd8e98b1382940e1fe4241754bec57.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457189\/3e503\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

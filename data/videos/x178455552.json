@@ -1,0 +1,109 @@
+{
+    "title": "Tommy Hilfiger outfit",
+    "description": "Pose and show off this outfit",
+    "referenceId": "2e3f3008627646e6b56f5491d5dda833",
+    "date_created": "1538108489",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213294",
+    "product_category": "juniors",
+    "id": "178455552",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "tommy-hilfiger-outfit",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/178455552\/44623\/thumb-2e3f3008627646e6b56f5491d5dda833-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178455552\/44623\/thumb-2e3f3008627646e6b56f5491d5dda833-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178455552\/44623\/thumb-2e3f3008627646e6b56f5491d5dda833-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178455552\/44623\/thumb-2e3f3008627646e6b56f5491d5dda833-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178455552\/thumbnail\/image-thumbnail-256-9cc2e2f26e7a413a363ca7ed0c56fde8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178455552\/thumbnail\/image-thumbnail-480-0467adc42712aea5c0f7d0540b5d1739.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178455552\/44623\/thumb-2e3f3008627646e6b56f5491d5dda833-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178455552\/thumbnail\/image-thumbnail-480-0467adc42712aea5c0f7d0540b5d1739.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "assetId": "178455552",
+        "assetTitle": "Tommy Hilfiger outfit",
+        "assetTitleTextEncoded": "4e5f6bf7-b07e-4fe3-97a9-570057d992d9",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178455552",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178455552\/44623\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178455552\/44623\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178455552\/44623\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178455552\/44623\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178455552\/44623\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

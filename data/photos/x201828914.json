@@ -1,0 +1,127 @@
+{
+    "title": "Carter’s SALE",
+    "description": "How cute are these camo dinosaur shorts I just ordered for my son! He’s going to want to live in these this summer. They are half off! Only $10.99. So many good carter deals going on right now. ",
+    "referenceId": null,
+    "date_created": "1549628345",
+    "date_modified": "1549628750",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "201828914",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "carters-sale",
+    "linkUrl": null,
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2265,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--1920.jpeg?v=1549628351223"
+            },
+            {
+                "width": 1280,
+                "height": 1510,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--1280.jpeg?v=1549628350635"
+            },
+            {
+                "width": 1200,
+                "height": 1415,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--1200.jpeg?v=1549628350587"
+            },
+            {
+                "width": 1024,
+                "height": 1208,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--1024.jpeg?v=1549628351717"
+            },
+            {
+                "width": 1080,
+                "height": 1274,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--1080.jpeg?v=1549628350546"
+            },
+            {
+                "width": 960,
+                "height": 1132,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--960.jpeg?v=1549628351687"
+            },
+            {
+                "width": 640,
+                "height": 755,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--640.jpeg?v=1549628351742"
+            },
+            {
+                "width": 600,
+                "height": 707,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--600.jpeg?v=1549628352041"
+            },
+            {
+                "width": 256,
+                "height": 302,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-media--256.jpeg?v=1549628352359"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-thumbnail-1920.jpeg?v=1549628352612"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-thumbnail-1280.jpeg?v=1549628352543"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-thumbnail-640.jpeg?v=1549628352716"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-thumbnail-480.jpeg?v=1549628352490"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-thumbnail-256.jpeg?v=1549628352481"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-thumbnail-64.jpeg?v=1549628352586"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201828914\/image-thumbnail-640.jpeg?v=1549628352716",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

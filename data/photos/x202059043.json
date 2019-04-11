@@ -1,0 +1,127 @@
+{
+    "title": "SALE - Calvin Klein Intimates",
+    "description": "Just ordered some new Calvin’s Klein bralettes. Such a great deal during the one day sale! ",
+    "referenceId": null,
+    "date_created": "1549721712",
+    "date_modified": "1549721952",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213110",
+    "id": "202059043",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "sale-calvin-klein-intimates",
+    "linkUrl": null,
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 3412,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--1920.jpeg?v=1549721717316"
+            },
+            {
+                "width": 1280,
+                "height": 2275,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--1280.jpeg?v=1549721717967"
+            },
+            {
+                "width": 1200,
+                "height": 2132,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--1200.jpeg?v=1549721716987"
+            },
+            {
+                "width": 1024,
+                "height": 1820,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--1024.jpeg?v=1549721717753"
+            },
+            {
+                "width": 1080,
+                "height": 1919,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--1080.jpeg?v=1549721716968"
+            },
+            {
+                "width": 960,
+                "height": 1706,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--960.jpeg?v=1549721717689"
+            },
+            {
+                "width": 640,
+                "height": 1137,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--640.jpeg?v=1549721716870"
+            },
+            {
+                "width": 600,
+                "height": 1066,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--600.jpeg?v=1549721717275"
+            },
+            {
+                "width": 256,
+                "height": 455,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-media--256.jpeg?v=1549721717556"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-thumbnail-1920.jpeg?v=1549721718890"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-thumbnail-1280.jpeg?v=1549721718822"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-thumbnail-640.jpeg?v=1549721718771"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-thumbnail-480.jpeg?v=1549721718757"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-thumbnail-256.jpeg?v=1549721718902"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-thumbnail-64.jpeg?v=1549721719010"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/202059043\/image-thumbnail-640.jpeg?v=1549721718771",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

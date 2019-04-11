@@ -1,0 +1,110 @@
+{
+    "title": "Stay Cozy",
+    "description": "You can find the latest trends this fall and winter season at Macys, from Tommy Hilfiger to Timberland.",
+    "referenceId": "b5151c5c89c8a7d232c9072f2c45cf1d",
+    "date_created": "1541279480",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213705",
+    "product_category": "men",
+    "id": "181910309",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "stay-cozy",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 9,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 9,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 9,
+        "prettyDuration": "00:00:09",
+        "automaticThumbnailsPattern": "1759121\/181910309\/8ba4e\/thumb-b5151c5c89c8a7d232c9072f2c45cf1d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/thumb-b5151c5c89c8a7d232c9072f2c45cf1d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/thumb-b5151c5c89c8a7d232c9072f2c45cf1d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/thumb-b5151c5c89c8a7d232c9072f2c45cf1d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/thumb-b5151c5c89c8a7d232c9072f2c45cf1d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/thumb-b5151c5c89c8a7d232c9072f2c45cf1d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181910309\/thumbnail\/image-thumbnail-256-265b5bb761863efd9550550300b89151.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181910309\/thumbnail\/image-thumbnail-480-363a0fc946a42869ac988e03a0493d32.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/thumb-b5151c5c89c8a7d232c9072f2c45cf1d-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181910309\/thumbnail\/image-thumbnail-480-363a0fc946a42869ac988e03a0493d32.jpg",
+        "type": "mp4",
+        "assetId": 181910309,
+        "assetTitle": "Stay Cozy",
+        "assetTitleTextEncoded": "59531ec6-b751-4a4e-8001-b17c7f91004a",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181910309,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181910309\/8ba4e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

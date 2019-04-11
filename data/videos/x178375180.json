@@ -1,0 +1,111 @@
+{
+    "title": "suburban style polka dot",
+    "description": "Polka dot",
+    "referenceId": "e215bfec772fe512377a99ba42097f80",
+    "date_created": "1537993246",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": "women",
+    "id": "178375180",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "suburban-style-polka-dot",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "23",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "23",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/178375180\/e1541\/thumb-e215bfec772fe512377a99ba42097f80-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/thumb-e215bfec772fe512377a99ba42097f80-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/thumb-e215bfec772fe512377a99ba42097f80-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/thumb-e215bfec772fe512377a99ba42097f80-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/thumb-e215bfec772fe512377a99ba42097f80-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/thumb-e215bfec772fe512377a99ba42097f80-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/thumb-e215bfec772fe512377a99ba42097f80-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178375180\/thumbnail\/image-thumbnail-256-fd08d052e2c91594e6a60fa6f40c439d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178375180\/thumbnail\/image-thumbnail-480-a833c17d4f70cfb84748b7f5eca0713e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/thumb-e215bfec772fe512377a99ba42097f80-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178375180\/thumbnail\/image-thumbnail-480-a833c17d4f70cfb84748b7f5eca0713e.jpg",
+        "type": "mp4",
+        "assetId": "178375180",
+        "assetTitle": "29303500-27C2-43EA-B007-3A5AEB8C7E7F",
+        "assetTitleTextEncoded": "29303500-27c2-43ea-b007-3a5aeb8c7e7f",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178375180",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178375180\/e1541\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

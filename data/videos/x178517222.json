@@ -1,0 +1,117 @@
+{
+    "title": "Samsonite Freeform Hardside Carry on luggage",
+    "description": "Traveling to Portugal with my new Samsonite Freeform carry on! This new color in Pink Rose is designed for Macy’s. Samsonite is proud to team up with the Breast Cancer Research Foundation (BCRF), dedicated to advancing the world's most promising research to eradicate breast cancer. Now through October 31, 2018, Samsonite will donate 5% of the sale price from this Samsonite item to BCRF, up to $20,000.",
+    "referenceId": "71d4970fbb329b213beea60baa103a3e",
+    "date_created": "1538181616",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213228",
+    "product_category": "handbags",
+    "id": "178517222",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "samsonite-freeform-hardside-carry-on-luggage",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "36",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "36",
+            "width": 224,
+            "height": 128
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "automaticThumbnailsPattern": "1759121\/178517222\/4b53a\/thumb-71d4970fbb329b213beea60baa103a3e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178517222\/user-images\/image-1680-9c9902c4e8d3991d0d817b6f5cf5fe59.jpg",
+            "\/\/v.tvpage.com\/1759121\/178517222\/user-images\/image-1665-3649c1796ae1a0e60db9043bb975528c.jpg",
+            "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/thumb-71d4970fbb329b213beea60baa103a3e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/thumb-71d4970fbb329b213beea60baa103a3e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/thumb-71d4970fbb329b213beea60baa103a3e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/thumb-71d4970fbb329b213beea60baa103a3e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/thumb-71d4970fbb329b213beea60baa103a3e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/thumb-71d4970fbb329b213beea60baa103a3e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178517222\/thumbnail\/image-thumbnail-256-423dd323943849cf81aa701659f46a32.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178517222\/thumbnail\/image-thumbnail-480-65b792f31ca2637fac509b73336b19c8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178517222\/thumbnail\/image-thumbnail-640-9ecd085379a51503999c9a469807dfc7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178517222\/thumbnail\/image-thumbnail-1280-4d778c1c059255867e899558c1770b96.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178517222\/user-images\/image-1680-9c9902c4e8d3991d0d817b6f5cf5fe59.jpg",
+        "type": "mp4",
+        "assetId": "178517222",
+        "assetTitle": "2AEC7279-7C3F-461C-B939-F5040BE0FC89",
+        "assetTitleTextEncoded": "2aec7279-7c3f-461c-b939-f5040be0fc89",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178517222",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 224,
+                "height": 128
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 224,
+                "height": 128
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 224,
+                "height": 128
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 224,
+                "height": 128
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 224,
+                "height": 128
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/178517222\/4b53a\/media.m3u8",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178517222\/thumbnail\/image-thumbnail-640-9ecd085379a51503999c9a469807dfc7.jpg"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

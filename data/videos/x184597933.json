@@ -1,0 +1,117 @@
+{
+    "title": "The Perfect Piece of Fine Jewelry - Effy's Grey Spinel + Diamond",
+    "description": null,
+    "referenceId": "b001e511e38691ffca4a7c1060534e8d",
+    "date_created": "1543542704",
+    "date_modified": "1546466796",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "jewelry",
+    "id": "184597933",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-perfect-piece-of-fine-jewelry-effys-grey-spinel-diamond",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 29,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 29,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 29,
+        "prettyDuration": "00:00:29",
+        "automaticThumbnailsPattern": "1759121\/184597933\/81af9\/thumb-b001e511e38691ffca4a7c1060534e8d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/thumb-b001e511e38691ffca4a7c1060534e8d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/thumb-b001e511e38691ffca4a7c1060534e8d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/thumb-b001e511e38691ffca4a7c1060534e8d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/thumb-b001e511e38691ffca4a7c1060534e8d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/thumb-b001e511e38691ffca4a7c1060534e8d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/thumb-b001e511e38691ffca4a7c1060534e8d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184597933\/thumbnail\/image-thumbnail-256-e8bb782b2116422629c79cf89e5c513a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184597933\/thumbnail\/image-thumbnail-480-80273cc4e3171ba8de0560d7808d4dae.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184597933\/thumbnail\/image-thumbnail-640-a6f47c0d925ee13d28259e16c039dede.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184597933\/thumbnail\/image-thumbnail-1280-2f623a0027ae1c42a7663c3eed0defba.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/184597933\/thumbnail\/image-thumbnail-1920-1a505016390ec93b7b2b426744cf8275.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/thumb-b001e511e38691ffca4a7c1060534e8d-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184597933\/thumbnail\/image-thumbnail-640-a6f47c0d925ee13d28259e16c039dede.jpg",
+        "type": "mp4",
+        "assetId": 184597933,
+        "assetTitle": "The Perfect Piece of Fine Jewelry - Effy's Grey Spinel + Diamond",
+        "assetTitleTextEncoded": "layla-haul-grey-spinnel-v1",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184597933,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184597933\/81af9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

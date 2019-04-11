@@ -1,0 +1,127 @@
+{
+    "title": "The Cutest Kate Spade Tote!",
+    "description": "Umm... I may be a little obsessed with this Kate Spade tote that was just marked down to $166.15!! I just love everything about this bag! The cute and classic colors, stripe down the middle, cotton flannel material with leather trim and gold hardware. So beautiful!",
+    "referenceId": null,
+    "date_created": "1550541108",
+    "date_modified": "1550541566",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213932",
+    "id": "203688143",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "the-cutest-kate-spade-tote",
+    "linkUrl": null,
+    "category": "Handbags",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2321,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--1920.jpeg?v=1550541120705"
+            },
+            {
+                "width": 1280,
+                "height": 1547,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--1280.jpeg?v=1550541120279"
+            },
+            {
+                "width": 1200,
+                "height": 1451,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--1200.jpeg?v=1550541120181"
+            },
+            {
+                "width": 1024,
+                "height": 1238,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--1024.jpeg?v=1550541119986"
+            },
+            {
+                "width": 1080,
+                "height": 1306,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--1080.jpeg?v=1550541120000"
+            },
+            {
+                "width": 960,
+                "height": 1160,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--960.jpeg?v=1550541119978"
+            },
+            {
+                "width": 640,
+                "height": 773,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--640.jpeg?v=1550541119787"
+            },
+            {
+                "width": 600,
+                "height": 725,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--600.jpeg?v=1550541119781"
+            },
+            {
+                "width": 256,
+                "height": 309,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-media--256.jpeg?v=1550541120403"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-thumbnail-1920.jpeg?v=1550541121978"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-thumbnail-1280.jpeg?v=1550541121905"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-thumbnail-640.jpeg?v=1550541121878"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-thumbnail-480.jpeg?v=1550541121853"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-thumbnail-256.jpeg?v=1550541121856"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-thumbnail-64.jpeg?v=1550541121860"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1759121\/203688143\/image-thumbnail-640.jpeg?v=1550541121878",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Organized Closet",
+    "description": "There is many ways to organize your closet, I like to organize by color.",
+    "referenceId": null,
+    "date_created": "1549583606",
+    "date_modified": "1549590719",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213896",
+    "id": "201552771",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "organized-closet",
+    "linkUrl": null,
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1440,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--1920.jpeg?v=1549583643432"
+            },
+            {
+                "width": 1280,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--1280.jpeg?v=1549583643231"
+            },
+            {
+                "width": 1200,
+                "height": 900,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--1200.jpeg?v=1549583643114"
+            },
+            {
+                "width": 1024,
+                "height": 768,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--1024.jpeg?v=1549583644099"
+            },
+            {
+                "width": 1080,
+                "height": 810,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--1080.jpeg?v=1549583643124"
+            },
+            {
+                "width": 960,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--960.jpeg?v=1549583644133"
+            },
+            {
+                "width": 640,
+                "height": 480,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--640.jpeg?v=1549583644125"
+            },
+            {
+                "width": 600,
+                "height": 450,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--600.jpeg?v=1549583645038"
+            },
+            {
+                "width": 256,
+                "height": 192,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-media--256.jpeg?v=1549583645583"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-thumbnail-1920.jpeg?v=1549583646395"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-thumbnail-1280.jpeg?v=1549583646319"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-thumbnail-640.jpeg?v=1549583646164"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-thumbnail-480.jpeg?v=1549583646141"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-thumbnail-256.jpeg?v=1549583646611"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-thumbnail-64.jpeg?v=1549583647039"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201552771\/image-thumbnail-640.jpeg?v=1549583646164",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

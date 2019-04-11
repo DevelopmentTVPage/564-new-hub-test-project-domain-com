@@ -1,0 +1,103 @@
+{
+    "title": "Shoe Sale",
+    "description": "Check out this amazing shoe sale",
+    "referenceId": "a1a249c2a209adbc164abd0181a6939d",
+    "date_created": "1524078755",
+    "date_modified": "1546466766",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "63",
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "161420216",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "shoe-sale",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "31",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "31",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420216\/thumbnail\/image-thumbnail-640-baed4e9da9b4ae02f0728a1024b79c2c.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161420216\/d4ef3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161420216\/d4ef3\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420216\/d4ef3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420216\/d4ef3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420216\/d4ef3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420216\/d4ef3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420216\/d4ef3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/161420216\/user-images\/image-1920-115da3201c64832b224730a8c5c85cce.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420216\/user-images\/image-1920-115da3201c64832b224730a8c5c85cce.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/161420216\/thumbnail\/image-thumbnail-256-35997b36106f9e1f1ba8f0ba5735222b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/161420216\/thumbnail\/image-thumbnail-480-17cdf33f88f00ac709db346d8fbf89cb.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/161420216\/thumbnail\/image-thumbnail-640-baed4e9da9b4ae02f0728a1024b79c2c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/161420216\/thumbnail\/image-thumbnail-1280-bc6680aac5addc61382af9342aefa817.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/161420216\/thumbnail\/image-thumbnail-1920-1ad467c7d3e7fe359dcd541a4e161816.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

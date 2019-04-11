@@ -1,0 +1,21 @@
+{
+    "id": "213793",
+    "first_name": "Sarina",
+    "last_name": "Stasi",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/950732959-0.4321763850748.jpg",
+        "job_title": "Digital Merchandise Assistant"
+    },
+    "last_login_timestamp": "1543525452",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-29 14:37:56",
+    "login_id": "1759121",
+    "user_id": "213793",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sarina Stasi",
+    "profile_picture": "\/api\/canvas\/logo\/950732959-0.4321763850748.jpg",
+    "titleTextEncoded": "sarina-stasi",
+    "title": "Sarina Stasi",
+    "videos_count": "0"
+}

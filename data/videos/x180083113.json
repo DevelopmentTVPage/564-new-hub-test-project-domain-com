@@ -1,0 +1,117 @@
+{
+    "title": "THE BEST MAKEUP BRUSHES EVER!",
+    "description": "Order Smashbox brushes on 10\/13 for 50% off during 10 Days of Glam!!!!!! These are literally the best brushes ever! I have three of the blurring foundation brushes!!!",
+    "referenceId": "057c43e20c3e102a274361f66a8ac0db",
+    "date_created": "1539403403",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "27",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "180083113",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-best-makeup-brushes-ever",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 39,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 39,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 39,
+        "prettyDuration": "00:00:39",
+        "automaticThumbnailsPattern": "1759121\/180083113\/290a1\/thumb-057c43e20c3e102a274361f66a8ac0db-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/thumb-057c43e20c3e102a274361f66a8ac0db-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/thumb-057c43e20c3e102a274361f66a8ac0db-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/thumb-057c43e20c3e102a274361f66a8ac0db-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/thumb-057c43e20c3e102a274361f66a8ac0db-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/thumb-057c43e20c3e102a274361f66a8ac0db-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/thumb-057c43e20c3e102a274361f66a8ac0db-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180083113\/thumbnail\/image-thumbnail-256-163251797a3af7da7f1a2fedb5e4d1c8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180083113\/thumbnail\/image-thumbnail-480-9d8058dc7fe4d64d0d80a2a7046f5576.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180083113\/thumbnail\/image-thumbnail-640-735cc2db14809928764082806fd8710f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180083113\/thumbnail\/image-thumbnail-1280-9fc014cb43acebbce75449eb34f1bcd7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/thumb-057c43e20c3e102a274361f66a8ac0db-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180083113\/thumbnail\/image-thumbnail-640-735cc2db14809928764082806fd8710f.jpg",
+        "type": "mp4",
+        "assetId": 180083113,
+        "assetTitle": "47E6B6DD-68BE-472D-AF8A-379BE468E33B",
+        "assetTitleTextEncoded": "47e6b6dd-68be-472d-af8a-379be468e33b",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180083113,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180083113\/290a1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Plus Size Pajamas to wear for the sweetest dreams",
+    "description": "These days my self care routine involves sleep, and lots of it! There is nothing nicer than climbing into a freshly made bed and my favorite pajamas and curling up with a book before drifting off to sleep. Check out a few of my favorite sets available in plus sizes here at Macy's",
+    "referenceId": "775f61a69344ac53f24364eb36f46591",
+    "date_created": "1546534698",
+    "date_modified": "1546535053",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "91",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "50",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": null,
+    "id": "192649908",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "plus-size-pajamas-to-wear-for-the-sweetest-dreams",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 30,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 30,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/192649908\/48807\/thumb-775f61a69344ac53f24364eb36f46591-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192649908\/48807\/thumb-775f61a69344ac53f24364eb36f46591-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649908\/48807\/thumb-775f61a69344ac53f24364eb36f46591-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649908\/48807\/thumb-775f61a69344ac53f24364eb36f46591-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649908\/48807\/thumb-775f61a69344ac53f24364eb36f46591-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649908\/48807\/thumb-775f61a69344ac53f24364eb36f46591-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192649908\/48807\/thumb-775f61a69344ac53f24364eb36f46591-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192649908\/thumbnail\/image-thumbnail-256-3f411c2a7a5a407b00bf2454372e4086.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192649908\/thumbnail\/image-thumbnail-480-02b906f1354eb9322214d5b6a8771b4a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/192649908\/thumbnail\/image-thumbnail-640-e60f6bf1473442e41b77c6f50df25872.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/192649908\/thumbnail\/image-thumbnail-1280-ff1a31a403c0d794bc47f7610bf16051.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192649908\/48807\/thumb-775f61a69344ac53f24364eb36f46591-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192649908\/thumbnail\/image-thumbnail-640-e60f6bf1473442e41b77c6f50df25872.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/192649908\/48807\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/192649908\/48807\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649908\/48807\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649908\/48807\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649908\/48807\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649908\/48807\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192649908\/48807\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213738",
+    "first_name": "Maryam",
+    "last_name": "Bahari",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/677049608-0.8102019732818.jpg",
+        "job_title": "Sales associate "
+    },
+    "last_login_timestamp": "1543725011",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-02 04:02:45",
+    "login_id": "1759121",
+    "user_id": "213738",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Maryam Bahari",
+    "profile_picture": "\/api\/canvas\/logo\/677049608-0.8102019732818.jpg",
+    "titleTextEncoded": "maryam-bahari",
+    "title": "Maryam Bahari",
+    "videos_count": "3"
+}

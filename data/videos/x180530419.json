@@ -1,0 +1,115 @@
+{
+    "title": "Halloween At Macy's",
+    "description": "Beetlejuice! Beetlejuice! Beetlejuice! At Macy's! Because it's the store with the most, babe!",
+    "referenceId": "25a2109b84f4dadaf4b0405068b0dd22",
+    "date_created": "1539897258",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "84",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "men",
+    "id": "180530419",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "halloween-at-macys",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 67,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 67,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 67,
+        "prettyDuration": "00:01:07",
+        "automaticThumbnailsPattern": "1759121\/180530419\/018f8\/thumb-25a2109b84f4dadaf4b0405068b0dd22-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/thumb-25a2109b84f4dadaf4b0405068b0dd22-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/thumb-25a2109b84f4dadaf4b0405068b0dd22-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/thumb-25a2109b84f4dadaf4b0405068b0dd22-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/thumb-25a2109b84f4dadaf4b0405068b0dd22-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/thumb-25a2109b84f4dadaf4b0405068b0dd22-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/thumb-25a2109b84f4dadaf4b0405068b0dd22-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180530419\/thumbnail\/image-thumbnail-256-5cf68235e509c3d5625be9f246ec726a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180530419\/thumbnail\/image-thumbnail-480-274fa2d1043ea48429433cb58e5bb0ba.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180530419\/thumbnail\/image-thumbnail-640-32c193e6560256c4ceda6a896b2801bd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/thumb-25a2109b84f4dadaf4b0405068b0dd22-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180530419\/thumbnail\/image-thumbnail-640-32c193e6560256c4ceda6a896b2801bd.jpg",
+        "type": "mp4",
+        "assetId": 180530419,
+        "assetTitle": "Halloween At Macy's",
+        "assetTitleTextEncoded": "halloween-at-macy-s",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180530419,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180530419\/018f8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

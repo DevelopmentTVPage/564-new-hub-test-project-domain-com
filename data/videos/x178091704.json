@@ -1,0 +1,115 @@
+{
+    "title": "Ultimate Brunch Outfit",
+    "description": "Hi everyone! The votes are in and today you guys picked to see my ultimate brunch outfit. I’m so excited to share this one with you all since brunch is a big part of my life living in New York City. Not only is it a weekly occasion I take dressing up for seriously, but it’s also a time for me to experiment with new styles and silhouettes. Hope this inspires you with your future brunch outfits!\n\nAll of the Product Web IDs: (searchable on Macys.com)\n6302305- Rachel Roy Off the Shoulder Gingham Top\n6245876- Free People White Denim Mini Skirt (similar to the one featured)\n6584479- Calvin Klein Logo Patch Denim Mini Skirt (alternative)\n6702793- Marc Fisher White Booties (similar to the one featured)\n6531101- Nine West Cut Out Buckle Booties (alternative)\n6322988- INC White Sock Booties (alternative)\n6579758- Steve Madden Tweed Newsboy Cap (similar to the one featured)\n6343147- Michael Kors Tweed Top Handle Bag (similar to the one featured)\n5869295- Calvin Klein Mini Cork Satchel (alternative)",
+    "referenceId": "de31dfce6899c3d6c2b05b2046656237",
+    "date_created": "1537503366",
+    "date_modified": "1546466791",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "178091704",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ultimate-brunch-outfit",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "135",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "135",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "135",
+        "prettyDuration": "00:02:15",
+        "automaticThumbnailsPattern": "1759121\/178091704\/8f233\/thumb-de31dfce6899c3d6c2b05b2046656237-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178091704\/user-images\/image-3839-4913d8b38810038c8ec7065f01aa7a7a.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/thumb-de31dfce6899c3d6c2b05b2046656237-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/thumb-de31dfce6899c3d6c2b05b2046656237-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/thumb-de31dfce6899c3d6c2b05b2046656237-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/thumb-de31dfce6899c3d6c2b05b2046656237-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/thumb-de31dfce6899c3d6c2b05b2046656237-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/thumb-de31dfce6899c3d6c2b05b2046656237-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178091704\/thumbnail\/image-thumbnail-256-d92c3c8994755719268d15f9c2e251e2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178091704\/thumbnail\/image-thumbnail-480-375fb245c9c0959b7ad466c23eced1a3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178091704\/thumbnail\/image-thumbnail-640-1121819b42c9ffa553d64257f3c540ea.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178091704\/thumbnail\/image-thumbnail-1280-7c319515e61f3c5d4abf3845f7fd8ae5.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/178091704\/thumbnail\/image-thumbnail-1920-03cb48da5e42460d4212d2c8d6b5783c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178091704\/user-images\/image-3839-4913d8b38810038c8ec7065f01aa7a7a.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178091704\/thumbnail\/image-thumbnail-640-1121819b42c9ffa553d64257f3c540ea.jpg",
+        "type": "mp4",
+        "assetId": "178091704",
+        "assetTitle": "Ultimate Brunch Outfit",
+        "assetTitleTextEncoded": "ultimate-brunch-outfit",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178091704",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178091704\/8f233\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

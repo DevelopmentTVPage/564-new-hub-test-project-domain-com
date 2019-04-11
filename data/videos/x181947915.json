@@ -1,0 +1,118 @@
+{
+    "title": "Favorite beauty products",
+    "description": "Hi guys, ingrid here from the Macy’s style crew giving you a peek at my favorite products to create a soft daytime look or a full glam for night. These are my tried and true favorites for complexion, eyes and lips.....",
+    "referenceId": "5c953df98135954f22bee24038c8e4bc",
+    "date_created": "1541301721",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "beauty",
+    "id": "181947915",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "favorite-beauty-products",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 138,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 138,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 138,
+        "prettyDuration": "00:02:18",
+        "automaticThumbnailsPattern": "1759121\/181947915\/21af0\/thumb-5c953df98135954f22bee24038c8e4bc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181947915\/user-images\/image-3004-ffc709f5a41cdde12bb309f461ab046a.jpg",
+            "\/\/v.tvpage.com\/1759121\/181947915\/user-images\/image-2920-c89ff47a22091e0f058781564049b193.jpg",
+            "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/thumb-5c953df98135954f22bee24038c8e4bc-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/thumb-5c953df98135954f22bee24038c8e4bc-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/thumb-5c953df98135954f22bee24038c8e4bc-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/thumb-5c953df98135954f22bee24038c8e4bc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/thumb-5c953df98135954f22bee24038c8e4bc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/thumb-5c953df98135954f22bee24038c8e4bc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181947915\/thumbnail\/image-thumbnail-256-840f865e7eac0ceda7bdfd723ccf9682.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181947915\/thumbnail\/image-thumbnail-480-0c774fcd8b65821f8f2a21210b44008a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181947915\/thumbnail\/image-thumbnail-640-b4820d22c2764f61b555d8c38568b174.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181947915\/thumbnail\/image-thumbnail-1280-cfcfe605c1235169a8b11919a0175117.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181947915\/thumbnail\/image-thumbnail-1920-c4f7dfa7119b38ef33c3fb601d06101e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181947915\/user-images\/image-3004-ffc709f5a41cdde12bb309f461ab046a.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181947915\/thumbnail\/image-thumbnail-640-b4820d22c2764f61b555d8c38568b174.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/media.m3u8",
+        "assetId": 181947915,
+        "assetTitle": "A2118ED3-F89C-4AA6-944A-281FAA6BA26C",
+        "assetTitleTextEncoded": "a2118ed3-f89c-4aa6-944a-281faa6ba26c",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 181947915,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181947915\/21af0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

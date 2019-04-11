@@ -1,0 +1,114 @@
+{
+    "title": "Dressing Festive LIke Santa",
+    "description": "Christmas Dress Web ID 6989103\nChristmas Suit Web ID 7421287",
+    "referenceId": "8c804efbef0375dbbed51af630df8fa0",
+    "date_created": "1545316461",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "64",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "189069156",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dressing-festive-like-santa",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 640,
+            "height": 640
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/189069156\/93a8f\/thumb-8c804efbef0375dbbed51af630df8fa0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/189069156\/user-images\/image-1080-0c792ba434b8d7b0afad784ff30d3f16.jpg",
+            "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/thumb-8c804efbef0375dbbed51af630df8fa0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/thumb-8c804efbef0375dbbed51af630df8fa0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/thumb-8c804efbef0375dbbed51af630df8fa0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/thumb-8c804efbef0375dbbed51af630df8fa0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/thumb-8c804efbef0375dbbed51af630df8fa0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/thumb-8c804efbef0375dbbed51af630df8fa0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/189069156\/thumbnail\/image-thumbnail-256-0463343557ebff1e0e28cc3e1275978b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/189069156\/thumbnail\/image-thumbnail-480-fb618bae135aaaa3d7cd4a2d7f9dba28.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/189069156\/thumbnail\/image-thumbnail-640-0e093dd6d740d42f9f523623c0377c6c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/189069156\/user-images\/image-1080-0c792ba434b8d7b0afad784ff30d3f16.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/189069156\/thumbnail\/image-thumbnail-640-0e093dd6d740d42f9f523623c0377c6c.jpg",
+        "type": "mp4",
+        "assetId": 189069156,
+        "assetTitle": "Spreading Christmas Cheer with my Colleague",
+        "assetTitleTextEncoded": "inshot-20181220-083302529",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 189069156,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/189069156\/93a8f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

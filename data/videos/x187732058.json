@@ -1,0 +1,103 @@
+{
+    "title": "Holiday Gift Sets",
+    "description": "Holiday Gift Sets for the perfect Christmas Gift available at Macy's.",
+    "referenceId": "80508e9326cbe341e397f6a1bb95eb15",
+    "date_created": "1544639568",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": null,
+    "id": "187732058",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "holiday-gift-sets",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 59,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 59,
+            "width": 480,
+            "height": 272
+        },
+        "mediaDuration": 59,
+        "prettyDuration": "00:00:59",
+        "automaticThumbnailsPattern": "1759121\/187732058\/d49c8\/thumb-80508e9326cbe341e397f6a1bb95eb15-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/thumb-80508e9326cbe341e397f6a1bb95eb15-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/thumb-80508e9326cbe341e397f6a1bb95eb15-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/thumb-80508e9326cbe341e397f6a1bb95eb15-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/thumb-80508e9326cbe341e397f6a1bb95eb15-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/thumb-80508e9326cbe341e397f6a1bb95eb15-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/thumb-80508e9326cbe341e397f6a1bb95eb15-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187732058\/thumbnail\/image-thumbnail-256-206fa2312a2e39da5db53e6b94d825a3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187732058\/thumbnail\/image-thumbnail-480-c8b359be84ed7136c15ea2a73ce76fe9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/thumb-80508e9326cbe341e397f6a1bb95eb15-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187732058\/thumbnail\/image-thumbnail-480-c8b359be84ed7136c15ea2a73ce76fe9.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732058\/d49c8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

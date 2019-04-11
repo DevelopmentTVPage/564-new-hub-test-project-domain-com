@@ -1,0 +1,115 @@
+{
+    "title": "Fall Sale Phobia",
+    "description": "Are you afraid of Fall Sales? Overcome your phobia with this video from FunnyBread.",
+    "referenceId": "44677d84a9a09576ce0ec4ef92082ed0",
+    "date_created": "1538144208",
+    "date_modified": "1546466824",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "65",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "men",
+    "id": "178516510",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-sale-phobia",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "78",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "78",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "automaticThumbnailsPattern": "1759121\/178516510\/c3cad\/thumb-44677d84a9a09576ce0ec4ef92082ed0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/thumb-44677d84a9a09576ce0ec4ef92082ed0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/thumb-44677d84a9a09576ce0ec4ef92082ed0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/thumb-44677d84a9a09576ce0ec4ef92082ed0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/thumb-44677d84a9a09576ce0ec4ef92082ed0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/thumb-44677d84a9a09576ce0ec4ef92082ed0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/thumb-44677d84a9a09576ce0ec4ef92082ed0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178516510\/thumbnail\/image-thumbnail-256-5e76b18bddfdc6451b70b06765d7f379.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178516510\/thumbnail\/image-thumbnail-480-5b9319b86465bb9f7facf18187d26353.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178516510\/thumbnail\/image-thumbnail-640-81d7d6e6f9e83e1a19887e483ed755cd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/thumb-44677d84a9a09576ce0ec4ef92082ed0-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178516510\/thumbnail\/image-thumbnail-640-81d7d6e6f9e83e1a19887e483ed755cd.jpg",
+        "type": "mp4",
+        "assetId": "178516510",
+        "assetTitle": "Fall Sale Phobia",
+        "assetTitleTextEncoded": "fall-sale-phobia",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178516510",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178516510\/c3cad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

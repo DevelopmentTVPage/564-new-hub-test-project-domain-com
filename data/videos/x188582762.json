@@ -1,0 +1,115 @@
+{
+    "title": "Fashion office hottest looks: Mix master",
+    "description": "Keep your holiday look feeling on trend by mixing all of those fun sequins with more casual or sporty elements. I paired this plus size Michael Kors all over sequin dress back to this white Calvin Klein plus size patent puffer! Feminine accessories keep the outfit feeling flirty and fun",
+    "referenceId": "c65b82798880e42f54b09d89d4dbe6b6",
+    "date_created": "1545082379",
+    "date_modified": "1546466799",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "120",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "34",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "188582762",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fashion-office-hottest-looks-mix-master",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 8,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 8,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 8,
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/188582762\/c6eba\/thumb-c65b82798880e42f54b09d89d4dbe6b6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/thumb-c65b82798880e42f54b09d89d4dbe6b6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/thumb-c65b82798880e42f54b09d89d4dbe6b6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/thumb-c65b82798880e42f54b09d89d4dbe6b6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/thumb-c65b82798880e42f54b09d89d4dbe6b6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/thumb-c65b82798880e42f54b09d89d4dbe6b6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188582762\/thumbnail\/image-thumbnail-256-23bcac78d9b5730c0e380d034f63c45d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188582762\/thumbnail\/image-thumbnail-480-aaab3165fcfcd63a109ea77d25db1df7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/188582762\/thumbnail\/image-thumbnail-640-bf1d7ba71ad316534d83344ab455beb9.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/188582762\/thumbnail\/image-thumbnail-1280-444e0b337ec3f1ab51dea37fa8261d20.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/thumb-c65b82798880e42f54b09d89d4dbe6b6-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188582762\/thumbnail\/image-thumbnail-640-bf1d7ba71ad316534d83344ab455beb9.jpg",
+        "type": "mp4",
+        "assetId": 188582762,
+        "assetTitle": "Fashion office hottest looks: Mix master",
+        "assetTitleTextEncoded": "ba1556d2-7b63-4582-bcbc-984509dadbec",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188582762,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188582762\/c6eba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

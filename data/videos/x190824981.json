@@ -1,0 +1,101 @@
+{
+    "title": "My Holiday Journey - #Mixing it up",
+    "description": "#beating the #sundayscaries & #mixing it up in the kitchen to get my bake on! Finally got to break out my 5qt. Artisan Stainless Steel Stand Mixer. Definitely a staple for any cooking or baking fanatic. Shop @macys for a wide selection of Kitchenaid products in a variety of colors and all the awesome attachments \n#macys#macysstylecrew#kitchenaid#\n#christmascakes#sundayfunday\n.\n.\n.\nKitchenAid KSM152PS Artisan 5qt. Custom Metallic Stand Mixer\nShop the LINK in my bio to get these awesome items! ",
+    "referenceId": "addc7d25f32a27aca18adbd6df3aacd6",
+    "date_created": "1545539367",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213813",
+    "product_category": null,
+    "id": "190824981",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-mixing-it-up",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "3",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 810,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "3",
+            "width": 810,
+            "height": 1080
+        },
+        "mediaDuration": "3",
+        "prettyDuration": "00:00:03",
+        "automaticThumbnailsPattern": "1759121\/190824981\/444a8\/thumb-addc7d25f32a27aca18adbd6df3aacd6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/thumb-addc7d25f32a27aca18adbd6df3aacd6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/thumb-addc7d25f32a27aca18adbd6df3aacd6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/190824981\/thumbnail\/image-thumbnail-256-24d3cc4d4cbc49b106b4c6b2ea8882f8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/190824981\/thumbnail\/image-thumbnail-480-09f470cda5d9cd7d7cbbb98514c5a6ec.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/190824981\/thumbnail\/image-thumbnail-640-7a5cafc5aa0c76c1706f6633c02628a0.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/thumb-addc7d25f32a27aca18adbd6df3aacd6-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/190824981\/thumbnail\/image-thumbnail-640-7a5cafc5aa0c76c1706f6633c02628a0.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/190824981\/444a8\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

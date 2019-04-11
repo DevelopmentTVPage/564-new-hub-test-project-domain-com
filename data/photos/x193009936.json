@@ -1,0 +1,127 @@
+{
+    "title": "The BEST earrings !!",
+    "description": "Loving my new Alfani pearl earrings. They match with every outfit and I get so many compliments! Would definitely recommend ",
+    "referenceId": null,
+    "date_created": "1546727569",
+    "date_modified": "1546727934",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213797",
+    "id": "193009936",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "the-best-earrings",
+    "linkUrl": null,
+    "category": "Jewelry",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 1280,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--1920.jpeg?v=1546727617643"
+            },
+            {
+                "width": 1280,
+                "height": 853,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--1280.jpeg?v=1546727617490"
+            },
+            {
+                "width": 1200,
+                "height": 800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--1200.jpeg?v=1546727617404"
+            },
+            {
+                "width": 1024,
+                "height": 682,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--1024.jpeg?v=1546727618492"
+            },
+            {
+                "width": 1080,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--1080.jpeg?v=1546727617376"
+            },
+            {
+                "width": 960,
+                "height": 640,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--960.jpeg?v=1546727618513"
+            },
+            {
+                "width": 640,
+                "height": 426,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--640.jpeg?v=1546727618440"
+            },
+            {
+                "width": 600,
+                "height": 400,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--600.jpeg?v=1546727619177"
+            },
+            {
+                "width": 256,
+                "height": 170,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-media--256.jpeg?v=1546727619826"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-thumbnail-1920.jpeg?v=1546727620910"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-thumbnail-1280.jpeg?v=1546727620753"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-thumbnail-640.jpeg?v=1546727620549"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-thumbnail-480.jpeg?v=1546727620510"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-thumbnail-256.jpeg?v=1546727621528"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-thumbnail-64.jpeg?v=1546727622052"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/193009936\/image-thumbnail-640.jpeg?v=1546727620549",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

@@ -1,0 +1,127 @@
+{
+    "title": "Transitional Fall & Athletic Pieces",
+    "description": "Here are a few of my favorite transitional pieces that that me from fall to spring.",
+    "referenceId": null,
+    "date_created": "1549449685",
+    "date_modified": "1549451542",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213291",
+    "id": "201549291",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "transitional-fall-athletic-pieces",
+    "linkUrl": null,
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2879,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--1920.jpeg?v=1549449717557"
+            },
+            {
+                "width": 1280,
+                "height": 1920,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--1280.jpeg?v=1549449720138"
+            },
+            {
+                "width": 1200,
+                "height": 1800,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--1200.jpeg?v=1549449717144"
+            },
+            {
+                "width": 1024,
+                "height": 1536,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--1024.jpeg?v=1549449719054"
+            },
+            {
+                "width": 1080,
+                "height": 1619,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--1080.jpeg?v=1549449717008"
+            },
+            {
+                "width": 960,
+                "height": 1439,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--960.jpeg?v=1549449718752"
+            },
+            {
+                "width": 640,
+                "height": 960,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--640.jpeg?v=1549449716763"
+            },
+            {
+                "width": 600,
+                "height": 900,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--600.jpeg?v=1549449718087"
+            },
+            {
+                "width": 256,
+                "height": 384,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-media--256.jpeg?v=1549449719176"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-thumbnail-1920.jpeg?v=1549449721661"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-thumbnail-1280.jpeg?v=1549449721538"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-thumbnail-640.jpeg?v=1549449721407"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-thumbnail-480.jpeg?v=1549449721375"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-thumbnail-256.jpeg?v=1549449722146"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-thumbnail-64.jpeg?v=1549449722889"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/201549291\/image-thumbnail-640.jpeg?v=1549449721407",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

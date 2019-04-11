@@ -1,0 +1,103 @@
+{
+    "title": "Lancôme Black Friday Doorbuster",
+    "description": "Color Design 5-pan Eyeshadows",
+    "referenceId": null,
+    "date_created": "1543078567",
+    "date_modified": "1546466793",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213750",
+    "id": "184252237",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "lancome-black-friday-doorbuster",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1442,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-media--1200.jpeg?v=1543078577757"
+            },
+            {
+                "width": 1024,
+                "height": 1230,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-media--1024.jpeg?v=1543078577695"
+            },
+            {
+                "width": 1080,
+                "height": 1298,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-media--1080.jpeg?v=1543078578151"
+            },
+            {
+                "width": 960,
+                "height": 1154,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-media--960.jpeg?v=1543078577677"
+            },
+            {
+                "width": 640,
+                "height": 769,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-media--640.jpeg?v=1543078578005"
+            },
+            {
+                "width": 600,
+                "height": 721,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-media--600.jpeg?v=1543078577623"
+            },
+            {
+                "width": 256,
+                "height": 307,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-media--256.jpeg?v=1543078577877"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-thumbnail-640.jpeg?v=1543078578463"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-thumbnail-480.jpeg?v=1543078578453"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-thumbnail-256.jpeg?v=1543078578434"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-thumbnail-64.jpeg?v=1543078578429"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184252237\/image-thumbnail-640.jpeg?v=1543078578463",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

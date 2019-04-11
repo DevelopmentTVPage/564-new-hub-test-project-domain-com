@@ -1,0 +1,21 @@
+{
+    "id": "213717",
+    "first_name": "Sara",
+    "last_name": "Burcheri",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/811997500-0.4738127732649.jpg",
+        "job_title": "Senior Event Manager"
+    },
+    "last_login_timestamp": "1548280996",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-01 14:49:39",
+    "login_id": "1759121",
+    "user_id": "213717",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sara Burcheri",
+    "profile_picture": "\/api\/canvas\/logo\/811997500-0.4738127732649.jpg",
+    "titleTextEncoded": "sara-burcheri",
+    "title": "Sara Burcheri",
+    "videos_count": "0"
+}

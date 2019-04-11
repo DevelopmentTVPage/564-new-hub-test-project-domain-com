@@ -1,0 +1,108 @@
+{
+    "title": "Walking on the water's edge, how I Renew, Refresh and Reset",
+    "description": "The water has such a nice way of refreshing me all year long. In the summer I love to swim in it and in the colder months, just being near it is calming and revitalizing! I love going for a walk with the breeze in my hair and the ocean breeze on my face and Nike plus size gear helps keep me moving. I am obsessed with these new green pieces for fall that are available in plus sizes at Macys.",
+    "referenceId": "4630da9598e9071810a9ea4237a24778",
+    "date_created": "1547399943",
+    "date_modified": "1547569980",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "191",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "78",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": null,
+    "id": "197938623",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "walking-on-the-waters-edge-how-i-renew-refresh-and-reset",
+    "category": "Active",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 33,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 33,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 33,
+        "prettyDuration": "00:00:33",
+        "automaticThumbnailsPattern": "1759121\/197938623\/7b253\/thumb-4630da9598e9071810a9ea4237a24778-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/thumb-4630da9598e9071810a9ea4237a24778-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/thumb-4630da9598e9071810a9ea4237a24778-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/thumb-4630da9598e9071810a9ea4237a24778-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/thumb-4630da9598e9071810a9ea4237a24778-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/thumb-4630da9598e9071810a9ea4237a24778-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/thumb-4630da9598e9071810a9ea4237a24778-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197938623\/thumbnail\/image-thumbnail-256-b0a5d3e40304429cd3d540046e999e06.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197938623\/thumbnail\/image-thumbnail-480-4eda9aec667b183c5335f151df12e4a7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/197938623\/thumbnail\/image-thumbnail-640-2232909a9f74d0dcab08509043383bcc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/197938623\/thumbnail\/image-thumbnail-1280-a79da92bb0dad268f63bb80b9d9d3ef2.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/197938623\/thumbnail\/image-thumbnail-1920-c2a047a7ec3a45be9eedbdee8a812094.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/thumb-4630da9598e9071810a9ea4237a24778-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197938623\/thumbnail\/image-thumbnail-640-2232909a9f74d0dcab08509043383bcc.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197938623\/7b253\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Michael Kors Holiday Challenge",
+    "description": "Holiday dress Metallic",
+    "referenceId": "25d752ae2a725894d576869bd1a6f727",
+    "date_created": "1543721916",
+    "date_modified": "1546466829",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213722",
+    "product_category": "women",
+    "id": "184878909",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-kors-holiday-challenge",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 69,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 69,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 69,
+        "prettyDuration": "00:01:09",
+        "automaticThumbnailsPattern": "1759121\/184878909\/83ca3\/thumb-25d752ae2a725894d576869bd1a6f727-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/thumb-25d752ae2a725894d576869bd1a6f727-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/thumb-25d752ae2a725894d576869bd1a6f727-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/thumb-25d752ae2a725894d576869bd1a6f727-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/thumb-25d752ae2a725894d576869bd1a6f727-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/thumb-25d752ae2a725894d576869bd1a6f727-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/thumb-25d752ae2a725894d576869bd1a6f727-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184878909\/thumbnail\/image-thumbnail-256-b89cd41e8e9917ec29164d0509613f4b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184878909\/thumbnail\/image-thumbnail-480-397685d08aa0be1806c5e97bcc3ed7f2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/thumb-25d752ae2a725894d576869bd1a6f727-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184878909\/thumbnail\/image-thumbnail-480-397685d08aa0be1806c5e97bcc3ed7f2.jpg",
+        "type": "mp4",
+        "assetId": 184878909,
+        "assetTitle": "Michael Kors Holiday ChLlenge",
+        "assetTitleTextEncoded": "20181201-155509",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184878909,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184878909\/83ca3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

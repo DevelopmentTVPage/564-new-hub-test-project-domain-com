@@ -1,0 +1,98 @@
+{
+    "title": "Casual Date Look",
+    "description": "How to look on a casual date",
+    "referenceId": "7829059cc46dd45cc4ad22d8b8250f51",
+    "date_created": "1524073073",
+    "date_modified": "1546466763",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "161420148",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "casual-date-look",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "35",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "35",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420148\/thumbnail\/image-thumbnail-480-e321f27d193a5d0a46214e6f2fd1d3fc.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161420148\/68c51\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161420148\/68c51\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420148\/68c51\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420148\/68c51\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420148\/68c51\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420148\/68c51\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420148\/68c51\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/161420148\/68c51\/thumb-7829059cc46dd45cc4ad22d8b8250f51-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/161420148\/user-images\/image-480-d0176e6cb2ad91646437b3329214589a.jpg",
+            "\/\/v.tvpage.com\/1759121\/161420148\/68c51\/thumb-7829059cc46dd45cc4ad22d8b8250f51-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420148\/user-images\/image-480-d0176e6cb2ad91646437b3329214589a.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/161420148\/thumbnail\/image-thumbnail-256-5db1e06f7c415d701d4b44accc1a9d1a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/161420148\/thumbnail\/image-thumbnail-480-e321f27d193a5d0a46214e6f2fd1d3fc.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "Jacqueline Palmer \/ Starbucks",
+    "description": "Our very own Starbucks is open at Macy’s Rockingham! Enjoy a whole new level of shopping. #coffee #fallfadhion #shopping #pathtogrowth",
+    "referenceId": "08c59a2ddac12401cfab2eeab62d5093",
+    "date_created": "1540135583",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "home",
+    "id": "180913825",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-starbucks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 26,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 26,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 26,
+        "prettyDuration": "00:00:26",
+        "automaticThumbnailsPattern": "1759121\/180913825\/8da22\/thumb-08c59a2ddac12401cfab2eeab62d5093-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/thumb-08c59a2ddac12401cfab2eeab62d5093-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/thumb-08c59a2ddac12401cfab2eeab62d5093-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/thumb-08c59a2ddac12401cfab2eeab62d5093-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/thumb-08c59a2ddac12401cfab2eeab62d5093-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/thumb-08c59a2ddac12401cfab2eeab62d5093-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/thumb-08c59a2ddac12401cfab2eeab62d5093-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/180913825\/thumbnail\/image-thumbnail-256-4144ecef62f06adf121ba7858a51984f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/180913825\/thumbnail\/image-thumbnail-480-10257a09cd59d99db40151e6d93866fe.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/180913825\/thumbnail\/image-thumbnail-640-cef9f17c1c470e4884b9c09dfefd079f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/180913825\/thumbnail\/image-thumbnail-1280-10540571b225ce4218787ba4af3ece50.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/thumb-08c59a2ddac12401cfab2eeab62d5093-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/180913825\/thumbnail\/image-thumbnail-640-cef9f17c1c470e4884b9c09dfefd079f.jpg",
+        "type": "mp4",
+        "assetId": 180913825,
+        "assetTitle": "B7640420-4F01-4EBB-BCD8-DF4F39411F80",
+        "assetTitleTextEncoded": "b7640420-4f01-4ebb-bcd8-df4f39411f80",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 180913825,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/180913825\/8da22\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

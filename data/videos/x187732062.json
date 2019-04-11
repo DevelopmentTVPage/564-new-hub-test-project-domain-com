@@ -1,0 +1,113 @@
+{
+    "title": "The Gift List - Ft Layla’s Favorite Holiday Gift Sets",
+    "description": null,
+    "referenceId": "79a0076a63d19d0c8f850e2bf4bb4493",
+    "date_created": "1544639882",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "35",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "beauty",
+    "id": "187732062",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-gift-list-ft-laylas-favorite-holiday-gift-sets",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 104,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 104,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 104,
+        "prettyDuration": "00:01:44",
+        "automaticThumbnailsPattern": "1759121\/187732062\/be79a\/thumb-79a0076a63d19d0c8f850e2bf4bb4493-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/thumb-79a0076a63d19d0c8f850e2bf4bb4493-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/thumb-79a0076a63d19d0c8f850e2bf4bb4493-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/thumb-79a0076a63d19d0c8f850e2bf4bb4493-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/thumb-79a0076a63d19d0c8f850e2bf4bb4493-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/thumb-79a0076a63d19d0c8f850e2bf4bb4493-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/thumb-79a0076a63d19d0c8f850e2bf4bb4493-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187732062\/thumbnail\/image-thumbnail-256-b1e6f97fd9e11cbeabdc24c9250b1559.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187732062\/thumbnail\/image-thumbnail-480-c6a43dafeee42523f84ae6f07a4086a2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/187732062\/thumbnail\/image-thumbnail-640-f0d49f475d4bdf1bb1c988129361246a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/187732062\/thumbnail\/image-thumbnail-1280-b389b29d02979e84d6f215edd92eb781.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/thumb-79a0076a63d19d0c8f850e2bf4bb4493-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187732062\/thumbnail\/image-thumbnail-640-f0d49f475d4bdf1bb1c988129361246a.jpg",
+        "type": "mp4",
+        "assetId": 187732062,
+        "assetTitle": "24D015CD-BAAA-46EA-9AD4-FD65D141ADEA",
+        "assetTitleTextEncoded": "24d015cd-baaa-46ea-9ad4-fd65d141adea",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187732062,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187732062\/be79a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,112 @@
+{
+    "title": "Black Friday Specials",
+    "description": "Black Friday preview Specials",
+    "referenceId": "d2969208a470b33a9c784a9a2f900544",
+    "date_created": "1542653819",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213710",
+    "product_category": "beauty",
+    "id": "183845400",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-specials",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 123,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 123,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 123,
+        "prettyDuration": "00:02:03",
+        "automaticThumbnailsPattern": "1759121\/183845400\/b3f3b\/thumb-d2969208a470b33a9c784a9a2f900544-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/thumb-d2969208a470b33a9c784a9a2f900544-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/thumb-d2969208a470b33a9c784a9a2f900544-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/thumb-d2969208a470b33a9c784a9a2f900544-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/thumb-d2969208a470b33a9c784a9a2f900544-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/thumb-d2969208a470b33a9c784a9a2f900544-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/thumb-d2969208a470b33a9c784a9a2f900544-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183845400\/thumbnail\/image-thumbnail-256-d622c84a72897b772ee971e24ba19ae6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183845400\/thumbnail\/image-thumbnail-480-762f69df41cdaa96170c84924be20b09.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/thumb-d2969208a470b33a9c784a9a2f900544-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183845400\/thumbnail\/image-thumbnail-480-762f69df41cdaa96170c84924be20b09.jpg",
+        "type": "mp4",
+        "assetId": 183845400,
+        "assetTitle": "3626B189-6D1E-4D5A-B047-085676AB7BF5",
+        "assetTitleTextEncoded": "3626b189-6d1e-4d5a-b047-085676ab7bf5",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183845400,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183845400\/b3f3b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

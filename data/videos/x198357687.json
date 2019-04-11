@@ -1,0 +1,102 @@
+{
+    "title": "Cook with me featuring Le Creuset",
+    "description": "Quick and easy Monday night dinner using my Le Creuset in the Marseille color way",
+    "referenceId": "46f24d9990ce43974f4a9c539d55c1bc",
+    "date_created": "1547661906",
+    "date_modified": "1547662521",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213228",
+    "product_category": null,
+    "id": "198357687",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cook-with-me-featuring-le-creuset",
+    "category": "Bed & Bath",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 46,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 46,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 46,
+        "prettyDuration": "00:00:46",
+        "automaticThumbnailsPattern": "1759121\/198357687\/e1f54\/thumb-46f24d9990ce43974f4a9c539d55c1bc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/thumb-46f24d9990ce43974f4a9c539d55c1bc-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/thumb-46f24d9990ce43974f4a9c539d55c1bc-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/thumb-46f24d9990ce43974f4a9c539d55c1bc-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/thumb-46f24d9990ce43974f4a9c539d55c1bc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/thumb-46f24d9990ce43974f4a9c539d55c1bc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/thumb-46f24d9990ce43974f4a9c539d55c1bc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/198357687\/thumbnail\/image-thumbnail-256-3ad623c3a88120e02782c07510b26c31.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/198357687\/thumbnail\/image-thumbnail-480-3471d2bf30e0e57705846481c13673ad.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/thumb-46f24d9990ce43974f4a9c539d55c1bc-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/198357687\/thumbnail\/image-thumbnail-480-3471d2bf30e0e57705846481c13673ad.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/198357687\/e1f54\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

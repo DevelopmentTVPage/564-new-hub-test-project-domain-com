@@ -1,0 +1,107 @@
+{
+    "title": "NuFACE Skincare",
+    "description": "NuFACE Facial Trainers and Toning Devices are the future of at-home skincare! Get firm and smooth skin in the comfort of your own home. ",
+    "referenceId": "67cc2722f5b24c7b2abdf72455be6f4f",
+    "date_created": "1546045687",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "187",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": null,
+    "id": "191688017",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "nuface-skincare",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 10,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 10,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 10,
+        "prettyDuration": "00:00:10",
+        "automaticThumbnailsPattern": "1759121\/191688017\/6a7a7\/thumb-67cc2722f5b24c7b2abdf72455be6f4f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/thumb-67cc2722f5b24c7b2abdf72455be6f4f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/thumb-67cc2722f5b24c7b2abdf72455be6f4f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/thumb-67cc2722f5b24c7b2abdf72455be6f4f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/thumb-67cc2722f5b24c7b2abdf72455be6f4f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/thumb-67cc2722f5b24c7b2abdf72455be6f4f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/thumb-67cc2722f5b24c7b2abdf72455be6f4f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191688017\/thumbnail\/image-thumbnail-256-2904d02e8004ad7d9d3d6c53b59c8633.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191688017\/thumbnail\/image-thumbnail-480-7a6de75ed6ded4602954094e7c9eacb3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191688017\/thumbnail\/image-thumbnail-640-229160be1d1de6f07f6f7ee5288bf0f3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/191688017\/thumbnail\/image-thumbnail-1280-bd2c89023b24cb333c364c6b4125c23f.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/191688017\/thumbnail\/image-thumbnail-1920-59c06c61c290c012a9c439711c9117eb.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/thumb-67cc2722f5b24c7b2abdf72455be6f4f-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191688017\/thumbnail\/image-thumbnail-640-229160be1d1de6f07f6f7ee5288bf0f3.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191688017\/6a7a7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

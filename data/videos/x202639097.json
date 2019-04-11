@@ -1,0 +1,106 @@
+{
+    "title": "Valentine's Day Fregrance",
+    "description": "Get into Armani Si Passione a beautiful fruity flora perfect for Valentine's Day. lets not forget the cologne version a perfect match for you ans your partner. ",
+    "referenceId": "b292132238033d8b33e8977f3bc74d28",
+    "date_created": "1549976396",
+    "date_modified": "1549976797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213302",
+    "product_category": null,
+    "id": "202639097",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-day-fregrance",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "32",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "automaticThumbnailsPattern": "1759121\/202639097\/18d5e\/thumb-b292132238033d8b33e8977f3bc74d28-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/thumb-b292132238033d8b33e8977f3bc74d28-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/thumb-b292132238033d8b33e8977f3bc74d28-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/thumb-b292132238033d8b33e8977f3bc74d28-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/thumb-b292132238033d8b33e8977f3bc74d28-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/thumb-b292132238033d8b33e8977f3bc74d28-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/thumb-b292132238033d8b33e8977f3bc74d28-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202639097\/thumbnail\/image-thumbnail-256-02a70ac09680616c69e8a0cfb6632753.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202639097\/thumbnail\/image-thumbnail-480-fcccb7bb0cdbef4202ee0fd18e212d34.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202639097\/thumbnail\/image-thumbnail-640-8a0be5dc4281e21b79e7833edbcdac65.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/202639097\/thumbnail\/image-thumbnail-1280-598d6e2fee5fffb8f6923a33b354f672.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/thumb-b292132238033d8b33e8977f3bc74d28-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639097\/thumbnail\/image-thumbnail-640-8a0be5dc4281e21b79e7833edbcdac65.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202639097\/18d5e\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "Quick Tip Tuesday: perfect lashes",
+    "description": null,
+    "referenceId": "a07c479d45a2c33a581befb4e4b06da8",
+    "date_created": "1537882491",
+    "date_modified": "1546466813",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "beauty",
+    "id": "178304583",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "quick-tip-tuesday-perfect-lashes",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "16",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "16",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/178304583\/fde6b\/thumb-a07c479d45a2c33a581befb4e4b06da8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/thumb-a07c479d45a2c33a581befb4e4b06da8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/thumb-a07c479d45a2c33a581befb4e4b06da8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/thumb-a07c479d45a2c33a581befb4e4b06da8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/thumb-a07c479d45a2c33a581befb4e4b06da8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/thumb-a07c479d45a2c33a581befb4e4b06da8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/thumb-a07c479d45a2c33a581befb4e4b06da8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178304583\/thumbnail\/image-thumbnail-256-6b468903f4782c25ae4d28703f174ef0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178304583\/thumbnail\/image-thumbnail-480-51dd769f4b60ce99d98a425a2b669bdf.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178304583\/thumbnail\/image-thumbnail-640-ae1c2048a77a982761a25f028704e3bf.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178304583\/thumbnail\/image-thumbnail-1280-bc439249f3cd807d5863a3db28cc3ab4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/thumb-a07c479d45a2c33a581befb4e4b06da8-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178304583\/thumbnail\/image-thumbnail-640-ae1c2048a77a982761a25f028704e3bf.jpg",
+        "type": "mp4",
+        "assetId": "178304583",
+        "assetTitle": "6D79D795-9177-49D2-B179-E9B5F14A3F36",
+        "assetTitleTextEncoded": "6d79d795-9177-49d2-b179-e9b5f14a3f36",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178304583",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178304583\/fde6b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Jimboomba Times",
+    "tvp_enhanced_transcript": null
+}

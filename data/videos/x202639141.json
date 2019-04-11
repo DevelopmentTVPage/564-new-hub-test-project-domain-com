@@ -1,0 +1,101 @@
+{
+    "title": "fragrance a perfect gift for valentine",
+    "description": "una fragancia siempre será un regalo perfecto  #Flowerbomb is a floral explosion by Viktor & Rolf . And #SiPassione, the new feminine fragrance by Giorgio Armani #macysstylecrew #macysstylecrewtv @macys #valentineday  as  link in my bio para hacer compras. #sherlyperry77",
+    "referenceId": "4796350c0b647ab53445e4c043b09c47",
+    "date_created": "1549998260",
+    "date_modified": "1549999637",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213731",
+    "product_category": null,
+    "id": "202639141",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fragrance-a-perfect-gift-for-valentine",
+    "category": "una fragancia siempre será un regalo perfecto  #Flowerbomb is a floral explosion by Viktor & Rolf . And #SiPassione, the new feminine fragrance by Giorgio Armani #macysstylecrew #macysstylecrewtv @macys #valentineday  as  link in my bio para hacer compras. #sherlyperry77",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "48",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "48",
+            "width": 720,
+            "height": 406
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "automaticThumbnailsPattern": "1759121\/202639141\/6672b\/thumb-4796350c0b647ab53445e4c043b09c47-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/thumb-4796350c0b647ab53445e4c043b09c47-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/thumb-4796350c0b647ab53445e4c043b09c47-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/thumb-4796350c0b647ab53445e4c043b09c47-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/thumb-4796350c0b647ab53445e4c043b09c47-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/thumb-4796350c0b647ab53445e4c043b09c47-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/thumb-4796350c0b647ab53445e4c043b09c47-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/202639141\/thumbnail\/image-thumbnail-256-34a1b7652dc5f505bbe1e7d8a74f405a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/202639141\/thumbnail\/image-thumbnail-480-afdaa9cd0bdd0cb63df736624d01f993.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/202639141\/thumbnail\/image-thumbnail-640-0aba28ade0e7e063a1d5a00307156077.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/thumb-4796350c0b647ab53445e4c043b09c47-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/202639141\/thumbnail\/image-thumbnail-640-0aba28ade0e7e063a1d5a00307156077.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/202639141\/6672b\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

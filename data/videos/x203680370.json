@@ -1,0 +1,100 @@
+{
+    "title": "How to Make Delicious Baked Mac & Cheese",
+    "description": "This super easy mac and cheese recipe was made possible by great cooking tools such as the Ayesha Curry Cookware collection. I love using her Porcelain Enamel Nonstick 5.5-qt Covered Straining Casserole. I love that I can prepare my noodles in this pot and also strain it in the same pot! Amazing time saver. In addition, because it's nonstick, I can prepare my cheese sauce in the same pot! This is a must have for any kitchen. ",
+    "referenceId": "554baab5c56c98fa7c5b28a5373cc1c5",
+    "date_created": "1550516533",
+    "date_modified": "1550516996",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": null,
+    "id": "203680370",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "how-to-make-delicious-baked-mac-cheese",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "211",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "211",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "211",
+        "prettyDuration": "00:03:31",
+        "automaticThumbnailsPattern": "1759121\/203680370\/5ff47\/thumb-554baab5c56c98fa7c5b28a5373cc1c5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203680370\/user-images\/image-1072-05796d7d36c75ed6bfcca2c51fab2ba1.jpg",
+            "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/thumb-554baab5c56c98fa7c5b28a5373cc1c5-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/thumb-554baab5c56c98fa7c5b28a5373cc1c5-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/thumb-554baab5c56c98fa7c5b28a5373cc1c5-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/thumb-554baab5c56c98fa7c5b28a5373cc1c5-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/thumb-554baab5c56c98fa7c5b28a5373cc1c5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203680370\/5ff47\/thumb-554baab5c56c98fa7c5b28a5373cc1c5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203680370\/thumbnail\/image-thumbnail-256-3b8fa7ca1db4fc5a010783a5aca4c4aa.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203680370\/thumbnail\/image-thumbnail-480-e989906ff68e3d3659614249914737a7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/203680370\/thumbnail\/image-thumbnail-640-62ebce3896fe2d3fc2a4b665139a59cc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203680370\/user-images\/image-1072-05796d7d36c75ed6bfcca2c51fab2ba1.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203680370\/thumbnail\/image-thumbnail-640-62ebce3896fe2d3fc2a4b665139a59cc.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "Kors Week",
+    "description": "Get 25% off Michael Kors Items now until December 10th",
+    "referenceId": "b7b276f384332cb8d49b3988438ecd9d",
+    "date_created": "1543712854",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213294",
+    "product_category": "women",
+    "id": "184744108",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "kors-week",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 45,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 45,
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": 45,
+        "prettyDuration": "00:00:45",
+        "automaticThumbnailsPattern": "1759121\/184744108\/5853a\/thumb-b7b276f384332cb8d49b3988438ecd9d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/thumb-b7b276f384332cb8d49b3988438ecd9d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/thumb-b7b276f384332cb8d49b3988438ecd9d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/thumb-b7b276f384332cb8d49b3988438ecd9d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/thumb-b7b276f384332cb8d49b3988438ecd9d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/thumb-b7b276f384332cb8d49b3988438ecd9d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/thumb-b7b276f384332cb8d49b3988438ecd9d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184744108\/thumbnail\/image-thumbnail-256-6526747f58d9cff7ced137830c0964ac.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/thumb-b7b276f384332cb8d49b3988438ecd9d-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184744108\/thumbnail\/image-thumbnail-256-6526747f58d9cff7ced137830c0964ac.jpg",
+        "type": "mp4",
+        "assetId": 184744108,
+        "assetTitle": "39434E96-16FE-4E25-8D28-3BAD122C8810",
+        "assetTitleTextEncoded": "39434e96-16fe-4e25-8d28-3bad122c8810",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184744108,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184744108\/5853a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

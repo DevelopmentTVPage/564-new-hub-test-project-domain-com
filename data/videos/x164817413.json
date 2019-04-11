@@ -1,0 +1,108 @@
+{
+    "title": "Dorthia Brown Macys Style Crew",
+    "description": "Women and Men Fashions",
+    "referenceId": "780edd360fcc69325870db4a7b54ffa7",
+    "date_created": "1528759547",
+    "date_modified": "1546466779",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "206",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213224",
+    "product_category": "men",
+    "id": "164817413",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dorthia-brown-macys-style-crew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "36",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "36",
+            "width": 872,
+            "height": 480
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164817413\/thumbnail\/image-thumbnail-640-73dc938d3386c3cfd3060516ac0fbbbf.jpg",
+        "type": "mp4",
+        "assetId": "164817413",
+        "assetTitle": "Dorthina 2f second video",
+        "assetTitleTextEncoded": "dorthina-2f-second-video",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164817413",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164817413\/3e4af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164817413\/3e4af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164817413\/3e4af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 470
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164817413\/3e4af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 352
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164817413\/3e4af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 176
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164817413\/3e4af\/thumb-780edd360fcc69325870db4a7b54ffa7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164817413\/user-images\/image-853-fc957fc86f683e51fa0bdaa03e047c75.jpg",
+            "\/\/v.tvpage.com\/1759121\/164817413\/3e4af\/thumb-780edd360fcc69325870db4a7b54ffa7-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164817413\/user-images\/image-853-fc957fc86f683e51fa0bdaa03e047c75.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164817413\/thumbnail\/image-thumbnail-256-9bd723260ec05dd6ba3d89f54c22071c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164817413\/thumbnail\/image-thumbnail-480-f11055d189b744d096b8597239b9d973.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164817413\/thumbnail\/image-thumbnail-640-73dc938d3386c3cfd3060516ac0fbbbf.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-23"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "FHRAI",
+    "tvp_enhanced_transcript": null
+}

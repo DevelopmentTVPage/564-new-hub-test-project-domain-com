@@ -1,0 +1,101 @@
+{
+    "title": "Suburban style Rachel Roy",
+    "description": "PJ dressing ",
+    "referenceId": "729b4230e6df1051d74d65e58edcd5f3",
+    "date_created": "1549586589",
+    "date_modified": "1549593242",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": null,
+    "id": "201556546",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "suburban-style-rachel-roy",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 6,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 6,
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/201556546\/cb492\/thumb-729b4230e6df1051d74d65e58edcd5f3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/thumb-729b4230e6df1051d74d65e58edcd5f3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/thumb-729b4230e6df1051d74d65e58edcd5f3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/thumb-729b4230e6df1051d74d65e58edcd5f3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/thumb-729b4230e6df1051d74d65e58edcd5f3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201556546\/thumbnail\/image-thumbnail-256-01ee8e5dad30ee8c3f01f41978f473df.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/thumb-729b4230e6df1051d74d65e58edcd5f3-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201556546\/thumbnail\/image-thumbnail-256-01ee8e5dad30ee8c3f01f41978f473df.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201556546\/cb492\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-10"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

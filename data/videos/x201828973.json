@@ -1,0 +1,105 @@
+{
+    "title": "Valentine's Day",
+    "description": "What better way to celebrate the holiday of love than with your favorite scent and the one you love! ",
+    "referenceId": "6f06f9842067d1acf483f8d59368927c",
+    "date_created": "1549664059",
+    "date_modified": "1550093902",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": null,
+    "id": "201828973",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "valentines-day",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 8,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 8,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 8,
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/201828973\/f5087\/thumb-6f06f9842067d1acf483f8d59368927c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201828973\/user-images\/image-937-ff21615fec0a6058a080973d322c7bd8.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/thumb-6f06f9842067d1acf483f8d59368927c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/thumb-6f06f9842067d1acf483f8d59368927c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/thumb-6f06f9842067d1acf483f8d59368927c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/thumb-6f06f9842067d1acf483f8d59368927c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/thumb-6f06f9842067d1acf483f8d59368927c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201828973\/thumbnail\/image-thumbnail-256-410f44a8708474ec67b09f61b5d1e323.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/201828973\/thumbnail\/image-thumbnail-480-20711a4e9ef3a8419a046cc482a63ea2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/201828973\/thumbnail\/image-thumbnail-640-fe7f672167648828e1d4622d823f80f9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201828973\/user-images\/image-937-ff21615fec0a6058a080973d322c7bd8.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201828973\/thumbnail\/image-thumbnail-640-fe7f672167648828e1d4622d823f80f9.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828973\/f5087\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-16"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

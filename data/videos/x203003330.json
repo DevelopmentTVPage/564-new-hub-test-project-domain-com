@@ -1,0 +1,98 @@
+{
+    "title": "Gucci Guilty",
+    "description": null,
+    "referenceId": "f330f1a0242a023de78006a703376e57",
+    "date_created": "1550192418",
+    "date_modified": "1550211504",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213689",
+    "product_category": null,
+    "id": "203003330",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "gucci-guilty",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 5,
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/203003330\/45fff\/thumb-f330f1a0242a023de78006a703376e57-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/thumb-f330f1a0242a023de78006a703376e57-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/thumb-f330f1a0242a023de78006a703376e57-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/thumb-f330f1a0242a023de78006a703376e57-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/203003330\/thumbnail\/image-thumbnail-256-1bb2e10349d4a25d6fda4661932cbda3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/203003330\/thumbnail\/image-thumbnail-480-96b503fc4112916c6fbb3873e24a229c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/203003330\/thumbnail\/image-thumbnail-640-178ec2b483b9ae55df724d58f7d22109.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/thumb-f330f1a0242a023de78006a703376e57-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/203003330\/thumbnail\/image-thumbnail-640-178ec2b483b9ae55df724d58f7d22109.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/203003330\/45fff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,106 @@
+{
+    "title": "My holiday journey | Dress nice to be with the family ",
+    "description": "We celebrated Christmas Eve and wait until 12 am to open all of the gifts. ",
+    "referenceId": "ba6b92efdc21bc259e5af5d0c41e2e75",
+    "date_created": "1545732275",
+    "date_modified": "1546466823",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213700",
+    "product_category": null,
+    "id": "191159657",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-dress-nice-to-be-with-the-family",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 30,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 30,
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/191159657\/b3bb9\/thumb-ba6b92efdc21bc259e5af5d0c41e2e75-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191159657\/user-images\/image-2208-721942e916786743e1abf1cf32af1a74.jpg",
+            "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/thumb-ba6b92efdc21bc259e5af5d0c41e2e75-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/thumb-ba6b92efdc21bc259e5af5d0c41e2e75-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/thumb-ba6b92efdc21bc259e5af5d0c41e2e75-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/thumb-ba6b92efdc21bc259e5af5d0c41e2e75-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/thumb-ba6b92efdc21bc259e5af5d0c41e2e75-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/thumb-ba6b92efdc21bc259e5af5d0c41e2e75-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191159657\/thumbnail\/image-thumbnail-256-7dbb8ddbe625c047cc730af66e0fc97e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191159657\/thumbnail\/image-thumbnail-480-c0d547295393f38cf5cd277d793566dd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191159657\/thumbnail\/image-thumbnail-640-df88893c2c655452e576e08da5437c95.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/191159657\/thumbnail\/image-thumbnail-1280-4ce158d4b39fcf8b249050b5417ab0ff.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/191159657\/thumbnail\/image-thumbnail-1920-a81d04826a4dd04d96d2ff306ff8ef0e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191159657\/user-images\/image-2208-721942e916786743e1abf1cf32af1a74.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191159657\/thumbnail\/image-thumbnail-640-df88893c2c655452e576e08da5437c95.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191159657\/b3bb9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

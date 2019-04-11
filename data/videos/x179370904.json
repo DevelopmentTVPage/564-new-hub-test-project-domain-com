@@ -1,0 +1,117 @@
+{
+    "title": "Fall Dress Event w\/ Nina Adgdal",
+    "description": "I had the privilege of interviewing Nina Agdal, the face of Kensie dresses, at our Fall Dress Event!",
+    "referenceId": "ab30425c713318a23359814f11e01cad",
+    "date_created": "1538770723",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "61",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213234",
+    "product_category": "women",
+    "id": "179370904",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fall-dress-event-w-nina-adgdal",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "71",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "71",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "automaticThumbnailsPattern": "1759121\/179370904\/97337\/thumb-ab30425c713318a23359814f11e01cad-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179370904\/user-images\/image-1080-4aad4f8957a57e8afe70573f49c0d0b8.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370904\/user-images\/image-1080-7381fc52b2561d581541153865e6a325.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370904\/97337\/thumb-ab30425c713318a23359814f11e01cad-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370904\/97337\/thumb-ab30425c713318a23359814f11e01cad-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370904\/97337\/thumb-ab30425c713318a23359814f11e01cad-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370904\/97337\/thumb-ab30425c713318a23359814f11e01cad-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370904\/97337\/thumb-ab30425c713318a23359814f11e01cad-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179370904\/97337\/thumb-ab30425c713318a23359814f11e01cad-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179370904\/thumbnail\/image-thumbnail-256-08efdbf26164473615b5bff233bb6b4d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179370904\/thumbnail\/image-thumbnail-480-52c7e6663507a546006613ca490195c0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179370904\/thumbnail\/image-thumbnail-640-1386c08267d9300b19c03e2f6343a6a8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179370904\/user-images\/image-1080-4aad4f8957a57e8afe70573f49c0d0b8.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179370904\/thumbnail\/image-thumbnail-640-1386c08267d9300b19c03e2f6343a6a8.jpg",
+        "type": "mp4",
+        "assetId": "179370904",
+        "assetTitle": "Macy’s Herald Square Fall Dress Event",
+        "assetTitleTextEncoded": "9f7af0f0-449f-4f8f-b5c9-f3722e67ff69",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179370904",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370904\/97337\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370904\/97337\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370904\/97337\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370904\/97337\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179370904\/97337\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

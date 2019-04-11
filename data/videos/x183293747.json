@@ -1,0 +1,118 @@
+{
+    "title": "Pant suit? Jumpsuit? FORGET THE DRESS!",
+    "description": "You don't always have to wear a dress to a formal or semi formal event, a pantsuit or jumpsuit can do the same thing and sometimes with more elegance! I absolutely love this new Adrianna Papell plus size one shoulder formal jumpsuit in emerald green. I threw on a few statement rings, a gold collar necklace and grabbed a matching green crocodile bag from Brahmin and I felt like a million bucks",
+    "referenceId": "d823a2ab060144ba41501c9da47792db",
+    "date_created": "1542059877",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "136",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "32",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "183293747",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "pant-suit-jumpsuit-forget-the-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/183293747\/e4b96\/thumb-d823a2ab060144ba41501c9da47792db-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183293747\/user-images\/image-5616-b806166ea1425494b368380e9926cac6.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/thumb-d823a2ab060144ba41501c9da47792db-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/thumb-d823a2ab060144ba41501c9da47792db-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/thumb-d823a2ab060144ba41501c9da47792db-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/thumb-d823a2ab060144ba41501c9da47792db-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/thumb-d823a2ab060144ba41501c9da47792db-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/thumb-d823a2ab060144ba41501c9da47792db-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183293747\/thumbnail\/image-thumbnail-256-cb36089f69a65753073a129127ca4b4d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183293747\/thumbnail\/image-thumbnail-480-8eafc38b0ddc118ea947a2961cbd9b1d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183293747\/thumbnail\/image-thumbnail-640-32f5f5a72c750242f398852394a84698.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/183293747\/thumbnail\/image-thumbnail-1280-b6e4ef2a23cf4f57db3ab0f0089fc354.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/183293747\/thumbnail\/image-thumbnail-1920-441a3c1fe99d7dafb04f27543be1ad43.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293747\/user-images\/image-5616-b806166ea1425494b368380e9926cac6.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183293747\/thumbnail\/image-thumbnail-640-32f5f5a72c750242f398852394a84698.jpg",
+        "type": "mp4",
+        "assetId": 183293747,
+        "assetTitle": "Pant suit? Jumpsuit? FORGET THE DRESS!",
+        "assetTitleTextEncoded": "jill-modeling-8-v3",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183293747,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183293747\/e4b96\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

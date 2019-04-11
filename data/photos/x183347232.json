@@ -1,0 +1,103 @@
+{
+    "title": "My Fall look @Macy’s Burbank store 504 Thanksgiving look. ",
+    "description": "Shoes by Franco Sarto.",
+    "referenceId": null,
+    "date_created": "1542138622",
+    "date_modified": "1546466793",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213283",
+    "id": "183347232",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "my-fall-look-macys-burbank-store-504-thanksgiving-look",
+    "linkUrl": null,
+    "category": "Shoes",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 2133,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-media--1200.jpeg?v=1542140204412"
+            },
+            {
+                "width": 1024,
+                "height": 1820,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-media--1024.jpeg?v=1542140204520"
+            },
+            {
+                "width": 1080,
+                "height": 1919,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-media--1080.jpeg?v=1542140205103"
+            },
+            {
+                "width": 960,
+                "height": 1706,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-media--960.jpeg?v=1542140204518"
+            },
+            {
+                "width": 640,
+                "height": 1137,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-media--640.jpeg?v=1542140205360"
+            },
+            {
+                "width": 600,
+                "height": 1066,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-media--600.jpeg?v=1542140204396"
+            },
+            {
+                "width": 256,
+                "height": 455,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-media--256.jpeg?v=1542140204714"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-thumbnail-640.jpeg?v=1542140205616"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-thumbnail-480.jpeg?v=1542140205600"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-thumbnail-256.jpeg?v=1542140205560"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-thumbnail-64.jpeg?v=1542140205558"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183347232\/image-thumbnail-640.jpeg?v=1542140205616",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

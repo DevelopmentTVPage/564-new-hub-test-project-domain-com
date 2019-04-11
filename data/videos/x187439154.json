@@ -1,0 +1,118 @@
+{
+    "title": "Streetwear- Just a Taste of Fashion",
+    "description": "Challenged myself to style streetwear pieces with a few new brands Macy's just launched. I am obsessed with the Artistix Turtleneck Sweater and the Starter matched set. Watch the full video to learn more!\nWeb IDs below:\nSweater: 7000869\nHoodie: 7193195\nJoggers: 7193196\nJacket: 7000860",
+    "referenceId": "bf2edbf20ad10ab3ca39dffcde784f0d",
+    "date_created": "1544392248",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "69",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "6",
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "187439154",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "streetwear-just-a-taste-of-fashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 147,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 147,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 147,
+        "prettyDuration": "00:02:27",
+        "automaticThumbnailsPattern": "1759121\/187439154\/600c5\/thumb-bf2edbf20ad10ab3ca39dffcde784f0d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/187439154\/user-images\/image-2975-6e6ff95e25d0f7c80bab63d14800f91c.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/thumb-bf2edbf20ad10ab3ca39dffcde784f0d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/thumb-bf2edbf20ad10ab3ca39dffcde784f0d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/thumb-bf2edbf20ad10ab3ca39dffcde784f0d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/thumb-bf2edbf20ad10ab3ca39dffcde784f0d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/thumb-bf2edbf20ad10ab3ca39dffcde784f0d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/thumb-bf2edbf20ad10ab3ca39dffcde784f0d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/187439154\/thumbnail\/image-thumbnail-256-009b43761886ed1904b6d41939b298b4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/187439154\/thumbnail\/image-thumbnail-480-4ace9b169a4bbf56ee1bb64131086d9d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/187439154\/thumbnail\/image-thumbnail-640-4a828df5e87443824d89df0a2748cedc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/187439154\/thumbnail\/image-thumbnail-1280-7e25c254512fa12581f09a789b5c08e3.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/187439154\/thumbnail\/image-thumbnail-1920-405c29ecca46bd64667027c1ee9d36b4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/187439154\/user-images\/image-2975-6e6ff95e25d0f7c80bab63d14800f91c.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/187439154\/thumbnail\/image-thumbnail-640-4a828df5e87443824d89df0a2748cedc.jpg",
+        "type": "mp4",
+        "assetId": 187439154,
+        "assetTitle": "Streetwear- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "6-streetwear-1080",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 187439154,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/187439154\/600c5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-15"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-12-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213694",
+    "first_name": "Akela",
+    "last_name": "Berry",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/234151682-0.3651293387636.jpg",
+        "job_title": "Sales Associate "
+    },
+    "last_login_timestamp": "1541339513",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-31 23:17:09",
+    "login_id": "1759121",
+    "user_id": "213694",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Akela Berry",
+    "profile_picture": "\/api\/canvas\/logo\/234151682-0.3651293387636.jpg",
+    "titleTextEncoded": "akela-berry",
+    "title": "Akela Berry",
+    "videos_count": "0"
+}

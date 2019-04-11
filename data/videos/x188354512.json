@@ -1,0 +1,112 @@
+{
+    "title": "Clinique",
+    "description": "New Clinique ID",
+    "referenceId": "abf2e2316e4e6b9a0445a734559d0bea",
+    "date_created": "1544848169",
+    "date_modified": "1546466827",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213752",
+    "product_category": "beauty",
+    "id": "188354512",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "clinique",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 18,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 18,
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/188354512\/51af1\/thumb-abf2e2316e4e6b9a0445a734559d0bea-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/thumb-abf2e2316e4e6b9a0445a734559d0bea-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/thumb-abf2e2316e4e6b9a0445a734559d0bea-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/thumb-abf2e2316e4e6b9a0445a734559d0bea-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/thumb-abf2e2316e4e6b9a0445a734559d0bea-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/thumb-abf2e2316e4e6b9a0445a734559d0bea-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/thumb-abf2e2316e4e6b9a0445a734559d0bea-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/188354512\/thumbnail\/image-thumbnail-256-617dfa38acdddb307b660637ae80eb25.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/188354512\/thumbnail\/image-thumbnail-480-93c4bded971b5e8e3aa789d1864ee355.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/thumb-abf2e2316e4e6b9a0445a734559d0bea-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/188354512\/thumbnail\/image-thumbnail-480-93c4bded971b5e8e3aa789d1864ee355.jpg",
+        "type": "mp4",
+        "assetId": 188354512,
+        "assetTitle": "78D9B156-7DBA-4BC6-A89A-3DB0096454F7",
+        "assetTitleTextEncoded": "78d9b156-7dba-4bc6-a89a-3db0096454f7",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 188354512,
+            "li": 1759121
+        },
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/188354512\/51af1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

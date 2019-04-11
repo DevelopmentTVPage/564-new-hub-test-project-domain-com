@@ -1,0 +1,21 @@
+{
+    "id": "213771",
+    "first_name": "Melissa",
+    "last_name": "Nowicki",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/629618035-0.2138422654010.jpg",
+        "job_title": "My Stylist Executive"
+    },
+    "last_login_timestamp": "1549826412",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-15 21:03:36",
+    "login_id": "1759121",
+    "user_id": "213771",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Melissa Nowicki",
+    "profile_picture": "\/api\/canvas\/logo\/629618035-0.2138422654010.jpg",
+    "titleTextEncoded": "melissa-nowicki",
+    "title": "Melissa Nowicki",
+    "videos_count": "2"
+}

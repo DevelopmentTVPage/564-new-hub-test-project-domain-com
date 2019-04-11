@@ -1,0 +1,115 @@
+{
+    "title": "Two cozy and trendy outfits for fall or warm winter days.",
+    "description": "The same coat  and boots but two different outfits.  This Double-Breasted Faux-Fur Teddy Coat from Kensie looks good with a midi sweater dress or with a sweater and jeans. Cozy, warm, and trendy all at the same time!",
+    "referenceId": "0aaf98b814e48bca71d23ae2cf26c03e",
+    "date_created": "1542581366",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": "women",
+    "id": "183829727",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "two-cozy-and-trendy-outfits-for-fall-or-warm-winter-days",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 47,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 47,
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": 47,
+        "prettyDuration": "00:00:47",
+        "automaticThumbnailsPattern": "1759121\/183829727\/df1af\/thumb-0aaf98b814e48bca71d23ae2cf26c03e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/thumb-0aaf98b814e48bca71d23ae2cf26c03e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/thumb-0aaf98b814e48bca71d23ae2cf26c03e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/thumb-0aaf98b814e48bca71d23ae2cf26c03e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/thumb-0aaf98b814e48bca71d23ae2cf26c03e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/thumb-0aaf98b814e48bca71d23ae2cf26c03e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/thumb-0aaf98b814e48bca71d23ae2cf26c03e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/183829727\/thumbnail\/image-thumbnail-256-2b2e88fa7c7eb342bc77274e8fd2633f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/183829727\/thumbnail\/image-thumbnail-480-2385e45ae1673ef22dcc6a9b5f867e4a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/183829727\/thumbnail\/image-thumbnail-640-a3d03665b16a18421e81f69318dd67f6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/thumb-0aaf98b814e48bca71d23ae2cf26c03e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/183829727\/thumbnail\/image-thumbnail-640-a3d03665b16a18421e81f69318dd67f6.jpg",
+        "type": "mp4",
+        "assetId": 183829727,
+        "assetTitle": "My Movie. Fall",
+        "assetTitleTextEncoded": "my-movie-fall",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 183829727,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/183829727\/df1af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

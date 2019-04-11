@@ -1,0 +1,115 @@
+{
+    "title": "Plus size casual Leopard print outfit, inspired by the concrete jungle",
+    "description": "Animal print comes in all shapes and sizes and color, but when I'm running around the city on the weekends, this New York Collection Sweater is perfect to throw on with a cute t-shirt and a great pair of casual pants, like these olive green joggers from Style and Co. Make sure to grab a stand out accessory too, I recommend a red handbag",
+    "referenceId": "514e62658a1a11e0cc107d45c80848f6",
+    "date_created": "1541624230",
+    "date_modified": "1546466825",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "105",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "182745182",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "plus-size-casual-leopard-print-outfit-inspired-by-the-concrete-jungle",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 12,
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/182745182\/0608f\/thumb-514e62658a1a11e0cc107d45c80848f6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182745182\/user-images\/image-3744-49754c73ed16f169321907b807b812ff.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/thumb-514e62658a1a11e0cc107d45c80848f6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/thumb-514e62658a1a11e0cc107d45c80848f6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/thumb-514e62658a1a11e0cc107d45c80848f6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/thumb-514e62658a1a11e0cc107d45c80848f6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/thumb-514e62658a1a11e0cc107d45c80848f6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/thumb-514e62658a1a11e0cc107d45c80848f6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182745182\/thumbnail\/image-thumbnail-256-54eecb5c3fa79a8dc07b2eb64d8e09c7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182745182\/thumbnail\/image-thumbnail-480-bc841a7e96dcc09544257132c720e73c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182745182\/thumbnail\/image-thumbnail-640-abac1e2de01442e51483c3ff1b0bb03c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182745182\/thumbnail\/image-thumbnail-1280-51d8843a7917ec9a167a3d4b937e5755.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/182745182\/thumbnail\/image-thumbnail-1920-1feb629f2f9b866ee58969a115dbdd66.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182745182\/user-images\/image-3744-49754c73ed16f169321907b807b812ff.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182745182\/thumbnail\/image-thumbnail-640-abac1e2de01442e51483c3ff1b0bb03c.jpg",
+        "type": "mp4",
+        "assetId": 182745182,
+        "assetTitle": "Plus size casual Leopard print outfit, inspired by the concrete jungle",
+        "assetTitleTextEncoded": "jill-modeling-1-v3",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182745182,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182745182\/0608f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

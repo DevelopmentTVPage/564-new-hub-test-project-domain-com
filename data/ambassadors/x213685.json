@@ -1,0 +1,21 @@
+{
+    "id": "213685",
+    "first_name": "Rita",
+    "last_name": "Solo",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/634412794-0.3593759551644.jpg",
+        "job_title": "Full time sales assocate "
+    },
+    "last_login_timestamp": "1542668689",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-31 21:35:06",
+    "login_id": "1759121",
+    "user_id": "213685",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Rita Solo",
+    "profile_picture": "\/api\/canvas\/logo\/634412794-0.3593759551644.jpg",
+    "titleTextEncoded": "rita-solo",
+    "title": "Rita Solo",
+    "videos_count": "0"
+}

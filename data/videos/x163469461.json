@@ -1,0 +1,107 @@
+{
+    "title": "Celebrating INC Concepts with style! ?",
+    "description": "Great styles for every occasion! We’re celebrating INC and we look great doing so!",
+    "referenceId": "0d7795efc337a71b8be461b6705a93f0",
+    "date_created": "1525633049",
+    "date_modified": "1546466770",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "42",
+    "engagement_score": "37",
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213269",
+    "product_category": null,
+    "id": "163469461",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "celebrating-inc-concepts-with-style",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163469461\/thumbnail\/image-thumbnail-480-89084528f60fd5eb9fb58a2760ef1c44.jpg",
+        "type": "mp4",
+        "assetId": "163469461",
+        "assetTitle": "26B3178E 0D83-4E12-ABE4-CD379BEEDAD6",
+        "assetTitleTextEncoded": "26b3178e-0d83-4e12-abe4-cd379beedad6",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163469461",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469461\/38117\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469461\/38117\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469461\/38117\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469461\/38117\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469461\/38117\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/163469461\/38117\/thumb-0d7795efc337a71b8be461b6705a93f0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/163469461\/user-images\/image-608-23daeaa8cc01af8658b63446ab60b24f.jpg",
+            "\/\/v.tvpage.com\/1759121\/163469461\/38117\/thumb-0d7795efc337a71b8be461b6705a93f0-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/163469461\/user-images\/image-608-23daeaa8cc01af8658b63446ab60b24f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/163469461\/thumbnail\/image-thumbnail-256-803dbc5b705ba2de73c4ea84a0425224.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/163469461\/thumbnail\/image-thumbnail-480-89084528f60fd5eb9fb58a2760ef1c44.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-11-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

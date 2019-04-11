@@ -1,0 +1,113 @@
+{
+    "title": "Lipault’s Miss Plume Collection",
+    "description": "Lightweight stylish and functional carry-on suitcases and bags.",
+    "referenceId": "47d8a32cf4905e0f99f6c872e9d0a562",
+    "date_created": "1541438017",
+    "date_modified": "1546466828",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": "home",
+    "id": "182045879",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lipaults-miss-plume-collection",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 13,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 13,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 13,
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/182045879\/8b19f\/thumb-47d8a32cf4905e0f99f6c872e9d0a562-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/thumb-47d8a32cf4905e0f99f6c872e9d0a562-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/thumb-47d8a32cf4905e0f99f6c872e9d0a562-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/thumb-47d8a32cf4905e0f99f6c872e9d0a562-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/thumb-47d8a32cf4905e0f99f6c872e9d0a562-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/thumb-47d8a32cf4905e0f99f6c872e9d0a562-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/thumb-47d8a32cf4905e0f99f6c872e9d0a562-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182045879\/thumbnail\/image-thumbnail-256-bda916e6c6c1d0617b37d148a52bacf5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182045879\/thumbnail\/image-thumbnail-480-8737437c9ee6045b5ea8cde066898a8e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182045879\/thumbnail\/image-thumbnail-640-cb65e67f4c2dedf85b1990314edeaa67.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182045879\/thumbnail\/image-thumbnail-1280-8b954804b9c25f0bf9ebe2846f0bed19.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/thumb-47d8a32cf4905e0f99f6c872e9d0a562-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182045879\/thumbnail\/image-thumbnail-640-cb65e67f4c2dedf85b1990314edeaa67.jpg",
+        "type": "mp4",
+        "assetId": 182045879,
+        "assetTitle": "Lipault’s Miss Plume Collection",
+        "assetTitleTextEncoded": "242335da-b42c-4828-85a5-c5df705306bf",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182045879,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182045879\/8b19f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

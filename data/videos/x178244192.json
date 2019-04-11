@@ -1,0 +1,111 @@
+{
+    "title": "Boots fir Fall",
+    "description": "Boots INC Alfani Michael Kors week\nLucky",
+    "referenceId": "70b7fc5251d00c58cb56b9b2e2fd9c63",
+    "date_created": "1537704516",
+    "date_modified": "1546466822",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "82",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213303",
+    "product_category": "women",
+    "id": "178244192",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "boots-fir-fall",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "32",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "automaticThumbnailsPattern": "1759121\/178244192\/c862b\/thumb-70b7fc5251d00c58cb56b9b2e2fd9c63-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/thumb-70b7fc5251d00c58cb56b9b2e2fd9c63-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/thumb-70b7fc5251d00c58cb56b9b2e2fd9c63-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/thumb-70b7fc5251d00c58cb56b9b2e2fd9c63-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/thumb-70b7fc5251d00c58cb56b9b2e2fd9c63-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/thumb-70b7fc5251d00c58cb56b9b2e2fd9c63-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/thumb-70b7fc5251d00c58cb56b9b2e2fd9c63-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178244192\/thumbnail\/image-thumbnail-256-b84cee36b7ce4c732c78d4ceab7bed77.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178244192\/thumbnail\/image-thumbnail-480-96c2182acaa864b96b915da40d508629.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/thumb-70b7fc5251d00c58cb56b9b2e2fd9c63-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178244192\/thumbnail\/image-thumbnail-480-96c2182acaa864b96b915da40d508629.jpg",
+        "type": "mp4",
+        "assetId": 178244192,
+        "assetTitle": "Boots fir Fall",
+        "assetTitleTextEncoded": "0d9a3b3e-e50e-409f-962d-ccedf34f252e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 178244192,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178244192\/c862b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

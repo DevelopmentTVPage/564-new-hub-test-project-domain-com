@@ -1,0 +1,107 @@
+{
+    "title": "My holiday journey: A weekend in the Macy’s Northridge Spa! ",
+    "description": "Come on a skin care adventure with me during our Lancome Private Spa event at Macy’s Northridge Spa! Music provided by InShot. ",
+    "referenceId": "a24053046e5bff137d8fd5931f75a719",
+    "date_created": "1545842400",
+    "date_modified": "1546466800",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213865",
+    "product_category": null,
+    "id": "191457178",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-holiday-journey-a-weekend-in-the-macys-northridge-spa",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 177,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 177,
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": 177,
+        "prettyDuration": "00:02:57",
+        "automaticThumbnailsPattern": "1759121\/191457178\/93de8\/thumb-a24053046e5bff137d8fd5931f75a719-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/191457178\/user-images\/image-1280-e06452e2ab58d34c35bcd6cb9dd1e045.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/thumb-a24053046e5bff137d8fd5931f75a719-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/thumb-a24053046e5bff137d8fd5931f75a719-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/thumb-a24053046e5bff137d8fd5931f75a719-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/thumb-a24053046e5bff137d8fd5931f75a719-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/thumb-a24053046e5bff137d8fd5931f75a719-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/thumb-a24053046e5bff137d8fd5931f75a719-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/191457178\/thumbnail\/image-thumbnail-256-9300d43624254fab4465bd6ae9fefb30.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/191457178\/thumbnail\/image-thumbnail-480-4adda0011011b7f3ef9209397481ef45.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/191457178\/thumbnail\/image-thumbnail-640-553a4632fd04e687fc0919d8ccdbe1b4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/191457178\/thumbnail\/image-thumbnail-1280-95087f46cb62465f0eedb1f6f721a878.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/191457178\/user-images\/image-1280-e06452e2ab58d34c35bcd6cb9dd1e045.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/191457178\/thumbnail\/image-thumbnail-640-553a4632fd04e687fc0919d8ccdbe1b4.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/191457178\/93de8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

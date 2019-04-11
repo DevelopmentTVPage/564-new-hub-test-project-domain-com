@@ -1,0 +1,116 @@
+{
+    "title": "COMING SOON!!!!!",
+    "description": "This is the most colorful tarteist palette which is coming soon to Macy’s!!! Keep your eyes on my page for current updates!",
+    "referenceId": "3abf9e454927fa71337b6f3182050daa",
+    "date_created": "1541561072",
+    "date_modified": "1546466797",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "182632573",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "coming-soon",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 27,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 27,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 27,
+        "prettyDuration": "00:00:27",
+        "automaticThumbnailsPattern": "1759121\/182632573\/93442\/thumb-3abf9e454927fa71337b6f3182050daa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/182632573\/93442\/thumb-3abf9e454927fa71337b6f3182050daa-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/182632573\/93442\/thumb-3abf9e454927fa71337b6f3182050daa-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/182632573\/93442\/thumb-3abf9e454927fa71337b6f3182050daa-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/182632573\/93442\/thumb-3abf9e454927fa71337b6f3182050daa-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/182632573\/93442\/thumb-3abf9e454927fa71337b6f3182050daa-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/182632573\/93442\/thumb-3abf9e454927fa71337b6f3182050daa-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/182632573\/thumbnail\/image-thumbnail-256-c93b43b7530b122cd2170f86db6964b7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/182632573\/thumbnail\/image-thumbnail-480-4779e4e4057539f0427225a64c5bfcd4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/182632573\/thumbnail\/image-thumbnail-640-6b2b1b38ca34a876ee0d08e4bb3839f9.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/182632573\/thumbnail\/image-thumbnail-1280-11d879bb6149e114cd40859ca8d065fc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/182632573\/93442\/thumb-3abf9e454927fa71337b6f3182050daa-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/182632573\/thumbnail\/image-thumbnail-640-6b2b1b38ca34a876ee0d08e4bb3839f9.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/182632573\/93442\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/182632573\/93442\/media.m3u8",
+        "uploadAsset": false,
+        "assetId": 182632573,
+        "assetTitle": "Tarte Makeup",
+        "assetTitleTextEncoded": "33180348-e156-4727-bc01-3c23fd07291e",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 182632573,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182632573\/93442\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182632573\/93442\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182632573\/93442\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182632573\/93442\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/182632573\/93442\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

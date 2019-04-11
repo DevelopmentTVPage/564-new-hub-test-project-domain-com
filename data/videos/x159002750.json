@@ -1,0 +1,106 @@
+{
+    "title": "Travel 101 Delsey Suitcases",
+    "description": "Features and benefits of Delsey Suitcases.",
+    "referenceId": "e420994670f5e25ffd3f08046072311a",
+    "date_created": "1523663067",
+    "date_modified": "1546466764",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "49",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": "5",
+    "video_type": null,
+    "user_id": "35",
+    "product_category": null,
+    "id": "159002750",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "travel-101-delsey-suitcases",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "91",
+    "settings": null,
+    "asset": {
+        "user": {},
+        "videoMeta": {
+            "duration": "91",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "91",
+        "prettyDuration": "00:01:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/159002750\/thumbnail\/image-thumbnail-640-7c6984513b6b887ab9f5e3bc048e8746.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159002750\/8a2e0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159002750\/8a2e0\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002750\/8a2e0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002750\/8a2e0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002750\/8a2e0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002750\/8a2e0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002750\/8a2e0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/159002750\/8a2e0\/thumb-e420994670f5e25ffd3f08046072311a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/159002750\/user-images\/image-853-226e9c83aa4182025c85fdd39880a9f4.jpg",
+            "\/\/v.tvpage.com\/1759121\/159002750\/8a2e0\/thumb-e420994670f5e25ffd3f08046072311a-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/159002750\/user-images\/image-853-226e9c83aa4182025c85fdd39880a9f4.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/159002750\/thumbnail\/image-thumbnail-256-87b4cc0bfe950d7330b1598af519397d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/159002750\/thumbnail\/image-thumbnail-480-c75c1d42f61317d8232c8f2c8dd77ead.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/159002750\/thumbnail\/image-thumbnail-640-7c6984513b6b887ab9f5e3bc048e8746.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-23"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-07"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

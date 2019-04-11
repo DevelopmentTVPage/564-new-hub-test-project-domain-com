@@ -1,0 +1,21 @@
+{
+    "id": "213813",
+    "first_name": "Amanda",
+    "last_name": "Natalicchio",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/302983971-0.6756045083981.jpg",
+        "job_title": "Associate Project Manager"
+    },
+    "last_login_timestamp": "1547759684",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-29 21:02:28",
+    "login_id": "1759121",
+    "user_id": "213813",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Amanda Natalicchio",
+    "profile_picture": "\/api\/canvas\/logo\/302983971-0.6756045083981.jpg",
+    "titleTextEncoded": "amanda-natalicchio",
+    "title": "Amanda Natalicchio",
+    "videos_count": "4"
+}

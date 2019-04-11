@@ -1,0 +1,105 @@
+{
+    "title": "Animal print is all around us again these days!",
+    "description": " If you are just starting to wear animal print , you had better start\nwith small additions, such as accessories.",
+    "referenceId": "06feab70cde06fcfce5025a1934866b1",
+    "date_created": "1547494616",
+    "date_modified": "1547511270",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": null,
+    "id": "197956171",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "animal-print-is-all-around-us-again-these-days",
+    "category": "Women",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 15,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 15,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/197956171\/7bc77\/thumb-06feab70cde06fcfce5025a1934866b1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/thumb-06feab70cde06fcfce5025a1934866b1-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/thumb-06feab70cde06fcfce5025a1934866b1-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/thumb-06feab70cde06fcfce5025a1934866b1-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/thumb-06feab70cde06fcfce5025a1934866b1-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/thumb-06feab70cde06fcfce5025a1934866b1-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/thumb-06feab70cde06fcfce5025a1934866b1-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/197956171\/thumbnail\/image-thumbnail-256-5e4aee2545dde20c8be55fc0d3263a45.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/197956171\/thumbnail\/image-thumbnail-480-ff45cc3d3b410315fbbe215ba23e286a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/thumb-06feab70cde06fcfce5025a1934866b1-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/197956171\/thumbnail\/image-thumbnail-480-ff45cc3d3b410315fbbe215ba23e286a.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/media.m3u8",
+        "uploadAsset": false,
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/197956171\/7bc77\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

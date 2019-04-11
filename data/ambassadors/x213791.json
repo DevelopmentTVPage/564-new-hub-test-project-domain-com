@@ -1,0 +1,21 @@
+{
+    "id": "213791",
+    "first_name": "Jennifer",
+    "last_name": "Uno",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Project Coordinator"
+    },
+    "last_login_timestamp": "1543528825",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-29 14:32:56",
+    "login_id": "1759121",
+    "user_id": "213791",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jennifer Uno",
+    "profile_picture": null,
+    "titleTextEncoded": "jennifer-uno",
+    "title": "Jennifer Uno",
+    "videos_count": "0"
+}

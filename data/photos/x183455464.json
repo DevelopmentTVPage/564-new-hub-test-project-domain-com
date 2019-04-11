@@ -1,0 +1,97 @@
+{
+    "title": "Double Wear Foundation ",
+    "description": "Matte Finish\nMedium to Full coverage \n24 hour wear. Comfortable, transfer and humidity resistant. Oil free ",
+    "referenceId": null,
+    "date_created": "1542304607",
+    "date_modified": "1546466828",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213650",
+    "id": "183455464",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "double-wear-foundation",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1024,
+                "height": 992,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-media--1024.jpeg?v=1542304611667"
+            },
+            {
+                "width": 1080,
+                "height": 1046,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-media--1080.jpeg?v=1542304611686"
+            },
+            {
+                "width": 960,
+                "height": 930,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-media--960.jpeg?v=1542304611946"
+            },
+            {
+                "width": 640,
+                "height": 620,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-media--640.jpeg?v=1542304611611"
+            },
+            {
+                "width": 600,
+                "height": 581,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-media--600.jpeg?v=1542304611619"
+            },
+            {
+                "width": 256,
+                "height": 248,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-media--256.jpeg?v=1542304611819"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-thumbnail-640.jpeg?v=1542304612181"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-thumbnail-480.jpeg?v=1542304612172"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-thumbnail-256.jpeg?v=1542304612159"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-thumbnail-64.jpeg?v=1542304612162"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/183455464\/image-thumbnail-640.jpeg?v=1542304612181",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

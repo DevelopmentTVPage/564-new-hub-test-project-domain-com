@@ -1,0 +1,21 @@
+{
+    "id": "213661",
+    "first_name": "Christina",
+    "last_name": "Ma",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/303290831-0.5537976873572.jpg",
+        "job_title": "Business Process Manager"
+    },
+    "last_login_timestamp": "1539860743",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-12 13:13:30",
+    "login_id": "1759121",
+    "user_id": "213661",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Christina Ma",
+    "profile_picture": "\/api\/canvas\/logo\/303290831-0.5537976873572.jpg",
+    "titleTextEncoded": "christina-ma",
+    "title": "Christina Ma",
+    "videos_count": "0"
+}

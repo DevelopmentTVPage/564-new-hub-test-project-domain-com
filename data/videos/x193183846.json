@@ -1,0 +1,107 @@
+{
+    "title": "A Sunday in Stripes",
+    "description": "Weekends are for catching up in so many different ways; catching up with friends, catching up on chores, or catching up on your favorite hobbies! When I'm out and about I like to be comfortable and cute and this Rachel Roy plus size striped set is perfect for just that! I threw on my favorite Steve madden boots and Vince Camuto jacket to complete my look and it was perfect for a Sunday in New York City",
+    "referenceId": "3b432c7d941490896c125c324ee4d951",
+    "date_created": "1546866141",
+    "date_modified": "1547058253",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "126",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "95",
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": null,
+    "id": "193183846",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a-sunday-in-stripes",
+    "category": "Women",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 19,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 19,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 19,
+        "prettyDuration": "00:00:19",
+        "automaticThumbnailsPattern": "1759121\/193183846\/59671\/thumb-3b432c7d941490896c125c324ee4d951-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/193183846\/59671\/thumb-3b432c7d941490896c125c324ee4d951-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/193183846\/59671\/thumb-3b432c7d941490896c125c324ee4d951-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/193183846\/59671\/thumb-3b432c7d941490896c125c324ee4d951-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/193183846\/59671\/thumb-3b432c7d941490896c125c324ee4d951-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/193183846\/59671\/thumb-3b432c7d941490896c125c324ee4d951-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/193183846\/59671\/thumb-3b432c7d941490896c125c324ee4d951-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/193183846\/thumbnail\/image-thumbnail-256-b6305ffb9d716f46e4dc7205c70e1b79.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/193183846\/thumbnail\/image-thumbnail-480-3571f62d595f72299e28a9df1b1295c0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/193183846\/thumbnail\/image-thumbnail-640-36f55c0b0d11792541530f3ff53efff5.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/193183846\/thumbnail\/image-thumbnail-1280-22755175348476edd0e2a586be95ebfc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/193183846\/59671\/thumb-3b432c7d941490896c125c324ee4d951-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/193183846\/thumbnail\/image-thumbnail-640-36f55c0b0d11792541530f3ff53efff5.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193183846\/59671\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193183846\/59671\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193183846\/59671\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193183846\/59671\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/193183846\/59671\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-20"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-01-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

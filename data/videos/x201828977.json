@@ -1,0 +1,101 @@
+{
+    "title": "Morning Routine",
+    "description": "Winter Beauty Picks!",
+    "referenceId": "42a5f3b44c05d963fe0d9e0beeebaaf3",
+    "date_created": "1549664615",
+    "date_modified": "1549664779",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213817",
+    "product_category": null,
+    "id": "201828977",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "morning-routine",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/201828977\/3050a\/thumb-42a5f3b44c05d963fe0d9e0beeebaaf3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/thumb-42a5f3b44c05d963fe0d9e0beeebaaf3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/thumb-42a5f3b44c05d963fe0d9e0beeebaaf3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/thumb-42a5f3b44c05d963fe0d9e0beeebaaf3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/201828977\/thumbnail\/image-thumbnail-256-aaf72b78400b1222dd4941b5fbf94c3f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/201828977\/thumbnail\/image-thumbnail-480-3e9102dcbe33529df6677cb53e869ce6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/thumb-42a5f3b44c05d963fe0d9e0beeebaaf3-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/201828977\/thumbnail\/image-thumbnail-480-3e9102dcbe33529df6677cb53e869ce6.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/201828977\/3050a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

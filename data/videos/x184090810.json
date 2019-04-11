@@ -1,0 +1,113 @@
+{
+    "title": "Black Friday Madness  sales in home department.",
+    "description": "Great sales in home department under 20$ and some as low as 7.99$ after rebates.",
+    "referenceId": "6ff59f20612f672898ec1589ea1a5ab6",
+    "date_created": "1542863826",
+    "date_modified": "1546466795",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213699",
+    "product_category": "home",
+    "id": "184090810",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-madness-sales-in-home-department",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 36,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 36,
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": 36,
+        "prettyDuration": "00:00:36",
+        "automaticThumbnailsPattern": "1759121\/184090810\/8160e\/thumb-6ff59f20612f672898ec1589ea1a5ab6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/thumb-6ff59f20612f672898ec1589ea1a5ab6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/thumb-6ff59f20612f672898ec1589ea1a5ab6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/thumb-6ff59f20612f672898ec1589ea1a5ab6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/thumb-6ff59f20612f672898ec1589ea1a5ab6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/thumb-6ff59f20612f672898ec1589ea1a5ab6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/thumb-6ff59f20612f672898ec1589ea1a5ab6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184090810\/thumbnail\/image-thumbnail-256-e86e079aaf6b155b96be97f729a12f89.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184090810\/thumbnail\/image-thumbnail-480-c24cf895e9b553c1c7a587358a7a4d95.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184090810\/thumbnail\/image-thumbnail-640-346ac83415909e9076cb73577a30cf29.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/184090810\/thumbnail\/image-thumbnail-1280-568a860ffac9c86526f6fb33df43b488.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/thumb-6ff59f20612f672898ec1589ea1a5ab6-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184090810\/thumbnail\/image-thumbnail-640-346ac83415909e9076cb73577a30cf29.jpg",
+        "type": "mp4",
+        "assetId": 184090810,
+        "assetTitle": "239A4F99-EE4B-4D54-84E3-CDAF1335B635",
+        "assetTitleTextEncoded": "239a4f99-ee4b-4d54-84e3-cdaf1335b635",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184090810,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184090810\/8160e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

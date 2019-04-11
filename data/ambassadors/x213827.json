@@ -1,0 +1,21 @@
+{
+    "id": "213827",
+    "first_name": "Logan",
+    "last_name": "Pancake",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/639920540-0.2263823272194.jpg",
+        "job_title": "Wedding and Gift Registry Advisor"
+    },
+    "last_login_timestamp": "1550594836",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-11-30 19:06:51",
+    "login_id": "1759121",
+    "user_id": "213827",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Logan Pancake",
+    "profile_picture": "\/api\/canvas\/logo\/639920540-0.2263823272194.jpg",
+    "titleTextEncoded": "logan-pancake",
+    "title": "Logan Pancake",
+    "videos_count": "3"
+}

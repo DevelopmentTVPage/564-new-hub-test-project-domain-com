@@ -1,0 +1,120 @@
+{
+    "title": "Black Friday Madness",
+    "description": "Doorbusters for Black Friday",
+    "referenceId": "b250c3ff6469aa2a0e144fc8e0fe7fe7",
+    "date_created": "1542956614",
+    "date_modified": "1546466792",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": null,
+    "id": "184214091",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-friday-madness",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 58,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 58,
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": 58,
+        "prettyDuration": "00:00:58",
+        "automaticThumbnailsPattern": "1759121\/184214091\/77546\/thumb-b250c3ff6469aa2a0e144fc8e0fe7fe7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1080-407ee410d2fd8a8ac994ac3c6f0a4e06.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1960-a72550c836a178f6cf488d33cbb88ee3.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1960-bf46765424d33f8b418402a321179ea5.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1960-e4abcab470e7112f6bd8a2826607a683.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1960-6756d3c930351aeb518c9f8a75906a35.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1959-37bc157530aeff473c0bf7a8367df96d.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1960-a306a9c38642be0353b1fcf70b1a8994.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1960-d6e8c1829d4a57678f8b91f8bda640c0.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/77546\/thumb-b250c3ff6469aa2a0e144fc8e0fe7fe7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/77546\/thumb-b250c3ff6469aa2a0e144fc8e0fe7fe7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/77546\/thumb-b250c3ff6469aa2a0e144fc8e0fe7fe7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/77546\/thumb-b250c3ff6469aa2a0e144fc8e0fe7fe7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/77546\/thumb-b250c3ff6469aa2a0e144fc8e0fe7fe7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/184214091\/77546\/thumb-b250c3ff6469aa2a0e144fc8e0fe7fe7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/184214091\/thumbnail\/image-thumbnail-256-89012e668ff120b323e5dc9345947857.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/184214091\/thumbnail\/image-thumbnail-480-08674c1da83204c6caa5766838fcad0d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/184214091\/thumbnail\/image-thumbnail-640-0a8dbe3dec1feeca33a91b5e10cec763.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214091\/user-images\/image-1080-407ee410d2fd8a8ac994ac3c6f0a4e06.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/184214091\/thumbnail\/image-thumbnail-640-0a8dbe3dec1feeca33a91b5e10cec763.jpg",
+        "type": "mp4",
+        "assetId": 184214091,
+        "assetTitle": "2018-11-23-1-0-32",
+        "assetTitleTextEncoded": "2018-11-23-1-0-32",
+        "loginId": 1759121,
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 184214091,
+            "li": 1759121
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214091\/77546\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214091\/77546\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214091\/77546\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214091\/77546\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/184214091\/77546\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-12-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,111 @@
+{
+    "title": "MACYSSTYLECREW DORTHIABROWN",
+    "description": "Dress; Garcia, Pants; Tommy Hilfilger; Scarf, Calvin Klein, Hand Bag, Expressions, Earrings; Adrienne V.",
+    "referenceId": "95348639ef5f8a056fb6a2c11604588e",
+    "date_created": "1537766285",
+    "date_modified": "1546466790",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213224",
+    "product_category": "women",
+    "id": "178266042",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macysstylecrew-dorthiabrown",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "40",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "automaticThumbnailsPattern": "1759121\/178266042\/59fb3\/thumb-95348639ef5f8a056fb6a2c11604588e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/thumb-95348639ef5f8a056fb6a2c11604588e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/thumb-95348639ef5f8a056fb6a2c11604588e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/thumb-95348639ef5f8a056fb6a2c11604588e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/thumb-95348639ef5f8a056fb6a2c11604588e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/thumb-95348639ef5f8a056fb6a2c11604588e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/thumb-95348639ef5f8a056fb6a2c11604588e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178266042\/thumbnail\/image-thumbnail-256-0515a8130d1dbcecd569162bbea15198.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178266042\/thumbnail\/image-thumbnail-480-efb92b51a30f9a9160f3a320844a1374.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/thumb-95348639ef5f8a056fb6a2c11604588e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178266042\/thumbnail\/image-thumbnail-480-efb92b51a30f9a9160f3a320844a1374.jpg",
+        "type": "mp4",
+        "assetId": "178266042",
+        "assetTitle": "20180923_194312",
+        "assetTitleTextEncoded": "20180923-194312",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178266042",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178266042\/59fb3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "Jacqueline Palmer \/ The world of Dior",
+    "description": "The newest Fragerance from Dior! Check out JOY??Dior has great color to pair with this seasons fashions #dior #diorjoy #beauty #macysstylecrew #macysbeauty #macysmystylist",
+    "referenceId": "d42e4edcc840939843bba38e6aba2ec9",
+    "date_created": "1539191071",
+    "date_modified": "1546466818",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "beauty",
+    "id": "179733135",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jacqueline-palmer-the-world-of-dior",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "72",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "72",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "automaticThumbnailsPattern": "1759121\/179733135\/4eb2d\/thumb-d42e4edcc840939843bba38e6aba2ec9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/thumb-d42e4edcc840939843bba38e6aba2ec9-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/thumb-d42e4edcc840939843bba38e6aba2ec9-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/thumb-d42e4edcc840939843bba38e6aba2ec9-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/thumb-d42e4edcc840939843bba38e6aba2ec9-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/thumb-d42e4edcc840939843bba38e6aba2ec9-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/thumb-d42e4edcc840939843bba38e6aba2ec9-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/179733135\/thumbnail\/image-thumbnail-256-81438253942746c2927e5658ebcf02a5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/179733135\/thumbnail\/image-thumbnail-480-9915631716546b670fc0f5e4c928c21d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/179733135\/thumbnail\/image-thumbnail-640-1a9b9fc0cf7e845577012b461044290a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/179733135\/thumbnail\/image-thumbnail-1280-40a2fc542534a75655ef0b2cb07c2c6a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/thumb-d42e4edcc840939843bba38e6aba2ec9-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/179733135\/thumbnail\/image-thumbnail-640-1a9b9fc0cf7e845577012b461044290a.jpg",
+        "type": "mp4",
+        "assetId": "179733135",
+        "assetTitle": "AFEFF445-62AF-41E6-9379-D89A670C252A",
+        "assetTitleTextEncoded": "afeff445-62af-41e6-9379-d89a670c252a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "179733135",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/179733135\/4eb2d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-11-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

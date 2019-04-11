@@ -1,0 +1,106 @@
+{
+    "title": "Chanel Chance Parfum",
+    "description": "“A constellation of enveloping notes. A dazzling fruity-floral fragrance with a radiant heart of Jasmine Absolute and Rose Essence. An intensified whirlwind of tenderness, a new interpretation of CHANCE.“- Chanel",
+    "referenceId": "fede8e786a0a0da8edfada96c53e48bb",
+    "date_created": "1548894190",
+    "date_modified": "1548898356",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": null,
+    "id": "200608429",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "chanel-chance-parfum",
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "36",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "36",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "automaticThumbnailsPattern": "1759121\/200608429\/34e54\/thumb-fede8e786a0a0da8edfada96c53e48bb-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/thumb-fede8e786a0a0da8edfada96c53e48bb-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/thumb-fede8e786a0a0da8edfada96c53e48bb-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/thumb-fede8e786a0a0da8edfada96c53e48bb-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/thumb-fede8e786a0a0da8edfada96c53e48bb-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/thumb-fede8e786a0a0da8edfada96c53e48bb-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/thumb-fede8e786a0a0da8edfada96c53e48bb-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/200608429\/thumbnail\/image-thumbnail-256-d1b94af254d66c6014e5eddb8ad90568.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/200608429\/thumbnail\/image-thumbnail-480-5d1f924bd9c97588fe95c48152e659dd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/200608429\/thumbnail\/image-thumbnail-640-cf7b5e36d69a028147d360fd0b629f9d.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/200608429\/thumbnail\/image-thumbnail-1280-6b3f9273bdc5eea44c9947f2c1dfdec9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/thumb-fede8e786a0a0da8edfada96c53e48bb-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/200608429\/thumbnail\/image-thumbnail-640-cf7b5e36d69a028147d360fd0b629f9d.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/200608429\/34e54\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-02-13"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

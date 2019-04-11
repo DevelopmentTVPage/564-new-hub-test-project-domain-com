@@ -1,0 +1,101 @@
+{
+    "title": "Spring 2019 vacation",
+    "description": "Spring 2019 vacation looks ",
+    "referenceId": "8e69b7b94ce21f7f3a21b5d0a9421fc3",
+    "date_created": "1548512809",
+    "date_modified": "1548513735",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "50",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213147",
+    "product_category": null,
+    "id": "199979762",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "spring-2019-vacation",
+    "category": "Men",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 13,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 13,
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": 13,
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/199979762\/2b299\/thumb-8e69b7b94ce21f7f3a21b5d0a9421fc3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/thumb-8e69b7b94ce21f7f3a21b5d0a9421fc3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/thumb-8e69b7b94ce21f7f3a21b5d0a9421fc3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/thumb-8e69b7b94ce21f7f3a21b5d0a9421fc3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/thumb-8e69b7b94ce21f7f3a21b5d0a9421fc3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/thumb-8e69b7b94ce21f7f3a21b5d0a9421fc3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/thumb-8e69b7b94ce21f7f3a21b5d0a9421fc3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/199979762\/thumbnail\/image-thumbnail-256-bea23df42b8ca9ec9614128b51ec9770.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/thumb-8e69b7b94ce21f7f3a21b5d0a9421fc3-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/199979762\/thumbnail\/image-thumbnail-256-bea23df42b8ca9ec9614128b51ec9770.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/199979762\/2b299\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-29"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213359",
+    "first_name": "Wil",
+    "last_name": "Cope",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/798926792-0.9490765100345.jpg",
+        "job_title": "Designer"
+    },
+    "last_login_timestamp": "1550532290",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-10 19:08:38",
+    "login_id": "1759121",
+    "user_id": "213359",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Wil Cope",
+    "profile_picture": "\/api\/canvas\/logo\/798926792-0.9490765100345.jpg",
+    "titleTextEncoded": "wil-cope",
+    "title": "Wil Cope",
+    "videos_count": "0"
+}

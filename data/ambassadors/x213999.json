@@ -1,0 +1,21 @@
+{
+    "id": "213999",
+    "first_name": "Cecelia",
+    "last_name": "Fenton",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/349762407-0.9363087969832.jpg",
+        "job_title": "Makeup Artist \/ Beauty Advisor at Impulse Beauty"
+    },
+    "last_login_timestamp": "1550438873",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-09 10:28:24",
+    "login_id": "1759121",
+    "user_id": "213999",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Cecelia Fenton",
+    "profile_picture": "\/api\/canvas\/logo\/349762407-0.9363087969832.jpg",
+    "titleTextEncoded": "cecelia-fenton",
+    "title": "Cecelia Fenton",
+    "videos_count": "0"
+}

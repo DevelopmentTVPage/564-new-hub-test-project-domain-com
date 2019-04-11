@@ -1,0 +1,21 @@
+{
+    "id": "213896",
+    "first_name": "Jennifer",
+    "last_name": "O'Neil",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/576755329-0.2641326727345.jpg",
+        "job_title": "Captain of Men's Suits and Shoes"
+    },
+    "last_login_timestamp": "1549582612",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-01-11 01:27:01",
+    "login_id": "1759121",
+    "user_id": "213896",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jennifer O'Neil",
+    "profile_picture": "\/api\/canvas\/logo\/576755329-0.2641326727345.jpg",
+    "titleTextEncoded": "jennifer-o-neil",
+    "title": "Jennifer O'Neil",
+    "videos_count": "0"
+}

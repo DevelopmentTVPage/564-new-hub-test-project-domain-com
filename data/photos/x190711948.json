@@ -1,0 +1,127 @@
+{
+    "title": "New Clinque collection ",
+    "description": "Shop your favorite Clinique makeup, skin care and perfumes. ",
+    "referenceId": null,
+    "date_created": "1545500765",
+    "date_modified": "1546466828",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213738",
+    "id": "190711948",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "new-clinque-collection",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1920,
+                "height": 2980,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--1920.jpeg?v=1545500778779"
+            },
+            {
+                "width": 1280,
+                "height": 1986,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--1280.jpeg?v=1545500778613"
+            },
+            {
+                "width": 1200,
+                "height": 1862,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--1200.jpeg?v=1545500778565"
+            },
+            {
+                "width": 1024,
+                "height": 1589,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--1024.jpeg?v=1545500779454"
+            },
+            {
+                "width": 1080,
+                "height": 1676,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--1080.jpeg?v=1545500778490"
+            },
+            {
+                "width": 960,
+                "height": 1490,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--960.jpeg?v=1545500779371"
+            },
+            {
+                "width": 640,
+                "height": 993,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--640.jpeg?v=1545500779597"
+            },
+            {
+                "width": 600,
+                "height": 931,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--600.jpeg?v=1545500779993"
+            },
+            {
+                "width": 256,
+                "height": 397,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-media--256.jpeg?v=1545500779949"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-thumbnail-1920.jpeg?v=1545500780455"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-thumbnail-1280.jpeg?v=1545500780398"
+            },
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-thumbnail-640.jpeg?v=1545500780358"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-thumbnail-480.jpeg?v=1545500780335"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-thumbnail-256.jpeg?v=1545500780524"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-thumbnail-64.jpeg?v=1545500780665"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/190711948\/image-thumbnail-640.jpeg?v=1545500780358",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}

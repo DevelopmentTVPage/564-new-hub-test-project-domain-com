@@ -1,0 +1,21 @@
+{
+    "id": "214013",
+    "first_name": "Tiffany",
+    "last_name": "Nguyen",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "My Stylist Executive"
+    },
+    "last_login_timestamp": "1550085546",
+    "created_timestamp": null,
+    "modified_timestamp": "2019-02-12 22:46:44",
+    "login_id": "1759121",
+    "user_id": "214013",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Tiffany Nguyen",
+    "profile_picture": null,
+    "titleTextEncoded": "tiffany-nguyen",
+    "title": "Tiffany Nguyen",
+    "videos_count": "0"
+}

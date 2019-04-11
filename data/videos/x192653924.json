@@ -1,0 +1,106 @@
+{
+    "title": "My New Year's Restolution",
+    "description": "My first video for 2019! Please watch this, because I lost some sleep over it.",
+    "referenceId": "4ff4574e56c2b531169716d45465469e",
+    "date_created": "1546563293",
+    "date_modified": "1546827237",
+    "tags": null,
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "54",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": null,
+    "id": "192653924",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-new-years-restolution",
+    "category": "Bed & Bath",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 210,
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": 210,
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": 210,
+        "prettyDuration": "00:03:30",
+        "automaticThumbnailsPattern": "1759121\/192653924\/31523\/thumb-4ff4574e56c2b531169716d45465469e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/192653924\/31523\/thumb-4ff4574e56c2b531169716d45465469e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/192653924\/31523\/thumb-4ff4574e56c2b531169716d45465469e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/192653924\/31523\/thumb-4ff4574e56c2b531169716d45465469e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/192653924\/31523\/thumb-4ff4574e56c2b531169716d45465469e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/192653924\/31523\/thumb-4ff4574e56c2b531169716d45465469e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/192653924\/31523\/thumb-4ff4574e56c2b531169716d45465469e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/192653924\/thumbnail\/image-thumbnail-256-cdb2c60662fc1ee5c14bd1acfb96ef9c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/192653924\/thumbnail\/image-thumbnail-480-87fb0b82cd929ce3c2e3a3af5e676684.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/192653924\/thumbnail\/image-thumbnail-640-7f6bdc0aa6e8f7a2f6993d332e897783.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/192653924\/31523\/thumb-4ff4574e56c2b531169716d45465469e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/192653924\/thumbnail\/image-thumbnail-640-7f6bdc0aa6e8f7a2f6993d332e897783.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192653924\/31523\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192653924\/31523\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192653924\/31523\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192653924\/31523\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/192653924\/31523\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2019-01-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2019-02-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

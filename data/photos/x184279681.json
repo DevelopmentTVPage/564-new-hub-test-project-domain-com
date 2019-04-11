@@ -1,0 +1,103 @@
+{
+    "title": "Lancôme makeup brushes are 30% off",
+    "description": " Lancôme makeup brushes are 30% off for cyber week 11\/25 through 11\/28 ",
+    "referenceId": null,
+    "date_created": "1543165288",
+    "date_modified": "1546466795",
+    "tags": null,
+    "status": "approved",
+    "visibility": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "213750",
+    "id": "184279681",
+    "loginId": "1759121",
+    "entityType": "7",
+    "titleTextEncoded": "lancome-makeup-brushes-are-30-off",
+    "linkUrl": null,
+    "category": "Beauty",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "width": 1200,
+                "height": 1463,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-media--1200.jpeg?v=1543165291313"
+            },
+            {
+                "width": 1024,
+                "height": 1249,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-media--1024.jpeg?v=1543165291250"
+            },
+            {
+                "width": 1080,
+                "height": 1317,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-media--1080.jpeg?v=1543165291683"
+            },
+            {
+                "width": 960,
+                "height": 1171,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-media--960.jpeg?v=1543165291233"
+            },
+            {
+                "width": 640,
+                "height": 780,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-media--640.jpeg?v=1543165291590"
+            },
+            {
+                "width": 600,
+                "height": 731,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-media--600.jpeg?v=1543165291177"
+            },
+            {
+                "width": 256,
+                "height": 312,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-media--256.jpeg?v=1543165291419"
+            }
+        ],
+        "thumbnails": [
+            {
+                "width": 640,
+                "height": 360,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-thumbnail-640.jpeg?v=1543165292030"
+            },
+            {
+                "width": 480,
+                "height": 270,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-thumbnail-480.jpeg?v=1543165292023"
+            },
+            {
+                "width": 256,
+                "height": 144,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-thumbnail-256.jpeg?v=1543165292012"
+            },
+            {
+                "width": 64,
+                "height": 64,
+                "format": "jpeg",
+                "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-thumbnail-64.jpeg?v=1543165292003"
+            }
+        ],
+        "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/184279681\/image-thumbnail-640.jpeg?v=1543165292030",
+        "type": "photo"
+    },
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "PV_PI": null,
+    "CPV_PI": null
+}
